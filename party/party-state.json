@@ -1,0 +1,102 @@
+{
+  "session": 1,
+  "turn": 0,
+  "active_dm": "dm-chronicler",
+  "party": {
+    "mira": {
+      "full_name": "Mira Thistlewick",
+      "race": "Lightfoot Halfling",
+      "class": "Rogue",
+      "level": 1,
+      "hp": { "current": 9, "max": 9 },
+      "conditions": [],
+      "inventory": ["Thieves' tools", "Crowbar", "Dark hooded clothes", "15 gp"],
+      "spell_slots": null,
+      "notes": ""
+    },
+    "aldric": {
+      "full_name": "Brother Aldric Stonebrow",
+      "race": "Hill Dwarf",
+      "class": "Cleric (Life Domain)",
+      "level": 1,
+      "hp": { "current": 12, "max": 12 },
+      "conditions": [],
+      "inventory": ["Warhammer", "Chain mail", "Shield", "Holy symbol", "Prayer book", "15 gp"],
+      "spell_slots": { "1st": 2 },
+      "channel_divinity": 1,
+      "notes": ""
+    },
+    "sylvara": {
+      "full_name": "Sylvara Dawnwhisper",
+      "race": "High Elf",
+      "class": "Wizard (Evocation)",
+      "level": 1,
+      "hp": { "current": 6, "max": 6 },
+      "conditions": [],
+      "inventory": ["Spellbook", "Arcane focus", "Ink + quill", "Common clothes", "10 gp"],
+      "spell_slots": { "1st": 2 },
+      "arcane_recovery_used": false,
+      "notes": ""
+    },
+    "bram": {
+      "full_name": "Bram Thistlewick",
+      "race": "Stout Halfling",
+      "class": "Wizard (Evocation)",
+      "level": 1,
+      "hp": { "current": 6, "max": 6 },
+      "conditions": [],
+      "inventory": ["Spellbook", "Quarterstaff", "Military insignia", "10 gp"],
+      "spell_slots": { "1st": 2 },
+      "arcane_recovery_used": false,
+      "notes": ""
+    },
+    "thessaly": {
+      "full_name": "Thessaly Ironveil",
+      "race": "Mountain Dwarf",
+      "class": "Rogue (Thief)",
+      "level": 1,
+      "hp": { "current": 9, "max": 9 },
+      "conditions": [],
+      "inventory": ["Rapier", "Fine clothes", "Signet ring", "Thieves' tools", "25 gp"],
+      "spell_slots": null,
+      "notes": ""
+    },
+    "orindel": {
+      "full_name": "Orindel Ashwick",
+      "race": "Wood Elf",
+      "class": "Cleric (Life Domain)",
+      "level": 1,
+      "hp": { "current": 9, "max": 9 },
+      "conditions": [],
+      "inventory": ["Mace", "Scale mail", "Holy symbol", "Crowbar", "Dark clothes", "15 gp"],
+      "spell_slots": { "1st": 2 },
+      "channel_divinity": 1,
+      "notes": ""
+    },
+    "pip": {
+      "full_name": "Pip Tanglethorn",
+      "race": "Lightfoot Halfling",
+      "class": "Wizard (Evocation)",
+      "level": 1,
+      "hp": { "current": 6, "max": 6 },
+      "conditions": [],
+      "inventory": ["Spellbook", "Dagger", "Common clothes", "15 gp"],
+      "spell_slots": { "1st": 2 },
+      "arcane_recovery_used": false,
+      "notes": "Owes debt to Crimson Ledger guild (unknown to him: Mira is paying it)"
+    },
+    "zaryth": {
+      "full_name": "Zaryth Vel'quinar",
+      "race": "Drow (Dark Elf)",
+      "class": "Paladin",
+      "level": 1,
+      "hp": { "current": 12, "max": 12 },
+      "conditions": [],
+      "inventory": ["Battered longsword", "Scratched plate armor", "Ruined signet ring", "10 gp"],
+      "spell_slots": { "1st": 2 },
+      "lay_on_hands": 5,
+      "player": "YOU",
+      "notes": "Exiled knight. Sworn to protect village that sheltered him. Keeps ruined signet ring of former order."
+    }
+  }
+}
