@@ -1,15 +1,17 @@
 #!/bin/bash
-# Auto-save DnD session to GitHub
-# Called after session ends or manually via /save-dnd-session
+# Save DnD session to GitHub
+# Called after session ends or manually via @save-dnd-session
 
 CAMPAIGN_DIR="/Users/jasonbatiquin/duskport-campaign"
-REPO="https://github.com/jbatiquin-sysad/dnd-campaigns.git"
 
-# Copy latest files from source locations
-cp ~/memory_layer.md "$CAMPAIGN_DIR/"
-cp ~/.kiro/prompts/party-state.json "$CAMPAIGN_DIR/party/"
+# Sync party state if it exists
+if [ -f ~/.kiro/prompts/party-state.json ]; then
+  cp ~/.kiro/prompts/party-state.json "$CAMPAIGN_DIR/party/"
+else
+  echo "Warning: party-state.json not found at ~/.kiro/prompts/" >&2
+fi
 
-cd "$CAMPAIGN_DIR"
+cd "$CAMPAIGN_DIR" || { echo "Error: campaign directory not found"; exit 1; }
 
 # Check if there's anything to commit
 if git diff --quiet && git diff --staged --quiet; then
@@ -17,13 +19,13 @@ if git diff --quiet && git diff --staged --quiet; then
   exit 0
 fi
 
-# Auto-generate commit message from last session entry in memory_layer
-LAST_SESSION=$(grep "^## Session\|^## END OF SESSION\|^## Turn" memory_layer.md | tail -1)
+# Generate commit message from last meaningful header in memory_layer
+LAST_ENTRY=$(grep "^## " memory_layer.md | tail -1 | sed 's/^## //')
 TIMESTAMP=$(date '+%Y-%m-%d %H:%M')
-COMMIT_MSG="Auto-save: $TIMESTAMP — $LAST_SESSION"
+COMMIT_MSG="Save [$TIMESTAMP]: $LAST_ENTRY"
 
 git add .
 git commit -m "$COMMIT_MSG"
 git push origin main
 
-echo "Session saved to GitHub: $COMMIT_MSG"
+echo "Session saved: $COMMIT_MSG"
