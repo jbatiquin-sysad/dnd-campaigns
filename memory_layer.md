@@ -1420,3 +1420,32 @@ Changes (LEVEL UP — all characters):
 - thessaly: level 1→2, hp.max 9→16, hp.current 16
 
 ---
+## S3 Turn 11 — Aelindra / The Speech / Docking
+
+**Aelindra:** City built into cliff face. White stone, golden domes, arched bridges. Grand Archive at the summit. Harbor carved from living rock. Ships at anchor.
+
+**Zaryth's Speech:** "We will face many challenges. It will be difficult. But it will be worth it — because it is noble. We did not come this far to stop at the harbor. Onward."
+
+**Docking Plan:**
+1. Find a safehouse / base of operations — plan and move without being watched
+2. Check provisions, spells, equipment — everything in order
+3. Then execute
+
+**Pre-dock Readiness Check:**
+- Zaryth: Well-made longsword (equipped), plate armor AC 18 (equipped), Lay on Hands 5/5, Faerie Fire available, 2x 1st slots, iron disc (expended, evidence)
+- Mira: Blade + thieves' tools ready, HP 15
+- Aldric Stonebrow: Warhammer + chain mail + shield (equipped), holy water vial, Bless/Cure Wounds/Healing Word/Guiding Bolt prepared, 2x 1st slots, Channel Divinity 1/1
+- Sylvara: Spellbook (travel case), Scroll of Detect Magic, Magic Missile/Thunderwave/Shield/Detect Magic prepared, 2x 1st slots, Arcane Recovery available
+- Orindel: Mace + scale mail (equipped), Maret's letter for Veyra Solund, Cure Wounds/Healing Word/Bless/Inflict Wounds prepared, 2x 1st slots, Channel Divinity 1/1
+- Pip: Spellbook (travel case), Burning Hands/Sleep prepared, Fire Bolt cantrip, 2x 1st slots, Arcane Recovery available
+- Party funds: ~118gp
+- Pigeon: with Orindel, paired to Bram in Duskport
+
+**State Changes:** None. All party full HP at level 2.
+
+## STATE SYNC — S3 Turn 11
+Changes: None (readiness check, no resource use)
+All party: full HP, full slots, full resources
+Location: Aelindra harbor, docking
+
+---
