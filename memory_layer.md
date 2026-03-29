@@ -1046,3 +1046,326 @@ Operative revealed:
 - Harwick's full testimony — what else does he know?
 
 ---
+
+## SESSION 3 BEGIN
+**DM:** Aldric Voss, The Chronicler
+**Start:** Duskport. Morning after Session 2. Party took a long rest — all resources restored.
+**Active threads:** Calder / Voss's inquiry / Edric's future / Vel Noctis origins / Thessaly's list / Vael Orun's next move
+
+---
+## S3 Turn 1 — The Note
+
+**Scene:** Duskport morning after Session 2. City unaware of yesterday's events.
+
+**The Record:**
+- Voss inquiry: active. Harbor acquisitions frozen. Two council members recused.
+- Harwick: free, retained for testimony (full testimony not yet given)
+- Edric: testified, walked out, location unknown
+- Calder: not arrested, somewhere in the city
+- Vel Noctis: operation failed, 3 operatives in custody, origins unknown
+
+**The Note:** Delivered to Zaryth's threshold. No messenger. Expensive paper, seal deliberately cut off. Contents: "The Vel Noctis did not originate in Duskport. They were sent here. Come to the Anchor & Crow at midday. Come alone. — A friend."
+
+**Midday:** ~4 hours away. Anchor & Crow = working harbor tavern, east docks.
+
+**Decision pending:** Does Zaryth go? Does he go alone?
+
+## STATE SYNC — S3 Turn 1
+Changes: None (long rest — all resources restored)
+No changes: zaryth, mira, aldric, sylvara, bram, thessaly, orindel, pip
+
+---
+## S3 Turn 2 — The Anchor & Crow / Edric
+
+**Preparation:**
+- Aldric Stonebrow: Bless, Cure Wounds (domain), Healing Word, Guiding Bolt. 2x 1st slots.
+- Sylvara: Magic Missile, Thunderwave, Shield, Detect Magic. 2x 1st slots. Arcane Recovery available. Chose Detect Magic first — "If this contact is magical, I want to know before we sit down."
+- Pip: Burning Hands, Sleep. Fire Bolt cantrip. 2x 1st slots. Arcane Recovery available.
+- Mira: No spells. Blade + thieves' tools. Checked exits twice.
+
+**Group:** Zaryth + Mira + Pip + Aldric Stonebrow + Sylvara. Bram stayed behind.
+
+**Anchor & Crow:** East docks, midday. Low-ceilinged, faded sign, cheap ale. Busy enough to not stand out.
+
+**Edric revealed:** Note sender = Edric Aldenmere. Seated at corner table, back to wall. Hood up. One untouched cup. Hasn't slept. Hands steady, eyes clear.
+
+**Edric's words:** "I said come alone." (noted, not angry) → "Sit down. All of you. What I have to tell you changes everything that happened yesterday."
+
+**State Changes:** Spell loadouts updated. No HP/slot changes.
+
+## STATE SYNC — S3 Turn 2
+Changes:
+- sylvara: spells_prepared updated
+- pip: spells_prepared updated
+- aldric: spells_prepared updated
+No HP/slot changes: all party full
+
+---
+## S3 Turn 3 — The Seal of Aelindra
+
+**Zaryth's words to Edric:** "We are not strangers to you, my friend. These are my companions I can count on. You have done the absolute rightful thing. The people are very proud. How can we aid you?"
+
+**Edric's Disclosure:**
+1. Vel Noctis were NOT hired by House Aldenmere — House Aldenmere was a CLIENT. Vel Noctis approached them 3 years ago with a ready-made plan.
+2. Harwick investigated their origins on Lord Aldenmere's orders. Reported back one line: "They answer to someone older than this city."
+3. Edric found a letter in his father's study 3 years ago — copied the seal before replacing it. Has the copy.
+4. The seal: a collapsed tower with a single eye above it.
+
+**Sylvara's Recognition:** Wrote one word — "Aelindra." The seal = Archivist-General of Aelindra. Head of the institution she served for 100 years.
+
+**The Connection:**
+- Tome of Unraveling stolen from Aelindra: 8 months ago
+- Vel Noctis arrived Duskport: 14 months ago
+- They were here BEFORE the tome was stolen — the tome was a step, not the origin
+- Something changed 2 weeks ago → Lord Aldenmere told Calder to accelerate the timeline
+
+**Edric's ask:** "I came to you because you're the only people I know who stopped them once."
+
+**State Changes:** None. All party full HP.
+
+## STATE SYNC — S3 Turn 3
+Changes: None (no combat, no resource use)
+New intelligence logged:
+- Vel Noctis principal = Archivist-General of Aelindra
+- Duskport operation = one step in a larger plan
+- Timeline accelerated 2 weeks ago (unknown trigger)
+- Sylvara's stolen tome connected to the same operation
+
+---
+## S3 Turn 4 — The Plan / Aelindra
+
+**Zaryth's ask:** Where is Aelindra, how do we get leverage to speak with the Archivist-General.
+
+**Brainstorm Results:**
+- Aldric Stonebrow (Investigation 18, History 15): Aelindra = sovereign city-archive, northern reaches, politically neutral. Archivist-General elected for life by senior archivist council. Leverage = institutional legitimacy. Writ of Inquiry = formal process, bypasses Archivist-General, filed directly with senior council.
+- Pip (13): Seal copy = existing evidence. Start there.
+- Sylvara (9/10): Emotionally blocked — too close. Named her contact: Veyra Solund, mentor of 60 years, senior archivist. Hasn't spoken to her in 8 months.
+- Mira (7): Proposed stealing original letter — dismissed (Calder's men already searched the study).
+- Zaryth Insight on Edric (21): Caught omission. Edric revealed merchant house with supply contract to Aelindra. Departs in 4 days. Knows the route and contact.
+
+**The Plan (Aldric's summary):**
+1. Evidence: seal copy + Harwick's full testimony (Vel Noctis contact name) + Sylvara's testimony
+2. Leverage: Writ of Inquiry filed with senior archivist council
+3. Route: Edric's merchant contact, 4 days
+
+**Three things before departure:**
+1. Harwick's full testimony — he knows the Vel Noctis contact's name, hasn't given it
+2. The two-week trigger — what changed that accelerated the timeline
+3. Sylvara — going back to Aelindra, doesn't know what she'll find
+
+**Sylvara's decision:** "If Veyra Solund doesn't know what the Archivist-General has been doing, she needs to. And if she does know — I need to know that too." She's going.
+
+**New NPC:** Veyra Solund — senior archivist, Sylvara's mentor of 60 years. Potential inside contact at Aelindra.
+
+**State Changes:** None. All party full HP.
+
+## STATE SYNC — S3 Turn 4
+Changes: None (no combat, no resource use)
+New intelligence:
+- Aelindra = sovereign city-archive, northern reaches
+- Archivist-General = head, elected for life, can be bypassed via Writ of Inquiry
+- Route to Aelindra: Edric's merchant contact, departs in 4 days
+- Veyra Solund = Sylvara's mentor, senior archivist, potential ally
+- Three pre-departure tasks identified
+
+---
+## S3 Turn 5 — Harwick Breaks / The Trigger / The Letter
+
+**Task 1 — Harwick's Testimony (Zaryth 23 + Mira 23):**
+- Serevane = Vel Noctis contact. No family name, no title.
+- Wore Aelindra grey/silver, no institutional insignia (deliberate)
+- Met Lord Aldenmere twice in person. Harwick present both times.
+- Had access to restricted Partition Writ archive details — likely senior archivist
+- Second letter (2 weeks ago): original seal + NEW mark — a broken chain. Meaning unknown.
+- Harwick: "I should have gone to Vael Orun sooner. It was always my problem."
+
+**Task 2 — Two-Week Trigger:**
+- Pip (19): Ship arrived Duskport 2 weeks ago, anchored 6hrs, no cargo, departed same day = person or message delivery
+- Aldric Stonebrow (18): Temple of Balanced Scale inquiry log — pre-Sundering civic document inquiry, handled personally by Vael Orun, response blank, told no one
+- Edric (14): Father received woman in grey cloak/silver pin 2 weeks ago, staff dismissed, 2hr meeting → afterward told Calder to accelerate
+- CONCLUSION: Serevane came to Duskport in person. Met Lord Aldenmere AND visited Vael Orun's temple. May have identified Vael Orun as counter-operative.
+- Sylvara (nat 1): Contributed nothing — writing her letter
+
+**Task 3 — Sylvara's Letter:**
+- Courier found (21). Departs this afternoon. Arrives Aelindra in 3 days — 1 day before party's ship.
+- Letter to Veyra Solund: Archivist-General's seal on criminal operation. Coming. Need to know if Veyra knew.
+- Sealed with Sylvara's personal seal.
+
+**URGENT:** Vael Orun may be compromised. Serevane visited her temple 2 weeks ago. Vael Orun doesn't know the party knows this.
+
+**New Intelligence:**
+- Serevane = name of Vel Noctis contact, likely senior archivist at Aelindra
+- Broken chain seal = new mark, unknown meaning, appeared 2 weeks ago
+- Veyra Solund = letter en route, arrives 3 days
+
+**State Changes:** None. All party full HP.
+
+## STATE SYNC — S3 Turn 5
+Changes: None (no combat, no resource use)
+New NPCs: Serevane (Vel Noctis contact, Aelindra archivist)
+New items: Sylvara's letter (in transit to Veyra Solund, arrives 3 days)
+Urgent flag: Vael Orun potentially exposed to Serevane
+
+---
+## S3 Turn 6 — Ransom Dilemma / Vael Orun / The Iron Disc
+
+**Ransom Negotiation (Zaryth 18, Mira 19):**
+- VN Op3: 40gp. Guard 3: 25gp. Total: 65gp available.
+- Rolls beat DC 15 — deal mechanically available.
+- Aldric Stonebrow objected: releasing them = Serevane gets advance warning before party arrives in Aelindra.
+- DECISION PENDING: 65gp now vs. tactical surprise on arrival.
+
+**Vael Orun (Zaryth Insight 23/nat 20):**
+- Confirmed Serevane visited 2 weeks ago, asked about pre-Sundering civic documents. Gave nothing beyond public record.
+- Didn't know it was Serevane. Noticed a detail, dismissed it. Regrets it.
+- Primary fear: Edric's safety, not her own.
+- Serevane = codename/role, not real name. Official function of Archivist-General's office. Sanctioned, not rogue.
+- Unchained Compact = sub-order within Aelindra, predates current Archivist-General. Believe certain knowledge should be released or destroyed. Target constraints, not possessions.
+- Partition Writ = a constraint to remove, not a prize to claim.
+- Sylvara (15): caught Vael Orun holding back about Unchained Compact history.
+
+**The Iron Disc (left deliberately by Serevane):**
+- Side 1: collapsed tower + single eye (Archivist-General seal)
+- Side 2: broken chain (Unchained Compact) + old Aelindran inscription
+- Sylvara translation: "What is sealed shall open."
+- New item: iron disc now with party.
+
+**Vael Orun's directive:** "Find Veyra Solund before Serevane does."
+
+**State Changes:**
+- New item: iron disc (Zaryth holding)
+
+## STATE SYNC — S3 Turn 6
+Changes:
+- zaryth: inventory → added "Iron disc (Serevane's mark — collapsed tower/broken chain/'What is sealed shall open')"
+No HP/slot changes: all party full
+Ransom decision: PENDING (65gp vs. tactical surprise)
+
+---
+## S3 Turn 7 — The Deal / The Disc / The Tome
+
+**Ransom Deal (Zaryth 18):**
+- VN Op3: 20gp now, 20gp on return
+- Guard 3: 12gp now, 13gp on return
+- Rooftop Watcher: 7gp now, 8gp on return
+- Total now: 39gp | Total on return: 41gp | Grand total: 80gp
+- All three remain in Voss's custody. No early release. No intelligence leak.
+- Voss: "I am running a jail now as well as an inquiry."
+
+**Iron Disc (Sylvara Arcana 20):**
+- Sending token, pre-Sundering enchantment
+- Press and hold = single pulse to paired receiver. No words — only presence. "I was here."
+- Already activated once (Vael Orun picked it up) — Serevane knows it was found
+- 1 activation remaining — if used, Serevane knows party has it and is signaling her
+- Pip nearly activated it. Sylvara took it away.
+
+**Tome of Unraveling (Pip 19, Aldric 15):**
+- Pip: Unraveling = dissolution of binding structures. Unmakes physical coherence. City-leveling = every structural bond stops, not fire/force.
+- Aldric: Theological instrument of entropy. Ancient cults believed entropy should be accelerated. The Tome is a tool for returning the world to formlessness.
+- Sylvara (12): Quiet. "I argued to preserve it. I said destroying knowledge was always wrong. I may have been wrong about that."
+- Unchained Compact's true objective: not to possess constraints — to unmake them. Partition Writ was practice. The Tome is the point.
+
+**State Changes:**
+- zaryth: inventory updated (iron disc already logged)
+- Party gold: +39gp
+
+## STATE SYNC — S3 Turn 7
+Changes:
+- zaryth: gold 10gp → 49gp (received 39gp ransom, distributed to party leader)
+- Party funds: +39gp total
+No HP/slot changes: all party full
+Iron disc: 1 activation remaining, held by Zaryth
+
+---
+## S3 Turn 8 — The Disc / Three Days / Eve of Departure
+
+**Disc Activation:**
+- Zaryth pressed and held iron disc. Pulse sent. Disc now cold and inert (expended).
+- Sylvara Arcana 6 (nat 1): detected nothing. Cannot confirm receipt.
+- Signal to Serevane: someone found the disc, activated deliberately, knows what it is. Not Vael Orun.
+
+**Three Days of Work:**
+- Mira (23): 3 jobs — ledger retrieval 15gp, debt collection 8gp, message delivery 12gp = 35gp
+- Bram (19): Escort contract 2 days + 5gp bonus = 25gp
+- Aldric Stonebrow: Escort backup = 25gp
+- Thessaly (8): Noble contact failed, sold intel to Voss inquiry = 10gp
+- Orindel (5): Nothing. Tended to Maret + Duvash. Received Maret's sealed letter for Veyra Solund.
+- Pip: Practiced spells. Set fence post on fire. Put it out. Considered day 3 a triumph.
+- Total earned: 95gp | Sylvara components: -8gp | Net: 87gp
+
+**Equipment Purchased (90gp):**
+- Zaryth: Well-made longsword (15gp) — replaces battered one
+- Sylvara: Scroll of Detect Magic (25gp)
+- Pip: Spellbook travel case (5gp)
+- Aldric Stonebrow: Holy water vial (25gp)
+- Party: Travel rations + supplies (20gp)
+
+**Party Funds:** ~211gp total → ~121gp remaining after purchases
+
+**Serevane's Reply (night before departure):**
+"I received your signal. I know who you are. Come to Aelindra. I will find you. — S"
+
+**New Items:**
+- Orindel: Maret's sealed letter (for Veyra Solund)
+- Sylvara: Scroll of Detect Magic
+- Zaryth: Well-made longsword (replaces battered)
+- Aldric Stonebrow: Holy water vial
+
+**Travelling party:** Zaryth, Mira, Pip, Aldric Stonebrow, Sylvara, Orindel + Edric Aldenmere
+**Staying in Duskport:** Bram, Thessaly (holding the city), Voss inquiry active, 3 captives in custody
+
+**State Changes:** Multiple inventory updates, gold changes
+
+## STATE SYNC — S3 Turn 8
+Changes:
+- zaryth: inventory → longsword replaces battered longsword; iron disc expended
+- sylvara: inventory → +Scroll of Detect Magic, +spell components; -8gp
+- pip: inventory → +spellbook travel case
+- aldric_stonebrow: inventory → +holy water vial
+- party_gold: ~121gp remaining
+- orindel: inventory → +Maret's sealed letter (for Veyra Solund)
+No HP/slot changes: all party full
+
+---
+## S3 Turn 9 — Dawn Departure
+
+**Orders to Bram:**
+- Guard 3 captives in Voss custody — no early release, no exceptions
+- Support Voss inquiry as muscle if needed
+- Pigeon triggers: captive escape/taken, Calder moves against Voss, Vel Noctis/Unchained Compact activity
+- Bram: "Understood. I'll run it like a post."
+
+**Orders to Thessaly:**
+- Monitor House Aldenmere's remaining network, watch Calder
+- Feed intel to Voss inquiry
+- Pigeon triggers: Calder moves against Voss, new operatives in Duskport, captives threatened
+- Thessaly: "House Aldenmere is on my list anyway. Consider it done."
+
+**Pigeon Messenger:**
+- Arranged via Orindel's contact Seff (chandler's district)
+- 2 paired birds: 1 with party, 1 with Bram
+- 2-day transit time (faster than ship)
+- Cost: 3gp
+
+**Final Dock Moment:**
+- Bram to Zaryth: "Come back."
+- Thessaly: one real look, turned back to the city
+- Pip waved. Bram did not wave back. Pip waved harder.
+
+**Ship Departed:** Merchant vessel, heading north to Aelindra. 4 days.
+
+**Travelling Party:** Zaryth, Mira, Pip, Aldric Stonebrow, Sylvara, Orindel + Edric
+**Holding Duskport:** Bram + Thessaly
+
+**State Changes:**
+- Party funds: ~118gp (−3gp pigeon service)
+
+## STATE SYNC — S3 Turn 9
+Changes:
+- party_gold: ~121gp → ~118gp (pigeon service 3gp)
+- bram: inventory → +pigeon messenger kit; notes updated with orders
+- thessaly: inventory → +pigeon messenger kit; notes updated with orders
+- orindel: inventory → +pigeon (travelling bird)
+No HP/slot changes: all party full
+
+---
