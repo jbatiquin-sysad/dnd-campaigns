@@ -1,116 +1,236 @@
 {
   "session": 3,
-  "turn": 0,
+  "turn": 10,
   "active_dm": "dm-chronicler",
   "party": {
     "mira": {
       "full_name": "Mira Thistlewick",
       "race": "Lightfoot Halfling",
       "class": "Rogue",
-      "level": 1,
-      "hp": { "current": 9, "max": 9 },
+      "level": 2,
+      "hp": {
+        "current": 15,
+        "max": 15
+      },
       "conditions": [],
-      "inventory": ["Thieves' tools", "Crowbar", "Dark hooded clothes", "15 gp", "3 receipts (INTEREST ONLY stamps — evidence of Ledger fraud)"],
+      "inventory": [
+        "Thieves' tools",
+        "Crowbar",
+        "Dark hooded clothes",
+        "15 gp",
+        "3 receipts (INTEREST ONLY stamps \u2014 evidence of Ledger fraud)"
+      ],
       "spell_slots": null,
-      "notes": "Pip's debt resolved (Cassin closed the account). Mira's 75gp payments swallowed by interest — potential fraud case with Vael Orun."
+      "notes": "Pip's debt resolved (Cassin closed the account). Mira's 75gp payments swallowed by interest \u2014 potential fraud case with Vael Orun."
     },
     "aldric": {
       "full_name": "Brother Aldric Stonebrow",
       "race": "Hill Dwarf",
       "class": "Cleric (Life Domain)",
-      "level": 1,
-      "hp": { "current": 12, "max": 12 },
+      "level": 2,
+      "hp": {
+        "current": 20,
+        "max": 20
+      },
       "conditions": [],
-      "inventory": ["Warhammer (equipped)", "Chain mail (equipped)", "Shield (equipped)", "Holy symbol", "Prayer book", "Holy water vial", "15 gp"],
-      "spell_slots": { "1st": 2 },
-      "channel_divinity": { "pool": 1, "used": 0 },
-      "spells_prepared": ["Bless", "Cure Wounds", "Healing Word", "Guiding Bolt"],
+      "inventory": [
+        "Warhammer (equipped)",
+        "Chain mail (equipped)",
+        "Shield (equipped)",
+        "Holy symbol",
+        "Prayer book",
+        "Holy water vial",
+        "15 gp"
+      ],
+      "spell_slots": {
+        "1st": 2
+      },
+      "channel_divinity": {
+        "pool": 1,
+        "used": 0
+      },
+      "spells_prepared": [
+        "Bless",
+        "Cure Wounds",
+        "Healing Word",
+        "Guiding Bolt"
+      ],
       "notes": "Delivered Partition Writ to Magistrate Sera Voss. Travelling to Aelindra."
     },
     "sylvara": {
       "full_name": "Sylvara Dawnwhisper",
       "race": "High Elf",
       "class": "Wizard (Evocation)",
-      "level": 1,
-      "hp": { "current": 6, "max": 6 },
+      "level": 2,
+      "hp": {
+        "current": 10,
+        "max": 10
+      },
       "conditions": [],
-      "inventory": ["Spellbook (in travel case)", "Arcane focus", "Ink + quill", "Common clothes", "Spell component pouch", "Scroll of Detect Magic"],
-      "spell_slots": { "1st": 2 },
+      "inventory": [
+        "Spellbook (in travel case)",
+        "Arcane focus",
+        "Ink + quill",
+        "Common clothes",
+        "Spell component pouch",
+        "Scroll of Detect Magic"
+      ],
+      "spell_slots": {
+        "1st": 2
+      },
       "arcane_recovery_used": false,
-      "spells_prepared": ["Magic Missile", "Thunderwave", "Shield", "Detect Magic"],
+      "spells_prepared": [
+        "Magic Missile",
+        "Thunderwave",
+        "Shield",
+        "Detect Magic"
+      ],
       "notes": "Authenticated Partition Writ before Magistrate Voss. Logged the moment in her notebook. Reconsidering century-old position on preserving the Tome of Unraveling. Travelling to Aelindra."
     },
     "bram": {
       "full_name": "Bram Thistlewick",
       "race": "Stout Halfling",
       "class": "Wizard (Evocation)",
-      "level": 1,
-      "hp": { "current": 6, "max": 6 },
+      "level": 2,
+      "hp": {
+        "current": 11,
+        "max": 11
+      },
       "conditions": [],
-      "inventory": ["Spellbook", "Quarterstaff (equipped)", "Military insignia", "10 gp", "Pigeon messenger kit (paired with Thessaly)"],
-      "spell_slots": { "1st": 2 },
+      "inventory": [
+        "Spellbook",
+        "Quarterstaff (equipped)",
+        "Military insignia",
+        "10 gp",
+        "Pigeon messenger kit (paired with Thessaly)"
+      ],
+      "spell_slots": {
+        "1st": 2
+      },
       "arcane_recovery_used": false,
-      "spells_prepared": ["Magic Missile", "Thunderwave"],
-      "notes": "STAYING IN DUSKPORT. Orders from Zaryth: (1) Guard the 3 captives in Voss custody — VN Op3, Guard 3, Rooftop Watcher. No early release under any circumstances. (2) Support Magistrate Voss's inquiry as needed. (3) Send pigeon to party if: captives escape, Calder makes a move, Voss inquiry is threatened, or any Vel Noctis/Unchained Compact activity detected. Intimidation modifier: +1 (CHA -1 + prof +2)."
+      "spells_prepared": [
+        "Magic Missile",
+        "Thunderwave"
+      ],
+      "notes": "STAYING IN DUSKPORT. Orders from Zaryth: (1) Guard the 3 captives in Voss custody \u2014 VN Op3, Guard 3, Rooftop Watcher. No early release under any circumstances. (2) Support Magistrate Voss's inquiry as needed. (3) Send pigeon to party if: captives escape, Calder makes a move, Voss inquiry is threatened, or any Vel Noctis/Unchained Compact activity detected. Intimidation modifier: +1 (CHA -1 + prof +2)."
     },
     "thessaly": {
       "full_name": "Thessaly Ironveil",
       "race": "Mountain Dwarf",
       "class": "Rogue (Thief)",
-      "level": 1,
-      "hp": { "current": 9, "max": 9 },
+      "level": 2,
+      "hp": {
+        "current": 16,
+        "max": 16
+      },
       "conditions": [],
-      "inventory": ["Rapier (equipped)", "Fine clothes", "Signet ring (House Ironveil)", "Thieves' tools", "25 gp", "Pigeon messenger kit (paired with Bram)"],
+      "inventory": [
+        "Rapier (equipped)",
+        "Fine clothes",
+        "Signet ring (House Ironveil)",
+        "Thieves' tools",
+        "25 gp",
+        "Pigeon messenger kit (paired with Bram)"
+      ],
       "spell_slots": null,
-      "notes": "STAYING IN DUSKPORT. Orders from Zaryth: (1) Monitor House Aldenmere's remaining network — report any movement by Calder or family allies. (2) Support Voss inquiry with intelligence as needed. (3) Send pigeon to party if: Calder moves against Voss, any Unchained Compact operatives detected in Duskport, or captives are threatened. Expertise: Stealth + Deception. House Aldenmere on her list."
+      "notes": "STAYING IN DUSKPORT. Orders from Zaryth: (1) Monitor House Aldenmere's remaining network \u2014 report any movement by Calder or family allies. (2) Support Voss inquiry with intelligence as needed. (3) Send pigeon to party if: Calder moves against Voss, any Unchained Compact operatives detected in Duskport, or captives are threatened. Expertise: Stealth + Deception. House Aldenmere on her list."
     },
     "orindel": {
       "full_name": "Orindel Ashwick",
       "race": "Wood Elf",
       "class": "Cleric (Life Domain)",
-      "level": 1,
-      "hp": { "current": 9, "max": 9 },
+      "level": 2,
+      "hp": {
+        "current": 15,
+        "max": 15
+      },
       "conditions": [],
-      "inventory": ["Mace (equipped)", "Scale mail (equipped)", "Holy symbol", "Crowbar", "Dark clothes", "15 gp", "Maret's sealed letter (for Veyra Solund)"],
-      "spell_slots": { "1st": 2 },
-      "channel_divinity": { "pool": 1, "used": 0 },
-      "spells_prepared": ["Cure Wounds", "Healing Word", "Bless", "Inflict Wounds"],
+      "inventory": [
+        "Mace (equipped)",
+        "Scale mail (equipped)",
+        "Holy symbol",
+        "Crowbar",
+        "Dark clothes",
+        "15 gp",
+        "Maret's sealed letter (for Veyra Solund)"
+      ],
+      "spell_slots": {
+        "1st": 2
+      },
+      "channel_divinity": {
+        "pool": 1,
+        "used": 0
+      },
+      "spells_prepared": [
+        "Cure Wounds",
+        "Healing Word",
+        "Bless",
+        "Inflict Wounds"
+      ],
       "notes": "Insight modifier: +4 (WIS +2 + prof +2). Carrying Maret's sealed letter for Veyra Solund. Travelling to Aelindra."
     },
     "pip": {
       "full_name": "Pip Tanglethorn",
       "race": "Lightfoot Halfling",
       "class": "Wizard (Evocation)",
-      "level": 1,
-      "hp": { "current": 6, "max": 6 },
+      "level": 2,
+      "hp": {
+        "current": 10,
+        "max": 10
+      },
       "conditions": [],
-      "inventory": ["Spellbook (in travel case)", "Dagger", "Common clothes", "15 gp"],
-      "spell_slots": { "1st": 2 },
+      "inventory": [
+        "Spellbook (in travel case)",
+        "Dagger",
+        "Common clothes",
+        "15 gp"
+      ],
+      "spell_slots": {
+        "1st": 2
+      },
       "arcane_recovery_used": false,
-      "spells_prepared": ["Burning Hands", "Sleep"],
-      "cantrips": ["Fire Bolt", "Dancing Lights"],
+      "spells_prepared": [
+        "Burning Hands",
+        "Sleep"
+      ],
+      "cantrips": [
+        "Fire Bolt",
+        "Dancing Lights"
+      ],
       "notes": "Debt resolved. Knows Mira was paying his debt. Unknowingly carried the Repository key 6 months ago. Spellbook now protected in travel case."
     },
     "zaryth": {
       "full_name": "Zaryth Vel'quinar",
       "race": "Drow (Dark Elf)",
       "class": "Paladin",
-      "level": 1,
-      "hp": { "current": 12, "max": 12 },
+      "level": 2,
+      "hp": {
+        "current": 19,
+        "max": 19
+      },
       "conditions": [],
       "inventory": [
         "Well-made longsword (equipped)",
         "Scratched plate armor (equipped)",
-        "Ruined signet ring (different pocket — S2)",
+        "Ruined signet ring (different pocket \u2014 S2)",
         "Iron disc (expended, kept as evidence)",
         "121gp (party funds)"
       ],
-      "spell_slots": { "1st": 2 },
-      "lay_on_hands": { "pool": 5, "available": 5 },
+      "spell_slots": {
+        "1st": 2
+      },
+      "lay_on_hands": {
+        "pool": 5,
+        "available": 5
+      },
       "faerie_fire_used": false,
-      "spells_prepared": ["Divine Smite (on hit)", "Bless", "Cure Wounds"],
+      "spells_prepared": [
+        "Divine Smite (on hit)",
+        "Bless",
+        "Cure Wounds"
+      ],
       "player": "YOU",
-      "notes": "Ruined signet ring moved to different pocket after S2. Iron disc expended — kept as physical evidence of Unchained Compact. Leading travel party to Aelindra."
+      "notes": "Ruined signet ring moved to different pocket after S2. Iron disc expended \u2014 kept as physical evidence of Unchained Compact. Leading travel party to Aelindra."
     }
   }
 }

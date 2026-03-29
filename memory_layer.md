@@ -1369,3 +1369,54 @@ Changes:
 No HP/slot changes: all party full
 
 ---
+## S3 Turn 10 — Four Days at Sea / Level Up / Aelindra
+
+**Day 1 — Truth or Dare:**
+- Mira (Truth): "Being owned. By anyone. For any reason."
+- Pip (Dare): Fire Bolt blindfolded — singed the rigging. Captain not pleased.
+- Aldric Stonebrow (Truth): "Everything since the mountain has been belief."
+- Sylvara (Truth): "I argued to preserve the Tome. I was wrong."
+- Orindel (Dare): Stole captain's hat, returned it with 3 silver inside.
+- Edric (Truth): "I want to build something that lasts longer than my family's ambition."
+
+**Day 2 — One on One:**
+- Mira: Wants to find out who she is beyond running jobs.
+- Pip: Wants to be a real wizard, not an accident.
+- Aldric Stonebrow: Going after the necromancer when this is done. "I wouldn't say no" to company.
+- Sylvara: Afraid Veyra Solund knew. "If she knew, what do we do?"
+- Orindel: Street children list. "If something happens to me, check on them."
+- Edric: Scared of Calder. "My father had limits. Calder doesn't."
+
+**Day 3 — Training + Level Up (ALL characters → Level 2):**
+
+| Character | Class | New HP | Key Level 2 Gain |
+|-----------|-------|--------|-------------------|
+| Zaryth | Paladin 2 | 19 | Fighting Style: Defense (AC 18) |
+| Mira | Rogue 2 | 15 | Cunning Action sharpened |
+| Aldric Stonebrow | Cleric 2 | 20 | Channel Divinity deepened |
+| Sylvara | Wizard 2 | 10 | Evocation Savant |
+| Orindel | Cleric 2 | 15 | Channel Divinity deepened |
+| Pip | Wizard 2 | 10 | Evocation Savant — Fire Bolt hit target for first time |
+| Bram (Duskport) | Wizard 2 | 11 | Evocation Savant |
+| Thessaly (Duskport) | Rogue 2 | 16 | Cunning Action sharpened |
+
+**Day 4 — Rest & Beer:**
+- Edric paid for a round. Pip arm-wrestled a sailor (lost twice, won third).
+- Mira to Zaryth at sunset: "You're the strangest person I've ever worked with. I mean that as a compliment."
+- Orindel led a drinking song that might be a hymn.
+- Edric got quietly drunk. Woke up with a headache and the beginning of peace.
+
+**Dawn Day 5 — Aelindra visible.** City built into cliff face. Grand Archive at the top. Sylvara at the bow, hasn't moved in an hour.
+
+## STATE SYNC — S3 Turn 10
+Changes (LEVEL UP — all characters):
+- zaryth: level 1→2, hp.max 12→19, hp.current 19, AC 18 (Defense), Fighting Style: Defense
+- mira: level 1→2, hp.max 9→15, hp.current 15
+- aldric: level 1→2, hp.max 12→20, hp.current 20
+- sylvara: level 1→2, hp.max 6→10, hp.current 10, Evocation Savant
+- orindel: level 1→2, hp.max 9→15, hp.current 15
+- pip: level 1→2, hp.max 6→10, hp.current 10, Evocation Savant
+- bram: level 1→2, hp.max 6→11, hp.current 11, Evocation Savant
+- thessaly: level 1→2, hp.max 9→16, hp.current 16
+
+---
