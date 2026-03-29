@@ -732,3 +732,317 @@ Operative revealed:
 ---
 ## END OF SESSION 1
 ---
+
+## SESSION 2 BEGIN
+**DM:** Mara Solenne, The Storyteller
+**Start:** Temple of the Balanced Scale, Duskport. Dawn, early morning.
+**Party:** Full HP, spell slots restored (short rest between sessions).
+**Active Threats:** Rooftop watcher + signal mirror. ~2hrs before House Aldenmere courier.
+**Open Decisions:** Magistrate Sera Voss / Lord Edric Aldenmere / Split party
+
+---
+
+## S2 Turn 1 — Watcher Down / The Split
+
+**Watcher Takedown:**
+- Pip Dancing Lights distraction: Performance 20 — spectacular, watcher leaned over parapet
+- Bram Deception assist: 15 — sold it from street level
+- Mira Stealth: 27 (nat 20) — crossed rooftop undetected
+- Mira Attack (non-lethal): 14 vs AC 13 — HIT, 11 dmg — watcher unconscious
+- Signal mirror caught before it fell
+
+**Coded Ledger (found on watcher):**
+- 3 signals already sent this morning
+- Signal 1: Sent before party left Undercroft — they knew early
+- Signal 2: Sent during Pier 7 operation — they know about Duvash
+- Signal 3: Single word — "Edric" — House Aldenmere knows their son is connected
+
+**The Split:**
+- GROUP A → Magistrate Sera Voss: Aldric (Writ) + Sylvara + Thessaly
+  - Healer: Aldric ✓ | Rogue: Thessaly ✓
+- GROUP B → Lord Edric Aldenmere: Zaryth + Mira + Orindel + Bram + Pip
+  - Healer: Orindel ✓ | Rogue: Mira ✓
+- Staying at temple: Maret Soll + Duvash + Vael Orun + unconscious watcher
+
+**Critical:** House Aldenmere already moving. Window shorter than expected. Edric may be in immediate danger.
+
+**State Changes:** None. All party full HP.
+
+---
+
+## S2 Turn 2 — Onward
+
+**Zaryth's Speech:** "We shall strike while the iron is hot. We will fight on. We will not rest until the oppressed are protected and the city is safe from those that are greedy! Stay vigilant and steadfast — the road ahead will be bumpy, but we will prevail. Onward, my brothers and sisters!"
+
+**Reactions:** Mira (moved, won't name it). Aldric (recognized it as real). Sylvara (closed notebook). Bram (snapped to attention). Thessaly (real smile). Orindel (murmured agreement to his goddess). Pip (punched the air, nearly hit Bram). Duvash (gripped armrest, nodded — decided he'll be alright). Maret (memorizing him). Vael Orun (bowed her head — ten years, and this was the right ending).
+
+**Groups Departed:**
+- GROUP A (Aldric+Sylvara+Thessaly) → council district, north. Thessaly already becoming someone who belongs there.
+- GROUP B (Zaryth+Mira+Orindel+Bram+Pip) → older streets, east. Mira already three steps ahead.
+
+**State Changes:** None. All party full HP. Both groups in motion.
+
+**Next:** Group B two streets from House Aldenmere's district. Third signal "Edric" already sent. Approach decision pending.
+
+---
+
+## S2 Turn 3 — Lord Edric / Four Men
+
+**Entry:** Zaryth Persuasion 24 — servant fetched Edric, door opened fully.
+
+**Lord Edric Aldenmere:**
+- Late 20s, second son, hasn't slept, was waiting
+- First question: "Is Vael alright?" — personal loyalty to Vael Orun confirmed
+- Mira's read: clean, genuine, not performing
+
+**Intelligence from Edric:**
+- Father received message at first light → emergency family meeting → Edric excluded (unprecedented)
+- Brother Calder left ~1hr ago with 4 armed men, no explanation
+- Family solicitor Harwick manages Vel Noctis relationship — key figure
+- "Father thinks. Calder acts. Harwick plans."
+
+**The Letter:**
+- Sealed envelope, Edric's personal seal (not family crest)
+- Written 3 years ago the night he first went to Vael Orun
+- Full account: plan, timeline, names (father, Calder, Harwick, Vel Noctis contact), dates, witnessed transactions
+- NOT YET SECURED — still in Edric's hands at desk
+
+**Cliffhanger:** Orindel at door — "Four men. Moving fast. From the north. Armed." = Calder returning.
+
+**State Changes:** None. All Group B full HP.
+
+**Open Threads:**
+- Calder's purpose — coming for Edric?
+- Harwick's location — where is he now?
+- Group A status — have they reached Magistrate Voss?
+- The letter must be secured before Calder enters
+
+---
+
+## S2 Turn 4 — Out the Back / Calder Wants Harwick
+
+**Exit Rolls:**
+- Mira (18), Orindel (20), Edric (19), Bram (15), Pip (14): clean
+- Zaryth (3): plate armor creak on third floorboard — loud
+- Mira Sleight of Hand (19): palmed vase earlier, dropped it in front parlor as cover — servant stalled Calder
+
+**Calder at Front:** Arrived with 4 men. Voice: "Open the door. Now." Servant stalling.
+
+**Group B: Out the back.** Edric secured, letter in his coat. Service alley behind townhouse.
+
+**The Revelation:** Orindel heard through the door — Calder asked the servant: "Where is Harwick?" NOT Edric. Calder came for the solicitor.
+
+**Implications:** Harwick (family solicitor, Vel Noctis liaison) is either being silenced or activated. He is now the most important person in Duskport.
+
+**Edric's words:** "My father will know I'm gone within the hour. Calder will tear the house apart."
+
+**Three Options:**
+1. Magistrate Sera Voss — Edric + letter + Writ = overwhelming evidence (Group A status unknown)
+2. Temple of Balanced Scale — sanctuary, regroup
+3. Find Harwick — before Calder does
+
+**State Changes:** None. All Group B full HP.
+
+---
+
+## S2 Turn 5 — Harwick's Office
+
+**Moving:** Group B through Merchant's Quarter toward Selden Row.
+
+**Edric's Briefing:**
+- Harwick = family solicitor 20 years, architect of the Vel Noctis operation
+- Not a fighter — a planner. Wins by controlling access to the table.
+- Office: above cartographer's shop, Selden Row. There every morning by seventh bell.
+- Keeps copies of everything — his office is a vault of evidence.
+- Always has a contingency.
+
+**Zaryth Insight on Edric (16):** Caught Edric holding back. Edric revealed:
+- Secondary document — Harwick mentioned it 3 years ago
+- "If the Writ surfaced, he had something to 'reframe the legal landscape entirely'"
+- Edric doesn't know what it is. Has been afraid to find out.
+
+**Perception (Mira 13, Bram 13):** Man on corner stall — same stall for 2 blocks, not buying, wrong build for Calder's men. Unknown affiliation. Watching the cartographer's shop. Was there before the group arrived.
+
+**Harwick's Office:** Light on (pre-seventh bell). Door to staircase ajar — should not be. Edric: "He knows. He's already running the contingency."
+
+**Four Options:**
+1. Straight up now — fast, unknown risk
+2. Mira scouts first — 60 seconds cost
+3. Send Edric to door — Harwick won't run from him
+4. Split — Mira up, Zaryth+Bram cover exit, Orindel+Pip+Edric backup
+
+**State Changes:** None. All Group B full HP.
+
+**Open Threads:**
+- The secondary document — what is it?
+- The watcher on the corner — who sent him?
+- Calder's position — unknown, closing
+- Group A status — still unknown
+
+---
+
+## S2 Turn 6 — Harwick / The Revelation
+
+**Stealth Results:** Bram (19) + Orindel (18) silent. Mira (10) fine. Pip (9) one creak. Zaryth (3) announced by plate armor — Harwick heard them coming.
+
+**Watcher (Mira 14):** Moved closer to building, watching the door. Saw them arrive. Reporting to unknown party. Not intervening.
+
+**The Room:** Fire going — burned documents, still orange at edges. Vel Noctis contracts destroyed.
+
+**Harwick:** Sixties, small, neat, ink-stained finger. Sat down when they entered — not running. Already done what he needed to do. Packed satchel on desk.
+
+**Zaryth Perception (17):**
+- Harwick is relieved, not afraid — burning is done
+- Pity in his eyes when looking at Edric
+- Sealed envelope under his palm — not everything burned
+
+**The Revelation:** Harwick has been in contact with Vael Orun for 10 YEARS. Told Edric's father "exactly what he needed to know — no more." Has been managing the situation from inside alongside Vael Orun.
+
+**Burned:** Vel Noctis contracts — evidence of House Aldenmere's direct involvement. GONE.
+
+**Secondary Document (now on desk, slid toward Zaryth):**
+- Deed of civic trust, signed by original Aldenmere patriarch 200 years ago
+- Acknowledges Partition Writ's authority
+- Proves the family always knew the Writ was legitimate
+- Harwick kept it 15 years, was going to burn it this morning — decided not to
+
+**Harwick's challenge:** "The question is whether you trust me. And whether I trust you."
+
+**Edric:** Shaken. Learning his family's solicitor was a double agent for a decade.
+
+**State Changes:** None. All Group B full HP. Secondary document on desk.
+
+---
+
+## S2 Turn 7 — The Weight of It
+
+**Zaryth's words to Harwick:** "I do not understand why you would still have that conscience to keep the second evidence. But we need all the evidence we can get. May you find in yourself that what you did here today will have huge consequences to the people in this city."
+
+**Harwick's response:**
+- Kept the deed because future generations deserve to understand what happened and why it almost wasn't stopped
+- Burned the contracts for Edric's sake — family has children who had nothing to do with this
+- "I am not looking for absolution. I am looking for the city to still be standing when I'm gone."
+- Offered his hand to Zaryth. Plain acknowledgment.
+
+**Edric:** "You could have told me." / Harwick: "You would have gotten yourself killed." Edric has no answer. Quiet grief.
+
+**Mira:** Watcher outside signaled someone. Unknown party incoming.
+
+**Orindel:** Movement on landing. Less than 2 minutes.
+
+**Pip & Bram:** Grate check — nothing recoverable. Mutual professional nod between Bram and Harwick.
+
+**The Question:** Harwick standing with satchel, waiting. Edric: "If Calder finds him alone, he won't survive it."
+
+**Deed of civic trust:** In Zaryth's hands.
+
+**State Changes:** None. All Group B full HP. ~2 minutes before unknown party arrives.
+
+**Decision pending:** Does Harwick come with the group?
+
+---
+
+## S2 Turn 8 — Safe House / Harwick's Intel
+
+**Insight Results:**
+- Zaryth (23/nat 20): Complete read — Harwick's anchor is Edric. Loyalty to him, not the family. Burned contracts to protect Edric. Afraid of what happens to Edric when truth goes public.
+- Mira (19): Not a con. End of something, not beginning.
+- Pip (18): Recognizes the look of someone who just put down something heavy.
+- Bram (6): Still suspicious. "Unverified asset, handle with caution."
+
+**Who Was On The Stairs (Orindel 20):** Magistrate Sera Voss's agent + council clerk with writ of inquiry. Not Calder. Voss has been building a case for 2 years — Harwick's office was on her list. They heard the exit but did not pursue.
+
+**Stealth Exit:** Mira (21) + Orindel (22) clean. Bram (17) clean. Pip (13) fine. Edric (7) one stumble. Zaryth (5) + Harwick (2) — heard by Voss's agents but not pursued.
+
+**Safe House:** Bookbinder on Coppervane Street. Old man, no questions. Harwick and Edric settled.
+
+**Harwick's Intel:**
+- Voss will have his office sealed within the hour
+- Whatever he didn't burn, she'll find
+- If Group A reached Voss, she already knows more than the party thinks
+- Deed + Partition Writ + Voss's existing evidence = enough, if brought to the same table
+- To Edric: "I'm sorry it took this long."
+
+**Items:** Deed of civic trust — Zaryth's hands. Partition Writ — Group A (location unknown).
+
+**State Changes:** None. All Group B full HP. Harwick safe. Edric safe.
+
+---
+
+## S2 Turn 9 — Reunited at the Chambers
+
+**Athletics (making haste):** Bram (13) best. Group exhausted — 8hrs active operation. Moving through crowds, not running.
+
+**Perception:** Mira (18) + Orindel (19) spotted Calder's 2 men, 2 streets over, heading to council chambers. Calder is trying to control the narrative, not silence Harwick.
+
+**Group A Status (Sylvara 12):** Reached Voss. Complication — House Aldenmere allies called emergency session this morning to preempt the Writ. Thessaly got them past the door. Aldric + Sylvara waiting in antechamber with Partition Writ. Can't get into session without a reason guards will accept.
+
+**Arrival:** Full party reunited at council chamber entrance.
+
+**Thessaly's read:** Harwick walking in voluntarily = the reason. "House Aldenmere's solicitor walking into the council chambers voluntarily. That's your reason."
+
+**Harwick:** "I'll present myself to the session. They can't refuse me entry — I'm the family's legal representative. Or I was."
+
+**Assets in hand:**
+- Partition Writ: Aldric (Group A)
+- Deed of civic trust: Zaryth (Group B)
+- Harwick: present, ready to enter
+- Edric: present
+
+**Active threat:** Calder's 2 men ~60 seconds behind. Closing fast.
+
+**State Changes:** None. All party full HP. Exhaustion condition (narrative, not mechanical).
+
+---
+
+## S2 Turn 10 — The Presentation / Session 2 Finale
+
+**Presentation Rolls:**
+- Zaryth Persuasion (21): Plain, direct, named everything
+- Sylvara History (20): Authenticated Writ, cited Third Compact, talked through both interruptions
+- Harwick Testimony (15): Recited burned contracts from memory, named names
+- Edric Testimony (23/nat 20): Testified against his own family unprompted. Voice didn't break. Room believed him completely. One council ally put his head in his hands.
+
+**Outside:**
+- Mira Deception (5): Failed immediately
+- Bram Intimidation (5): Walked around
+- Thessaly Persuasion (18) + Position of Privilege: Stopped Calder's men cold. Held them until Voss's clerk emerged with city watch.
+
+**Voss's Ruling:**
+- Session suspended
+- Emergency civic inquiry convened
+- House Aldenmere harbor acquisitions FROZEN
+- Two council allies recused (conflict of interest)
+- Harwick retained for testimony
+- To Zaryth: "The city will remember this."
+
+**Aftermath:** Party in entrance hall. Aldric sat with the Writ. Pip: "Did we actually do that?" Orindel: "Yes." Mira watching Pip and Edric. Harwick nodded to Zaryth on his way out. Edric on the floor against the wall.
+
+**Voss's final words:** "I'll need statements from all of you. But not today."
+
+---
+## END OF SESSION 2
+---
+
+**Session 2 Summary:**
+- Started: Temple of Balanced Scale at dawn, three open decisions
+- Ended: Council chambers, Partition Writ delivered, House Aldenmere's plan stopped
+- Key events: Watcher neutralized (Mira nat 20 stealth), Edric extracted, Harwick revealed as Vael Orun's 10-year partner, Vel Noctis contracts burned, deed of civic trust secured, Edric's nat 20 testimony broke the session
+- Casualties: None
+- House Aldenmere: Harbor acquisitions frozen, inquiry opened
+- Harwick: Free, retained for testimony
+- Edric: Safe, testified, future uncertain
+- Calder: Neutralized at the door, no move left
+- Voss: Has the Writ, the deed, and Harwick's testimony
+
+**Open threads for Session 3:**
+- Calder's response — what does he do now?
+- Voss's inquiry — how far does it go?
+- Edric's future — his family knows he testified
+- Mira/Zaryth thread — something unnamed
+- Thessaly's list — House Aldenmere is on it
+- The Vel Noctis — who are they really, and are they done?
+- Vael Orun — she orchestrated 10 years of this. What does she do next?
+- Harwick's full testimony — what else does he know?
+
+---
