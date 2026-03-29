@@ -1,7 +1,7 @@
 {
-  "session": 1,
-  "turn": 0,
-  "active_dm": "dm-chronicler",
+  "session": 2,
+  "turn": 10,
+  "active_dm": "dm-storyteller",
   "party": {
     "mira": {
       "full_name": "Mira Thistlewick",
@@ -10,9 +10,9 @@
       "level": 1,
       "hp": { "current": 9, "max": 9 },
       "conditions": [],
-      "inventory": ["Thieves' tools", "Crowbar", "Dark hooded clothes", "15 gp"],
+      "inventory": ["Thieves' tools", "Crowbar", "Dark hooded clothes", "15 gp", "3 receipts (INTEREST ONLY stamps — evidence of Ledger fraud)"],
       "spell_slots": null,
-      "notes": ""
+      "notes": "Pip's debt resolved (Cassin closed the account). Mira's 75gp payments swallowed by interest — potential fraud case with Vael Orun."
     },
     "aldric": {
       "full_name": "Brother Aldric Stonebrow",
@@ -23,8 +23,8 @@
       "conditions": [],
       "inventory": ["Warhammer", "Chain mail", "Shield", "Holy symbol", "Prayer book", "15 gp"],
       "spell_slots": { "1st": 2 },
-      "channel_divinity": 1,
-      "notes": ""
+      "channel_divinity": { "pool": 1, "used": 0 },
+      "notes": "Delivered Partition Writ to Magistrate Sera Voss."
     },
     "sylvara": {
       "full_name": "Sylvara Dawnwhisper",
@@ -36,7 +36,7 @@
       "inventory": ["Spellbook", "Arcane focus", "Ink + quill", "Common clothes", "10 gp"],
       "spell_slots": { "1st": 2 },
       "arcane_recovery_used": false,
-      "notes": ""
+      "notes": "Authenticated Partition Writ before Magistrate Voss. Logged the moment in her notebook."
     },
     "bram": {
       "full_name": "Bram Thistlewick",
@@ -48,7 +48,7 @@
       "inventory": ["Spellbook", "Quarterstaff", "Military insignia", "10 gp"],
       "spell_slots": { "1st": 2 },
       "arcane_recovery_used": false,
-      "notes": ""
+      "notes": "Intimidation modifier: +1 (CHA -1 + prof +2). Soldier background grants Intimidation proficiency."
     },
     "thessaly": {
       "full_name": "Thessaly Ironveil",
@@ -57,9 +57,9 @@
       "level": 1,
       "hp": { "current": 9, "max": 9 },
       "conditions": [],
-      "inventory": ["Rapier", "Fine clothes", "Signet ring", "Thieves' tools", "25 gp"],
+      "inventory": ["Rapier", "Fine clothes", "Signet ring (House Ironveil)", "Thieves' tools", "25 gp"],
       "spell_slots": null,
-      "notes": ""
+      "notes": "Expertise: Stealth + Deception (corrected from Persuasion). Held Calder's men at council door alone. House Aldenmere added to her list."
     },
     "orindel": {
       "full_name": "Orindel Ashwick",
@@ -70,8 +70,8 @@
       "conditions": [],
       "inventory": ["Mace", "Scale mail", "Holy symbol", "Crowbar", "Dark clothes", "15 gp"],
       "spell_slots": { "1st": 2 },
-      "channel_divinity": 1,
-      "notes": ""
+      "channel_divinity": { "pool": 1, "used": 0 },
+      "notes": "Insight modifier: +4 (WIS +2 + prof +2)."
     },
     "pip": {
       "full_name": "Pip Tanglethorn",
@@ -83,7 +83,7 @@
       "inventory": ["Spellbook", "Dagger", "Common clothes", "15 gp"],
       "spell_slots": { "1st": 2 },
       "arcane_recovery_used": false,
-      "notes": "Owes debt to Crimson Ledger guild (unknown to him: Mira is paying it)"
+      "notes": "Debt resolved. KNOWS Mira was paying his debt for 3 months (learned S1 Turn 4). Unknowingly carried the Repository key 6 months ago."
     },
     "zaryth": {
       "full_name": "Zaryth Vel'quinar",
@@ -92,11 +92,12 @@
       "level": 1,
       "hp": { "current": 12, "max": 12 },
       "conditions": [],
-      "inventory": ["Battered longsword", "Scratched plate armor", "Ruined signet ring", "10 gp"],
+      "inventory": ["Battered longsword", "Scratched plate armor", "Ruined signet ring (moved to different pocket — S2)", "10 gp"],
       "spell_slots": { "1st": 2 },
-      "lay_on_hands": 5,
+      "lay_on_hands": { "pool": 5, "available": 5 },
+      "faerie_fire_used": false,
       "player": "YOU",
-      "notes": "Exiled knight. Sworn to protect village that sheltered him. Keeps ruined signet ring of former order."
+      "notes": "Ruined signet ring moved to different pocket after S2 — something shifted. Faerie Fire and Lay on Hands restored after long rest."
     }
   }
 }

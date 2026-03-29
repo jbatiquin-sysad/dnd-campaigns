@@ -30,7 +30,7 @@ She talks fast, laughs faster, and has already clocked every exit in the room be
 She can't resist taking something shiny, even when it's a terrible idea.
 
 ## Bond
-Her younger brother owes a debt to a thieves' guild, and she'll burn the whole city down before she lets them collect.
+Her younger brother Pip's debt to the Crimson Ledger has been resolved — but the 75gp she paid over 3 months was swallowed by interest (INTEREST ONLY terms, never applied to principal). Vael Orun flagged this as potential fraud grounds.
 
 ## Ideal
 Freedom — no cage, no contract, no king owns Mira Thistlewick.

@@ -30,7 +30,7 @@ He stole a wizard's spellbook on a dare, accidentally cast a spell that set a ba
 He will absolutely try the thing he was just told not to try. Immediately. While maintaining eye contact.
 
 ## Bond
-He owes a debt to a thieves' guild (his sister Mira is paying it off, which he doesn't know yet — and when he finds out, it will destroy him).
+He owes a debt to a thieves' guild (his sister Mira was paying it off for 3 months without his knowledge — he found out in Session 1, and it hit him hard).
 
 ## Ideal
 If it's interesting, it's worth doing. If it's dangerous AND interesting, it's worth doing twice.

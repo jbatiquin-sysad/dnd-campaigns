@@ -17,7 +17,7 @@
 ## Key Features
 - Sneak Attack: 1d6 extra damage
 - Cunning Action: Bonus action Dash/Disengage/Hide
-- Expertise: Double proficiency in 2 skills (Deception, Persuasion)
+- Expertise: Double proficiency in 2 skills (Stealth, Deception)
 - Thieves' Cant
 - Mountain Dwarf: STR+2, CON+2, light+medium armor proficiency
 - Dwarven Combat Training: Battleaxe, handaxe, light hammer, warhammer
