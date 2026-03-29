@@ -5,14 +5,14 @@
 - **Class:** Cleric (Life Domain)
 - **Background:** Acolyte
 - **Alignment:** Lawful Good
-- **Level:** 1
+- **Level:** 2
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  12 |   8 |  16 |  10 |  16 |  13 |
 
-**HP:** 12 | **Hit Dice:** 1d8
+**HP:** 20 | **Hit Dice:** 2d8
 
 ## Key Features
 - Spellcasting (WIS-based): Prepare WIS mod + level spells/day
@@ -36,7 +36,7 @@ He must find the necromancer who killed his mentor and destroyed his mountain te
 Life is sacred. Every soul deserves a chance at redemption, even the ones that don't deserve it.
 
 ## Backstory
-Aldric spent forty years as a healer-monk in a mountain temple dedicated to the god of life and stone, tending to miners and pilgrims alike. A necromancer's raid killed his mentor and desecrated the temple's burial vaults, raising the honored dead as shambling horrors. He descended from the mountain for the first time in decades, warhammer in hand, because some debts can only be paid in person.
+Aldric spent forty years as a healer-monk in a mountain temple dedicated to the god of life and stone, tending to miners and pilgrims alike. A necromancer's raid killed his mentor and desecrated the temple's burial vaults, raising the honored dead as shambling horrors. He descended from the mountain for the first time in decades, warhammer in hand, because some debts can only be paid in person. In Duskport, he carried the Partition Writ to Magistrate Sera Voss and prayed over it for the ones who didn't make it out. He escorted a merchant caravan through the disrupted harbor district and handled three thieves without casualties. On the voyage to Aelindra, he told Zaryth he intends to find the necromancer when this is done — and wouldn't say no to company. He found Veyra Solund inside the Grand Archive by asking a junior archivist, because he knows that the people who actually know where everyone is are never the people in charge.
 
 ## Roleplay Instructions
 Speak with gravitas and warmth. Use formal but not stiff language. Offer healing freely but lecture gently when party members act recklessly. Show quiet grief when death occurs — even enemy deaths. Never celebrate a kill.

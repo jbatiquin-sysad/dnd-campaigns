@@ -5,18 +5,19 @@
 - **Class:** Wizard (School of Evocation)
 - **Background:** Soldier
 - **Alignment:** Lawful Neutral
-- **Level:** 1
+- **Level:** 2
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  10 |  14 |  13 |  15 |  12 |   8 |
 
-**HP:** 6 | **Hit Dice:** 1d6
+**HP:** 11 | **Hit Dice:** 2d6
 
 ## Key Features
 - Spellcasting (INT-based): Spellbook, prepare INT mod + level spells/day
 - Arcane Recovery: Recover spell slots 1/day after short rest
+- Evocation Savant: Halve gold and time to copy evocation spells
 - Lucky: Reroll 1s on d20
 - Brave: Advantage vs. frightened
 - Stout Resilience: Advantage vs. poison, resistance to poison damage

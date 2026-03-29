@@ -63,16 +63,19 @@ duskport-campaign/
 |---------|-------|----|---------|
 | 1 | The Partition Writ | The Chronicler | Writ secured. Maret + Duvash rescued. House Aldenmere exposed. |
 | 2 | The Civic Trust | The Storyteller | Writ delivered to Magistrate Voss. Harwick turned. Edric testified (nat 20). Harbor acquisitions frozen. |
+| 3 | The Unchained Compact | The Chronicler | *In progress.* Vel Noctis traced to Aelindra. Party levelled to 2. Sailed north. Safehouse established. Veyra contacted. |
 
-## Current Status (End of Session 2)
+## Current Status (Session 3 — Paused)
 
-**Location:** Council Chambers, Duskport. Morning.
+**Location:** The Inkwell, Cartographers' Quarter, Aelindra.
 
-**Three open decisions for Session 3:**
-1. Calder Aldenmere — neutralized but not finished
-2. Edric's future — testified against his family, has nowhere to go
-3. The Vel Noctis — are they done, or just paused?
+**Party Level:** 2 (all characters)
 
-**Party HP:** All full. Long rest available between sessions.
+**Three decisions on resume:**
+1. Meet Serevane before filing the Writ of Inquiry?
+2. Prepare for the senior archivist council session (2 days)
+3. Investigate where the Archivist-General relocated the Tome
 
-**Major outcomes:** House Aldenmere harbor acquisitions frozen. Civic inquiry opened. Partition Writ + deed of civic trust delivered to Magistrate Sera Voss.
+**Active threats:** Serevane circling (third watcher near Inkwell). Archivist-General chairs the council. Archive detection ward logged party's magic.
+
+**Party HP:** All full. ~116gp remaining.

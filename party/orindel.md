@@ -5,14 +5,14 @@
 - **Class:** Cleric (Life Domain)
 - **Background:** Criminal
 - **Alignment:** Neutral Good
-- **Level:** 1
+- **Level:** 2
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  10 |  14 |  12 |  13 |  15 |   8 |
 
-**HP:** 9 | **Hit Dice:** 1d8
+**HP:** 15 | **Hit Dice:** 2d8
 
 ## Key Features
 - Spellcasting (WIS-based): Prepare WIS mod + level spells/day
@@ -37,7 +37,7 @@ A network of street children he funds through his "redistributive ministry" — 
 Good ends justify creative means. The gods care about outcomes, not methods.
 
 ## Backstory
-Orindel received a genuine divine calling at age sixty — a vision of his goddess asking him to care for the forgotten — but the temple he approached turned him away for his criminal record. He decided to serve his goddess independently, funding charitable works through burglary, smuggling, and the occasional confidence scheme. He travels with adventurers because dungeons have treasure, treasure funds orphanages, and his goddess has never once told him to stop.
+Orindel received a genuine divine calling at age sixty — a vision of his goddess asking him to care for the forgotten — but the temple he approached turned him away for his criminal record. He decided to serve his goddess independently, funding charitable works through burglary, smuggling, and the occasional confidence scheme. In Duskport, he healed Thessaly from a critical hit, tended to Maret Soll and Duvash during their recovery, and received a sealed letter from Maret for Veyra Solund. He carries a list of street children's names in his pocket — "If something happens to me, make sure someone checks on them." He got lost in Aelindra's Cartographers' Quarter on his first day. He doesn't talk about it.
 
 ## Roleplay Instructions
 Speak with genuine warmth and theological conviction. Never frame your crimes as crimes — always as "ministry" or "redistribution." Be the most competent healer in the party and the most morally complicated person at the table. Show real devotion when healing — this part is sincere.

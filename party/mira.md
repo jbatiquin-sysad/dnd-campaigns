@@ -5,14 +5,14 @@
 - **Class:** Rogue (Thief Archetype)
 - **Background:** Criminal
 - **Alignment:** Chaotic Neutral
-- **Level:** 1
+- **Level:** 2
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  8  |  17 |  12 |  13 |  10 |  15 |
 
-**HP:** 9 | **Hit Dice:** 1d8
+**HP:** 15 | **Hit Dice:** 2d8
 
 ## Key Features
 - Sneak Attack: 1d6 extra damage (finesse/ranged, advantage or ally adjacent)
@@ -36,7 +36,7 @@ Her younger brother Pip's debt to the Crimson Ledger has been resolved — but t
 Freedom — no cage, no contract, no king owns Mira Thistlewick.
 
 ## Backstory
-Mira grew up picking pockets in the market district of a river city, learning early that small hands and a big smile open more doors than any key. When her brother Pip got in over his head with the Crimson Ledger guild, she took on jobs she'd normally refuse just to pay down his debt. Now she travels with adventurers because the pay is better, the marks are richer, and nobody asks too many questions about where the gold came from.
+Mira grew up picking pockets in the market district of a river city, learning early that small hands and a big smile open more doors than any key. When her brother Pip got in over his head with the Crimson Ledger guild, she took on jobs she'd normally refuse just to pay down his debt — 75gp over three months, all swallowed by predatory interest terms she never read. The debt was resolved when Cassin Vael closed the account in Duskport, but the 75gp is gone and the receipts are evidence of fraud. She now travels with Zaryth's party — first for the money, then for something she won't name out loud. During truth or dare on the voyage to Aelindra, she admitted her greatest fear: being owned. At sunset on the fourth day, she told Zaryth he was the strangest person she'd ever worked with. She meant it as a compliment.
 
 ## Roleplay Instructions
 Speak in a quick, street-smart voice. Always be scanning for angles and opportunities. Deflect serious moments with humor. Never admit you're scared — show it through action instead.

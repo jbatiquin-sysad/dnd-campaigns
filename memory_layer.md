@@ -1449,3 +1449,145 @@ All party: full HP, full slots, full resources
 Location: Aelindra harbor, docking
 
 ---
+## S3 Turn 12 — Aelindra / Safehouse / Scouting
+
+**Safehouse (Edric nat 20):** The Inkwell, Cartographers' Quarter, middle tier. Retired scribe Dalla, no questions. 3 connected rooms, top floor, private staircase. View of harbor + Archive. 2gp/night.
+
+**Perception (Zaryth nat 20 = 21, Orindel 22):**
+- Two Archive staff watchers on harbor promenade — cataloguing arrivals
+- One noted party's ship specifically, wrote something down
+- Second watcher: grey/silver pin = Archive colors
+- Aldric (nat 1): distracted by architecture, useless for 10 minutes
+- Mira (4): off-balance, can't read this city
+
+**Mira Stealth Recon (13):** Mapped 3 exits from harbor district. City built for visibility — wide streets, no alleys. "This is not a rogue's city."
+
+**Sylvara Arcana (14):** Passive detection ward on harbor gate — registers magical items, not people. Party's magic logged on entry. Standard Archive security.
+
+**Zaryth Insight (19):** Company town. Archive IS the city. Scholars defer to Archive robes. Dissent is quiet here. Veyra Solund will need to be careful.
+
+**Sylvara History (16) — The Four Tiers:**
+1. Harbor District — open, trade, visitors
+2. Cartographers' Quarter — open, scholars, the Inkwell
+3. The Stacks — Archive pass required, working levels
+4. The Crown — senior archivist authorization, Archivist-General's offices, restricted vaults (Tome was here)
+
+Sylvara's old credentials: unknown if revoked.
+
+**Threats Identified:**
+- 2 Archive watchers noted arrival
+- Detection ward logged party's magic
+- City built for visibility — stealth operations difficult
+- Serevane knows they're here but hasn't appeared
+
+**State Changes:**
+- party_gold: ~118gp → ~116gp (2gp safehouse first night)
+
+## STATE SYNC — S3 Turn 12
+Changes:
+- party_gold: ~118gp → ~116gp
+- Location: The Inkwell, Cartographers' Quarter, Aelindra
+No HP/slot changes: all party full, level 2
+
+---
+## S3 Turn 13 — Credential Test / The Third Watcher
+
+**Cover Story (Mira 20):** Returning scholar, pre-Sundering trade agreements, Duskport civic inquiry. Airtight. Sylvara doesn't need to lie — just be herself.
+
+**Credential Test (Sylvara Persuasion 19):**
+- Silver disc presented at Stacks gate
+- Result: INACTIVE, NOT REVOKED
+- Access: Lower Stacks levels 1-3 only. Restricted sections + Crown = locked.
+- Intelligence: Archivist-General either doesn't consider Sylvara a threat or wants her to return.
+
+**Aldric (15):** In as consulting theologian. Waved through.
+
+**Pip (5):** Tripped, dropped spellbook, guard noticed spell notes. On radar as "that halfling wizard." Not invisible.
+
+**Orindel (5):** Got lost in Cartographers' Quarter. Missed counter-surveillance position entirely.
+
+**Zaryth Overwatch (nat 20 = 21):** Saw everything from tea house:
+1. Dock watcher followed party to Stacks gate — at bookstall 40ft away
+2. THIRD WATCHER: balcony above gate, dark clothes, no insignia. Watched entire credential check. Moved inside with purpose when Sylvara entered.
+3. Third watcher used Pip's 12-second accident as timing cover to reposition unseen by guards.
+4. Someone else is running an operation at this gate. Knew Sylvara would come today.
+
+**Assessment:** Serevane may already be watching. The third watcher is either Serevane or her operative.
+
+**Current Positions:**
+- Sylvara + Aldric: inside lower Stacks (levels 1-3)
+- Zaryth: tea house, overwatch
+- Mira + Edric: near safehouse
+- Pip: at Stacks gate steps (exposed)
+- Orindel: lost in Cartographers' Quarter
+
+**State Changes:** None. All party full HP.
+
+## STATE SYNC — S3 Turn 13
+Changes: None (no combat, no resource use)
+New intelligence:
+- Sylvara credentials: inactive, not revoked, levels 1-3 access
+- Third watcher identified: dark clothes, no insignia, professional, used Pip's accident as cover
+- Dock watcher followed party to Stacks gate
+- Archive detection ward already logged party's magic on entry
+
+---
+## S3 Turn 14 — Regroup / Veyra Solund / The Watcher Returns
+
+**Regroup:**
+- Mira (12): Found Orindel at tea stall, 20 minutes
+- Zaryth (14): Extracted Pip from gate steps without incident
+- All back at Inkwell within the hour
+
+**Veyra Solund (Room 347, Level 3 East Wing):**
+- Found by Aldric Stonebrow (20) — asked a junior archivist
+- Seventies, elven, silver hair, reading glasses (habit). Called Sylvara "Vara."
+- Has been expecting them since receiving Sylvara's letter (3 days ago)
+
+**Veyra's Intelligence:**
+1. Archivist-General's behavior changed ~18 months ago — closed meetings, expanded restrictions, staff reassigned
+2. Did NOT know about Vel Noctis or Duskport until Sylvara's letter
+3. Archivist-General has been RELOCATING documents from restricted vaults — inventory logs show discrepancies
+4. Tome of Unraveling listed as "stolen — under investigation" but investigation file sealed by Archivist-General personally
+5. Veyra's theory: Tome was NOT stolen. Theft was staged. Archivist-General moved it. Controls the investigation to ensure it's never found.
+
+**Writ of Inquiry:**
+- Evidence available: seal copy, Harwick testimony, Edric testimony, Sylvara testimony
+- Filing: senior archivist council formal session — in 2 DAYS
+- Complication: Archivist-General CHAIRS those sessions. Will know immediately.
+
+**Third Watcher (Zaryth nat 20 = 21):**
+- Now at street level near the Inkwell — watching the boarding house
+- Made deliberate eye contact with Zaryth for 2 seconds, then walked away
+- Invitation pattern — same as iron disc
+- Serevane is circling, not hiding
+
+**New NPC:** Veyra Solund — senior archivist, Sylvara's mentor (60 years), ally. Room 347, Level 3 East Wing.
+
+**State Changes:** None. All party full HP.
+
+## STATE SYNC — S3 Turn 14
+Changes: None (no combat, no resource use)
+New intelligence:
+- Tome likely not stolen — staged theft, Archivist-General relocated it
+- Writ of Inquiry: 2 days to filing, Archivist-General will know immediately
+- Third watcher confirmed near Inkwell — Serevane circling
+- Veyra Solund: active ally, has been verifying for 3 days
+
+---
+
+## SESSION 3 PAUSED — To Be Continued
+
+**Paused at:** Turn 14, The Inkwell, Aelindra. Party regrouped. Veyra Solund contacted. Two days to Writ of Inquiry filing.
+
+**Immediate decisions on resume:**
+1. Meet Serevane before filing? She's been inviting contact.
+2. Prepare for the council session (2 days)
+3. Investigate where the Archivist-General relocated the Tome
+
+**Party Location:** The Inkwell, Cartographers' Quarter, Aelindra
+**Party Level:** 2 (all characters)
+**Party Funds:** ~116gp
+**All HP:** Full
+
+---

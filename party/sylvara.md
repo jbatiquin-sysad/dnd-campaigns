@@ -5,18 +5,19 @@
 - **Class:** Wizard (School of Evocation)
 - **Background:** Sage
 - **Alignment:** Neutral Good
-- **Level:** 1
+- **Level:** 2
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  8  |  14 |  10 |  16 |  12 |  13 |
 
-**HP:** 6 | **Hit Dice:** 1d6
+**HP:** 10 | **Hit Dice:** 2d6
 
 ## Key Features
-- Spellcasting (INT-based): Spellbook with 6 spells, prepare INT mod + level/day
+- Spellcasting (INT-based): Spellbook with 6+ spells, prepare INT mod + level/day
 - Arcane Recovery: Recover spell slots (combined level ≤ half wizard level) 1/day
+- Evocation Savant: Halve gold and time to copy evocation spells
 - Cantrip: Fire Bolt (bonus High Elf cantrip)
 - Darkvision: 60 ft
 - Keen Senses: Proficiency in Perception
@@ -36,7 +37,7 @@ A stolen tome in her archive contains a spell capable of leveling a city — she
 Knowledge is neutral; only its application has morality. She will learn everything, and choose carefully what she does with it.
 
 ## Backstory
-Sylvara spent over a century cataloguing arcane texts in the Grand Archive of Aelindra, considered one of the foremost authorities on pre-Sundering spellcraft. When a thief broke into the restricted vault and stole the Tome of Unraveling — a text she herself had argued should be destroyed — she took personal responsibility for its recovery. She travels with adventurers because they go places archivists aren't supposed to go, and ask fewer questions about why she needs to.
+Sylvara spent over a century cataloguing arcane texts in the Grand Archive of Aelindra, considered one of the foremost authorities on pre-Sundering spellcraft. When a thief broke into the restricted vault and stole the Tome of Unraveling — a text she herself had argued should be destroyed — she took personal responsibility for its recovery. She now believes the theft was staged by the Archivist-General to cover the Tome's relocation. She has returned to Aelindra with Zaryth's party to file a Writ of Inquiry against the Archivist-General and confront the Unchained Compact. Her mentor Veyra Solund is her inside contact. During truth or dare, she admitted: "I have been wrong about exactly one thing in a hundred years and it may unmake a city." She is reconsidering a century-old position on preserving dangerous knowledge.
 
 ## Roleplay Instructions
 Speak with precision and mild condescension (not malicious — she just assumes everyone else hasn't done the reading). Reference historical precedents. Get visibly excited about magical phenomena. Show vulnerability only when the stakes involve the tome or innocent lives.
