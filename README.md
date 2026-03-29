@@ -62,16 +62,17 @@ duskport-campaign/
 | Session | Title | DM | Outcome |
 |---------|-------|----|---------|
 | 1 | The Partition Writ | The Chronicler | Writ secured. Maret + Duvash rescued. House Aldenmere exposed. |
+| 2 | The Civic Trust | The Storyteller | Writ delivered to Magistrate Voss. Harwick turned. Edric testified (nat 20). Harbor acquisitions frozen. |
 
-## Current Status (End of Session 1)
+## Current Status (End of Session 2)
 
-**Location:** Temple of the Balanced Scale, Duskport. Dawn.
+**Location:** Council Chambers, Duskport. Morning.
 
-**Three open decisions:**
-1. Go to Magistrate Sera Voss immediately with the Writ
-2. Find Lord Edric Aldenmere (secret ally inside House Aldenmere)
-3. Split the party — both simultaneously
+**Three open decisions for Session 3:**
+1. Calder Aldenmere — neutralized but not finished
+2. Edric's future — testified against his family, has nowhere to go
+3. The Vel Noctis — are they done, or just paused?
 
-**Active threat:** Rooftop watcher with signal mirror — House Aldenmere may already know.
+**Party HP:** All full. Long rest available between sessions.
 
-**Party HP:** All full. Zaryth Lay on Hands: 0/5. Faerie Fire expended.
+**Major outcomes:** House Aldenmere harbor acquisitions frozen. Civic inquiry opened. Partition Writ + deed of civic trust delivered to Magistrate Sera Voss.
