@@ -68,33 +68,29 @@ duskport-campaign/
 | 1 | The Partition Writ | The Chronicler | Writ secured. Maret + Duvash rescued. House Aldenmere exposed. |
 | 2 | The Civic Trust | The Storyteller | Writ delivered to Magistrate Voss. Harwick turned. Edric testified (nat 20). Harbor acquisitions frozen. |
 | 3 | The Archivist's Fire | The Chronicler | Party traveled to Aelindra. Serevane defected. Valis Procedure executed (14 min). Tome discharged. Thessara chose redemption. Veyra appointed interim Archivist-General. |
+| 4 | Calder's Gambit | The Wildcard | *In progress.* Calder's 3-phase plan: evidence burn (failed), captive extraction (in progress), Voss assassination (active). Serevane returned. |
 
-## Current Status (End of Session 3)
+## Current Status (Session 4 — In Progress)
 
-**Location:** Duskport, harbor dock. Party reunited.
+**DM:** Corvus Chance, The Wildcard
+
+**Location:** Duskport — party split. Sprint team (Mira, Thessaly, Pip) at Ashward warehouse. Main group (Zaryth, Aldric, Sylvara, Bram, Orindel) at Temple of the Balanced Scale.
 
 **Party Level:** 2 (all characters)
 
-**Party Funds:** ~275gp
+**Party Funds:** ~60gp
 
-**Party HP:** All full. All resources restored.
+**Party HP:** All full. Sylvara 1/2 slots. Orindel 1/2 slots.
 
-**Key Outcomes:**
-- Tome of Unraveling: inert, returned to collective-key vault in Aelindra
-- Thessara Kain: under house arrest, testified, chose redemption
-- Veyra Solund: interim Archivist-General
-- Edric Aldenmere: staying in Aelindra for Archive reform
-- Serevane: disappeared ("The city is standing. That is enough.")
-- Duskport: 3 captives in Voss custody, inquiry active, Calder quiet
+**Calder's 3-Phase Plan:**
+1. Evidence burn (temple) — **FAILED** — original ledger saved, 60% records intact
+2. Captive extraction — **IN PROGRESS** — 3 captives moving to east harbor ship, midnight departure
+3. Assassinate Voss — **ACTIVE** — insider posing as city watch, strikes after 10th bell (~5 hours)
 
-**Open Threads for Session 4:**
-- Calder Aldenmere — quiet, dangerous, hasn't surrendered
-- Voss inquiry — ongoing, party statements needed
-- Vel Noctis / Unchained Compact — larger network beyond Duskport and Aelindra
-- Aldric's necromancer — personal quest
-- Orindel's street children — ongoing commitment
-- Individual aspirations: Mira's garden, Pip's education, Bram's school, Sylvara's notebook, Aldric's monastery, Orindel's dog
-- Zaryth's ruined signet ring — his fallen house, still unspoken
-- Serevane's whereabouts
-- Thessaly's list
-- The deep vaults — what's sealed beneath Aelindra?
+**Allies Present:** Serevane (Ashward), Vael Orun (temple)
+
+**Immediate Decisions:**
+1. Identify and neutralize the assassin inside council chambers
+2. Intercept the midnight ship with the 3 escaped captives
+3. Find Calder Aldenmere
+4. Identify the inside leak

@@ -1873,3 +1873,142 @@ Pip raised his teacup: "To us." Everyone drank. Including Thessara.
 - Duvash and Maret — healing, recovering, futures uncertain
 
 ---
+
+## SESSION 4 BEGIN
+**DM:** Corvus Chance, The Wildcard
+**Start:** Duskport, harbor dock. Late afternoon. Party reunited.
+**Party:** Full HP, all resources restored. Level 2. ~275gp.
+**Active Threats:** Calder Aldenmere — quiet, dangerous, hasn't surrendered.
+
+---
+## S4 Turn 1 — Homecoming / The Dice Speak
+
+**Random Event: d100 = 07 — CATASTROPHIC EVENT**
+
+Party arrives at Duskport dock. Civic alarm bell rings — first time in 20 years. Black smoke from the Scales District. Temple of the Balanced Scale under attack.
+
+**Thessaly's Report:** Calder moved 2 hours ago. His men hit the temple — burning Vael Orun's records, the inquiry's paper trail. Voss alive but barricaded in council chambers. Three captives (VN Op3, Guard 3, Rooftop Watcher) broken out of holding cells by a professional crew — separate operation from the temple attack.
+
+**Orindel Insight 20:** This wasn't desperate. Calder waited for the party to leave, waited for the inquiry to build its paper trail, then burned it all in one coordinated strike. Planned from the start.
+
+## STATE SYNC — S4 Turn 1
+Changes: Civic emergency active. Temple under attack. 3 captives escaped. Vael Orun status unknown.
+
+---
+## S4 Turn 2 — Mobilize
+
+**Rapid Resupply (harbor district):**
+- 2x Healing Potions (Zaryth + Mira carrying) — 100gp
+- 3x Healer's Kits — 15gp
+- 2x Antitoxin vials — 100gp
+- Total spent: 215gp. Party funds: ~60gp.
+
+**Spell loadouts confirmed. Party runs uphill to temple — 4 minutes via tanner's alley.**
+
+**Temple Situation:** Front doors smashed. Records wing (east side) burning — alchemical accelerant. 3 city watch guards unconscious/bound on steps. 2 hostiles inside records wing carrying crates. 1 lookout on roof with crossbow (watching main road, not alley). Party has surprise.
+
+## STATE SYNC — S4 Turn 2
+Changes: party_gold ~275gp → ~60gp. Zaryth +Healing Potion. Mira +Healing Potion. Party +3 Healer's Kits, +2 Antitoxin.
+
+---
+## S4 Turn 3 — The Breach
+
+**Lookout Takedown:** Pip distracted with Dancing Lights (Performance 17). Mira rooftop stealth (25), non-lethal attack (22 vs AC 13), 7 damage. Lookout DOWN.
+
+**Guards Freed:** Orindel + Thessaly untied 3 watchmen. Guard sergeant reported 6 attackers total, military precision, choke holds, no blood.
+
+**Records Wing Combat:**
+- Initiative: Mira 19 > Op A 18 > Bram 16 > Sylvara 15 > Op B 14 > Zaryth 12 > Aldric 10 > Pip 8
+- Mira crossbow from roof: 12 damage non-lethal on Op A (2 HP remaining)
+- Op A disengaged, fled with crate
+- Bram Fire Bolt: 7 damage, Op A DOWN
+- Sylvara Magic Missile: 9 damage on Op B (5 HP remaining)
+- Op B SURRENDERED
+
+**Fire Suppression (Sylvara Arcana 19):** Alchemical accelerant — sulfur + rendered fat, smother don't douse. Pip found intact reserve pot. Bram methodical section-by-section.
+- East wall shelves: destroyed (ash)
+- Central archive: SAVED (~60% of records)
+- One stolen crate recovered — contained ledger copies + depositions (they were stealing the best pieces, burning the rest)
+
+**Vael Orun:** Found behind altar by Orindel (Perception 17). Bruised, gash on forehead. Clutching leather satchel — the ORIGINAL ledger, 10 years of documentation. She got to it before the attackers. Orindel Cure Wounds (11 HP healed). Vael Orun: "Someone inside the inquiry told them the layout."
+
+## STATE SYNC — S4 Turn 3
+Changes: Sylvara 1st slots 2→1 (Magic Missile). Orindel 1st slots 2→1 (Cure Wounds on Vael Orun). Lookout + Op A unconscious, Op B surrendered. Temple fire suppressed. Original ledger SECURED. ~60% records saved. 1 crate recovered.
+
+---
+## S4 Turn 4 — Intelligence Extraction
+
+**Random Event: d100 = 63 — POSITIVE EVENT** (Serevane sighting)
+
+**Interrogation of Operative B (Zaryth Intimidation 22, Mira Insight 16):**
+1. Hired by Drest — a fixer, not Calder directly. Crew of 6, hired 3 days ago, 50gp each.
+2. Plan: hit temple at watch shift change, grab marked crates, burn the rest, rendezvous at Ashward warehouse.
+3. Drest + 2 others fled via back exit with a mule cart before party arrived. Heading to Ashward warehouse.
+4. Captive breakout was a separate crew — "the cells are handled."
+5. Drest had a detailed temple floor plan — inside leak confirmed.
+6. Drest description: forties, heavyset, bald, missing last 2 fingers left hand, docker's coat, hand axe, voice like gravel.
+
+**Mira Rooftop Overwatch (Perception NAT 20):**
+- South: Covered mule cart moving through Ashward, ~15 min ahead. Drest confirmed.
+- North: Two watchers on rooftop near council chambers — dark clothes, signal mirror. Calder monitoring Voss.
+- Ashward: Grey-cloaked figure on warehouse roof signaling the party. Confirmed as SEREVANE via iron disc gesture exchange.
+
+**City Watch Guards Deployed:**
+- Guard Donal → council chambers (messenger to Voss)
+- Guard Pell → temple back exit (prisoner watch)
+- Sergeant Harren → nearest watch post (request Ashward perimeter)
+
+## STATE SYNC — S4 Turn 4
+Changes: No HP/slot changes. Intel updated: Drest identified, Ashward target, Calder's council watchers spotted, Serevane confirmed in Duskport. 3 guards deployed.
+
+---
+## S4 Turn 5 — The Chase / The Grey Cloak
+
+**Random Event: d100 = 42 — NEUTRAL EVENT** (drunk delays mule cart)
+
+**Sprint Team Deployed:** Mira + Thessaly + Pip sent to intercept Drest. Rest hold temple.
+- Mira (Acrobatics 22): rooftops, gained 5 min, visual in 8 min
+- Thessaly (Athletics 15): streets, tanner's staircut, 2 min behind Mira
+- Pip (Athletics 7): tripped on cobblestone, 3 min behind Thessaly
+
+**Neutral Event:** Drunk stumbled into mule cart's path, argued with the mule. 30 seconds free delay.
+
+**Warehouse Breach:**
+- Pip Dancing Lights (Performance 19): strobed the interior, blinded everyone
+- Thessaly non-lethal on Drest (Stealth 20, Attack 20 vs AC 12): 13 damage, Drest DOWN
+- Mira secured crate (Sleight of Hand 24): vanished it from the cart
+- Serevane entered back door, gave 10-second ultimatum. 2 men walked out.
+- Thessaly Persuasion 15 + Position of Privilege: 3 more warehouse men walked out.
+- Drest's 2 escorts dropped weapons when Mira raised the crossbow. Walked out.
+
+**Warehouse secured. Zero casualties. Drest unconscious. Crate recovered.**
+
+**Serevane's Intel — Calder's 3-Phase Plan:**
+1. Evidence burn (temple) — **FAILED**
+2. Captive extraction — **IN PROGRESS** — 3 captives being moved to ship in east harbor, departing midnight
+3. Assassinate Magistrate Voss — **ACTIVE** — single operative already inside council chambers posing as city watch, strikes after 10th bell tonight
+
+**5 hours until the assassination attempt.**
+
+## STATE SYNC — S4 Turn 5
+Changes: Drest unconscious in custody. Stolen document crate recovered. Serevane confirmed allied. Calder's full 3-phase plan known. No HP/slot changes for sprint team. Party split: Mira/Thessaly/Pip at Ashward, Zaryth/Aldric/Sylvara/Bram/Orindel at temple.
+
+---
+## SESSION 4 PAUSED — To Be Continued
+
+**Paused at:** Turn 5, party split between Ashward warehouse and Temple of the Balanced Scale.
+
+**Immediate decisions on resume:**
+1. Identify and neutralize the assassin inside the council chambers before 10th bell
+2. Intercept the midnight ship carrying the 3 escaped captives
+3. Find Calder Aldenmere — he's somewhere in the city waiting for results
+4. Identify the inside leak who gave Drest the temple floor plan
+
+**Party Location:** Split — sprint team at Ashward, main group at temple
+**Party Level:** 2 (all characters)
+**Party Funds:** ~60gp
+**Party HP:** All full. Sylvara 1/2 slots. Orindel 1/2 slots. All others full.
+
+**Allies Present:** Serevane (Ashward), Vael Orun (temple, injured but mobile), 3 city watch guards (deployed)
+
+---
