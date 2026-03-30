@@ -38,5 +38,18 @@ Life is sacred. Every soul deserves a chance at redemption, even the ones that d
 ## Backstory
 Aldric spent forty years as a healer-monk in a mountain temple dedicated to the god of life and stone, tending to miners and pilgrims alike. A necromancer's raid killed his mentor and desecrated the temple's burial vaults, raising the honored dead as shambling horrors. He descended from the mountain for the first time in decades, warhammer in hand, because some debts can only be paid in person. In Duskport, he carried the Partition Writ to Magistrate Sera Voss and prayed over it for the ones who didn't make it out. He escorted a merchant caravan through the disrupted harbor district and handled three thieves without casualties. On the voyage to Aelindra, he told Zaryth he intends to find the necromancer when this is done — and wouldn't say no to company. He found Veyra Solund inside the Grand Archive by asking a junior archivist, because he knows that the people who actually know where everyone is are never the people in charge.
 
+In Aelindra (Session 3), Aldric served as a theological consultant in the Archive Stacks while training as the 4th anchor for the Valis Procedure. Sylvara certified him ready after intensive sessions on evocation resonance and divine channeling as a substitute anchor. On the night of the operation, he held the south arc of the grounding circle for the full 14 minutes. He failed his CON save at minute 8 — Orindel's Healing Word brought him back — and passed every other save including the final DC 14 at minute 12. His hands were blistered where they touched the chalk. He refused healing afterward: "I want to remember what it cost." He also coached Veyra Solund on how to approach Thessara: "Lead with the thing you miss about who she used to be."
+
+On the voyage home, he shared his dream: returning to Stonebrow Hall to teach steadfastness. His aspiration: for belief and action to be the same thing. His darkest hour: holding a mountain pass for three days with a broken shield arm, only to learn the village behind him was already gone. A child from the next valley brought bread and said "thank you for staying." That was the light.
+
+## Equipment (Current — End of Session 3)
+- Warhammer (equipped)
+- Chain mail (equipped)
+- Shield (equipped)
+- Holy symbol
+- Prayer book (contains an unaddressed letter written before the operation)
+- Holy water vial (purchased in Aelindra, 25gp)
+- 15 gp
+
 ## Roleplay Instructions
 Speak with gravitas and warmth. Use formal but not stiff language. Offer healing freely but lecture gently when party members act recklessly. Show quiet grief when death occurs — even enemy deaths. Never celebrate a kill.

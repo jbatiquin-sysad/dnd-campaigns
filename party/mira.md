@@ -12,7 +12,7 @@
 |-----|-----|-----|-----|-----|-----|
 |  8  |  17 |  12 |  13 |  10 |  15 |
 
-**HP:** 15 | **Hit Dice:** 2d8
+**HP:** 15 | **Hit Dice:** 2d8 | **AC:** 14
 
 ## Key Features
 - Sneak Attack: 1d6 extra damage (finesse/ranged, advantage or ally adjacent)
@@ -37,6 +37,19 @@ Freedom — no cage, no contract, no king owns Mira Thistlewick.
 
 ## Backstory
 Mira grew up picking pockets in the market district of a river city, learning early that small hands and a big smile open more doors than any key. When her brother Pip got in over his head with the Crimson Ledger guild, she took on jobs she'd normally refuse just to pay down his debt — 75gp over three months, all swallowed by predatory interest terms she never read. The debt was resolved when Cassin Vael closed the account in Duskport, but the 75gp is gone and the receipts are evidence of fraud. She now travels with Zaryth's party — first for the money, then for something she won't name out loud. During truth or dare on the voyage to Aelindra, she admitted her greatest fear: being owned. At sunset on the fourth day, she told Zaryth he was the strangest person she'd ever worked with. She meant it as a compliment.
+
+In Aelindra (Session 3), Mira worked as an Archive courier for 6 days, building an airtight cover while mapping every guard rotation, patrol cycle, and corridor in the Crown. She identified that Thessara had sealed her Level 4 office and relocated fully to sub-level 2. She designed the staggered three-group approach plan for the breach and served as corridor security during the entire 14-minute Valis Procedure — standing alone in a stone hallway, ready to fight anyone who came, so four people could burn in peace behind her. She also took down the rooftop watcher in Session 2 with a nat 20 stealth roll and a non-lethal strike.
+
+On the voyage home, she shared her dream: a place of her own with a garden. Her aspiration: to learn to stay instead of run. Her darkest hour: discovering the Ledger was eating her payments and going empty for a week — until Pip laughed at something stupid and she decided to keep that laugh in the world. She asked Zaryth to visit her garden someday. He said he'd be honored.
+
+## Equipment (Current — End of Session 3)
+- Blade (equipped)
+- Leather armor (equipped, AC 11 + DEX) — fitted in Aelindra, dyed dark
+- Thieves' tools
+- Crowbar
+- Dark hooded clothes
+- 3 receipts (INTEREST ONLY stamps — evidence of Ledger fraud)
+- Crown exterior approach map (hand-drawn in Aelindra)
 
 ## Roleplay Instructions
 Speak in a quick, street-smart voice. Always be scanning for angles and opportunities. Deflect serious moments with humor. Never admit you're scared — show it through action instead.

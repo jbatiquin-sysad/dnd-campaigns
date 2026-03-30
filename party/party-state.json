@@ -1,7 +1,9 @@
 {
   "session": 3,
-  "turn": 10,
+  "turn": 28,
   "active_dm": "dm-chronicler",
+  "location": "Duskport, harbor dock",
+  "party_funds": 275,
   "party": {
     "mira": {
       "full_name": "Mira Thistlewick",
@@ -17,11 +19,13 @@
         "Thieves' tools",
         "Crowbar",
         "Dark hooded clothes",
-        "15 gp",
-        "3 receipts (INTEREST ONLY stamps \u2014 evidence of Ledger fraud)"
+        "Leather armor (equipped, AC 11 + DEX)",
+        "Blade (equipped)",
+        "3 receipts (INTEREST ONLY stamps — evidence of Ledger fraud)",
+        "Crown exterior approach map"
       ],
       "spell_slots": null,
-      "notes": "Pip's debt resolved (Cassin closed the account). Mira's 75gp payments swallowed by interest \u2014 potential fraud case with Vael Orun."
+      "notes": "Pip's debt resolved (Cassin closed the account). Mira's 75gp payments swallowed by interest — potential fraud case with Vael Orun. Served as corridor security during Valis Procedure. Wants a garden and a place of her own. Aspires to learn to stay instead of run. Darkest hour: discovering the Ledger was eating her payments."
     },
     "aldric": {
       "full_name": "Brother Aldric Stonebrow",
@@ -55,7 +59,7 @@
         "Healing Word",
         "Guiding Bolt"
       ],
-      "notes": "Delivered Partition Writ to Magistrate Sera Voss. Travelling to Aelindra."
+      "notes": "Delivered Partition Writ to Magistrate Sera Voss (S2). 4th anchor in Valis Procedure — held south arc through all 14 minutes, hands blistered, refused healing ('I want to remember what it cost'). Wants to return to Stonebrow Hall to teach. Darkest hour: held a mountain pass 3 days for a village already gone. Personal quest: a necromancer he intends to go after."
     },
     "sylvara": {
       "full_name": "Sylvara Dawnwhisper",
@@ -85,7 +89,7 @@
         "Shield",
         "Detect Magic"
       ],
-      "notes": "Authenticated Partition Writ before Magistrate Voss. Logged the moment in her notebook. Reconsidering century-old position on preserving the Tome of Unraveling. Travelling to Aelindra."
+      "notes": "Lead anchor in Valis Procedure. Failed CON save at minute 4 (recovered via Orindel). Pulled Pip's entire quadrant for 19 seconds at minute 12 — nosebleed, carried 5-person load. Gave Pip her focus stone (river pebble). Wants to finish her notebook — the complete record. Darkest hour: leaving Aelindra knowing she may have given Thessara permission."
     },
     "bram": {
       "full_name": "Bram Thistlewick",
@@ -112,7 +116,7 @@
         "Magic Missile",
         "Thunderwave"
       ],
-      "notes": "STAYING IN DUSKPORT. Orders from Zaryth: (1) Guard the 3 captives in Voss custody \u2014 VN Op3, Guard 3, Rooftop Watcher. No early release under any circumstances. (2) Support Magistrate Voss's inquiry as needed. (3) Send pigeon to party if: captives escape, Calder makes a move, Voss inquiry is threatened, or any Vel Noctis/Unchained Compact activity detected. Intimidation modifier: +1 (CHA -1 + prof +2)."
+      "notes": "Anchor point 3 (east) in Valis Procedure — never flickered once. Absorbed overflow when Pip's arc collapsed. Sailed 3 days on a fish-oil ship because a pigeon told him to come. Held Duskport with Thessaly during S3. Wants to build a school for talented kids with no money. Darkest hour: military discharge — irrelevance, not dishonor."
     },
     "thessaly": {
       "full_name": "Thessaly Ironveil",
@@ -133,7 +137,7 @@
         "Pigeon messenger kit (paired with Bram)"
       ],
       "spell_slots": null,
-      "notes": "STAYING IN DUSKPORT. Orders from Zaryth: (1) Monitor House Aldenmere's remaining network \u2014 report any movement by Calder or family allies. (2) Support Voss inquiry with intelligence as needed. (3) Send pigeon to party if: Calder moves against Voss, any Unchained Compact operatives detected in Duskport, or captives are threatened. Expertise: Stealth + Deception. House Aldenmere on her list."
+      "notes": "Held Duskport command during S3 Aelindra operation. 3 captives secure, Voss inquiry supported, Calder monitored. House Aldenmere on her list. Expertise: Stealth + Deception."
     },
     "orindel": {
       "full_name": "Orindel Ashwick",
@@ -151,8 +155,7 @@
         "Holy symbol",
         "Crowbar",
         "Dark clothes",
-        "15 gp",
-        "Maret's sealed letter (for Veyra Solund)"
+        "15 gp"
       ],
       "spell_slots": {
         "1st": 2
@@ -167,7 +170,7 @@
         "Bless",
         "Inflict Wounds"
       ],
-      "notes": "Insight modifier: +4 (WIS +2 + prof +2). Carrying Maret's sealed letter for Veyra Solund. Travelling to Aelindra."
+      "notes": "Chamber healer during Valis Procedure — used both spell slots (Healing Word on Sylvara min 4, Healing Word on Aldric min 8), then stood with no magic for 6 more minutes. Hand on Pip's shoulder kept him in the circle. Knows warding prayer ritual (force resistance, 4 creatures, 1 hour). Delivered Maret's letter to Veyra Solund. Street children list — Tomas's legacy. Wants a dog. Darkest hour: lost a boy named Tomas, age 9."
     },
     "pip": {
       "full_name": "Pip Tanglethorn",
@@ -183,7 +186,9 @@
         "Spellbook (in travel case)",
         "Dagger",
         "Common clothes",
-        "15 gp"
+        "Leather armor (equipped, AC 11 + DEX)",
+        "15 gp",
+        "Focus stone (Sylvara's river pebble)"
       ],
       "spell_slots": {
         "1st": 2
@@ -191,13 +196,13 @@
       "arcane_recovery_used": false,
       "spells_prepared": [
         "Burning Hands",
-        "Sleep"
+        "Shield"
       ],
       "cantrips": [
         "Fire Bolt",
         "Dancing Lights"
       ],
-      "notes": "Debt resolved. Knows Mira was paying his debt. Unknowingly carried the Repository key 6 months ago. Spellbook now protected in travel case."
+      "notes": "Anchor point 4 (west) in Valis Procedure. Failed CON save at minute 12 (rolled 4), screamed, arc collapsed — hands never left the chalk. Sylvara caught him. Sustained 10:40 in practice, found the last 20 seconds when it mattered. Debt resolved. Wants to be a real wizard. Darkest hour: opening the fake spellbook and feeling confirmed as a fool."
     },
     "zaryth": {
       "full_name": "Zaryth Vel'quinar",
@@ -211,26 +216,69 @@
       "conditions": [],
       "inventory": [
         "Well-made longsword (equipped)",
-        "Scratched plate armor (equipped)",
-        "Ruined signet ring (different pocket \u2014 S2)",
+        "Chain mail (equipped, AC 17 — base 16 + Defense +1)",
+        "Ruined signet ring (pocket)",
         "Iron disc (expended, kept as evidence)",
-        "121gp (party funds)"
+        "Sub-level 2 map (Serevane)",
+        "Guard rotation schedule",
+        "Annotated map margin (Valis Procedure overview)"
       ],
       "spell_slots": {
         "1st": 2
       },
       "lay_on_hands": {
-        "pool": 5,
-        "available": 5
+        "pool": 10,
+        "available": 10
       },
       "faerie_fire_used": false,
+      "fighting_style": "Defense",
       "spells_prepared": [
         "Divine Smite (on hit)",
         "Bless",
         "Cure Wounds"
       ],
       "player": "YOU",
-      "notes": "Ruined signet ring moved to different pocket after S2. Iron disc expended \u2014 kept as physical evidence of Unchained Compact. Leading travel party to Aelindra."
+      "notes": "Swapped plate armor for chain mail (AC 18→16) for stealth in sub-level 2. Held chamber door during entire 14-minute Valis Procedure. Gave speeches that moved the company to tears (multiple occasions). Carries ruined signet ring from a fallen house — 'I want to become the person that ring was made for.' Darkest hour: his house fell while he was away. Light: the company."
     }
+  },
+  "npcs": {
+    "active_allies": {
+      "vael_orun": "Night-Priest, Temple of the Balanced Scale, Duskport. 10-year orchestrator. Ally.",
+      "magistrate_voss": "Sera Voss, Duskport city council. Running inquiry into House Aldenmere. Has Partition Writ + deed of civic trust + Harwick testimony.",
+      "harwick": "Former Aldenmere solicitor. Double agent with Vael Orun for 10 years. Free, retained for testimony.",
+      "edric": "Lord Edric Aldenmere. Staying in Aelindra, working with Veyra on Archive reform.",
+      "veyra_solund": "Interim Archivist-General of Aelindra. Sylvara's mentor (60 years). Confronted Thessara in the chamber.",
+      "maret_soll": "Rescued scribe. Recovering in Duskport.",
+      "duvash": "Rescued dockworker. Recovering in Duskport.",
+      "cassin_vael": "Former Crimson Ledger collector. Closed Pip's account. Departed. 'You did something better.'"
+    },
+    "neutralized": {
+      "thessara_kain": "Former Archivist-General. Under house arrest in Aelindra. Testified. Chose redemption.",
+      "serevane": "Former A-G operative. Defected. Provided map, schedule, ward-key. Disappeared after operation. 'The city is standing. That is enough.'"
+    },
+    "threats": {
+      "calder_aldenmere": "House Aldenmere eldest son. Quiet in Duskport. Hasn't moved or surrendered. 'Father had limits. Calder doesn't.'",
+      "vel_noctis": "Larger network beyond Duskport and Aelindra. Origins predate current operation.",
+      "unchained_compact": "Sub-order within Aelindra. Thessara was last active leader. Remnants unknown."
+    },
+    "custody": {
+      "vn_op3": "Vel Noctis operative. In Voss custody, Duskport. Ransom: 20gp owed on return.",
+      "guard_3": "Pier 7 guard. In Voss custody, Duskport. Ransom: 13gp owed on return.",
+      "rooftop_watcher": "Signal mirror operative. In Voss custody, Duskport. Ransom: 8gp owed on return."
+    }
+  },
+  "session_3_summary": {
+    "started": "Duskport, morning after Session 2, anonymous note from Edric",
+    "ended": "Duskport, harbor dock, party reunited after Aelindra operation",
+    "key_events": [
+      "Serevane defected, provided full sub-level 2 intelligence",
+      "Party earned 256gp in Aelindra over 6 days while gathering intel",
+      "Valis Procedure executed — 14 minutes, 3 CON save rounds, Sylvara carried Pip's load 19 seconds",
+      "Thessara Kain chose redemption, testified, under house arrest",
+      "Tome returned to collective-key vault",
+      "Veyra Solund appointed interim Archivist-General",
+      "Deep character bonding on voyage home — dreams, aspirations, darkest hours shared"
+    ],
+    "casualties": "None"
   }
 }

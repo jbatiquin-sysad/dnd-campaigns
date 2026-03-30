@@ -13,21 +13,21 @@ A D&D 5e campaign run via [Kiro CLI](https://kiro.dev) using subagents as party 
 ## How to Resume a Session
 
 1. Open terminal, run `kiro-cli chat`
-2. Say: *"Resume our DnD session — load memory_layer.md and party-state.json from the duskport-campaign folder"*
+2. Say: *"Resume our DnD session — load memory_layer.md and party-state.json from duskport-campaign"*
 3. Pick a DM and go
 
 ## The Party
 
-| Character | Race | Class | Alignment |
-|-----------|------|-------|-----------|
-| **Zaryth Vel'quinar** | Drow | Paladin | CG — *you* |
-| Mira Thistlewick | Lightfoot Halfling | Rogue | CN |
-| Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | LG |
-| Sylvara Dawnwhisper | High Elf | Wizard | NG |
-| Bram Thistlewick | Stout Halfling | Wizard | LN |
-| Thessaly Ironveil | Mountain Dwarf | Rogue | CN |
-| Orindel Ashwick | Wood Elf | Cleric (Life) | NG |
-| Pip Tanglethorn | Lightfoot Halfling | Wizard | CN |
+| Character | Race | Class | Level | Alignment |
+|-----------|------|-------|-------|-----------|
+| **Zaryth Vel'quinar** | Drow | Paladin | 2 | CG — *you* |
+| Mira Thistlewick | Lightfoot Halfling | Rogue | 2 | CN |
+| Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | 2 | LG |
+| Sylvara Dawnwhisper | High Elf | Wizard (Evocation) | 2 | NG |
+| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 2 | LN |
+| Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 2 | CN |
+| Orindel Ashwick | Wood Elf | Cleric (Life) | 2 | NG |
+| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 2 | CN |
 
 ## The DMs
 
@@ -54,7 +54,9 @@ duskport-campaign/
 │   ├── dm-chronicler.md
 │   └── dm-storyteller.md
 └── sessions/
-    └── session-01.md        ← Session 1 summary
+    ├── session-01.md
+    ├── session-02.md
+    └── session-03.md
 ```
 
 ## Session Log
@@ -63,19 +65,34 @@ duskport-campaign/
 |---------|-------|----|---------|
 | 1 | The Partition Writ | The Chronicler | Writ secured. Maret + Duvash rescued. House Aldenmere exposed. |
 | 2 | The Civic Trust | The Storyteller | Writ delivered to Magistrate Voss. Harwick turned. Edric testified (nat 20). Harbor acquisitions frozen. |
-| 3 | The Unchained Compact | The Chronicler | *In progress.* Vel Noctis traced to Aelindra. Party levelled to 2. Sailed north. Safehouse established. Veyra contacted. |
+| 3 | The Archivist's Fire | The Chronicler | Party traveled to Aelindra. Serevane defected. Valis Procedure executed (14 min). Tome discharged. Thessara chose redemption. Veyra appointed interim Archivist-General. |
 
-## Current Status (Session 3 — Paused)
+## Current Status (End of Session 3)
 
-**Location:** The Inkwell, Cartographers' Quarter, Aelindra.
+**Location:** Duskport, harbor dock. Party reunited.
 
 **Party Level:** 2 (all characters)
 
-**Three decisions on resume:**
-1. Meet Serevane before filing the Writ of Inquiry?
-2. Prepare for the senior archivist council session (2 days)
-3. Investigate where the Archivist-General relocated the Tome
+**Party Funds:** ~275gp
 
-**Active threats:** Serevane circling (third watcher near Inkwell). Archivist-General chairs the council. Archive detection ward logged party's magic.
+**Party HP:** All full. All resources restored.
 
-**Party HP:** All full. ~116gp remaining.
+**Key Outcomes:**
+- Tome of Unraveling: inert, returned to collective-key vault in Aelindra
+- Thessara Kain: under house arrest, testified, chose redemption
+- Veyra Solund: interim Archivist-General
+- Edric Aldenmere: staying in Aelindra for Archive reform
+- Serevane: disappeared ("The city is standing. That is enough.")
+- Duskport: 3 captives in Voss custody, inquiry active, Calder quiet
+
+**Open Threads for Session 4:**
+- Calder Aldenmere — quiet, dangerous, hasn't surrendered
+- Voss inquiry — ongoing, party statements needed
+- Vel Noctis / Unchained Compact — larger network beyond Duskport and Aelindra
+- Aldric's necromancer — personal quest
+- Orindel's street children — ongoing commitment
+- Individual aspirations: Mira's garden, Pip's education, Bram's school, Sylvara's notebook, Aldric's monastery, Orindel's dog
+- Zaryth's ruined signet ring — his fallen house, still unspoken
+- Serevane's whereabouts
+- Thessaly's list
+- The deep vaults — what's sealed beneath Aelindra?

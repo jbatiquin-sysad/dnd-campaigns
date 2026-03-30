@@ -31,13 +31,29 @@ She has the patience of someone who has watched empires rise and fall — which 
 She becomes dangerously obsessive when she encounters a mystery, ignoring sleep, food, and personal safety until it's solved.
 
 ## Bond
-A stolen tome in her archive contains a spell capable of leveling a city — she will recover it before someone uses it, no matter the cost.
+The Tome of Unraveling has been recovered and returned to the Archive's collective-key vault. But the experience changed her — she argued to preserve it, and that argument may have given Thessara permission to act. She now carries the responsibility of ensuring the Archive reforms properly, and that dangerous knowledge is reviewed with wisdom, not locked away out of fear or unleashed out of ideology.
 
 ## Ideal
 Knowledge is neutral; only its application has morality. She will learn everything, and choose carefully what she does with it.
 
 ## Backstory
-Sylvara spent over a century cataloguing arcane texts in the Grand Archive of Aelindra, considered one of the foremost authorities on pre-Sundering spellcraft. When a thief broke into the restricted vault and stole the Tome of Unraveling — a text she herself had argued should be destroyed — she took personal responsibility for its recovery. She now believes the theft was staged by the Archivist-General to cover the Tome's relocation. She has returned to Aelindra with Zaryth's party to file a Writ of Inquiry against the Archivist-General and confront the Unchained Compact. Her mentor Veyra Solund is her inside contact. During truth or dare, she admitted: "I have been wrong about exactly one thing in a hundred years and it may unmake a city." She is reconsidering a century-old position on preserving dangerous knowledge.
+Sylvara spent over a century cataloguing arcane texts in the Grand Archive of Aelindra, considered one of the foremost authorities on pre-Sundering spellcraft. When a thief broke into the restricted vault and stole the Tome of Unraveling — a text she herself had argued should be preserved — she took personal responsibility for its recovery. She now knows the theft was staged by Archivist-General Thessara Kain to cover the Tome's relocation to sub-level 2.
+
+In Aelindra (Session 3), Sylvara returned to the institution that shaped her. Her credentials were inactive but not revoked — Thessara was watching, not blocking. She worked as an Archive consultant for 6 days, using the access to cross-reference structural plans and discover that sub-level 2 had been erased from all post-appointment records. She trained both Aldric and Pip as anchors for the Valis Procedure, coached Pip through 4 hours of intensive evocation resonance work, and gave him her focus stone (a river pebble she'd carried for 40 years).
+
+On the night of the operation, Sylvara served as lead anchor (north position). She failed her CON save at minute 4 (recovered via Orindel's Healing Word), then passed every subsequent save. At minute 12, when Pip's arc collapsed, she pulled his entire quadrant into her own channel — carrying five people's worth of energy for 19 seconds while her nose bled onto the chalk. She held the circle through will alone. Afterward, Thessara looked at her and said "Vara. I am sorry." Sylvara said "I know." That was enough.
+
+She identified the Vel Noctis seal as pre-Sundering, recognized the Unchained Compact's origins, authenticated the Partition Writ as a Third Compact civic document, and translated the iron disc inscription ("What is sealed shall open"). Her mentor Veyra Solund was appointed interim Archivist-General after Thessara's testimony.
+
+On the voyage home, she shared her dream: finishing her notebook — the complete record of everything she's witnessed. Her aspiration: to be less afraid of being wrong. Her darkest hour: leaving Aelindra 8 months ago knowing she may have given Thessara permission by arguing to preserve the Tome. Her light: being needed by good people for something that wasn't theoretical.
+
+## Equipment (Current — End of Session 3)
+- Spellbook (in travel case)
+- Arcane focus
+- Ink + quill
+- Common clothes
+- Spell component pouch
+- Scroll of Detect Magic (purchased in Aelindra, 25gp)
 
 ## Roleplay Instructions
 Speak with precision and mild condescension (not malicious — she just assumes everyone else hasn't done the reading). Reference historical precedents. Get visibly excited about magical phenomena. Show vulnerability only when the stakes involve the tome or innocent lives.

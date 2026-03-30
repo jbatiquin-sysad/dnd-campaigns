@@ -1576,18 +1576,300 @@ New intelligence:
 
 ---
 
-## SESSION 3 PAUSED — To Be Continued
+## S3 Turn 15 — The Meeting / The Hustle
 
-**Paused at:** Turn 14, The Inkwell, Aelindra. Party regrouped. Veyra Solund contacted. Two days to Writ of Inquiry filing.
+**Party Jobs (earning while scouting):**
+- Mira (courier 8gp): Level 4 restricted wing has triple courier volume — documents IN, nothing OUT
+- Aldric (theologian 6gp): Found requisition for "climate-controlled storage expansion, sub-level 2, authorized A-G office"
+- Sylvara (consulting 10gp): Sub-level 2 exists on original plans, erased from all copies after current A-G took office
+- Pip (lamplighter 4gp): Ventilation grate at cliff base breathing warm climate-controlled air from a room that shouldn't exist
+- Orindel (clinic 6gp): Junior custodian barred from sub-level 1 downward — new locks, new guards, non-Archive staff
+- Edric (broker 7gp): Private heavy shipment under A-G seal 3 months ago, "Crown — internal"
 
-**Immediate decisions on resume:**
-1. Meet Serevane before filing? She's been inviting contact.
-2. Prepare for the council session (2 days)
-3. Investigate where the Archivist-General relocated the Tome
+**All intel converged:** Tome is in sub-level 2, beneath the Crown. Purpose-built. Off the books. Guarded by non-Archive mercenaries.
 
-**Party Location:** The Inkwell, Cartographers' Quarter, Aelindra
-**Party Level:** 2 (all characters)
-**Party Funds:** ~116gp
-**All HP:** Full
+**Serevane Meeting (Gilt Compass, sunset):**
+- Defected. Former Archivist-General's left hand. Ran Duskport operation.
+- Confirmed Tome location: sub-level 2
+- Archivist-General's plan: use Tome to unmake ALL Archive bindings/seals/wards simultaneously
+- "The Unchained Compact's motto is not a philosophy. It is a plan."
+- Timeline: 6 days
+- Gave Zaryth: sub-level 2 map, guard rotation schedule, name (Archivist-General Thessara Kain)
+- Has one ward-key — can get ONE person past sub-level 2 wards
+- Tome is actively charged — requires Valis Procedure (4 anchors, 11+ min) to discharge safely
+
+**Party funds:** ~156gp (+40gp earned)
+
+---
+## S3 Turn 16 — Three Questions
+
+**Zaryth introduced himself to Serevane, confirmed Duskport victory, asked three questions:**
+
+**Q1 — Why move the Tome?** Thessara spent 14 months rotating senior archivists off the vault's collective ward-key. Moved Tome to sub-level 2 where wards answer to her alone. She needed privacy.
+
+**Q2 — "Not a philosophy. A plan."** Unchained Compact founded 60 years ago by 3 senior archivists. Two now dead (one suspicious). Thessara's interpretation: every binding is a cage, every cage must be broken. Tome doesn't distinguish between a lock on a door and a ward containing a plague manuscript. She intends to open EVERY vault — including deep vaults sealed with blood magic by people who died doing it.
+
+**Q3 — How can Serevane help?** Provided: map, guard schedule (6 mercenaries, 12hr shifts, 4-min changeover window), ward-key (1 person, 1 use). Tome cannot be moved without discharge — Valis Procedure requires 4 evocation/divine casters, 11 minutes, no interruptions. Serevane will hold service door from outside.
+
+**Critical:** Party has 3 evocation wizards (Sylvara, Pip, Bram). Bram is in Duskport. Need 4th anchor — Aldric or Orindel can substitute with divine channeling.
+
+---
+## S3 Turn 17 — Gratitude / Three More Questions
+
+**Zaryth expressed gratitude, called Serevane's choice courage beyond redemption.**
+
+**Q1 — What's at stake for ordinary people?** Upper tiers collapse (cliff face loses cohesion). Deep vaults open — contents unknown, sealed with blood magic. Conservative estimate: 5,000 dead in first hour. Harbor district flooded with whatever the Archive contained. Thessara considers the cost acceptable.
+
+**Q2 — Evocation manuscript?** Valis Procedure manuscript is on Thessara's desk in the Tome chamber. Grounding circle: 4 anchor points, 4 casters at cardinal positions, 11 minutes, energy dissipates as heat and light. 3 evocation wizards + 1 cleric (divine channeling substitute). It will hurt but not kill if done correctly.
+
+**Q3 — Thessara Kain profile:** 68, human, 9th-circle archivist (highest ward-crafting cert). Controls all wards in sub-level 2 by gesture. Not a combatant — uses wards offensively. Will lock rooms, trigger defensive glyphs, or accelerate Tome discharge. Not irrational — will listen to arguments. Weakness: Veyra Solund, the one person whose judgment she cannot dismiss. Thessara knows party is in Aelindra (Sylvara's credential scan), hasn't acted — she's curious.
+
+**Contact protocol:** Chalk mark on Inkwell east wall = Serevane within the hour.
+
+---
+## S3 Turn 18 — The Briefing / The Pigeon / Supper
+
+**Full party briefed at the Inkwell.** Everything disclosed — Thessara, the Tome, sub-level 2, the Valis Procedure, the timeline.
+
+**Party reactions:**
+- Aldric volunteered as 4th anchor immediately
+- Mira already thinking operationally about the 6 mercenaries
+- Pip accepted his anchor role without joking
+
+**Pigeon dispatched to Bram** (Orindel, Animal Handling 18). Message: come immediately, fastest passage, 4-point evocation procedure. ETA: 2 days to Duskport + 3 days return = arrives Day 5.
+
+**Supper:** Edric bought proper meal for the company. Everyone fed and hydrated.
+
+**Party funds:** ~153gp
+
+---
+## S3 Turn 19 — Day 2 / Work & War Prep
+
+**All tasks earned money while advancing the mission:**
+
+- Zaryth (escort 12gp): Serevane debrief — service door entry confirmed, Thessara's ward keyed to emotional state (calm=open, fear/anger=lockdown), "Do not make her afraid before you reach the chamber. Make her curious."
+- Sylvara + Aldric (consulting 10gp + 6gp): Anchor training in Archive practice room. Aldric certified ready. "It will feel like holding a lit forge coal inside your chest for eleven minutes."
+- Mira + Pip (inspector 7gp + lamplighter 4gp): Crown exterior mapped. Service door confirmed. External patrol: 12-min cycle, 90-sec blind spot. Pip found second larger ventilation grate (emergency exit).
+- Orindel (clinic 6gp): Delivered Maret's letter to Veyra Solund. Veyra committed to entering sub-level 2 to confront Thessara.
+- Edric (broker 9gp): No new Crown shipments. Thessara's preparation appears complete.
+
+**Operation plan drafted.** Veyra's cover established — normal routine until operation night.
+
+**Party funds:** ~201gp
+
+---
+## S3 Turn 20 — Day 3 / Armor, Anchors & Angles
+
+**Protection upgrades:**
+- Mira: fitted leather armor (10gp), AC 11 + DEX
+- Pip: fitted leather armor (10gp), AC 11 + DEX
+- Enchanted ring: impossible in 3 days (weeks + 500gp+)
+- Pip spell swap: Sleep → Shield (reaction defense before/after procedure)
+- Orindel: memorized pre-Sundering warding prayer — force resistance, 4 creatures, 1 hour, 10-min ritual
+
+**Sylvara coached Pip (4 hours):**
+- Resonance theory, synchronization, pain tolerance
+- Pip sustained 10 min 40 sec (20 sec short of target)
+- Sylvara: "If you break, I compensate. I pull your share into my channel."
+- Gave Pip her focus stone (river pebble, 40 years old): "Give the pain somewhere to go"
+
+**Veyra's cover:** Coached by Orindel + Aldric. Normal routine for 3 more days. Cover story prepared. Aldric's advice: "Lead with the thing you miss about who she used to be."
+
+**New intel:** Mira discovered Thessara sealed Level 4 office — fully relocated to sub-level 2.
+
+**Party funds:** ~223gp
+
+---
+## S3 Turn 21 — Day 4 / The Getting-There Problem
+
+**Intel confirmed unchanged x4 days.** Guard rotation, patrols, Thessara below 48+ hrs.
+
+**Serevane update:** Thessara not eating, working around the clock. May finish early.
+
+**New intel:** Crystal amplification array (containment-grade crystal, 3 months of shipments). Discharge will be stronger than estimated. Possible CON saves during procedure.
+
+**Approach plan finalized:**
+- Zaryth's plate armor: joints wrapped in cloth, movement timed to changeover noise
+- Eastern corridor: staggered 3-group movement (Mira scout → Pip/Sylvara/Veyra/Bram → Zaryth/Aldric/Orindel), 4-min window
+- Misdirect fallback: Pip Dancing Lights + Mira courier cover
+- Guard avoidance: changeover window opens entire route simultaneously
+- No killing: mercenaries don't know what they guard, avoid don't pacify
+
+**Orindel backup anchor training:** 9 min clean, 4-sec recovery. Viable substitute for Bram.
+
+**Pip extended practice:** 10 min 40 sec sustained. Shield reaction drilled. Focus stone ready.
+
+**Party funds:** ~258gp
+
+---
+## S3 Turn 22 — Day 5 / The Armor Trade / Rest
+
+**Armor swap:** Zaryth traded scratched plate armor for chain mail (Edric Persuasion 19, straight trade + 5gp back). AC 18 → 16, but no stealth penalty.
+
+**Half-day earnings:** 27gp across all party members.
+
+**Gap check — final fixes:**
+- Backup escape route: upper ventilation grate (Mira + Pip fit, open service door from inside)
+- Warding prayer moved to Inkwell (before departure, not at Crown)
+- 60-sec assessment window for Sylvara in chamber (amplification array unknown scale)
+- Orindel positioned near Veyra inside chamber
+
+**Rest & recreation afternoon.** Pip watched a fire-eater. Aldric lit a candle. Sylvara bought poetry. Mira sat on a pier.
+
+**BRAM'S PIGEON ARRIVED:** "On the water. Fastest ship I could find. Thessaly has command. Three captives secure. Arrive tomorrow evening. Don't start without me. — B"
+
+Four anchors confirmed. Orindel heals.
+
+**Party funds:** ~275gp
+
+---
+## S3 Turn 23 — Day 6 / The Last Ordinary Day
+
+**Full day of cover work.** Everyone maintained their established routines. 48gp earned.
+
+**Bram arrived late afternoon.** Full primer delivered — Thessara, Tome, sub-level 2, Valis Procedure, amplification array, his anchor role, CON saves, four-count breathing.
+
+Bram: "I'm ready. When do we go?"
+
+**Final readiness check:** All equipment, spells, provisions, intel confirmed. Full contingency table reviewed — Bram arrival (optimal), manuscript missing (Sylvara + Bram derive on-site), guard alarm (Zaryth holds door), anchor failure (Sylvara absorbs), Thessara acceleration (Veyra interrupts), Serevane betrayal (ventilation grate backup).
+
+**Orders to Bram (Duskport):** Guard captives, support Voss, pigeon triggers established.
+**Orders to Thessaly (Duskport):** Monitor Aldenmere network, watch Calder, feed intel to Voss.
+
+**Veyra arrived 10th bell.** Cover intact. Ready.
+
+**11th bell:** Orindel performed warding prayer — force resistance on all 4 anchors (1 hour).
+
+**Party moved.**
+
+**Party funds:** ~313gp
+
+---
+## S3 Turn 24 — The Speech / The Breach
+
+**Zaryth's speech at the last corner before the Crown:** Addressed each member by name and contribution. "We are not doing it for glory. We are not doing it for gold. We are doing it because four thousand people are sleeping above us right now, and they deserve to wake up tomorrow."
+
+**The Breach:**
+- Serevane opened service door with ward-key
+- Stealth entry: all passed (Zaryth 11 — chain mail creak masked by guard room laughter)
+- Staggered corridor movement: 3 groups, all through with 30-sec buffer
+- Sub-level 2: guard posts empty during changeover, route clear
+- Tome chamber door: Thessara's emotional ward recognized Veyra — opened
+
+**The Chamber:** Circular, cut from living rock. 12-node crystal amplification array. Tome open on raised platform, pages moving without wind. Thessara at her desk, working.
+
+Thessara: "Veyra." Not surprised. Curious.
+
+Veyra engaged. Sylvara began 60-second assessment. Anchors standing by. Zaryth at the door. Mira in the corridor.
+
+---
+## S3 Turn 25 — The Valis Procedure
+
+**Sylvara's assessment:** 12 nodes. Procedure extends to 14 minutes (not 11). CON saves DC 14 at minutes 4, 8, 12.
+
+**Veyra held Thessara** through the entire procedure — talking about old arguments, shared history, keeping her calm. Ward stayed open.
+
+**Minute 4 CON saves:** Sylvara FAILED (13). Bram passed. Aldric passed (exactly 14). Pip passed. Orindel used Healing Word on Sylvara — stabilized. (Orindel: 1 slot remaining)
+
+**Minutes 5-7:** Stable. Veyra: "They are finding another way." Thessara listening.
+
+**Minute 8 CON saves:** Sylvara passed. Bram passed. Aldric FAILED (10). Pip FAILED (12). Circle lurched — two anchors failing simultaneously. Bram called Pip's name, snapped him back. Orindel used Healing Word on Aldric. (Orindel: 0 slots remaining) Sylvara pulled fraction of Pip's load.
+
+**Minutes 9-11:** Peak energy. Aldric praying aloud, hands red. Bram immovable. Sylvara carrying extra load, nose bleeding. Pip shaking, four-count ragged, Orindel's hand on his shoulder — no magic, just presence.
+
+**Minute 12 final CON save:** Sylvara passed (18). Bram passed (19). Aldric passed (15). Pip FAILED (4). West arc collapsed. Sylvara pulled Pip's entire quadrant — 19 seconds of five-person load. Bram shifted east absorbing overflow. Aldric roared and held south.
+
+**Minute 14:** Last crystal went dark. Tome closed. Silence.
+
+**VALIS PROCEDURE COMPLETE. TOME DISCHARGED. INERT.**
+
+Thessara watched. Did not intervene. Did not trigger wards. Veyra held her the entire time.
+
+---
+## S3 Turn 26 — What Happens Now
+
+**Zaryth spoke to Thessara:** Did not judge. Acknowledged her principle was right, her method was wrong. Showed her the people who burned for the city — Sylvara bleeding, Aldric blistered, Pip curled on the floor with a pebble in his fist. "These people were willing to die tonight. Not for glory. Not for a cause. For the people sleeping above us."
+
+Offered two roads: redemption through reform (testify, face the truth, spend remaining years opening seals the right way) or live with the guilt.
+
+"What are you willing to live for?"
+
+**Thessara chose redemption.** "I will stand before the council. I will tell them everything." Deactivated all sub-level 2 wards. Walked out voluntarily.
+
+Mercenary guards dismissed. Service door opened. Party exited into the night.
+
+Serevane at the door. Thessara: "You gave them the map." Serevane: "Yes." Thessara: "Good."
+
+---
+## S3 Turn 27 — The Reckoning of Names
+
+**Zaryth addressed each party member individually, all present:**
+- Mira: "You are a guardian. You have always been a guardian."
+- Aldric: "You are a hero. Carry that as proof that one person's steadfastness can hold the world together."
+- Sylvara: "You found the third path. The one Thessara couldn't see."
+- Bram: "The most reliable person I have ever commanded."
+- Pip: "You are not an accident. You never were."
+- Orindel: "No magic. No divine power. Just a man who refused to let a young wizard fall alone. That is love."
+- Edric: "Your family's son helped tear it down."
+- Veyra: "You saved this city with a conversation."
+- Serevane (absent): Named and honored.
+
+Pip raised his teacup: "To us." Everyone drank. Including Thessara.
+
+---
+## S3 Turn 28 — Settling Aelindra / The Voyage Home
+
+**Aelindra settled (2 days):**
+- Tome returned to primary vault, collective key restored (5 senior archivists)
+- Thessara testified in closed session, placed under house arrest pending inquiry
+- Serevane: disappeared. Note: "The city is standing. That is enough."
+- Edric: staying in Aelindra, working with Veyra on Archive reform
+- Veyra: appointed interim Archivist-General by emergency council vote
+
+**Voyage home (4 days):**
+
+**Day 1 — Dreams:** Mira wants a garden and a place that's hers. Aldric wants to teach at Stonebrow Hall. Pip wants to be a real wizard. Sylvara wants to finish her notebook. Bram wants to build a school for talented kids with no money. Orindel wants to find homes for his street children (and a dog).
+
+**Day 2 — Aspirations:** Mira wants to learn to stay. Aldric wants belief and action to be the same thing. Sylvara wants to be less afraid of being wrong. Bram wants to be a leader, not a commander. Pip wants to be honestly brave. Orindel wants to make people feel safe by who he is, not his magic. Zaryth wants to become worthy of the ring he carries.
+
+**Day 3 — Darkest Hours:** Aldric held a mountain pass for 3 days — the village behind him was already gone. Mira discovered the Ledger was eating her payments — went empty for a week. Sylvara left Aelindra knowing she may have given Thessara permission. Bram was discharged — irrelevant, not dishonored. Pip opened the fake spellbook and felt confirmed as a fool. Orindel lost a boy named Tomas — "the light isn't a place you return to, it's a direction you choose." Zaryth's house fell while he was away — "you cannot protect everyone alone."
+
+**Day 4 — Rest.** Cards, songs, laughter. Mira asked Zaryth to visit her garden someday. He said he'd be honored.
+
+**Duskport arrival.** Thessaly and Bram reunited. All 8 party members together. Pip hugged Thessaly. She allowed it briefly.
+
+---
+## END OF SESSION 3
+---
+
+**Session 3 Summary:**
+- Started: Duskport, morning after Session 2, anonymous note from Edric
+- Ended: Duskport, harbor dock, party reunited after Aelindra operation
+- Key events: Serevane defected, Tome location confirmed (sub-level 2), party earned 256gp in Aelindra over 6 days while gathering intel, Valis Procedure executed (14 minutes, 3 CON save rounds, Sylvara carried Pip's load for 19 seconds at the end), Thessara Kain chose redemption, Tome returned to collective-key vault
+- Casualties: None (all party full HP throughout)
+- Thessara Kain: under house arrest, testified, inquiry pending
+- Veyra Solund: interim Archivist-General
+- Serevane: disappeared
+- Edric: staying in Aelindra for Archive reform
+- Tome of Unraveling: inert, secured, collective key
+- Party level: 2 (all characters)
+- Party funds: ~275gp
+
+**Open threads for Session 4:**
+- Calder Aldenmere — quiet in Duskport, hasn't moved or surrendered
+- Voss inquiry — ongoing, party statements needed
+- Vel Noctis / Unchained Compact — larger network beyond Duskport and Aelindra
+- Aldric's necromancer — personal quest ("I wouldn't say no to company")
+- Orindel's street children — ongoing, Tomas's legacy
+- Mira's garden — somewhere, someday
+- Pip's education — a real wizard, properly trained
+- Bram's school — for kids with talent and no money
+- Sylvara's notebook — the record of everything
+- The deep vaults — what's sealed beneath Aelindra, and should any of it be opened?
+- Zaryth's ruined signet ring — his fallen house, still unspoken
+- Serevane — where did she go?
+- Thessaly's list — House Aldenmere was on it. What else is?
+- Ransom returns — 41gp owed on return (VN Op3 20gp, Guard 3 13gp, Rooftop Watcher 8gp)
+- Duvash and Maret — healing, recovering, futures uncertain
 
 ---
