@@ -33,6 +33,7 @@ A D&D 5e campaign run via [Kiro CLI](https://kiro.dev) using subagents as party 
 
 - **`dm/dm-chronicler.md`** — Aldric Voss, The Chronicler. Strict RAW, tactical, no fudged dice. *"The record stands."*
 - **`dm/dm-storyteller.md`** — Mara Solenne, The Storyteller. Narrative-first, cinematic, improv-friendly. *"Close your eyes for just a moment."*
+- **`dm/dm-wildcard.md`** — Corvus Chance, The Wildcard. Chronicler's strict RAW + Randy Random's chaos. d100 event rolls every in-game day. *"The dice don't care about your feelings. Neither do I. But I do find them fascinating."*
 
 ## File Structure
 
@@ -52,7 +53,8 @@ duskport-campaign/
 │   └── party-state.json     ← HP, spell slots, inventory, conditions
 ├── dm/
 │   ├── dm-chronicler.md
-│   └── dm-storyteller.md
+│   ├── dm-storyteller.md
+│   └── dm-wildcard.md
 └── sessions/
     ├── session-01.md
     ├── session-02.md
