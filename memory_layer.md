@@ -1994,21 +1994,136 @@ Changes: No HP/slot changes. Intel updated: Drest identified, Ashward target, Ca
 Changes: Drest unconscious in custody. Stolen document crate recovered. Serevane confirmed allied. Calder's full 3-phase plan known. No HP/slot changes for sprint team. Party split: Mira/Thessaly/Pip at Ashward, Zaryth/Aldric/Sylvara/Bram/Orindel at temple.
 
 ---
+## S4 Turn 6 — Arm Up / Split Strike
+
+**Random Event: d100 = 88 — WINDFALL**
+
+**Weapon Scavenge — Upgrades Equipped:**
+- Pip: studded leather from Drest → AC 14 (up from 13)
+- Mira: reinforced leather from Op A → AC 15 (up from 14); +hand crossbow + 10 bolts
+- Thessaly: +hand crossbow + 10 bolts
+
+**THE WINDFALL:** Thessaly found sealed letter in Drest's coat — Calder's own handwriting: "Drest — bring the original ledger to the Salted Crown. I will be there from eighth bell. The ship leaves at midnight. If the priest is dead, better. — C.A."
+
+**Three simultaneous operations planned:**
+1. PROTECT VOSS: Thessaly + Sylvara + Serevane → council chambers (assassin)
+2. INTERCEPT SHIP: Mira + Bram + Orindel → east harbor (midnight ship + captives)
+3. TAKE CALDER: Zaryth + Aldric + Pip → Salted Crown (8th bell)
+
+Vael Orun holds temple with Guard Pell, prisoners, and original ledger.
+
+## STATE SYNC — S4 Turn 6
+Changes: Pip AC 13→14 (studded leather). Mira AC 14→15 (reinforced leather), +hand crossbow. Thessaly +hand crossbow. Calder's letter = physical evidence + location intel.
+
+---
+## S4 Turn 7 — Three Fronts
+
+**Random Event: d100 = 31 — NEUTRAL EVENT** (assassin's hand twitch on door opening)
+
+**OPERATION 1 — PROTECT VOSS:**
+- Serevane neutralized 2 rooftop watchers silently. Calder's eyes on Voss = blind.
+- Thessaly entered council chambers via Position of Privilege.
+- Sylvara Detect Magic (scroll consumed, Arcana 23): identified assassin — 12th guard, inner door, abjuration amulet suppressing detection, concealed poisoned stiletto.
+- Thessaly Insight 18: confirmed — watching target, not threats.
+- Neutral event: assassin's hand twitched toward weapon when door opened — hair trigger.
+- Thessaly Deception 25: lured assassin to side corridor ("Voss wants you inside").
+- Thessaly non-lethal Sneak Attack (19 vs AC 15): 12 damage. Assassin DOWN.
+- Seized: poisoned stiletto (contact poison), abjuration amulet (suppresses detection magic).
+- **OPERATION 1: COMPLETE. Voss alive.**
+
+**OPERATION 2 — INTERCEPT SHIP:**
+- Mira (Stealth 23, Perception 16): identified ship — unnamed coastal runner, 3 guards, 3 captives on foredeck.
+- Orindel (Insight 23): captives cooperating willingly, not coerced. Pipe-smoker checking watch — expecting someone (Calder).
+- Bram coordinated with Sergeant Harren: 6 watchmen in half-circle, harbor chain raised at 11th bell.
+- Ship guards surrendered. Captives escorted off. Rooftop Watcher tried to run — Bram quarterstaff. Non-lethal.
+- Positive event (d100=52): ship captain cooperated — Calder booked one-way passage to Veldmere. Wasn't coming back.
+- Seized: 200gp lockbox, forged manifest, sealed letter to "S."
+- **3 captives RECAPTURED. Separate cells. Ship seized. Escape route closed.**
+
+**OPERATION 3 — TAKE CALDER:**
+- Pip positioned at back exit (Stealth 19). Burning Hands range.
+- Calder arrived at 8th bell. Private carriage, 1 bodyguard, 1 driver.
+- Zaryth + Aldric entered. Dining room cleared.
+- Zaryth presented evidence: Calder's letter, ledger page, iron disc.
+
+## STATE SYNC — S4 Turn 7
+Changes: Sylvara Scroll of Detect Magic consumed. All 3 operations executing. No HP/slot expenditure.
+
+---
+## S4 Turn 8 — The Question
+
+**Random Event: d100 = 52 — POSITIVE EVENT** (ship captain cooperated, already resolved in Op 2)
+
+**All fronts secured:**
+- Council chambers: assassin in custody, Voss safe, Thessaly + Sylvara guarding
+- East harbor: captives recaptured, ship seized, harbor chain up, Mira + Bram + Orindel holding
+- Salted Crown: Calder confronted by Zaryth
+
+**Calder's confession:** "Because my father asked me to." Lord Aldenmere told him "fix it" after Edric's betrayal. Calder was "the other son" — the one who does the ugly work. Believes his father chose him as expendable. Not asking for sympathy. Not resisting.
+
+**Zaryth asked: "Why are you doing this, Calder?"** — and received an honest answer.
+
+## STATE SYNC — S4 Turn 8
+Changes: All 3 operations complete/secured. Calder not resisting. Seized: 200gp lockbox, abjuration amulet, sealed letter to "S", forged manifest, ~85gp sellable weapons. No HP/slot changes.
+
+---
+## S4 Turn 9 — Redemption and Reckoning (PARTIAL)
+
+**Random Event: d100 = 74 — POSITIVE EVENT** (pending resolution on resume)
+
+**Zaryth to Calder:** "You are not your father. You never were." Offered path of redemption through due process — face justice through proper authorities, not the party. "May you receive proper due process. May you walk out the other side with a clean conscience."
+
+**Turn paused mid-speech.** Remaining items on resume: Calder handoff to authorities, 200gp vote, amulet assignment, sealed letter, weapon sales.
+
+---
 ## SESSION 4 PAUSED — To Be Continued
 
-**Paused at:** Turn 5, party split between Ashward warehouse and Temple of the Balanced Scale.
+**Paused at:** Turn 9 (mid-turn), The Salted Crown. Zaryth speaking to Calder Aldenmere.
 
-**Immediate decisions on resume:**
-1. Identify and neutralize the assassin inside the council chambers before 10th bell
-2. Intercept the midnight ship carrying the 3 escaped captives
-3. Find Calder Aldenmere — he's somewhere in the city waiting for results
-4. Identify the inside leak who gave Drest the temple floor plan
+**All three operations COMPLETE:**
+1. Voss assassination — PREVENTED. Assassin neutralized by Thessaly. Poisoned stiletto + abjuration amulet seized.
+2. Captive extraction — PREVENTED. 3 captives recaptured, separate cells. Ship seized, harbor chain up. Escape route closed.
+3. Calder confrontation — IN PROGRESS. Calder at the Salted Crown, not resisting. Zaryth offering words of redemption before handing him to authorities.
 
-**Party Location:** Split — sprint team at Ashward, main group at temple
-**Party Level:** 2 (all characters)
-**Party Funds:** ~60gp
-**Party HP:** All full. Sylvara 1/2 slots. Orindel 1/2 slots. All others full.
+**Unresolved items (mid-turn):**
+- Calder's handoff to Voss/city watch (pending)
+- 200gp lockbox — party vote on whether to keep
+- Abjuration amulet — assign to party member
+- Sealed letter to "S" — unopened, held by Zaryth
+- Forged ship manifest — evidence
+- Captured weapons — sell for gp
+- Calder's bodyguard — standing still, not intervening
 
-**Allies Present:** Serevane (Ashward), Vael Orun (temple, injured but mobile), 3 city watch guards (deployed)
+**Party Location:** Split across Duskport — converging
+- Zaryth + Aldric + Pip: Salted Crown (with Calder)
+- Thessaly + Sylvara: Council chambers (with Voss)
+- Mira + Bram + Orindel: East harbor (ship secured)
+- Serevane: Unknown position (rooftop watchers neutralized)
+- Vael Orun + Guard Pell: Temple (original ledger + prisoners)
+
+**Party Level:** 2 | **Party Funds:** ~60gp + 200gp lockbox (pending) + ~85gp sellable gear + amulet (~75-100gp)
+
+**Party Status:**
+| Character | HP | Slots | Key Notes |
+|-----------|----|-------|-----------|
+| Zaryth | 19/19 | 2/2 | LoH 10/10, Faerie Fire available, Healing Potion |
+| Mira | 15/15 | — | Light crossbow + hand crossbow, Healing Potion |
+| Aldric | 20/20 | 2/2 | Channel Divinity 1/1 |
+| Sylvara | 10/10 | 1/2 | Arcane Recovery available |
+| Bram | 11/11 | 2/2 | Full resources |
+| Thessaly | 16/16 | — | Hand crossbow |
+| Orindel | 15/15 | 1/2 | Channel Divinity 1/1 |
+| Pip | 10/10 | 2/2 | Studded leather AC 14 |
+
+**Random Events This Session:**
+| Turn | Roll | Category | Result |
+|------|------|----------|--------|
+| 1 | 07 | Catastrophic | Calder's coordinated strike on party's return |
+| 4 | 63 | Positive | Serevane sighting, confirmed allied |
+| 5 | 42 | Neutral | Drunk delayed mule cart |
+| 6 | 88 | Windfall | Calder's letter found on Drest — location + handwriting evidence |
+| 7 | 31 | Neutral | Assassin's hand twitch — hair trigger, accelerated Thessaly's plan |
+| 8 | 52 | Positive | Ship captain cooperated — revealed Calder's one-way escape to Veldmere |
+| 9 | 74 | Positive | (Pending resolution) |
 
 ---

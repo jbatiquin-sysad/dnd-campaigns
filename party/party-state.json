@@ -1,8 +1,8 @@
 {
   "session": 4,
-  "turn": 5,
+  "turn": 9,
   "active_dm": "dm-wildcard",
-  "location": "Duskport — split: Ashward warehouse + Temple of the Balanced Scale",
+  "location": "Duskport — split: Salted Crown + Council Chambers + East Harbor",
   "party_funds": 60,
   "party": {
     "mira": {
@@ -19,12 +19,13 @@
         "Thieves' tools",
         "Crowbar",
         "Dark hooded clothes",
-        "Leather armor (equipped, AC 11 + DEX)",
+        "Leather armor (equipped, AC 12 + DEX — reinforced, from temple Op A)",
         "Blade (equipped)",
         "3 receipts (INTEREST ONLY stamps — evidence of Ledger fraud)",
         "Crown exterior approach map",
         "Healing Potion (2d4+2)",
-        "Lookout's crossbow (taken from temple rooftop)"
+        "Lookout's crossbow (light crossbow + 14 bolts)",
+        "Hand crossbow + 10 bolts"
       ],
       "spell_slots": null,
       "notes": "Pip's debt resolved (Cassin closed the account). Mira's 75gp payments swallowed by interest — potential fraud case with Vael Orun. Served as corridor security during Valis Procedure. Wants a garden and a place of her own. Aspires to learn to stay instead of run. Darkest hour: discovering the Ledger was eating her payments."
@@ -78,8 +79,7 @@
         "Arcane focus",
         "Ink + quill",
         "Common clothes",
-        "Spell component pouch",
-        "Scroll of Detect Magic"
+        "Spell component pouch"
       ],
       "spell_slots": {
         "1st": 1
@@ -136,10 +136,11 @@
         "Signet ring (House Ironveil)",
         "Thieves' tools",
         "25 gp",
-        "Pigeon messenger kit (paired with Bram)"
+        "Pigeon messenger kit (paired with Bram)",
+        "Hand crossbow + 10 bolts"
       ],
       "spell_slots": null,
-      "notes": "Held Duskport command during S3 Aelindra operation. 3 captives secure, Voss inquiry supported, Calder monitored. House Aldenmere on her list. Expertise: Stealth + Deception."
+      "notes": "Held Duskport command during S3 Aelindra operation. S4: neutralized Voss assassin (Deception 25, Sneak Attack 12 dmg non-lethal). Lured him to side corridor solo. House Aldenmere on her list. Expertise: Stealth + Deception."
     },
     "orindel": {
       "full_name": "Orindel Ashwick",
@@ -188,7 +189,7 @@
         "Spellbook (in travel case)",
         "Dagger",
         "Common clothes",
-        "Leather armor (equipped, AC 11 + DEX)",
+        "Leather armor (equipped, AC 12 + DEX — studded, from Drest)",
         "15 gp",
         "Focus stone (Sylvara's river pebble)"
       ],
@@ -278,15 +279,26 @@
     "dm": "Corvus Chance, The Wildcard",
     "calders_plan": {
       "phase_1": "Evidence burn (temple) — FAILED. Original ledger saved. ~60% records intact. Stolen crate recovered.",
-      "phase_2": "Captive extraction — IN PROGRESS. 3 captives being moved to east harbor ship, midnight departure.",
-      "phase_3": "Assassinate Magistrate Voss — ACTIVE. Single operative inside council chambers posing as city watch. Strikes after 10th bell. ~5 hours remaining."
+      "phase_2": "Captive extraction — FAILED. 3 captives recaptured, separate cells. Ship seized. Harbor chain up.",
+      "phase_3": "Assassinate Magistrate Voss — FAILED. Assassin neutralized by Thessaly. Poisoned stiletto + abjuration amulet seized."
+    },
+    "calder_status": "Confronted at Salted Crown. Not resisting. Awaiting handoff to authorities.",
+    "seized_items": {
+      "lockbox": "200gp (pending party vote)",
+      "abjuration_amulet": "Suppresses detection magic (pending assignment)",
+      "sealed_letter_to_S": "Unopened (pending)",
+      "forged_manifest": "Evidence for Voss",
+      "sellable_weapons": "~85gp estimated (5x short swords, 2x hand axes, 1x light crossbow)"
     },
     "inside_leak": "Unknown. Someone drew detailed temple floor plan for Drest. Inside the inquiry.",
-    "calder_watchers": "2 operatives on rooftop near council chambers with signal mirror. Monitoring Voss.",
     "random_events": [
-      {"turn": 1, "roll": 7, "category": "Catastrophic", "result": "Calder's coordinated strike — temple attack + captive breakout"},
-      {"turn": 4, "roll": 63, "category": "Positive", "result": "Serevane sighting in Ashward, confirmed allied"},
-      {"turn": 5, "roll": 42, "category": "Neutral", "result": "Drunk delayed mule cart, gave sprint team extra time"}
+      {"turn": 1, "roll": 7, "category": "Catastrophic", "result": "Calder's coordinated strike"},
+      {"turn": 4, "roll": 63, "category": "Positive", "result": "Serevane confirmed in Duskport"},
+      {"turn": 5, "roll": 42, "category": "Neutral", "result": "Drunk delayed mule cart"},
+      {"turn": 6, "roll": 88, "category": "Windfall", "result": "Calder's letter found on Drest"},
+      {"turn": 7, "roll": 31, "category": "Neutral", "result": "Assassin hair-trigger twitch"},
+      {"turn": 8, "roll": 52, "category": "Positive", "result": "Ship captain revealed Calder's escape plan"},
+      {"turn": 9, "roll": 74, "category": "Positive", "result": "Pending resolution"}
     ]
   },
   "session_3_summary": {
