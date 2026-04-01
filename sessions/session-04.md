@@ -1,32 +1,54 @@
-# Session 4 — Calder's Gambit (In Progress)
+# Session 4 — Calder's Gambit / The Harrowgate Operation
 
 **DM:** Corvus Chance, The Wildcard
-**Turns:** 9 so far (S4 T1–T9, paused mid-T9)
+**Turns:** 18 (S4 T1–T18, paused at T18)
 **Party Level:** 2
+**Status:** PAUSED — Harrowgate secured, preparing to depart for Greymoor
 
-## Summary (So Far)
+## Summary
 
-The party returned to Duskport from Aelindra to find Calder Aldenmere had launched a coordinated three-phase strike while they were gone: burn the inquiry's evidence at the Temple of the Balanced Scale, break three captives out of holding cells, and assassinate Magistrate Voss with a poisoned blade.
+### Part 1 — Calder's Gambit (Duskport, Turns 1–13)
 
-The Wildcard's d100 opened the session with a 07 — catastrophic. The temple was burning, the captives were loose, and Voss was barricaded in the council chambers with an assassin already inside posing as city watch.
+The party returned to Duskport from Aelindra to find Calder Aldenmere had launched a coordinated three-phase strike: burn the inquiry's evidence at the Temple of the Balanced Scale, break three captives out of holding cells, and assassinate Magistrate Voss with a poisoned blade.
 
-The party spent 215gp on healing potions, healer's kits, and antitoxin, then sprinted uphill to the temple. They neutralized the lookout (Mira, nat 20 territory again), suppressed the alchemical fire (Sylvara identified the accelerant), and saved Vael Orun — who had the original 10-year ledger clutched to her chest. ~60% of the inquiry records survived.
-
-Operative B surrendered and gave up everything: the fixer Drest, the Ashward warehouse rendezvous, and the existence of an inside leak who provided a detailed temple floor plan. Mira's nat 20 Perception from the temple roof spotted Drest's mule cart, Calder's watchers on the council rooftop, and — a grey-cloaked figure signaling from the Ashward. Serevane had returned to Duskport.
-
-A sprint team (Mira, Thessaly, Pip) intercepted Drest at the Ashward warehouse. Thessaly dropped Drest in one hit. Serevane entered through the back and talked five hired men into walking away. Zero casualties. A windfall d100 roll (88) produced Calder's own letter in Drest's coat — his handwriting, naming the Salted Crown as his location from eighth bell.
+The Wildcard's d100 opened with a 07 — catastrophic. The temple was burning, the captives were loose, and Voss was barricaded with an assassin already inside posing as city watch.
 
 The party split three ways for simultaneous operations:
+- **Operation 1 — Protect Voss:** Serevane neutralized rooftop watchers. Sylvara identified the assassin (Arcana 23). Thessaly lured him to a corridor (Deception 25) and dropped him non-lethal. Voss safe.
+- **Operation 2 — Intercept Ship:** Mira scouted the harbor. Bram coordinated a watch cordon. Ship seized, 3 captives recaptured, harbor chain raised. Ship captain revealed Calder's one-way escape to Veldmere.
+- **Operation 3 — Take Calder:** Zaryth and Aldric walked into the Salted Crown. Calder confessed: "Because my father asked me to." Handed off to Magistrate Voss with due process.
 
-**Operation 1 — Protect Voss:** Serevane silently neutralized two rooftop watchers. Sylvara used her Scroll of Detect Magic (Arcana 23) to identify the assassin — a fake guard with an abjuration amulet and a contact-poisoned stiletto. Thessaly lured him to a side corridor (Deception 25) and dropped him non-lethal. Voss safe.
+**Post-operations:**
+- Party voted 8-0 to keep the 200gp lockbox
+- Abjuration amulet unanimously assigned to Mira
+- Vael Orun revealed a fifth Vel Noctis account: **Thessaly Ironveil** — a 300gp gambling debt paid and closed, but the Vel Noctis had her identity and her personal target list for 4 months
+- Thessaly disclosed her list: 7 names, 7 institutional targets. House Aldenmere was #4. Six remain.
+- Sealed letter to "S" opened — Lord Aldenmere's exit letter confirming Duskport was a "proof of method," Thessaly's list was the real prize, and 3 of 6 names already contacted
+- Inside leak identified: **Peytr Hask**, junior clerk, coerced via mother's medical debt. Recovered alive, placed under protection.
+- Serevane provided all 5 regional handler names and profiles. Recommended Harrowgate first — cut the funding.
+- Party received 8x Letters of Credential from Magistrate Voss
 
-**Operation 2 — Intercept Ship:** Mira scouted the east harbor and identified the escape vessel. Orindel (Insight 23) determined the captives were cooperating willingly and that the ship was waiting for Calder himself. Bram coordinated a watch cordon and raised the harbor chain. Ship guards surrendered. Three captives recaptured, separate cells. Ship captain revealed Calder had booked one-way passage to Veldmere — he was planning to flee permanently.
+### Part 2 — The Harrowgate Operation (Turns 14–18)
 
-**Operation 3 — Take Calder:** Zaryth and Aldric walked into the Salted Crown at eighth bell. Pip covered the back door. Zaryth laid the evidence on the table. Calder didn't run. He confessed: "Because my father asked me to." His father told him to "fix it" after Edric's betrayal. Calder was the son who did the ugly work so Edric could be the conscience.
+Three-day journey via King's Road. Bandits at Thornhook Curve intimidated into standing down (zero combat). Party earned 83gp in road jobs along the way.
 
-Zaryth told Calder he is not his father, that redemption is still possible, and that justice will be served through proper authorities — not by the party.
+**Harrowgate reconnaissance (2 days under cover):**
+- Renn Corvath identified as "Renn," senior advisor to Guildmaster Tetch, controlling all cargo and fund transfers through a single-authorization clearinghouse ledger
+- Night barge operations discovered — sealed weapons/coin/mining gear shipped to Greymoor
+- Sable Wick (junior changer) recruited — documented 2,200gp in manipulated transfers
+- Brother Callum (temple) recruited — 4 months of Guild overreach documentation
+- Maren Holt (missing money-changer) located in Guild-owned tannery
+- Corvath's office ward analyzed by Sylvara — alarm only, bypassed by Mira's amulet
 
-Session paused mid-Turn 9 with Calder awaiting handoff to Magistrate Voss.
+**Operation night — four simultaneous phases:**
+1. **Ledger Extraction:** Mira + Thessaly + Sylvara entered Guildhall via service entrance. Amulet bypassed ward. Extracted clearinghouse ledger AND Corvath's handler journal (network-wide intel). Zero detection.
+2. **Shipment Interdiction:** Zaryth + Aldric + Bram confronted night crew at Warehouse 6. d100 = 81 (strong positive) — city watch patrol arrived. 11 detained. Cargo seized: 40 swords, 20 axes, 15 crossbows, 600gp coin, mining equipment.
+3. **Maren Holt Rescue:** Orindel solo entry to tannery. One guard neutralized (Inflict Wounds, non-lethal). Maren rescued, delivered to temple sanctuary.
+4. **Civic Trigger (dawn):** Thessaly presented combined evidence to Alderman Kellan. Corvath warrant issued. Guild frozen. Trade wardens suspended. Mira intercepted Corvath fleeing at north gate. Arrested.
+
+**Zero casualties across all phases.**
+
+**Aftermath:** Reeve's reward (200gp bounty + commendations + provisioning writ + civic barge passage). Party thanked and gifted all local allies. Celebration at The Brass Nail — Pip conjured Dancing Lights figures of all eight party members dancing across the table.
 
 ## Random Events (The Wildcard)
 
@@ -38,38 +60,39 @@ Session paused mid-Turn 9 with Calder awaiting handoff to Magistrate Voss.
 | 6 | 88 | Windfall | Calder's letter found on Drest — location + handwriting evidence |
 | 7 | 31 | Neutral | Assassin's hand twitch — hair trigger, accelerated Thessaly's plan |
 | 8 | 52 | Positive | Ship captain cooperated — revealed Calder's one-way escape |
-| 9 | 74 | Positive | Pending resolution |
+| 9 | 74 | Positive | Vael Orun found fifth Vel Noctis account in recovered crate |
+| 15 | 61 | Positive | City reeve already calling closed session on Guild matters |
+| 16 | 44 | Neutral | City watch stops Pip on bridge — reeve session confirmed |
+| 17 | 81 | Strong Positive | City watch patrol arrives at Warehouse 6 during confrontation |
+| 18 | 72 | Positive | Inter-city network forming — Greymoor/Fenhollow warned by Kellan |
 
-## Key NPCs
+## Campaign Scoreboard
 
-| NPC | Role | Status |
-|-----|------|--------|
-| Calder Aldenmere | House Aldenmere eldest son | Confronted, not resisting, awaiting handoff |
-| Drest | Fixer, hired by Calder | Unconscious, in custody |
-| Serevane | Former A-G operative | Returned to Duskport, active ally |
-| Vael Orun | Night-priest | Alive, bruised, has original ledger |
-| Magistrate Voss | City council | Alive, assassination prevented |
+| # | Target | Location | Handler | Status |
+|---|--------|----------|---------|--------|
+| 1 | Marchion Drael Sulwick | Port Veldmere | Lucenne Dray | Active — fleet ready, most independent |
+| 2 | The Pallid Court | Greymoor | Dorn Blackveil | Disrupted — arms stopped, council warned |
+| 3 | Lorekeeper Idris Vane | Salthollow | Yara Senn | Active — inside Athenaeum, low resources |
+| 4 | ~~House Aldenmere~~ | ~~Duskport~~ | ~~Lord Aldenmere~~ | ✅ HANDLED (Session 4) |
+| 5 | Commander Brecca Ashford | Fenhollow | Wren Ashdale | Weakened — 3 operatives detained, villages warned |
+| 6 | Guildmaster Orvyn Tetch | Harrowgate | ~~Renn Corvath~~ | ✅ HANDLED (Session 4) |
+| 7 | The Sealed Quorum | Aelindra | (institutional) | Monitored — Veyra Solund managing |
 
-## Seized Items
+## Planned Route
 
-- 200gp lockbox (ship cabin — pending party vote)
-- Abjuration amulet (suppresses detection magic — pending assignment)
-- Sealed letter to "S" (unopened — pending)
-- Calder's letter to Drest (handwriting evidence)
-- Poisoned stiletto + sheath (evidence)
-- Forged ship manifest (evidence)
-- ~85gp in sellable captured weapons
+Harrowgate → Greymoor (2 days, civic barge) → Salthollow (overland/coastal) → Veldmere (sea via Duskport)
 
-## Equipment Upgrades This Session
+## Photos
 
-- Pip: studded leather armor (AC 14, up from 13)
-- Mira: reinforced leather armor (AC 15, up from 14) + hand crossbow + light crossbow
-- Thessaly: hand crossbow
+- `harrowgate.png` — Harrowgate cityscape: Coinwright's Guildhall, three bridges, river market
+- `pip-bridgewatch.png` — Pip lighting bridge lamps and conjuring a fire dragon for children at Bridgewatch
+- `pip-dancing-lights-party.png` — Pip conjuring Dancing Lights figures of all eight party members at The Brass Nail celebration
 
-## Session State (Paused)
+## Session State (Paused at Turn 18)
 
-- **Party Funds:** ~60gp + seized items pending
-- **Sylvara:** 1/2 spell slots, Scroll of Detect Magic consumed, Arcane Recovery available
-- **Orindel:** 1/2 spell slots
-- **All others:** Full HP, full resources
-- **Open:** Calder handoff, 200gp vote, amulet assignment, sealed letter, weapon sales, inside leak identity
+- **Location:** The Brass Nail, Coppersmith Row, Harrowgate
+- **Party Funds:** 701.5gp
+- **Assets:** Provisioning writ (7 days), civic barge priority passage (30 days), 8x Harrowgate commendations, 8x Duskport credentials
+- **Party:** All full HP, all resources (Orindel needs long rest for slots)
+- **Next:** Resupply via provisioning writ, board civic barge upriver to Greymoor
+- **Campaign Clock:** ~9 days before handlers act independently

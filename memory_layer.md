@@ -2127,3 +2127,233 @@ Changes: All 3 operations complete/secured. Calder not resisting. Seized: 200gp 
 | 9 | 74 | Positive | (Pending resolution) |
 
 ---
+
+## S4 Turn 9 — Redemption, Reckoning, and the Fifth Name
+
+**Scene:** The Salted Crown → Council Chambers → Temple of the Balanced Scale
+
+**Actions:**
+- Zaryth: Spoke to Calder about redemption, handed him to Magistrate Voss with due process
+- Party voted 8-0 to keep 200gp lockbox. Party funds: 260gp.
+- Abjuration amulet unanimously assigned to Mira (suppresses detection magic)
+- Surplus gear + old armor sold for 56gp (Thessaly Persuasion 17). Party funds: 316gp.
+- Vael Orun revealed fifth Vel Noctis account: Thessaly Ironveil (300gp gambling debt, paid/closed, but VN had her identity + target list for 4 months)
+
+**Outcome:** Calder in custody. Thessaly disclosed her list: 7 names, House Aldenmere was #4, six remain. Vael Orun: "If Thessaly's list has six more names, there may be six more operations like this one."
+
+**State Changes:** Party funds 316gp. Mira +abjuration amulet (attuned). Mira +short sword (backup). Thessaly +short sword (off-hand). Old armor sold.
+
+---
+
+## S4 Turn 10 — The Letter, The Leak, The List
+
+**Scene:** Temple of the Balanced Scale, night.
+
+**Sealed Letter Opened (to "S"):** Lord Aldenmere's exit letter to Serevane. Duskport was "proof of method." Thessaly's list = real prize. 3 of 6 already contacted. Regional handlers run operations. Serevane knows their names.
+
+**Inside Leak Investigation (full party):**
+- Mira (Investigation 18): Traced floor plan to Registry Office Desk 3
+- Thessaly (Persuasion 22): Identified Peytr Hask, junior clerk, 23, hired 6 months ago
+- Aldric (Investigation 19): Peytr visited temple 3 times, had access to hidden compartment location
+- Sylvara (Arcana 16): Archive-quality ink on floor plan — handler-supplied materials
+- Orindel (Insight 20): Peytr's mother ill, private healer paid by third party — coerced, not corrupt
+- Bram (Persuasion 14): Peytr's desk cleared, note from Drest found
+- Pip (Investigation 17): Peytr still in city, hiding near mother in Ashward
+
+**Thessaly's Full List:**
+1. Marchion Drael Sulwick — Port Veldmere (trade lord, debt-slavery, sea lane control)
+2. The Pallid Court — Greymoor (corrupt judges, deep mine access)
+3. Lorekeeper Idris Vane — Salthollow (private archive, suppressed documents)
+4. ~~House Aldenmere — Duskport~~ (HANDLED)
+5. Commander Brecca Ashford — Fenhollow (corrupt militia, sealed marsh ruins)
+6. Guildmaster Orvyn Tetch — Harrowgate (currency manipulation, financial infrastructure)
+7. The Sealed Quorum — Aelindra (secret censorship committee)
+
+**State Changes:** None. All party full HP.
+
+---
+
+## S4 Turn 11 — Peytr, Voss, Serevane
+
+**Peytr Hask Recovery:**
+- Zaryth Persuasion 18: talked Peytr out of hiding
+- Orindel Medicine 19: examined mother, arranged temple care network
+- Peytr: suspended from duty, not charged, under protective supervision
+
+**Voss Briefing:**
+- All evidence filed: sealed letter, 8 depositions, Peytr's testimony
+- Voss issued 8x Letters of Credential (authorized agents, Duskport inquiry)
+- All physical evidence formally logged
+
+**Serevane Meeting:**
+- Five regional handlers named with full profiles:
+  1. Lucenne Dray (Veldmere) — ex-trade inspector, 11 months in city
+  2. Renn Corvath (Harrowgate) — ex-military quartermaster, 10 months
+  3. Yara Senn (Salthollow) — ex-university lecturer, 9 months
+  4. Dorn Blackveil (Greymoor) — ex-mine foreman, 8 months
+  5. Wren Ashdale (Fenhollow) — ex-Thornwatch sergeant, 5 months
+- Strategic recommendation: Harrowgate first — cut the funding
+- Serevane staying in Duskport for counter-intelligence with Voss
+- Window: ~2 weeks before handlers act independently
+
+**State Changes:** 8x Letters of Credential acquired. Serevane = Duskport counter-intel.
+
+---
+
+## S4 Turn 12 — Departure Prep
+
+**Equipment audit and purchases (146gp):**
+- Zaryth: +steel shield (AC 17→19)
+- Thessaly: +studded leather armor (AC 14)
+- Orindel: +wooden shield (AC 16→18)
+- Sylvara: +Scroll of Shield (25gp), +dagger, +ink
+- Bram: +spell component pouch, +dagger
+- Mira: +30 crossbow bolts
+- Party: rations, rope, torches, tinderbox
+- Carriage hired: Garret Holme, 30gp, 3 days King's Road
+
+**Route planned:** Duskport → Millhaven (Day 1) → Bridgewatch (Day 2, Thornhook Curve bandits) → Harrowgate (Day 3)
+
+**State Changes:** Party funds 316gp → 170gp. Multiple equipment upgrades.
+
+---
+
+## S4 Turn 13 — The Speech / Three Days on the King's Road
+
+**Zaryth's Speech (Eve of Departure):** "Four days ago we were strangers arguing over a gambling debt... We are coming. Onward."
+
+**Day 1 (Millhaven):** Safe travel. Party earned 34gp in evening jobs (healing, courier, labor, consulting, escort).
+**Day 2 (Bridgewatch):** Thornhook Curve — 7 bandits, Zaryth Intimidation 19, zero combat. Party earned 49gp (bandit intel bounty 15gp was biggest earner). Toll 2gp.
+**Day 3 (Harrowgate):** Arrival late afternoon. City on both banks of Mirren River. Coinwright's Guildhall dominates north bank.
+
+**State Changes:** Party funds 170gp → 251gp. Party arrived Harrowgate.
+
+---
+
+## S4 Turn 14 — Harrowgate: Safehouse, Food, Recon
+
+**Safehouse:** The Brass Nail, Coppersmith Row, south bank. Dalla Vetch, landlord. 1.5gp/night, meals included. River view of Guildhall.
+
+**Reconnaissance (full party, evening):**
+- Mira: Guildhall exterior — service entrance = best entry, 15-min patrols, night barge loading (unusual)
+- Thessaly: "Renn" (no surname) = Corvath, senior advisor to Tetch, 10 months, controls all transfers via clearinghouse ledger
+- Sylvara: Guildhall interior floors 1-3 mapped, Archive-quality wards on building
+- Bram: Night crew separate from day crew, Warehouse 6 = staging hub, crates heavy/iron-banded going upriver to Greymoor
+- Aldric/Orindel: Brother Callum recruited (4 months documentation), Maren Holt (missing changer) traced to Tanner's Alley tannery
+- Pip: Thornwatch men prepping berths, spotted near Guildhall
+- Zaryth: Trade wardens on roads outside jurisdiction, 28 wardens in city, Aldwin Peck (clerk) revealed Corvath has Tetch's seal authority
+
+**State Changes:** Party funds 251gp → 224.5gp. Safehouse secured.
+
+---
+
+## S4 Turn 15 — Day 1 Jobs + Intel
+
+**All party worked cover jobs earning 58gp while gathering intel:**
+- Mira (dock inspector 6gp): 3 ghost shipments confirmed, harbormaster Fen Druval primed
+- Thessaly (consulting 8gp): Sable Wick recruited — notebook proving 2,200gp manipulated transfers. Corvath's schedule: leaves 10th-11th bell via service entrance
+- Sylvara (archive 10gp): Ward on Corvath's door = alarm only, Mira's amulet bypasses it. Interior route mapped. Corvath met Thornwatch visitors.
+- Bram (dock labor 5gp): Warehouse 6 cargo pre-staged. Night crew boss = Harsk (ex-military).
+- Aldric/Orindel (temple 12gp): Callum recruited with documentation. Maren Holt sighting at disused tannery, Tanner's Alley.
+- Pip (lamplighter 7gp): Tomorrow night = 4-barge shipment, double crew. Thornwatch still in city.
+- Zaryth (escort 10gp): Guild surveillance extends beyond city walls. Corvath has full Guildmaster seal powers.
+
+**State Changes:** Party funds 224.5gp → 282.5gp.
+
+---
+
+## S4 Turn 16 — Day 2 Jobs + Final Recon + Operation Plan
+
+**All party worked cover jobs earning 53gp, confirming all operational details:**
+- Mira: 4 barges berths 7-10 confirmed, shell company "Mirren Valley Trading Concern," Fen Druval primed for dawn
+- Thessaly: Sable Wick fully recruited, will testify. Corvath leaves 10th-11th bell confirmed.
+- Sylvara: Ward glyph fully analyzed (Arcana 19) — amulet bypass confirmed. Service corridor route mapped.
+- Bram: Cargo pre-staged in Warehouse 6. Harsk identified as night crew leader.
+- Aldric/Orindel: Callum's formal complaint drafted for reeve. Maren Holt location narrowed to tannery.
+- Pip: Rooftop overwatch route confirmed. Thornwatch prepping barges.
+- Zaryth: Tannery recon — fresh boot prints, lamp glow, someone inside. Maintained holding site.
+
+**Dalla Vetch confirmed clean** (Mira Investigation 19, Orindel Insight 18).
+
+**Operation plan finalized:** 4 simultaneous phases — Ledger Extraction, Shipment Interdiction, Maren Holt Rescue, Civic Trigger at dawn.
+
+**State Changes:** Party funds 282.5gp → 335.5gp.
+
+---
+
+## S4 Turn 17 — Operation Night / Corvath Falls
+
+**Zaryth's Speech:** "Every merchant who lost silver... every person who vanished... They don't know we're here. They don't know help is coming. But it is. Go."
+
+**Phase 1 — Ledger Extraction (Mira + Thessaly + Sylvara):**
+- Sylvara Deception 17: entered via service entrance as returning scholar
+- Mira Stealth 24, Thessaly Stealth 21: entered through propped stairwell door
+- Mira's amulet suppressed alarm ward completely
+- Thessaly picked door lock (22 vs DC 15) and cabinet lock (19 vs DC 17)
+- Extracted: clearinghouse ledger AND Corvath's handler journal (network-wide intel)
+- **COMPLETE. Zero detection.**
+
+**Phase 2 — Shipment Interdiction (Zaryth + Aldric + Bram):**
+- d100 = 81 (Strong Positive): city watch patrol arrived at north dock
+- Zaryth Intimidation 22: 4 of 7 crew backed away immediately
+- Aldric Persuasion 18: credentials verified by watch sergeant
+- Dock secured. 11 detained. Cargo documented: 40 swords, 20 axes, 15 crossbows, 600gp coin, mining equipment.
+- **COMPLETE. Zero combat.**
+
+**Phase 3 — Maren Holt Rescue (Orindel solo):**
+- Orindel Athletics 15: broke padlock with crowbar
+- Orindel Initiative 17 vs Guard 9: Inflict Wounds 22 damage, non-lethal
+- Maren Holt found alive, 3 months captive. Cure Wounds 11 HP restored.
+- Extracted to Brother Callum's temple.
+- **COMPLETE. One guard neutralized non-lethal.**
+
+**Phase 4 — Civic Trigger (dawn, Thessaly + Aldric + allies):**
+- Thessaly Persuasion 24: presented combined evidence to Alderman Kellan
+- Evidence: clearinghouse ledger, Sable's notebook, harbormaster gaps, Callum's documentation, Warehouse 6 cargo, Maren Holt testimony, handler journal, Letters of Credential
+- Reeve's ruling: Corvath warrant issued, Tetch summoned, Guild frozen, trade wardens suspended, cargo seized
+
+**Corvath's Arrest:**
+- Corvath fled at dawn, heading for north gate
+- Mira Perception 21, Stealth 23: intercepted at north gate
+- "It's over." Corvath surrendered.
+
+**Corvath's satchel:** 150gp (seized as evidence), forged travel docs, undelivered letters to Blackveil ("Begin Phase 2 excavation") and Dray ("Sulwick's fleet ready, await signal")
+
+**State Changes:** Orindel 2→0 spell slots. Corvath arrested. Guild frozen. Inter-city network forming.
+
+---
+
+## S4 Turn 18 — Collection, Rewards, Celebration, Next Move
+
+**Equipment collected:** Seized personal effects from 12 detained individuals sold for 194gp + 23gp coin = 217gp.
+
+**Reeve's Reward:** 200gp bounty + 15gp lodging reimbursement + provisioning writ (7 days free resupply) + 8x commendation letters + civic barge priority passage (30 days free).
+
+**d100 = 72 (Positive):** Inter-city network forming — Greymoor council notified, Fenhollow villages warned, Kellan coordinating with Voss and Aelindra.
+
+**Allies thanked and gifted (63gp total):** Sable Wick 15gp, Fen Druval 10gp, Brother Callum 15gp (temple fund), Maren Holt 10gp, Aldwin Peck 5gp, Dalla Vetch 3gp (extra lodging), Garret Holme 5gp (sent via courier).
+
+**Celebration at The Brass Nail:** Roast lamb, river trout, ale, honey cakes. Pip conjured Dancing Lights figures of all eight party members — they marched in formation, then broke apart and danced across the table. Nobody spoke for a full minute.
+
+**Next move planned:** Harrowgate → Greymoor (2 days civic barge) → Salthollow → Veldmere. Chain the operations. Close the net.
+
+**State Changes:** Party funds 335.5gp + 217gp + 215gp − 63gp − 3gp = 701.5gp. Provisioning writ + civic barge passage acquired.
+
+---
+
+## SESSION 4 PAUSED — To Be Continued
+
+**Paused at:** Turn 18, The Brass Nail, Harrowgate. Evening after celebration.
+
+**Next action:** Resupply via provisioning writ, board civic barge upriver to Greymoor.
+
+**Campaign Clock:** ~9 days before handlers act independently. Corvath neutralized. Funding pipeline severed.
+
+**Party Funds:** 701.5gp
+**Party Level:** 2
+**All party:** Full HP, full resources (Orindel needs long rest)
+
+**Photos this session:**
+- `harrowgate.png` — Harrowgate cityscape
+- `pip-bridgewatch.png` — Pip the lamplighter and children's entertainer
+- `pip-dancing-lights-party.png` — Pip's Dancing Lights tribute to the party
