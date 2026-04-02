@@ -19,10 +19,15 @@ if git diff --quiet && git diff --staged --quiet; then
   exit 0
 fi
 
-# Generate commit message from last meaningful header in memory_layer
-LAST_ENTRY=$(grep "^## " memory_layer.md | tail -1 | sed 's/^## //')
+# Generate commit message from latest week file
+LATEST_WEEK=$(ls -t sessions/week-*.md 2>/dev/null | head -1)
+if [ -n "$LATEST_WEEK" ]; then
+  WEEK_TITLE=$(head -1 "$LATEST_WEEK" | sed 's/^# //')
+else
+  WEEK_TITLE=$(grep "^## " memory_layer.md | tail -1 | sed 's/^## //')
+fi
 TIMESTAMP=$(date '+%Y-%m-%d %H:%M')
-COMMIT_MSG="Save [$TIMESTAMP]: $LAST_ENTRY"
+COMMIT_MSG="Save [$TIMESTAMP]: $WEEK_TITLE"
 
 git add .
 git commit -m "$COMMIT_MSG"

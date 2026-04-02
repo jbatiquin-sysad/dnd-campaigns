@@ -7,8 +7,9 @@ A D&D 5e campaign run via [Kiro CLI](https://kiro.dev) using subagents as party 
 - **System:** D&D Basic Rules 2018 (4 races, 4 classes)
 - **Player Character:** Zaryth Vel'quinar — Drow Paladin, exiled knight, Chaotic Good
 - **Party:** 7 NPC adventurers, each run as a Kiro subagent
-- **DMs:** Two available — The Chronicler (strict RAW) or The Storyteller (narrative-first)
+- **DMs:** Three available — The Chronicler (strict RAW), The Storyteller (narrative-first), The Wildcard (RAW + chaos d100)
 - **Memory:** Every turn auto-logged to `memory_layer.md`
+- **Timeline:** Organized by in-game weeks in `sessions/`
 
 ## How to Resume a Session
 
@@ -18,29 +19,30 @@ A D&D 5e campaign run via [Kiro CLI](https://kiro.dev) using subagents as party 
 
 ## The Party
 
-| Character | Race | Class | Level | Alignment |
-|-----------|------|-------|-------|-----------|
-| **Zaryth Vel'quinar** | Drow | Paladin | 2 | CG — *you* |
-| Mira Thistlewick | Lightfoot Halfling | Rogue | 2 | CN |
-| Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | 2 | LG |
-| Sylvara Dawnwhisper | High Elf | Wizard (Evocation) | 2 | NG |
-| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 2 | LN |
-| Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 2 | CN |
-| Orindel Ashwick | Wood Elf | Cleric (Life) | 2 | NG |
-| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 2 | CN |
+| Character | Race | Class | Level | AC | HP | Alignment |
+|-----------|------|-------|-------|----|----|-----------|
+| **Zaryth Vel'quinar** | Drow | Paladin | 2 | 19 | 19 | CG — *you* |
+| Mira Thistlewick | Lightfoot Halfling | Rogue | 2 | 15 | 15 | CN |
+| Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | 2 | 18 | 20 | LG |
+| Sylvara Dawnwhisper | High Elf | Wizard (Evocation) | 2 | 12 | 10 | NG |
+| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 2 | 12 | 11 | LN |
+| Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 2 | 14 | 16 | CN |
+| Orindel Ashwick | Wood Elf | Cleric (Life) | 2 | 18 | 15 | NG |
+| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 2 | 14 | 10 | CN |
 
 ## The DMs
 
 - **`dm/dm-chronicler.md`** — Aldric Voss, The Chronicler. Strict RAW, tactical, no fudged dice. *"The record stands."*
 - **`dm/dm-storyteller.md`** — Mara Solenne, The Storyteller. Narrative-first, cinematic, improv-friendly. *"Close your eyes for just a moment."*
-- **`dm/dm-wildcard.md`** — Corvus Chance, The Wildcard. Chronicler's strict RAW + Randy Random's chaos. d100 event rolls every in-game day. *"The dice don't care about your feelings. Neither do I. But I do find them fascinating."*
+- **`dm/dm-wildcard.md`** — Corvus Chance, The Wildcard. Chronicler's strict RAW + d100 event rolls every in-game day. *"The dice don't care about your feelings. Neither do I. But I do find them fascinating."*
 
 ## File Structure
 
 ```
 duskport-campaign/
 ├── README.md
-├── memory_layer.md          ← full session log (auto-appended each turn)
+├── memory_layer.md          ← full turn-by-turn log (auto-appended each turn)
+├── save-session.sh          ← git commit + push script
 ├── party/
 │   ├── zaryth.md            ← your character
 │   ├── mira.md
@@ -50,47 +52,55 @@ duskport-campaign/
 │   ├── thessaly.md
 │   ├── orindel.md
 │   ├── pip.md
-│   └── party-state.json     ← HP, spell slots, inventory, conditions
+│   ├── party-state.json     ← HP, spell slots, inventory, conditions, scoreboard
+│   ├── Zaryth.png           ← character portraits
+│   ├── Mira.png
+│   ├── Aldric.png
+│   ├── Sylvara.png
+│   ├── Bram.png
+│   ├── Thessaly.png
+│   ├── Orindel.png
+│   └── Pip.png
 ├── dm/
 │   ├── dm-chronicler.md
 │   ├── dm-storyteller.md
 │   └── dm-wildcard.md
-└── sessions/
-    ├── session-01.md
-    ├── session-02.md
-    └── session-03.md
+├── sessions/                ← organized by in-game weeks
+│   ├── week-01.md           ← Night 1: Partition Writ + Civic Trust
+│   ├── week-02.md           ← Days 2–9: Road to Aelindra
+│   ├── week-03.md           ← Days 10–16: The Archivist's Fire
+│   └── week-04.md           ← Days 16–22: Calder's Gambit + Harrowgate
+└── speeches/
+    └── before-aelindra-mission.md
 ```
 
-## Session Log
+## Campaign Timeline
 
-| Session | Title | DM | Outcome |
-|---------|-------|----|---------|
-| 1 | The Partition Writ | The Chronicler | Writ secured. Maret + Duvash rescued. House Aldenmere exposed. |
-| 2 | The Civic Trust | The Storyteller | Writ delivered to Magistrate Voss. Harwick turned. Edric testified (nat 20). Harbor acquisitions frozen. |
-| 3 | The Archivist's Fire | The Chronicler | Party traveled to Aelindra. Serevane defected. Valis Procedure executed (14 min). Tome discharged. Thessara chose redemption. Veyra appointed interim Archivist-General. |
-| 4 | Calder's Gambit | The Wildcard | *In progress.* Calder's 3-phase plan: evidence burn (failed), captive extraction (in progress), Voss assassination (active). Serevane returned. |
+| Week | In-Game Days | Title | DM | Key Outcome |
+|------|-------------|-------|----|-------------|
+| 1 | Night 1 – Day 1 | The Partition Writ & The Civic Trust | Chronicler / Storyteller | Writ secured. Maret + Duvash rescued. Edric testified (nat 20). Harbor frozen. |
+| 2 | Days 2–9 | The Road to Aelindra | Chronicler | Vel Noctis traced to Archivist-General. Serevane contacted. Party leveled to 2. |
+| 3 | Days 10–16 | The Archivist's Fire | Chronicler | Valis Procedure (14 min). Tome discharged. Thessara chose redemption. Veyra interim A-G. |
+| 4 | Days 16–22 | Calder's Gambit & Harrowgate | Wildcard | Calder's 3-phase plan stopped. Harrowgate Guild frozen. Corvath arrested. 2/7 targets handled. |
 
-## Current Status (Session 4 — In Progress)
+## Campaign Scoreboard
+
+| # | Target | Location | Handler | Status |
+|---|--------|----------|---------|--------|
+| 1 | Marchion Drael Sulwick | Port Veldmere | Lucenne Dray | Active |
+| 2 | The Pallid Court | Greymoor | Dorn Blackveil | Disrupted |
+| 3 | Lorekeeper Idris Vane | Salthollow | Yara Senn | Active |
+| 4 | ~~House Aldenmere~~ | ~~Duskport~~ | ~~Lord Aldenmere~~ | ✅ HANDLED |
+| 5 | Commander Brecca Ashford | Fenhollow | Wren Ashdale | Weakened |
+| 6 | ~~Guildmaster Orvyn Tetch~~ | ~~Harrowgate~~ | ~~Renn Corvath~~ | ✅ HANDLED |
+| 7 | The Sealed Quorum | Aelindra | (institutional) | Monitored |
+
+## Current Status (Week 4 — PAUSED)
 
 **DM:** Corvus Chance, The Wildcard
-
-**Location:** Duskport — party split. Sprint team (Mira, Thessaly, Pip) at Ashward warehouse. Main group (Zaryth, Aldric, Sylvara, Bram, Orindel) at Temple of the Balanced Scale.
-
-**Party Level:** 2 (all characters)
-
-**Party Funds:** ~60gp
-
-**Party HP:** All full. Sylvara 1/2 slots. Orindel 1/2 slots.
-
-**Calder's 3-Phase Plan:**
-1. Evidence burn (temple) — **FAILED** — original ledger saved, 60% records intact
-2. Captive extraction — **IN PROGRESS** — 3 captives moving to east harbor ship, midnight departure
-3. Assassinate Voss — **ACTIVE** — insider posing as city watch, strikes after 10th bell (~5 hours)
-
-**Allies Present:** Serevane (Ashward), Vael Orun (temple)
-
-**Immediate Decisions:**
-1. Identify and neutralize the assassin inside council chambers
-2. Intercept the midnight ship with the 3 escaped captives
-3. Find Calder Aldenmere
-4. Identify the inside leak
+**Location:** The Brass Nail, Coppersmith Row, Harrowgate
+**Party Level:** 2 | **Party Funds:** 701.5gp
+**Party HP:** All full, all resources
+**Next:** Resupply via provisioning writ, board civic barge upriver to Greymoor
+**Campaign Clock:** ~9 days before handlers act independently
+**Planned Route:** Harrowgate → Greymoor → Salthollow → Veldmere
