@@ -42,12 +42,14 @@ In Aelindra (Session 3), Aldric served as a theological consultant in the Archiv
 
 On the voyage home, he shared his dream: returning to Stonebrow Hall to teach steadfastness. His aspiration: for belief and action to be the same thing. His darkest hour: holding a mountain pass for three days with a broken shield arm, only to learn the village behind him was already gone. A child from the next valley brought bread and said "thank you for staying." That was the light.
 
-## Equipment (Current — End of Session 3)
+In Session 4, Aldric served as Zaryth's right hand across every operation. In Duskport, he walked into the Salted Crown alongside Zaryth to confront Calder Aldenmere. At the Temple of the Balanced Scale, he helped suppress the alchemical fire and secure the records wing. In Harrowgate, he confronted the Warehouse 6 night crew with Zaryth and Bram — his credentials verified by the city watch sergeant, his presence enough to make 4 of 7 crew back away. He also worked as a theological consultant at the Harrowgate temple, recruiting Brother Callum and his 4 months of Guild overreach documentation. He carried the Partition Writ from the Undercroft to the council chambers in Session 1, and he has carried the party's moral center ever since.
+
+## Equipment (Current — End of Session 4, Harrowgate)
 - Warhammer (equipped)
 - Chain mail (equipped)
 - Shield (equipped)
 - Holy symbol
-- Prayer book (contains an unaddressed letter written before the operation)
+- Prayer book (contains an unaddressed letter written before the Aelindra operation)
 - Holy water vial (purchased in Aelindra, 25gp)
 - 15 gp
 

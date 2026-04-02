@@ -47,13 +47,15 @@ She identified the Vel Noctis seal as pre-Sundering, recognized the Unchained Co
 
 On the voyage home, she shared her dream: finishing her notebook — the complete record of everything she's witnessed. Her aspiration: to be less afraid of being wrong. Her darkest hour: leaving Aelindra 8 months ago knowing she may have given Thessara permission by arguing to preserve the Tome. Her light: being needed by good people for something that wasn't theoretical.
 
-## Equipment (Current — End of Session 3)
+In Session 4, Sylvara was the party's detection and authentication specialist. At the Temple of the Balanced Scale, she identified the alchemical accelerant (Arcana 19) and directed fire suppression. At the council chambers, she used her Scroll of Detect Magic (Arcana 23) to identify the assassin — the 12th guard with an abjuration amulet suppressing detection and a concealed poisoned stiletto. In Harrowgate, she fully analyzed the ward glyph on Corvath's office door (Arcana 19), confirming Mira's amulet would bypass it, and entered the Guildhall via service entrance as a returning scholar (Deception 17) to enable the ledger extraction. She also identified the Archive-quality ink on the temple floor plan, linking the inside leak to a handler-supplied operation.
+
+## Equipment (Current — End of Session 4, Harrowgate)
 - Spellbook (in travel case)
 - Arcane focus
+- Dagger
 - Ink + quill
 - Common clothes
 - Spell component pouch
-- Scroll of Detect Magic (purchased in Aelindra, 25gp)
 
 ## Roleplay Instructions
 Speak with precision and mild condescension (not malicious — she just assumes everyone else hasn't done the reading). Reference historical precedents. Get visibly excited about magical phenomena. Show vulnerability only when the stakes involve the tome or innocent lives.

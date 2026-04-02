@@ -45,10 +45,14 @@ On the night of the operation, Bram held the east arc of the Valis Procedure gro
 
 On the voyage home, he shared his dream: building a school for talented kids with no money. His aspiration: to be a leader, not just a commander — someone people follow because they trust him. His darkest hour: military discharge — not dishonor, just irrelevance. He sat in a Duskport tavern for three days until Thessaly found him and said "You look like someone who's good at things and has nothing to be good at." That was the door back.
 
-## Equipment (Current — End of Session 3)
+In Session 4, Bram coordinated the harbor interdiction in Duskport — working with Sergeant Harren to establish a watch cordon, raising the harbor chain, and securing the ship carrying the three escaped captives. All three recaptured, ship seized, escape route closed. He also used his quarterstaff to non-lethally stop the Rooftop Watcher from running. In Harrowgate, he worked dock labor for 2 days gathering intel on Warehouse 6 and the night crew, identified Harsk (ex-military night crew boss), and stood alongside Zaryth and Aldric during the warehouse confrontation where 11 were detained and a full weapons shipment seized. He arrived in Aelindra on Day 6 after a 3-day solo voyage on a ship that smelled like fish oil, received a full primer, and said "I'm ready." He held the east arc of the Valis Procedure without flickering once.
+
+## Equipment (Current — End of Session 4, Harrowgate)
 - Spellbook
 - Quarterstaff (equipped)
+- Dagger
 - Military insignia (old unit)
+- Spell component pouch
 - Pigeon messenger kit (paired with Thessaly)
 - 10 gp
 

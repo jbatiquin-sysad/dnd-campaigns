@@ -45,13 +45,15 @@ On the night of the operation, Pip served as anchor point 4 (west position) in t
 
 He also served as distraction specialist throughout the campaign: his Dancing Lights and accidental scaffolding trip at Pier 7 (Session 2) were critical tactical contributions. He nearly activated Serevane's iron disc by accident. Sylvara took it away.
 
+In Session 4, Pip served as the party's distraction specialist across every major operation. At the Temple of the Balanced Scale, his Dancing Lights (Performance 17) drew the lookout's attention for Mira's rooftop takedown. At the Ashward warehouse, his strobing Dancing Lights (Performance 19) blinded the entire interior, enabling Thessaly's non-lethal strike on Drest. At Bridgewatch on the King's Road, he entertained children with conjured fire dragons while the party earned road bounties. At The Brass Nail celebration in Harrowgate, he conjured Dancing Lights figures of all eight party members — they marched in formation, then broke apart and danced across the table. Nobody spoke for a full minute.
+
 On the voyage home, he shared his dream: to be a real wizard, properly trained. His aspiration: to be honestly brave — scared and doing it anyway. His darkest hour: opening the fake spellbook and feeling confirmed as a fool. His light: Mira. "She didn't pull me back to the light. She just stood in it. And eventually I walked toward her."
 
-## Equipment (Current — End of Session 3)
+## Equipment (Current — End of Session 4, Harrowgate)
 - Spellbook (in travel case, purchased in Aelindra 5gp)
 - Dagger
 - Common clothes
-- Leather armor (equipped, AC 11 + DEX) — fitted in Aelindra
+- Studded leather armor (equipped, AC 12 + DEX) — scavenged from Drest, S4
 - Focus stone (Sylvara's river pebble, 40 years old, no magical properties)
 - 15 gp
 

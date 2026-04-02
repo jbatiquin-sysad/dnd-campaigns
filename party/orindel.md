@@ -12,7 +12,7 @@
 |-----|-----|-----|-----|-----|-----|
 |  10 |  14 |  12 |  13 |  15 |   8 |
 
-**HP:** 15 | **Hit Dice:** 2d8
+**HP:** 15 | **Hit Dice:** 2d8 | **AC:** 18
 
 ## Key Features
 - Spellcasting (WIS-based): Prepare WIS mod + level spells/day
@@ -45,14 +45,17 @@ He memorized a pre-Sundering warding prayer (force resistance, 4 creatures, 1 ho
 
 Before the operation, he gave his street children list to Edric — a second copy, without explanation. Edric took it without asking why.
 
+In Session 4, Orindel was the party's solo rescue specialist. At the Temple of the Balanced Scale, he found Vael Orun behind the altar (Perception 17), bruised and clutching her original 10-year ledger, and healed her with Cure Wounds (11 HP). In Harrowgate, he executed the Maren Holt rescue alone — broke the tannery padlock with a crowbar (Athletics 15), neutralized the guard with Inflict Wounds (22 damage, non-lethal), found Maren alive after 3 months captive, healed her with Cure Wounds (11 HP), and extracted her to Brother Callum's temple. He also delivered Maret Soll's sealed letter to Veyra Solund in Aelindra and arranged temple care for Peytr Hask's ill mother in Duskport.
+
 On the voyage home, he shared his dream: finding homes for every name on his list, and getting a dog. His aspiration: to make people feel safe by who he is, not his magic. His darkest hour: a boy named Tomas, age nine, third name on the list. Found him too late. Fever. The clinic was closed — holy day. One spell slot wasn't enough. "The light isn't a place you return to. It's a direction you choose. Every morning."
 
-## Equipment (Current — End of Session 3)
+## Equipment (Current — End of Session 4, Harrowgate)
 - Mace (equipped)
-- Scale mail (equipped)
+- Scale mail + wooden shield (equipped, AC 18 — base 14 + DEX 0 + shield +2 + shield purchased S4)
 - Holy symbol
 - Crowbar
 - Dark clothes
+- Pigeon (travelling bird, paired to Bram in Duskport)
 - 15 gp
 
 ## Known Rituals

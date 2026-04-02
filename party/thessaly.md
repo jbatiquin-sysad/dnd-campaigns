@@ -12,7 +12,7 @@
 |-----|-----|-----|-----|-----|-----|
 |  13 |  15 |  14 |  12 |   8 |  10 |
 
-**HP:** 16 | **Hit Dice:** 2d8
+**HP:** 16 | **Hit Dice:** 2d8 | **AC:** 14
 
 ## Key Features
 - Sneak Attack: 1d6 extra damage
@@ -42,8 +42,15 @@ In Session 3, Thessaly held Duskport command while the main party traveled to Ae
 
 She allowed Pip to hug her at the dock. Briefly.
 
-## Equipment (Current — End of Session 3)
+In Session 4, Thessaly was the party's most versatile operator. In Duskport, she identified the assassin planted inside the council chambers alongside Sylvara, lured him to a side corridor with a Deception 25, and dropped him non-lethal with a Sneak Attack (19 vs AC 15, 12 damage). She seized the poisoned stiletto and abjuration amulet. At the Ashward warehouse, she took down Drest with a non-lethal strike (Stealth 20, Attack 20, 13 damage) and talked 3 warehouse men into walking out using Position of Privilege (Persuasion 15). She found Calder's handwritten letter in Drest's coat — the windfall that gave the party his location and timeline. At the council chambers, she held Calder's men at the door alone (Persuasion 18 + Position of Privilege) when Mira and Bram both failed. In Harrowgate, she recruited Sable Wick (the junior changer with a notebook proving 2,200gp in manipulated transfers), picked both locks on Corvath's office (22 and 19 vs DC 15 and 17), and presented the combined evidence to Alderman Kellan (Persuasion 24) that triggered the Guild freeze.
+
+Vael Orun revealed Thessaly was the fifth Vel Noctis account — a 300gp gambling debt, paid and closed, but the Vel Noctis had her identity and her personal target list for 4 months. She disclosed the full list: 7 names, 7 institutional targets. House Aldenmere was #4. Harrowgate (Guildmaster Tetch) was #6. Both handled. Six remain.
+
+## Equipment (Current — End of Session 4, Harrowgate)
 - Rapier (equipped)
+- Short sword (off-hand)
+- Hand crossbow + bolts
+- Studded leather armor (equipped, AC 14) — purchased in Duskport pre-Harrowgate
 - Fine clothes
 - Signet ring (House Ironveil)
 - Thieves' tools
