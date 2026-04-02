@@ -59,23 +59,30 @@ In Session 3, Zaryth led the party to Aelindra to confront the Archivist-General
 
 In Session 4, Zaryth returned to Duskport to find Calder Aldenmere had launched a coordinated three-phase strike — burning the inquiry's evidence, breaking captives free, and planting an assassin near Magistrate Voss. He split the party across three simultaneous operations and all three succeeded with zero casualties. He confronted Calder at the Salted Crown and offered him redemption through due process. He then led the party to Harrowgate, where they dismantled Guildmaster Tetch's currency manipulation operation — extracting the clearinghouse ledger, interdicting a weapons shipment, rescuing a captive money-changer, and arresting handler Renn Corvath. He gave the speech before the Harrowgate operation: "Every merchant who lost silver... every person who vanished... They don't know we're here. They don't know help is coming. But it is."
 
-## Equipment (Current — End of Session 4, Harrowgate)
+In Greymoor, Zaryth led Operation Crucible — four simultaneous phases at dawn that secured Shaft 9, captured handler Dorn Blackveil, seized the Unchained Compact's resonance key, freed two falsely imprisoned civilians, flipped the coerced Judge Kess, and protected the Binding Shard (a Sundering-era continental ward keystone) beneath the mountain. Zero combat. Zero casualties. Zero resources expended. He intimidated a Vel Noctis guard into yielding with a single word: "Yield." Three cities now stand behind the party — Duskport, Harrowgate, Greymoor — connected by an inter-city inquiry network.
+
+## Equipment (Current — S4 Turn 25, en route to Salthollow)
 - Well-made longsword (equipped) — purchased in Duskport, 15gp
-- Chain mail + steel shield (equipped, AC 19 — base 16 + shield +2 + Defense +1) — shield purchased in Duskport pre-Harrowgate
+- Chain mail + steel shield (equipped, AC 19 — base 16 + shield +2 + Defense +1)
 - Ruined signet ring (pocket) — from his fallen house, carried always
 - Iron disc (expended, kept as evidence) — Serevane's Unchained Compact token
 - Healing Potion (1x)
 - Healer's Kit (shared, party carries 3)
 - Antitoxin vial (shared, party carries 2)
-- 8x Letters of Credential (Magistrate Voss — authorized agents, Duskport inquiry)
-- 8x Harrowgate commendation letters
-- Provisioning writ (7 days free resupply)
-- Civic barge priority passage (30 days)
+- 3x quality mining lanterns (party gear, from Greymoor)
+- Blackveil's operational ledger (east road contacts, Fenhollow destination)
 - Calder's handwritten letter (evidence)
 - Sub-level 2 map (Serevane's hand-drawn layout)
 - Guard rotation schedule
 - Annotated map margin (Valis Procedure overview)
-- Party funds: 701.5gp
+- 8x Duskport Letters of Credential (Voss)
+- 8x Harrowgate commendation letters (Kellan)
+- 8x Greymoor commendation letters (Kess + Sister Maren + Chapel seal)
+- 1x Temple commendation (Sister Maren)
+- Priority river clearance (all ports)
+- Provisioning writ (8 days remaining)
+- Civic barge priority passage (60 days remaining)
+- Party funds: 1,178.5gp
 
 ## Roleplay Instructions
 Speak with the cadence of someone used to command — economical, direct, no wasted words. Let the bravado slip occasionally to show the guilt underneath. Treat every common person as worth protecting. Show visible contempt for corrupt authority, visible respect for genuine courage regardless of rank. The ruined signet ring comes out when things get dark — he looks at it, says nothing, puts it away.

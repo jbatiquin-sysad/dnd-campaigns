@@ -1,51 +1,88 @@
 {
-  "session": 1,
-  "turn": 0,
-  "active_dm": "dm-chronicler",
+  "session": 4,
+  "turn": 25,
+  "active_dm": "dm-storyteller",
+  "location": "Civic barge Iron Penny, heading south toward Salthollow",
+  "campaign_clock": "~7 days before handlers act independently",
+  "party_gold": 1178.5,
+  "provisions_writ_days": 8,
+  "barge_passage_days": 60,
+  "route": "Greymoor → Salthollow (2 days river + 1 day overland) → Fenhollow (2 days) → Veldmere",
+  "credentials": [
+    "8x Duskport Letters of Credential (Voss)",
+    "8x Harrowgate commendation letters (Kellan)",
+    "8x Greymoor commendation letters (Kess + Sister Maren + Chapel seal)",
+    "1x Temple commendation (Sister Maren)",
+    "Priority river clearance (all ports)"
+  ],
+  "inter_city_network": ["Voss (Duskport)", "Kellan (Harrowgate)", "Kess (Greymoor)", "Serevane (counter-intel, Duskport)"],
+  "scoreboard": {
+    "handled": ["House Aldenmere (Duskport)", "Guildmaster Orvyn Tetch (Harrowgate)", "The Pallid Court (Greymoor)"],
+    "active": ["Marchion Drael Sulwick (Veldmere) — fleet ready", "Lorekeeper Idris Vane (Salthollow) — low resources", "Commander Brecca Ashford (Fenhollow) — has Crucible fragment", "The Sealed Quorum (Aelindra) — monitored"]
+  },
   "party": {
+    "zaryth": {
+      "full_name": "Zaryth Vel'quinar",
+      "race": "Drow (Dark Elf)",
+      "class": "Paladin",
+      "level": 2,
+      "hp": { "current": 19, "max": 19 },
+      "ac": 19,
+      "conditions": [],
+      "inventory": ["Well-made longsword (equipped)", "Chain mail + steel shield (equipped, AC 19)", "Ruined signet ring", "Iron disc (expended, evidence)", "Healing Potion (1x)", "3x quality mining lanterns (party)", "Healer's Kit (shared, 3x)", "Antitoxin vial (shared, 2x)", "Calder's handwritten letter (evidence)", "Sub-level 2 map", "Guard rotation schedule", "Valis Procedure annotations", "Blackveil's operational ledger"],
+      "spell_slots": { "1st": 2 },
+      "lay_on_hands": 10,
+      "faerie_fire": true,
+      "player": "YOU",
+      "notes": "Exiled knight. Sworn to protect village that sheltered him. Keeps ruined signet ring of former order."
+    },
     "mira": {
       "full_name": "Mira Thistlewick",
       "race": "Lightfoot Halfling",
       "class": "Rogue",
-      "level": 1,
-      "hp": { "current": 9, "max": 9 },
+      "level": 2,
+      "hp": { "current": 15, "max": 15 },
+      "ac": 15,
       "conditions": [],
-      "inventory": ["Thieves' tools", "Crowbar", "Dark hooded clothes", "15 gp"],
+      "inventory": ["Blade (equipped)", "Short sword (off-hand)", "Light crossbow (equipped)", "Hand crossbow + 30 bolts", "Reinforced leather armor (equipped)", "Abjuration amulet (attuned)", "Healing Potion (1x)", "Thieves' tools", "Crowbar", "Dark hooded clothes", "3 receipts (INTEREST ONLY evidence)", "Crown exterior approach map", "Resonance key (Unchained Compact device)"],
       "spell_slots": null,
-      "notes": ""
+      "notes": "Carrying the resonance key seized from Blackveil."
     },
     "aldric": {
       "full_name": "Brother Aldric Stonebrow",
       "race": "Hill Dwarf",
       "class": "Cleric (Life Domain)",
-      "level": 1,
-      "hp": { "current": 12, "max": 12 },
+      "level": 2,
+      "hp": { "current": 20, "max": 20 },
+      "ac": 18,
       "conditions": [],
-      "inventory": ["Warhammer", "Chain mail", "Shield", "Holy symbol", "Prayer book", "15 gp"],
+      "inventory": ["Warhammer (equipped)", "Chain mail + shield (equipped)", "Holy symbol", "Prayer book", "Holy water vial", "Hilde's knitted scarf"],
       "spell_slots": { "1st": 2 },
       "channel_divinity": 1,
-      "notes": ""
+      "notes": "Wants to find the necromancer who killed his mentor."
     },
     "sylvara": {
       "full_name": "Sylvara Dawnwhisper",
       "race": "High Elf",
       "class": "Wizard (Evocation)",
-      "level": 1,
-      "hp": { "current": 6, "max": 6 },
+      "level": 2,
+      "hp": { "current": 10, "max": 10 },
+      "ac": 12,
       "conditions": [],
-      "inventory": ["Spellbook", "Arcane focus", "Ink + quill", "Common clothes", "10 gp"],
+      "inventory": ["Spellbook (in travel case)", "Arcane focus", "Dagger", "Ink + quill", "Common clothes", "Spell component pouch"],
       "spell_slots": { "1st": 2 },
       "arcane_recovery_used": false,
-      "notes": ""
+      "notes": "Studying Blackveil's operational ledger. Identified the Crucible and Binding Shard."
     },
     "bram": {
       "full_name": "Bram Thistlewick",
       "race": "Stout Halfling",
       "class": "Wizard (Evocation)",
-      "level": 1,
-      "hp": { "current": 6, "max": 6 },
+      "level": 2,
+      "hp": { "current": 11, "max": 11 },
+      "ac": 12,
       "conditions": [],
-      "inventory": ["Spellbook", "Quarterstaff", "Military insignia", "10 gp"],
+      "inventory": ["Spellbook", "Quarterstaff (equipped)", "Hand axe (backup melee)", "Dagger", "Military insignia", "Spell component pouch", "Pigeon messenger kit (paired with Thessaly)"],
       "spell_slots": { "1st": 2 },
       "arcane_recovery_used": false,
       "notes": ""
@@ -54,49 +91,39 @@
       "full_name": "Thessaly Ironveil",
       "race": "Mountain Dwarf",
       "class": "Rogue (Thief)",
-      "level": 1,
-      "hp": { "current": 9, "max": 9 },
+      "level": 2,
+      "hp": { "current": 16, "max": 16 },
+      "ac": 14,
       "conditions": [],
-      "inventory": ["Rapier", "Fine clothes", "Signet ring", "Thieves' tools", "25 gp"],
+      "inventory": ["Rapier (equipped)", "Short sword (off-hand)", "Hand crossbow + bolts", "Studded leather armor (equipped)", "Fine clothes", "Signet ring (House Ironveil)", "Thieves' tools", "Pigeon messenger kit (paired with Bram)"],
       "spell_slots": null,
-      "notes": ""
+      "notes": "Thessaly's list: 3/7 handled (Aldenmere, Tetch, Pallid Court). 4 remain (Sulwick, Vane, Ashford, Sealed Quorum)."
     },
     "orindel": {
       "full_name": "Orindel Ashwick",
       "race": "Wood Elf",
       "class": "Cleric (Life Domain)",
-      "level": 1,
-      "hp": { "current": 9, "max": 9 },
+      "level": 2,
+      "hp": { "current": 15, "max": 15 },
+      "ac": 18,
       "conditions": [],
-      "inventory": ["Mace", "Scale mail", "Holy symbol", "Crowbar", "Dark clothes", "15 gp"],
+      "inventory": ["Mace (equipped)", "Scale mail + wooden shield (equipped)", "Holy symbol", "Crowbar", "Dark clothes"],
       "spell_slots": { "1st": 2 },
       "channel_divinity": 1,
-      "notes": ""
+      "notes": "Pigeon (Tomas) dispatched to Duskport with Greymoor report. Named the pigeon after a boy he lost."
     },
     "pip": {
       "full_name": "Pip Tanglethorn",
       "race": "Lightfoot Halfling",
       "class": "Wizard (Evocation)",
-      "level": 1,
-      "hp": { "current": 6, "max": 6 },
+      "level": 2,
+      "hp": { "current": 10, "max": 10 },
+      "ac": 14,
       "conditions": [],
-      "inventory": ["Spellbook", "Dagger", "Common clothes", "15 gp"],
+      "inventory": ["Spellbook (in travel case)", "Dagger", "Common clothes", "Studded leather armor (equipped)", "Focus stone (Sylvara's river pebble)"],
       "spell_slots": { "1st": 2 },
       "arcane_recovery_used": false,
-      "notes": "Owes debt to Crimson Ledger guild (unknown to him: Mira is paying it)"
-    },
-    "zaryth": {
-      "full_name": "Zaryth Vel'quinar",
-      "race": "Drow (Dark Elf)",
-      "class": "Paladin",
-      "level": 1,
-      "hp": { "current": 12, "max": 12 },
-      "conditions": [],
-      "inventory": ["Battered longsword", "Scratched plate armor", "Ruined signet ring", "10 gp"],
-      "spell_slots": { "1st": 2 },
-      "lay_on_hands": 5,
-      "player": "YOU",
-      "notes": "Exiled knight. Sworn to protect village that sheltered him. Keeps ruined signet ring of former order."
+      "notes": "Gave Ren a sparking copper coin in Greymoor. Found a talented girl on the barge."
     }
   }
 }

@@ -47,13 +47,15 @@ He also served as distraction specialist throughout the campaign: his Dancing Li
 
 In Session 4, Pip served as the party's distraction specialist across every major operation. At the Temple of the Balanced Scale, his Dancing Lights (Performance 17) drew the lookout's attention for Mira's rooftop takedown. At the Ashward warehouse, his strobing Dancing Lights (Performance 19) blinded the entire interior, enabling Thessaly's non-lethal strike on Drest. At Bridgewatch on the King's Road, he entertained children with conjured fire dragons while the party earned road bounties. At The Brass Nail celebration in Harrowgate, he conjured Dancing Lights figures of all eight party members — they marched in formation, then broke apart and danced across the table. Nobody spoke for a full minute.
 
+In Greymoor, Pip held the corridor during Operation Crucible — Burning Hands ready, nothing getting past him. His hands didn't shake. On the barge, his fire-dragon show (Performance 22) drew the entire deck and made the hawk woman laugh for the first time. He discovered a talented miner's daughter who produced a real spark — Sylvara wrote her name down. In the miners' quarter, he befriended Ren (a boy, ~12) who provided critical intel: a canvas-wrapped extraction sent east by wagon the night before the party arrived. At the Broken Drum celebration, his Dancing Lights added a ninth figure — a small shape with a pickaxe, standing on a mountain. Torben went quiet. He gave Ren a sparking copper coin and said: "Practice."
+
 On the voyage home, he shared his dream: to be a real wizard, properly trained. His aspiration: to be honestly brave — scared and doing it anyway. His darkest hour: opening the fake spellbook and feeling confirmed as a fool. His light: Mira. "She didn't pull me back to the light. She just stood in it. And eventually I walked toward her."
 
-## Equipment (Current — End of Session 4, Harrowgate)
+## Equipment (Current — S4 Turn 25, en route to Salthollow)
 - Spellbook (in travel case, purchased in Aelindra 5gp)
 - Dagger
 - Common clothes
-- Studded leather armor (equipped, AC 12 + DEX) — scavenged from Drest, S4
+- Studded leather armor (equipped, AC 12 + DEX)
 - Focus stone (Sylvara's river pebble, 40 years old, no magical properties)
 - 15 gp
 

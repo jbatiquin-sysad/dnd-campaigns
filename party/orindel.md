@@ -47,15 +47,16 @@ Before the operation, he gave his street children list to Edric — a second cop
 
 In Session 4, Orindel was the party's solo rescue specialist. At the Temple of the Balanced Scale, he found Vael Orun behind the altar (Perception 17), bruised and clutching her original 10-year ledger, and healed her with Cure Wounds (11 HP). In Harrowgate, he executed the Maren Holt rescue alone — broke the tannery padlock with a crowbar (Athletics 15), neutralized the guard with Inflict Wounds (22 damage, non-lethal), found Maren alive after 3 months captive, healed her with Cure Wounds (11 HP), and extracted her to Brother Callum's temple. He also delivered Maret Soll's sealed letter to Veyra Solund in Aelindra and arranged temple care for Peytr Hask's ill mother in Duskport.
 
+In Greymoor, Orindel performed the Warding Prayer before Operation Crucible (force resistance on Zaryth, Mira, Aldric, Pip). He recruited Sister Maren on the barge — same order as Vael Orun — and Dalla Vask through his street clinic in the miners' quarter (Medicine 18, Insight 19). Dalla told him: "There are forty families on this ridge who want their mountain back." During the shaft strike, he secured six hired workers peacefully. He named the pigeon Tomas — after a boy he lost. Nobody questioned it.
+
 On the voyage home, he shared his dream: finding homes for every name on his list, and getting a dog. His aspiration: to make people feel safe by who he is, not his magic. His darkest hour: a boy named Tomas, age nine, third name on the list. Found him too late. Fever. The clinic was closed — holy day. One spell slot wasn't enough. "The light isn't a place you return to. It's a direction you choose. Every morning."
 
-## Equipment (Current — End of Session 4, Harrowgate)
+## Equipment (Current — S4 Turn 25, en route to Salthollow)
 - Mace (equipped)
-- Scale mail + wooden shield (equipped, AC 18 — base 14 + DEX 0 + shield +2 + shield purchased S4)
+- Scale mail + wooden shield (equipped, AC 18)
 - Holy symbol
 - Crowbar
 - Dark clothes
-- Pigeon (travelling bird, paired to Bram in Duskport)
 - 15 gp
 
 ## Known Rituals

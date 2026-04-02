@@ -49,7 +49,9 @@ On the voyage home, she shared her dream: finishing her notebook — the complet
 
 In Session 4, Sylvara was the party's detection and authentication specialist. At the Temple of the Balanced Scale, she identified the alchemical accelerant (Arcana 19) and directed fire suppression. At the council chambers, she used her Scroll of Detect Magic (Arcana 23) to identify the assassin — the 12th guard with an abjuration amulet suppressing detection and a concealed poisoned stiletto. In Harrowgate, she fully analyzed the ward glyph on Corvath's office door (Arcana 19), confirming Mira's amulet would bypass it, and entered the Guildhall via service entrance as a returning scholar (Deception 17) to enable the ledger extraction. She also identified the Archive-quality ink on the temple floor plan, linking the inside leak to a handler-supplied operation.
 
-## Equipment (Current — End of Session 4, Harrowgate)
+In Greymoor, Sylvara was the campaign's strategic intelligence lead. On the barge, she identified the sealed chamber system as the Crucible — an Archive containment facility — and the Binding Shard as a Sundering-era continental ward keystone (History 18, 21). She framed the entire conspiracy's architecture: "Duskport was a legal barrier. Aelindra was the knowledge. Greymoor is the physical infrastructure." During Operation Crucible, she led the courthouse filing (Persuasion 22) — presenting combined evidence from three cities before Judge Kess arrived, filing under ecclesiastical authority via Sister Maren, and freeing two prisoners. Overnight, she studied Blackveil's operational ledger (Investigation 20) and traced the east road wagon to Wren Ashdale in Fenhollow — identifying the Crucible calibration fragment as the next threat.
+
+## Equipment (Current — S4 Turn 25, en route to Salthollow)
 - Spellbook (in travel case)
 - Arcane focus
 - Dagger

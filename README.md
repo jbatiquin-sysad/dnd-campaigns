@@ -42,6 +42,7 @@ A D&D 5e campaign run via [Kiro CLI](https://kiro.dev) using subagents as party 
 duskport-campaign/
 ├── README.md
 ├── memory_layer.md          ← full turn-by-turn log (auto-appended each turn)
+├── npc-catalogue.md         ← all NPCs catalogued with descriptions
 ├── save-session.sh          ← git commit + push script
 ├── party/
 │   ├── zaryth.md            ← your character
@@ -69,7 +70,8 @@ duskport-campaign/
 │   ├── week-01.md           ← Night 1: Partition Writ + Civic Trust
 │   ├── week-02.md           ← Days 2–9: Road to Aelindra
 │   ├── week-03.md           ← Days 10–16: The Archivist's Fire
-│   └── week-04.md           ← Days 16–22: Calder's Gambit + Harrowgate
+│   ├── week-04.md           ← Days 16–22: Calder's Gambit + Harrowgate
+│   └── week-05.md           ← Days 22–25: The Crucible Beneath the Mountain
 └── speeches/
     └── before-aelindra-mission.md
 ```
@@ -82,25 +84,30 @@ duskport-campaign/
 | 2 | Days 2–9 | The Road to Aelindra | Chronicler | Vel Noctis traced to Archivist-General. Serevane contacted. Party leveled to 2. |
 | 3 | Days 10–16 | The Archivist's Fire | Chronicler | Valis Procedure (14 min). Tome discharged. Thessara chose redemption. Veyra interim A-G. |
 | 4 | Days 16–22 | Calder's Gambit & Harrowgate | Wildcard | Calder's 3-phase plan stopped. Harrowgate Guild frozen. Corvath arrested. 2/7 targets handled. |
+| 5 | Days 22–25+ | The Crucible Beneath the Mountain | Storyteller | Greymoor operation: zero combat. Blackveil captured. Binding Shard secured. Kess flipped. 3/7 handled. |
 
 ## Campaign Scoreboard
 
 | # | Target | Location | Handler | Status |
 |---|--------|----------|---------|--------|
-| 1 | Marchion Drael Sulwick | Port Veldmere | Lucenne Dray | Active |
-| 2 | The Pallid Court | Greymoor | Dorn Blackveil | Disrupted |
-| 3 | Lorekeeper Idris Vane | Salthollow | Yara Senn | Active |
-| 4 | ~~House Aldenmere~~ | ~~Duskport~~ | ~~Lord Aldenmere~~ | ✅ HANDLED |
-| 5 | Commander Brecca Ashford | Fenhollow | Wren Ashdale | Weakened |
-| 6 | ~~Guildmaster Orvyn Tetch~~ | ~~Harrowgate~~ | ~~Renn Corvath~~ | ✅ HANDLED |
+| 1 | ~~House Aldenmere~~ | ~~Duskport~~ | ~~Lord Aldenmere~~ | ✅ HANDLED |
+| 2 | ~~The Pallid Court~~ | ~~Greymoor~~ | ~~Dorn Blackveil~~ | ✅ HANDLED |
+| 3 | ~~Guildmaster Orvyn Tetch~~ | ~~Harrowgate~~ | ~~Renn Corvath~~ | ✅ HANDLED |
+| 4 | Marchion Drael Sulwick | Port Veldmere | Lucenne Dray | Active — fleet ready |
+| 5 | Lorekeeper Idris Vane | Salthollow | Yara Senn | Active — low resources |
+| 6 | Commander Brecca Ashford | Fenhollow | Wren Ashdale | Weakened — has Crucible fragment |
 | 7 | The Sealed Quorum | Aelindra | (institutional) | Monitored |
 
-## Current Status (Week 4 — PAUSED)
+## Current Status (Week 5 — IN PROGRESS)
 
-**DM:** Corvus Chance, The Wildcard
-**Location:** The Brass Nail, Coppersmith Row, Harrowgate
-**Party Level:** 2 | **Party Funds:** 701.5gp
+**DM:** Mara Solenne, The Storyteller
+**Location:** Civic barge *Iron Penny*, heading south toward Salthollow
+**Party Level:** 2 | **Party Funds:** 1,178.5gp
 **Party HP:** All full, all resources
-**Next:** Resupply via provisioning writ, board civic barge upriver to Greymoor
-**Campaign Clock:** ~9 days before handlers act independently
-**Planned Route:** Harrowgate → Greymoor → Salthollow → Veldmere
+**Next:** Salthollow (Lorekeeper Idris Vane / handler Yara Senn)
+**Campaign Clock:** ~7 days before handlers act independently
+**Planned Route:** Salthollow → Fenhollow → Veldmere
+
+**Inter-City Network:** Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Serevane (counter-intel)
+
+**Credentials:** 8x Duskport Letters of Credential, 8x Harrowgate commendations, 8x Greymoor commendations, 1x Temple commendation, priority river clearance

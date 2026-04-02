@@ -47,9 +47,12 @@ On the voyage home, he shared his dream: building a school for talented kids wit
 
 In Session 4, Bram coordinated the harbor interdiction in Duskport — working with Sergeant Harren to establish a watch cordon, raising the harbor chain, and securing the ship carrying the three escaped captives. All three recaptured, ship seized, escape route closed. He also used his quarterstaff to non-lethally stop the Rooftop Watcher from running. In Harrowgate, he worked dock labor for 2 days gathering intel on Warehouse 6 and the night crew, identified Harsk (ex-military night crew boss), and stood alongside Zaryth and Aldric during the warehouse confrontation where 11 were detained and a full weapons shipment seized. He arrived in Aelindra on Day 6 after a 3-day solo voyage on a ship that smelled like fish oil, received a full primer, and said "I'm ready." He held the east arc of the Valis Procedure without flickering once.
 
-## Equipment (Current — End of Session 4, Harrowgate)
+In Greymoor, Bram secured Shaft 9's main gate alongside Thessaly and six volunteer miners (Intimidation 19). He also recruited Torben Vask — the former Shaft 9 crew chief — through dock labor cover, earning the man's trust over arm-wrestling matches he kept losing. Bram coordinated the gate team's timing with the underground strike, ensuring no reinforcements entered and no one escaped.
+
+## Equipment (Current — S4 Turn 25, en route to Salthollow)
 - Spellbook
 - Quarterstaff (equipped)
+- Hand axe (backup melee) — seized from Blackveil's operation, Greymoor
 - Dagger
 - Military insignia (old unit)
 - Spell component pouch

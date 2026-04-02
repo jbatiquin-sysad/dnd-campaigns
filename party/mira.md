@@ -42,15 +42,18 @@ In Aelindra (Session 3), Mira worked as an Archive courier for 6 days, building 
 
 In Session 4, Mira was the operational backbone of every engagement. In Duskport, she took down the temple lookout (Stealth 25, non-lethal), fired the opening shot in the records wing (12 damage from the rooftop), and spotted Drest's mule cart, Serevane's position, and Calder's council watchers from a single rooftop perch (Perception nat 20). She intercepted Corvath fleeing Harrowgate at the north gate and ended the operation with two words: "It's over." She was unanimously given the abjuration amulet seized from Voss's would-be assassin. In Harrowgate, she led the Guildhall ledger extraction (Stealth 24) — entering through the service entrance, bypassing the ward with her amulet, and extracting both the clearinghouse ledger and Corvath's handler journal without detection.
 
+In Greymoor, Mira was the recon and strike lead for Operation Crucible. She scouted Shaft 9 twice — first the night recon (Stealth 24, undetected) that mapped Blackveil's operation, then the dawn strike where she lifted the Unchained Compact's resonance key off Blackveil's table (Sleight of Hand 23) before he knew the party was there. She now carries the resonance key — a ward-collapse device — alongside her abjuration amulet. On the barge to Greymoor, she recruited Captain Torva Gild as a logistics ally and identified 14 ghost shipments to Shaft 9 through cargo manifest analysis (Investigation 20).
+
 On the voyage home, she shared her dream: a place of her own with a garden. Her aspiration: to learn to stay instead of run. Her darkest hour: discovering the Ledger was eating her payments and going empty for a week — until Pip laughed at something stupid and she decided to keep that laugh in the world. She asked Zaryth to visit her garden someday. He said he'd be honored.
 
-## Equipment (Current — End of Session 4, Harrowgate)
+## Equipment (Current — S4 Turn 25, en route to Salthollow)
 - Blade (equipped)
 - Short sword (off-hand backup)
 - Light crossbow (equipped)
 - Hand crossbow + 30 bolts
 - Reinforced leather armor (equipped, AC 12 + DEX) — scavenged from Vel Noctis operative, S4
 - Abjuration amulet (attuned) — suppresses detection magic, seized from assassin in S4
+- Resonance key (Unchained Compact ward-collapse device) — seized from Blackveil, Greymoor
 - Healing Potion (1x)
 - Thieves' tools
 - Crowbar

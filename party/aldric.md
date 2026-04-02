@@ -44,13 +44,16 @@ On the voyage home, he shared his dream: returning to Stonebrow Hall to teach st
 
 In Session 4, Aldric served as Zaryth's right hand across every operation. In Duskport, he walked into the Salted Crown alongside Zaryth to confront Calder Aldenmere. At the Temple of the Balanced Scale, he helped suppress the alchemical fire and secure the records wing. In Harrowgate, he confronted the Warehouse 6 night crew with Zaryth and Bram — his credentials verified by the city watch sergeant, his presence enough to make 4 of 7 crew back away. He also worked as a theological consultant at the Harrowgate temple, recruiting Brother Callum and his 4 months of Guild overreach documentation. He carried the Partition Writ from the Undercroft to the council chambers in Session 1, and he has carried the party's moral center ever since.
 
-## Equipment (Current — End of Session 4, Harrowgate)
+In Greymoor, Aldric recruited Donal Crewe on the barge by tending his broken wrist (Medicine 17) and earning his trust over an afternoon. During Operation Crucible, he talked Guard 2 into surrendering mid-bite on an apple (Persuasion 16). He also recruited Brother Ollen at the Chapel of the Balanced Stone and uncovered the two falsely imprisoned civilians (Fen Druval and Kara Stenn). At the Broken Drum celebration, he lit candles at the Chapel for everyone the Unchained Compact touched. Hilde knitted him a scarf. It's too small. He wears it anyway.
+
+## Equipment (Current — S4 Turn 25, en route to Salthollow)
 - Warhammer (equipped)
 - Chain mail (equipped)
 - Shield (equipped)
 - Holy symbol
 - Prayer book (contains an unaddressed letter written before the Aelindra operation)
 - Holy water vial (purchased in Aelindra, 25gp)
+- Hilde's knitted scarf
 - 15 gp
 
 ## Roleplay Instructions

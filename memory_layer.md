@@ -2357,3 +2357,162 @@ Changes: All 3 operations complete/secured. Calder not resisting. Seized: 200gp 
 - `harrowgate.png` — Harrowgate cityscape
 - `pip-bridgewatch.png` — Pip the lamplighter and children's entertainer
 - `pip-dancing-lights-party.png` — Pip's Dancing Lights tribute to the party
+
+## SESSION 4 RESUMED — DM: Mara Solenne, The Storyteller
+
+---
+## S4 Turn 19 — The River North
+
+**Scene:** Civic barge *Millstone*, Day 1 on the water, Harrowgate to Greymoor.
+
+**Side Hustles (54gp earned):**
+- Mira (cargo security 7gp): Two crates marked for Greymoor's "deep ward" — private mining concern
+- Thessaly (consulting 9gp): Judge Aldara Kess issuing expedited mining permits 6 months, fees tripled
+- Sylvara (translating 8gp): Pre-Sundering mine maps show sealed chamber system beneath Greymoor — Archive glyph (collapsed tower)
+- Bram (deck labor 6gp): Mine guards changed 8 months ago, non-local, don't talk
+- Aldric (medicine 5gp): Donal Crewe — former Shaft 9, reassigned topside, crew of 6 split to prevent deep layout knowledge
+- Orindel (clinic 5gp): Sister Maren — temple courier, Chapel of the Balanced Stone, carrying sealed inquiry about courts
+- Pip (entertainment 8gp, Performance 22): Fire-dragon show, miner's daughter produced a real spark
+- Zaryth (escort 6gp): Hawk woman watching the party — held eye contact, evaluating
+
+**Evening Planning Session:** Party identified Greymoor targets — Blackveil digging for something sealed beneath the mines. Sylvara: "Greymoor is a third sealed thing."
+
+## STATE SYNC — S4 Turn 19
+Changes: party_gold 701.5→755.5gp. Provisioning writ 7→6 days.
+New NPCs: Captain Torva Gild, Donal Crewe, Sister Maren, hawk woman (unnamed), Judge Aldara Kess (named)
+New intel: The Crucible (Archive containment facility), Shaft 9 sealed door at 600ft, non-local mine guards
+
+---
+## S4 Turn 20 — Eyes on the Hawk / Day 2 on the Water
+
+**Hawk Woman Investigation:**
+- Mira (Stealth 21, Perception 17): Trained message relay hawk. Caught fragment: "...still eight of them. The Drow leads."
+- Thessaly (Deception 19, Insight 20): Woman is Greymoor basin, ink calluses, afraid not hostile. Knew Thessaly's mother.
+- Orindel (Animal Handling 16, Insight 15): Hawk has scroll case with Greymoor civic seal. Government agent, not Vel Noctis.
+
+**Day 2 Side Hustles (51gp earned):**
+- Mira (7gp): Recruited Captain Torva — knows every dock and loading schedule
+- Thessaly (8gp): Hawk woman = Vella Drace, court clerk, sent by Judge Kess. Has copies of 6 months fraudulent permits. Door open.
+- Sylvara (9gp, History 18): Sealed chamber = the Crucible. Contains Binding Shard — Sundering-era ward network keystone. Extraction weakens wards continent-wide.
+- Bram (6gp): New harbormaster Stenn appointed 7 months ago, reports to Kess
+- Aldric (4gp): Donal Crewe recruited — knows deep layout, will guide to sealed door
+- Orindel (5gp): Sister Maren recruited — temple authority, documented court corruption
+- Pip (7gp, Performance 18): Evening show, children entertained
+- Zaryth (6gp, Insight 18): Lights in Shaft 9 after dark — Blackveil digging tonight
+
+**Arrival at Greymoor.** Stenn on dock with clipboard. Logged party arrival.
+
+## STATE SYNC — S4 Turn 20
+Changes: party_gold 755.5→806.5gp. Provisioning writ 6→5 days.
+New NPCs: Vella Drace (court clerk), Stenn (harbormaster), Torben Vask, Dalla Vask, Brother Ollen, Ren, Fen Druval, Kara Stenn
+Allies recruited: Torva Gild, Donal Crewe, Sister Maren
+
+---
+## S4 Turn 21 — Greymoor / The Descent
+
+**Docking:** Thessaly Persuasion 23 — credentials verified. Stenn logged "Eight. Armed. Credentials verified. The Drow leads."
+
+**Safehouse:** The Broken Drum, Coalvein Street. Hilde Ashburn, 1.5gp/night. Back staircase, sightline to Shaft 9.
+
+**Night Recon (10th bell):**
+- Recon team: Mira (Stealth 24), Orindel (19), Pip (17), guided by Donal Crewe (12)
+- Overwatch: Zaryth + Aldric + Bram at ventilation shaft entrance
+- Holding: Thessaly + Sylvara at Broken Drum
+
+**Mira's Scout (Stealth 24, Perception 21):**
+- Sealed door intact, wards pulsing blue, 3 sides cut free, base holding
+- 6 workers with picks cutting door from mountain to bypass wards
+- 2 armed VN guards (crossbows, short swords, rings)
+- Dorn Blackveil supervising personally
+- Resonance key on table — Unchained Compact ward-collapse device
+- 2-3 days until base is free and wards lose anchor
+- Blackveil does NOT know about Harrowgate
+
+**Recon team surfaced clean. Zero detection.**
+
+## STATE SYNC — S4 Turn 21
+Changes: party_gold 806.5→805gp (lodging). Provisioning writ 5→4 days.
+New NPCs: Hilde Ashburn, Dorn Blackveil (visually confirmed)
+Key intel: Resonance key, excavation method, 2-3 day timeline, Blackveil unaware of Harrowgate
+
+---
+## S4 Turn 22 — Day 1 in Greymoor / The City Speaks
+
+**Side Hustles + Intel (49gp earned):**
+- Mira (Investigation 20, 8gp): 14 ghost shipments to Shaft 9. Vella Drace still on barge, stalling.
+- Thessaly (Persuasion 20, Insight 17, 9gp): Gerd Holtz (chief assayer) has forged geological surveys, recruitable
+- Sylvara (History 21, 10gp): Crucible = Archive containment. Binding Shard = continental ward keystone. Extraction weakens wards at multiple sealed sites.
+- Bram (Athletics 18, 6gp): Torben Vask recruited — Shaft 9 crew chief, 5 months documentation
+- Aldric (Medicine 17, Persuasion 14, 4gp): Brother Ollen recruited. 2 prisoners in courthouse: Fen Druval + Kara Stenn (Kess's niece). Court judgments altered after filing.
+- Orindel (Medicine 18, Insight 19, 6gp): Dalla Vask recruited — 40 families ready. Night crews carry weapons, arrive by covered wagon from east. Something carried into shaft 3 weeks ago.
+- Pip (Performance 16, 6gp): Ren (boy, 12) — saw canvas-wrapped extraction sent east by wagon night before party arrived
+- Zaryth (Insight 18, 6gp): Watched all alliance-building. Shaft 9 light still burning.
+
+**Sylvara's revelation:** Binding Shard extraction weakens wards at other sealed sites continent-wide. Duskport = legal barrier, Aelindra = knowledge, Greymoor = physical infrastructure.
+
+## STATE SYNC — S4 Turn 22
+Changes: party_gold 805→852.5gp.
+New NPCs: Gerd Holtz, Torben Vask, Dalla Vask, Brother Ollen, Ren, Fen Druval (Greymoor), Kara Stenn
+Key intel: Binding Shard = continental keystone, something already extracted and sent east
+
+---
+## S4 Turn 23 — The Night Before / Operation Crucible
+
+**Operation Plan — 4 Simultaneous Phases at Dawn (5th Bell):**
+1. THE SHAFT: Zaryth, Mira, Aldric, Pip, Orindel + Donal + Torben → ventilation shaft → deep workings → neutralize Blackveil, seize resonance key
+2. THE GATE: Bram + Thessaly + 6 volunteer miners → secure Shaft 9 main entrance
+3. THE COURTHOUSE: Sylvara + Sister Maren + Gerd Holtz + Brother Ollen → file inquiry, free prisoners
+4. THE BARGE: Dalla Vask → recruit Vella Drace, secure fraudulent permits
+
+**Orindel Warding Prayer (3rd bell):** Force resistance on Zaryth, Mira, Aldric, Pip. 1 hour duration.
+
+## STATE SYNC — S4 Turn 23
+Changes: party_gold 852.5→851gp (lodging). Provisioning writ 4→3 days. Orindel warding prayer cast.
+
+---
+## S4 Turn 24 — Operation Crucible
+
+**Phase 4 — THE BARGE (4th bell):** Dalla Vask recruited Vella Drace. 6 months fraudulent permits secured. No rolls — just one woman sitting next to another.
+
+**Phase 3 — THE COURTHOUSE (5th bell):** Sylvara Persuasion 22. Filing complete at 5:14 AM — temple inquiry, forged surveys, safety log, credentials. Sister Maren filed under ecclesiastical authority (separate jurisdiction). Fen Druval + Kara Stenn freed. Kara revealed: Stenn (harbormaster) is her cousin, coerced to keep her alive. Judge Kess arrived 7th bell — flipped. Was coerced via niece Kara. Signed warrants for Blackveil's arrest, permit suspension, Shaft 9 restoration.
+
+**Phase 2 — THE GATE (5th bell):** Thessaly Deception 24, Bram Intimidation 19. Both gate guards neutralized non-lethal. 6 miners secured the gate.
+
+**Phase 1 — THE SHAFT (4th bell entry, 5th bell strike):**
+- Stealth: Mira 25, Orindel 20, Pip 18, Zaryth 14, Aldric 11, Torben 15, Donal 13. All clear.
+- Surprise round: Mira Sleight of Hand 23 — lifted resonance key before Blackveil knew. Zaryth Intimidation 21 — Guard 1 yielded. Aldric Persuasion 16 — Guard 2 yielded. Pip held corridor. Orindel secured 6 workers (hired labor, cooperative).
+- Blackveil captured. Zero combat. Zero casualties. Zero sound.
+
+**All four phases: COMPLETE.**
+
+**Aftermath:** Kess signed corrections all night. Stenn freed from coercion. Inter-city network expanded: Voss–Kellan–Kess.
+
+## STATE SYNC — S4 Turn 24
+Changes: party_gold 851→849.5gp (lodging). Provisioning writ 3 days.
+Blackveil arrested. Resonance key seized (Mira). Kess flipped. Kara + Fen freed. Shaft 9 restored.
+Zero resources expended — all spell slots intact.
+
+---
+## S4 Turn 25 — Spoils, Rewards, and the Road South
+
+**Equipment:** Sold 2x short swords, 2x crossbows, Blackveil's effects = 82gp. Bram +hand axe. Party +3 mining lanterns.
+
+**Greymoor Rewards:** 250gp bounty, provisioning extension (+5 days = 8 total), barge passage extension (+30 days = 60 total), 8x Greymoor commendations (Kess + Sister Maren + Chapel seal), temple commendation, priority river clearance (Stenn).
+
+**Blackveil's Ledger (Sylvara Investigation 20):** East road wagon destination = Thornfield waystation → Wren Ashdale, Fenhollow. Contents: "Component 7 — calibration fragment, Crucible secondary." Part of Binding Shard housing.
+
+**Celebration at the Broken Drum.** Torben's toast. Pip's Dancing Lights — ninth figure with a pickaxe on a mountain. Orindel revealed pigeon's name: Tomas. After a boy he lost.
+
+**Pigeon dispatched** to Duskport — full Greymoor report.
+
+**Departure:** Civic barge *Iron Penny*, Captain Solt. Heading south toward Salthollow.
+
+**Route:** Greymoor → Salthollow (2 days river + 1 day overland) → Fenhollow (2 days) → Veldmere
+
+## STATE SYNC — S4 Turn 25
+Changes: party_gold 849.5→1178.5gp. Provisioning writ 8 days. Barge passage 60 days. Bram +hand axe. Party +3 mining lanterns.
+Credentials: 8x Duskport, 8x Harrowgate, 8x Greymoor, 1x temple, priority river clearance.
+Campaign scoreboard: 3/7 handled (Aldenmere, Tetch, Pallid Court). 4 remain.
+Campaign clock: ~7 days.
+Location: Civic barge Iron Penny, heading south toward Salthollow.
+All party: Full HP, full resources, Level 2.

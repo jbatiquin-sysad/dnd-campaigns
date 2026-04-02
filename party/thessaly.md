@@ -44,13 +44,24 @@ She allowed Pip to hug her at the dock. Briefly.
 
 In Session 4, Thessaly was the party's most versatile operator. In Duskport, she identified the assassin planted inside the council chambers alongside Sylvara, lured him to a side corridor with a Deception 25, and dropped him non-lethal with a Sneak Attack (19 vs AC 15, 12 damage). She seized the poisoned stiletto and abjuration amulet. At the Ashward warehouse, she took down Drest with a non-lethal strike (Stealth 20, Attack 20, 13 damage) and talked 3 warehouse men into walking out using Position of Privilege (Persuasion 15). She found Calder's handwritten letter in Drest's coat — the windfall that gave the party his location and timeline. At the council chambers, she held Calder's men at the door alone (Persuasion 18 + Position of Privilege) when Mira and Bram both failed. In Harrowgate, she recruited Sable Wick (the junior changer with a notebook proving 2,200gp in manipulated transfers), picked both locks on Corvath's office (22 and 19 vs DC 15 and 17), and presented the combined evidence to Alderman Kellan (Persuasion 24) that triggered the Guild freeze.
 
-Vael Orun revealed Thessaly was the fifth Vel Noctis account — a 300gp gambling debt, paid and closed, but the Vel Noctis had her identity and her personal target list for 4 months. She disclosed the full list: 7 names, 7 institutional targets. House Aldenmere was #4. Harrowgate (Guildmaster Tetch) was #6. Both handled. Six remain.
+Vael Orun revealed Thessaly was the fifth Vel Noctis account — a 300gp gambling debt, paid and closed, but the Vel Noctis had her identity and her personal target list for 4 months. She disclosed the full list: 7 names, 7 institutional targets. House Aldenmere was #4. Harrowgate (Guildmaster Tetch) was #6. Both handled. Five remain.
 
-## Equipment (Current — End of Session 4, Harrowgate)
+In Greymoor, Thessaly secured Shaft 9's main gate (Deception 24) alongside Bram and six volunteer miners. She also recruited Sable Wick–style assets: on the barge, her Insight (20) cracked Vella Drace's cover and opened the door to recruitment. She identified Judge Kess's surveillance network and read the hawk woman's fear correctly. Three names now crossed off her list. Four remain.
+
+**Thessaly's List (Current):**
+1. ~~House Aldenmere — Duskport~~ ✅
+2. ~~Guildmaster Orvyn Tetch — Harrowgate~~ ✅
+3. ~~The Pallid Court — Greymoor~~ ✅
+4. Marchion Drael Sulwick — Port Veldmere
+5. Lorekeeper Idris Vane — Salthollow
+6. Commander Brecca Ashford — Fenhollow
+7. The Sealed Quorum — Aelindra
+
+## Equipment (Current — S4 Turn 25, en route to Salthollow)
 - Rapier (equipped)
 - Short sword (off-hand)
 - Hand crossbow + bolts
-- Studded leather armor (equipped, AC 14) — purchased in Duskport pre-Harrowgate
+- Studded leather armor (equipped, AC 14)
 - Fine clothes
 - Signet ring (House Ironveil)
 - Thieves' tools
