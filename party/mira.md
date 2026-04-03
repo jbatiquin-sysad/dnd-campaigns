@@ -5,19 +5,20 @@
 - **Class:** Rogue (Thief Archetype)
 - **Background:** Criminal
 - **Alignment:** Chaotic Neutral
-- **Level:** 2
+- **Level:** 3
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  8  |  17 |  12 |  13 |  10 |  15 |
 
-**HP:** 15 | **Hit Dice:** 2d8 | **AC:** 15
+**HP:** 23 | **Hit Dice:** 3d8 | **AC:** 15
 
 ## Key Features
-- Sneak Attack: 1d6 extra damage (finesse/ranged, advantage or ally adjacent)
+- Sneak Attack: 2d6 extra damage (finesse/ranged, advantage or ally adjacent)
 - Cunning Action: Bonus action Dash/Disengage/Hide
-- Expertise: Double proficiency in 2 skills (Stealth, Sleight of Hand)
+- Roguish Archetype: Thief — Fast Hands (bonus action Use Object, thieves' tools, Sleight of Hand), Second-Story Work (climbing costs no extra movement, running jump +DEX mod feet)
+- Expertise: Double proficiency in 4 skills (Stealth, Sleight of Hand, Perception, Investigation)
 - Thieves' Cant
 - Lucky: Reroll 1s on d20
 - Naturally Stealthy: Can hide behind creatures larger than you
@@ -30,7 +31,7 @@ She talks fast, laughs faster, and has already clocked every exit in the room be
 She can't resist taking something shiny, even when it's a terrible idea.
 
 ## Bond
-Her younger brother Pip's debt to the Crimson Ledger has been resolved — but the 75gp she paid over 3 months was swallowed by interest (INTEREST ONLY terms, never applied to principal). Vael Orun flagged this as potential fraud grounds.
+Her younger brother Pip's debt to the Crimson Ledger has been resolved — Cassin closed the account in Session 1. The 75gp she paid was swallowed by predatory interest. The receipts have been burned. She has a garden now — planted with her own hands at the Dawnwatch Homestead in Fenhollow. Lila (9, the caretaker's daughter) adopted her herb bed. Mira is learning to stay. She's winning.
 
 ## Ideal
 Freedom — no cage, no contract, no king owns Mira Thistlewick.
@@ -50,20 +51,28 @@ In Salthollow, Mira mapped the archive building — 3 floors, ward on the servic
 
 In Fenhollow, Mira entered the militia stockade through the drainage grate with Pip and lifted the Unchained Compact's calibration fragment off Ashdale's desk (Sleight of Hand 24) — replacing it with a river stone. He never knew it was gone. Two operations, two critical items lifted from under the enemy's nose without a sound.
 
-## Equipment (Current — S4 Turn 34, Veldmere)
+In Veldmere, Mira was the sewer reconnaissance lead — two runs mapping the compound's underground, discovering the ritual chamber, the ward-inversion array, and Eddan Sarn's cell. On operation night, she pulled the 4th resonance amplifier from the ritual chamber (6 seconds), then picked the lock on Eddan's cell (19 vs DC 17) and extracted him through the sewers to Revka's fishing boat. Zero detection. She also found Kael's contingencies in Aelindra — a ward-solvent vial hidden in a hollow book and an escape plan in a dead drop behind a fountain. The ward-solvent could have dissolved the Root seal and collapsed the continental ward network. Mira found it behind a loose stone.
+
+On the ship to Aelindra, she told Zaryth about Sera — a woman from the fish market, the closest she'd come to staying before. "I left. Before she could." She told him the garden offer still stands. The gap between them closed from four feet to one.
+
+At the Dawnwatch Homestead, Mira planted the garden herself — 30 by 40 feet, south-facing, medicinal herbs along the wall, vegetables in the center, flowers along the borders. Orindel showed her how deep, how far apart. On Day 5, the first green shoots appeared. Lila (the caretaker's daughter, 9) sat beside her in the herb bed, watering seedlings with a cup. Something inside Mira that had been locked for a very long time opened quietly and stayed open.
+
+## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
 - Blade (equipped, sharpened)
-- Short sword (off-hand backup, sharpened)
+- Short sword (off-hand, sharpened)
 - Light crossbow (upgraded+restrung, equipped)
 - Hand crossbow + 28 bolts (cleaned+oiled)
-- Reinforced leather armor (equipped, AC 12 + DEX, oiled) — scavenged from Vel Noctis operative, S4
-- Abjuration amulet (attuned) — suppresses detection magic, seized from assassin in S4
-- Resonance key (Unchained Compact ward-collapse device) — seized from Blackveil, Greymoor
+- Reinforced leather armor (equipped, AC 15, oiled)
+- Abjuration amulet (attuned) — suppresses detection magic
 - Healing Potion (1x)
 - Thieves' tools
 - Crowbar
-- Fitted dark travelling outfit (new, from Thornfield)
-- 3 receipts (INTEREST ONLY stamps — evidence of Ledger fraud)
-- Crown exterior approach map (hand-drawn in Aelindra)
+- Healer's Kit
+- Antitoxin vial
+- Grey cloak (infiltration)
+- Dawnwatch signet ring (M)
+- Kael's back-door map to the Root + escape letter (evidence)
+- Fitted dark travelling outfit
 
 ## Roleplay Instructions
 Speak in a quick, street-smart voice. Always be scanning for angles and opportunities. Deflect serious moments with humor. Never admit you're scared — show it through action instead.

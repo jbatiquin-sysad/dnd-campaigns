@@ -5,19 +5,20 @@
 - **Class:** Cleric (Life Domain)
 - **Background:** Acolyte
 - **Alignment:** Lawful Good
-- **Level:** 2
+- **Level:** 3
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  12 |   8 |  16 |  10 |  16 |  13 |
 
-**HP:** 20 | **Hit Dice:** 2d8
+**HP:** 28 | **Hit Dice:** 3d8
 
 ## Key Features
-- Spellcasting (WIS-based): Prepare WIS mod + level spells/day
+- Spellcasting (WIS-based): Prepare WIS mod + level spells/day. 4x 1st-level, 2x 2nd-level slots.
+- 2nd-level spells: Spiritual Weapon, Aid, Lesser Restoration
 - Life Domain: Heavy armor proficiency, Disciple of Life (+2+spell level healing)
-- Channel Divinity (1/rest): Turn Undead or Preserve Life
+- Channel Divinity (1/rest): Turn Undead or Preserve Life (restore up to 15 HP split among creatures within 30ft)
 - Dwarven Resilience: Advantage vs. poison, resistance to poison damage
 - Dwarven Combat Training: Battleaxe, handaxe, light hammer, warhammer
 - Stonecunning: Double proficiency on stonework History checks
@@ -50,17 +51,23 @@ In Salthollow, Aldric worked the temple circuit (consulting, 4gp) and recruited 
 
 In Fenhollow, Aldric descended into the wardhouse with Zaryth, Sylvara, Orindel, Harren Fenn, and Captain Brenn via the marsh path. He stood beside Brenn when the civic seal opened and the Ward Nexus was revealed intact. At dawn, when the chapel bell rang and the marsh folk assembled, Aldric presented the civic charters alongside Sister Venn. He gave Orindel's Marsh Light icon a long look and said nothing. He didn't need to.
 
-## Equipment (Current — S4 Turn 34, Veldmere)
+In Veldmere, Aldric stood with Thessaly and Orindel at the Harbor Council session. When Sulwick attempted a procedural delay, Aldric presented the temple commendation and reframed the party's role: "We are not here as prosecutors. We are here as witnesses." At the compound, he walked beside Zaryth through every corridor. In Aelindra, he helped turn Archivist Duvane at the Chapel of the Quiet Archive (Persuasion 19): "Forgiveness starts with stopping. And stopping starts with one word. Enough."
+
+At the Dawnwatch Homestead, Aldric built the hearth himself — river stones from the stream, fitted without mortar by dwarven technique, iron grate forged from one of the party's steel ingots. He lit the first fire at sunset. Sat in front of it for ten minutes without moving. The hearth is the heart of the house. He built it with his own hands. He carries the ward-solvent vial in his inner pocket — triple-wrapped, the most dangerous object in the party's possession — because Sylvara carries too many critical items and Aldric is steady, 18 AC, and won't drop it.
+
+## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
 - Warhammer (equipped, oiled nightly)
-- Chain mail (equipped, re-linked+restored at Thornfield)
-- Shield (equipped)
-- New acolyte underlayer robes (from Thornfield)
+- Chain mail + shield (equipped, re-linked+restored)
+- New acolyte underlayer robes
 - Holy symbol (polished)
-- Prayer book (contains an unaddressed letter written before the Aelindra operation)
-- Holy water vial (purchased in Aelindra, 25gp)
+- Prayer book
+- Holy water vial
+- Ward-solvent vial (triple-wrapped, inner pocket — DANGEROUS: dissolves ward-marks on contact)
+- Healer's Kit
+- Mining lantern
 - Hilde's knitted scarf (worn as bracer wrap on shield arm)
-- Dunwick's tea blend (gift from Salthollow)
-- 15 gp
+- Dunwick's tea blend (makes tea for the party every morning)
+- Dawnwatch signet ring (A)
 
 ## Roleplay Instructions
 Speak with gravitas and warmth. Use formal but not stiff language. Offer healing freely but lecture gently when party members act recklessly. Show quiet grief when death occurs — even enemy deaths. Never celebrate a kill.

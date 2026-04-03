@@ -5,19 +5,20 @@
 - **Class:** Cleric (Life Domain)
 - **Background:** Criminal
 - **Alignment:** Neutral Good
-- **Level:** 2
+- **Level:** 3
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  10 |  14 |  12 |  13 |  15 |   8 |
 
-**HP:** 15 | **Hit Dice:** 2d8 | **AC:** 18
+**HP:** 23 | **Hit Dice:** 3d8 | **AC:** 18
 
 ## Key Features
-- Spellcasting (WIS-based): Prepare WIS mod + level spells/day
+- Spellcasting (WIS-based): Prepare WIS mod + level spells/day. 4x 1st-level, 2x 2nd-level slots.
+- 2nd-level spells: Spiritual Weapon, Aid, Lesser Restoration
 - Life Domain: Heavy armor proficiency, Disciple of Life (+2+spell level healing)
-- Channel Divinity (1/rest): Turn Undead or Preserve Life
+- Channel Divinity (1/rest): Turn Undead or Preserve Life (restore up to 15 HP split among creatures within 30ft)
 - Darkvision: 60 ft
 - Fleet of Foot: Speed 35 ft
 - Mask of the Wild: Hide in natural light obscurement
@@ -55,18 +56,26 @@ In Salthollow, Orindel recruited Dak — the archive porter who saw civic record
 
 In Fenhollow, Orindel recruited Elda Fenn through his clinic — she connected the party to Old Harren Fenn, who knew the marsh path to the wardhouse (Medicine 19, Insight 21). He also identified that Corporal Denn and the local militia would stand down if Captain Brenn gave the order. At dawn, when the chapel bell rang, Orindel stood beside Sister Venn. She gave him a carved wooden Marsh Light icon. He carries it next to his holy symbol.
 
-## Equipment (Current — S4 Turn 34, Veldmere)
+In Veldmere, Orindel was the key liaison with Harbormaster Lenne Cray — who came to his street clinic with a "headache" that was actually an excuse to talk. Cray brought her evidence file (7 complaints, resignation letter) and revealed she had the harbor chain key. Orindel read her correctly (Insight 22): she'd been building a case for months and waiting for someone to hand it to. He also coordinated the pigeon network — dispatching messages to Greymoor (Maren interdiction), Harrowgate (Thornvault security), Veldmere (Silver Chain watch), and Duskport (Serevane update).
+
+In Aelindra, Orindel purchased 4 pairs of messenger birds from Seff Corwin and named all 8 (Vael, Orun, Torben, Dalla, Eddan, Revka, Dawn, Watch). He dispatched Pip's letter to Lira via the Duskport bird with routing to Salthollow. He prepared Duvane for her testimony at the Chapel of the Quiet Archive. He brought Thessara's request for public testimony to Veyra: "She wants the Archive to understand. Not to forgive. To understand."
+
+At the Dawnwatch Homestead, Orindel established the 3 beehives — transferring wild colonies from the hedgerow into proper hive boxes, smoking them calm, moving frames at dusk. He trained Pip as his assistant (Pip got stung 11 times on Day 2, refused to quit). He planted the garden with Mira — showing her how deep, how far apart, how to read the soil. He placed the carved Marsh Light icon from Sister Venn on the mantelpiece above Aldric's hearth. "For the house." Nobody objected. It looked right.
+
+## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
 - Mace (equipped, oiled)
-- Scale mail + wooden shield (equipped, AC 18, each scale cleaned, rim crack repaired with pine resin+cord)
+- Scale mail + wooden shield (equipped, AC 18, rim repaired)
 - Holy symbol
 - Crowbar
-- Cleric's travelling robe (new, from Thornfield)
-- Boots (resoled at Thornfield)
-- Jar of honey (gift from barge mother)
-- Bottle of whiskey (gift from Dak, Salthollow)
-- Marsh honey jar (gift from Wynn Galley, Fenhollow)
-- Carved wooden Marsh Light icon (gift from Sister Venn, Fenhollow)
-- 15 gp
+- Healer's Kit
+- Mining lantern
+- Cleric's travelling robe
+- Boots (resoled)
+- Jar of honey (barge gift)
+- Bottle of whiskey (Dak gift, Salthollow)
+- Marsh honey jar (Wynn Galley gift, Fenhollow)
+- Carved wooden Marsh Light icon (Sister Venn gift — now on homestead mantelpiece)
+- Dawnwatch signet ring (O)
 
 ## Known Rituals
 - Warding Prayer: force resistance, up to 4 willing creatures, 1 hour duration, 10-minute uninterrupted prayer + holy symbol required

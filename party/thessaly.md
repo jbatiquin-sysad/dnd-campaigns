@@ -5,19 +5,20 @@
 - **Class:** Rogue (Thief Archetype)
 - **Background:** Noble
 - **Alignment:** Chaotic Neutral
-- **Level:** 2
+- **Level:** 3
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  13 |  15 |  14 |  12 |   8 |  10 |
 
-**HP:** 16 | **Hit Dice:** 2d8 | **AC:** 14
+**HP:** 24 | **Hit Dice:** 3d8 | **AC:** 14
 
 ## Key Features
-- Sneak Attack: 1d6 extra damage
+- Sneak Attack: 2d6 extra damage
 - Cunning Action: Bonus action Dash/Disengage/Hide
-- Expertise: Double proficiency in 2 skills (Stealth, Deception)
+- Roguish Archetype: Thief — Fast Hands, Second-Story Work
+- Expertise: Double proficiency in 4 skills (Stealth, Deception, Persuasion, Insight)
 - Thieves' Cant
 - Mountain Dwarf: STR+2, CON+2, light+medium armor proficiency
 - Dwarven Combat Training: Battleaxe, handaxe, light hammer, warhammer
@@ -52,26 +53,35 @@ In Salthollow, Thessaly identified the 11 properties acquired through solicitor 
 
 In Fenhollow, Thessaly recruited Captain Jorik Brenn — the legitimate militia captain displaced by Ashford (Persuasion 19). At dawn, she stood at the stockade gate with Bram and Brenn. Her Deception (24) and credentials from five cities convinced the gate guards to stand down. When Brenn walked through in his captain's tabard, every local militiaman saluted. Five names crossed off. Two remain.
 
-**Thessaly's List (Current):**
-1. Marchion Drael Sulwick — Port Veldmere
+**Thessaly's List (Current — COMPLETE):**
+1. ~~Marchion Drael Sulwick — Port Veldmere~~ ✅
 2. ~~The Pallid Court — Greymoor~~ ✅
 3. ~~Lorekeeper Idris Vane — Salthollow~~ ✅
 4. ~~House Aldenmere — Duskport~~ ✅
 5. ~~Commander Brecca Ashford — Fenhollow~~ ✅
 6. ~~Guildmaster Orvyn Tetch — Harrowgate~~ ✅
-7. The Sealed Quorum — Aelindra
+7. ~~The Sealed Quorum — Aelindra~~ ✅
 
-## Equipment (Current — S4 Turn 34, Veldmere)
-- Rapier (equipped, sharpened with fine-grain whetstone)
+In Veldmere, Thessaly flipped all 3 Harbor Council votes in a single morning — Ashvale, Fell, and Kelwick. She presented the case at the emergency session (Persuasion 22), and the fleet freeze passed 3-2. She held Calder's men at the compound gate during the dawn warrant service. She crossed Sulwick's name off the list.
+
+In Aelindra, Thessaly presented the evidentiary package at Thessara's public testimony (Persuasion 23) — 20 minutes, methodical, never raised her voice. She placed the ward-solvent vial on the council table and let the silence do the work. She also served Kael's suspension alongside Captain Voss (Persuasion 20), dismantling his procedural objections with cited civic code. She crossed the Sealed Quorum off the list. 7/7. Complete.
+
+She drew the seventh line at the Inkwell, over Dalla's wine, with eight rings on eight hands around the table. "It's done." Bram said: "We're not done. We're starting."
+
+At the Dawnwatch Homestead, Thessaly pruned the orchard with Sylvara and handled the budget for the property setup. She and Bram share a room. They're planning the school together — he teaches resilience, she teaches contracts. "Ask me again after Aelindra," she'd said on the ship. He asked. She said yes.
+
+## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+- Rapier (equipped, sharpened)
 - Short sword (off-hand, oiled)
-- Hand crossbow + bolts (mechanism cleaned+oiled)
+- Hand crossbow + bolts (cleaned+oiled)
 - Studded leather armor (equipped, AC 14, studs tightened)
 - Fine clothes (infiltration set)
-- Quality travelling outfit (new, from Thornfield)
+- Quality travelling outfit
 - Signet ring (House Ironveil, polished)
 - Thieves' tools
-- Pigeon messenger kit (paired with Bram)
-- 25 gp
+- Grey cloak (infiltration)
+- Dawnwatch signet ring (T)
+- The List (7/7 — COMPLETE, kept in breast pocket)
 
 ## Roleplay Instructions
 Speak with aristocratic polish that occasionally slips to reveal sharp dwarven bluntness underneath. Always be running a read on everyone in the room. Treat heists as art. Show genuine warmth only to people who've earned it — which is rare.

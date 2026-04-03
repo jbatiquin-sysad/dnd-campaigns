@@ -5,19 +5,21 @@
 - **Class:** Wizard (School of Evocation)
 - **Background:** Soldier
 - **Alignment:** Lawful Neutral
-- **Level:** 2
+- **Level:** 3
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  10 |  14 |  13 |  15 |  12 |   8 |
 
-**HP:** 11 | **Hit Dice:** 2d6 | **AC:** 15
+**HP:** 15 | **Hit Dice:** 3d6 | **AC:** 15
 
 ## Key Features
-- Spellcasting (INT-based): Spellbook, prepare INT mod + level spells/day
+- Spellcasting (INT-based): Spellbook, prepare INT mod + level spells/day. 4x 1st-level, 2x 2nd-level slots.
+- 2nd-level spells: Scorching Ray, Web, Misty Step
 - Arcane Recovery: Recover spell slots 1/day after short rest
 - Evocation Savant: Halve gold and time to copy evocation spells
+- Sculpt Spells: When casting evocation, choose up to 1+spell level creatures to automatically save and take no damage
 - Lucky: Reroll 1s on d20
 - Brave: Advantage vs. frightened
 - Stout Resilience: Advantage vs. poison, resistance to poison damage
@@ -53,18 +55,24 @@ In Salthollow, Bram confirmed wagon tracks on the east road — a two-stage rela
 
 In Fenhollow, Bram mapped the militia stockade's patrol patterns and identified the 12 imported soldiers drilling Thornwatch formations (Perception 20). He confirmed Ashdale was frustrated — the wardhouse door wouldn't open without the fragment. At dawn, Bram stood at the stockade gate with Thessaly and Captain Brenn. When Brenn walked through in his old tabard, every local militiaman stood down. The 12 imports surrendered when they saw the full party converging from three directions.
 
-## Equipment (Current — S4 Turn 34, Veldmere)
-- Spellbook (inspected)
+In Veldmere, Bram worked the south wharves gathering fleet intelligence — confirming 4 ships provisioning for departure, Warehouse 3 sealed with armed guards, and night crew activity. During Operation Veldmere, he entered Warehouse 3 with Sylvara during the guard changeover (3-minute window) and carried all 3 remaining amplifier cylinders (120 lbs) out through back alleys. Zero detection.
+
+Bram smelted seized enemy weapons into 6 steel ingots at Old Maren's forge in Veldmere. He later commissioned the 8 Dawnwatch signet rings from Master Orin Ashvale in Aelindra — using 2 of those ingots. "Their steel becomes our rings. What was used to threaten becomes what holds us together." Thessaly remembered that line. She told everyone she wouldn't tell.
+
+At the Dawnwatch Homestead, Bram took charge of construction — stripping the rotted roof, shaping replacement beams, building the table for ten. He cleared the north meadow for the camping ground and is planning Phase 2: the school. "Flat land. Room for a building. Kids from the marsh villages could walk to a school." Thessaly will handle the budget and the curriculum. They share a room now. They don't discuss it. It just happened.
+
+## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+- Spellbook
 - Quarterstaff (equipped, oiled)
-- Hand axe (backup melee, sharpened) — seized from Blackveil's operation, Greymoor
+- Hand axe (sharpened)
 - Dagger (sharpened)
-- Military insignia (old unit)
+- Military insignia
 - Spell component pouch
-- Pigeon messenger kit (paired with Thessaly)
-- Chain shirt (equipped, AC 13 + DEX = AC 15) — seized from Fenhollow imports
-- Military-cut travelling coat (from Thornfield)
-- Boots (resoled at Thornfield)
-- 10 gp
+- Chain shirt (equipped, AC 15)
+- Military-cut travelling coat
+- Boots (resoled)
+- 3 steel ingots
+- Dawnwatch signet ring (B)
 
 ## Roleplay Instructions
 Speak in clipped, military cadence. Issue tactical assessments constantly. Get flustered when magic doesn't behave like a weapon should. Secretly proud of every spell that works — never admits it out loud.

@@ -5,19 +5,21 @@
 - **Class:** Wizard (School of Evocation)
 - **Background:** Sage
 - **Alignment:** Neutral Good
-- **Level:** 2
+- **Level:** 3
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  8  |  14 |  10 |  16 |  12 |  13 |
 
-**HP:** 10 | **Hit Dice:** 2d6 | **AC:** 15
+**HP:** 14 | **Hit Dice:** 3d6 | **AC:** 15
 
 ## Key Features
-- Spellcasting (INT-based): Spellbook with 6+ spells, prepare INT mod + level/day
+- Spellcasting (INT-based): Spellbook with 6+ spells, prepare INT mod + level/day. 4x 1st-level, 2x 2nd-level slots.
+- 2nd-level spells: Misty Step, Shatter, Hold Person
 - Arcane Recovery: Recover spell slots (combined level ≤ half wizard level) 1/day
 - Evocation Savant: Halve gold and time to copy evocation spells
+- Sculpt Spells: When casting evocation, choose up to 1+spell level creatures to automatically save and take no damage
 - Cantrip: Fire Bolt (bonus High Elf cantrip)
 - Darkvision: 60 ft
 - Keen Senses: Proficiency in Perception
@@ -55,15 +57,32 @@ In Salthollow, Sylvara discovered the Athenaeum — a sealed pre-Sundering vault
 
 In Fenhollow, Sylvara descended into the wardhouse and confirmed the Ward Nexus — a pre-Sundering control interface for the regional ward network — was intact and fully functional (Arcana 20). She also identified the calibration fragment as an emergency bypass key that required an archivist to operate. Five sealed sites, five different ward families, one conspiracy — and Sylvara was the only person alive who had seen all five from the inside.
 
-## Equipment (Current — S4 Turn 34, Veldmere)
-- Spellbook (in travel case, dried+sealed against marsh air)
+In Veldmere, Sylvara identified the ward-inversion procedure from a torn page found in the sewers (Arcana 22) — not discharge like the Valis Procedure, but INVERSION. She discovered the harbor lease clause and fleet-freeze provision in the original Veldmere charter. During Operation Veldmere, she entered Warehouse 3 with Bram during the guard changeover and confirmed all 3 remaining amplifier cylinders were inert (Arcana 19). Assembly notes seized.
+
+In Aelindra, Sylvara decoded Venn's operational journal and cross-referenced it with the Quorum's 247 decrypted messages. She authenticated the correspondence at Thessara's public testimony. She discovered the full covenant text: "When the watchers number eight and the chain is broken, the Root may be asked — not commanded — to wake." She taught the entire party the history of the pre-Sundering world on the Inkwell rooftop — the Wellsprings, the Sundering, the Sealing, the Covenant. She designed the Dawnwatch insignia (rising sun, 8 rays, broken chain, horizon line).
+
+At the Root, Sylvara stood behind Zaryth as lead anchor position. When the golden light spread in eight rays matching her insignia design, she cried. "Yes, Pip. We woke up the world."
+
+At the Dawnwatch Homestead, Sylvara restored the orchard with Thessaly — pruning dead wood, treating a fungal issue on one pear tree. Bram built her a writing desk as a gift. She placed it by the east window. Morning light. She sat at it and opened her notebook and wrote one line about each party member. She read them aloud on Day 3 at sea. Pip cried. She wrote Orindel's line about her: "Sylvara left everything she knew to do what was right, and found something better on the other side."
+
+## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+- Spellbook (in travel case)
 - Arcane focus
 - Dagger (sharpened)
-- Ink + quill (refilled)
-- Chain shirt (equipped, AC 13 + DEX = AC 15) — seized from Fenhollow imports
-- Scholar's travelling robes (from Thornfield)
+- Ink + quill
+- Chain shirt (equipped, AC 15)
+- Scholar's travelling robes
 - Spell component pouch
-- Dunwick's leather-bound notebook (gift from Salthollow)
+- Resonance key (Unchained Compact ward-collapse device)
+- Grey cloak (infiltration)
+- Dawnwatch signet ring (S)
+- Venn's operational journal (200+ pages — complete network map)
+- Blackveil's operational ledger
+- Vane's acquisition ledger
+- Senn's handler correspondence (decoded)
+- Assembly notes (ward-inversion procedure)
+- Sylvara's notebook (the record of everything)
+- Dunwick's notebook
 
 ## Roleplay Instructions
 Speak with precision and mild condescension (not malicious — she just assumes everyone else hasn't done the reading). Reference historical precedents. Get visibly excited about magical phenomena. Show vulnerability only when the stakes involve the tome or innocent lives.

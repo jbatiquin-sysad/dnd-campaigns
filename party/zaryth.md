@@ -5,20 +5,23 @@
 - **Class:** Paladin (Fallen Knight / Personal Code)
 - **Background:** Failed Knight (Exiled Officer)
 - **Alignment:** Chaotic Good
-- **Level:** 2
+- **Level:** 3
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  15 |  14 |  13 |  10 |  12 |  16 |
 
-**HP:** 19 | **Hit Dice:** 2d10 | **AC:** 19
+**HP:** 28 | **Hit Dice:** 3d10 | **AC:** 19
 
 ## Key Features
-- Lay on Hands: Pool of 10 HP to heal or cure disease/poison (Level 2: Paladin level × 5)
+- Lay on Hands: Pool of 15 HP to heal or cure disease/poison (Level 3: Paladin level × 5)
 - Divine Smite: Expend spell slot on hit for 2d8 radiant damage (+1d8 per slot level above 1st)
 - Fighting Style: Defense (+1 AC while wearing armor)
-- Spellcasting (CHA-based): Prepare CHA mod + half paladin level spells/day
+- Sacred Oath: Oath of Devotion — Channel Divinity (Sacred Weapon, Turn the Unholy)
+- Oath Spells: Protection from Evil and Good, Sanctuary
+- Divine Health: Immune to disease
+- Spellcasting (CHA-based): Prepare CHA mod + half paladin level spells/day. 3x 1st-level slots.
 - Drow Innate Magic: Dancing Lights cantrip, Faerie Fire 1/day
 - Darkvision: 120 ft
 - Sunlight Sensitivity: Disadvantage on attack rolls and Perception checks in direct sunlight
@@ -45,7 +48,7 @@ Speaks like a field commander even in a tavern — clipped, direct, used to bein
 Takes reckless risks to prove his worthiness in front of others. Deep, reflexive distrust of formal orders, churches, and noble houses — even good ones.
 
 ## Bond
-Sworn to protect a small village that sheltered him after his exile. Keeps a ruined signet ring of the order that cast him out — not as a memento, but as a reminder of what he'll never become again.
+Sworn to protect a small village that sheltered him after his exile. Keeps a ruined signet ring of the order that cast him out — not as a memento, but as a seed. Now also wears the Dawnwatch signet ring — the symbol of the company he built across six cities. The ruined ring is "not ruined — it's waiting." Mira told him that. He believes her.
 
 ## Ideal
 "I'll break any law that breaks good people. Leadership means standing where the arrows fall first."
@@ -65,40 +68,40 @@ In Salthollow, Zaryth led Operation Athenaeum — opening a pre-Sundering vault 
 
 In Fenhollow, Zaryth led the wardhouse approach through the marsh with Aldric, Sylvara, Orindel, Harren Fenn, and Captain Brenn. He stood in the Ward Nexus chamber — the fifth sealed site the party had entered — and watched Harren find his grandfather's name carved into the wall. At dawn, five cities stood behind the party. Ashdale's contact list revealed the name above all the handlers: Overseer Callista Venn, based in Veldmere. The road turned south.
 
-## Equipment (Current — S4 Turn 34, Veldmere)
-- Well-made longsword (equipped, oiled+sharpened) — purchased in Duskport, 15gp
-- Chain mail + steel shield (equipped, AC 19 — base 16 + shield +2 + Defense +1, chain mail re-linked+restored at Thornfield)
-- Dark tabard over chain mail — purchased at Thornfield, authorized agent appearance
+In Veldmere, Zaryth led Operation Veldmere — the most complex multi-phase operation of the campaign. He coordinated the civic play (fleet freeze vote, 3-2), the sewer infiltration (ritual chamber cylinder removal + Eddan Sarn rescue), and the warehouse seizure (3 remaining cylinders) simultaneously. At dawn, he entered the compound with city watch warrants and confronted Callista Venn on the 3rd floor of the east wing — she held a brass key over the iron chest, threatening raw Shard discharge. Zaryth talked her down (Persuasion 22) with words that echoed every speech he'd given across six cities: "You are not the worst person I have met on this road. You are not even close." Venn surrendered voluntarily. Zero combat across all phases.
+
+He named the party "The Dawnwatch" (Pip proposed, Zaryth called the vote — unanimous). He distributed the signet rings forged from enemy steel. He wore the silver chain pendant Revka Sarn gave him and carried Eddan's harbor seal.
+
+In Aelindra, Zaryth turned Archivist Lenne Duvane at the Chapel of the Quiet Archive (Persuasion 20) — offering her the same choice he'd offered every person at the end of their road. He attended Thessara Kain's public testimony and watched the senior archivist council vote 11-0 to dissolve the Sealed Quorum. Seven of seven targets handled.
+
+At dawn on the final day, Zaryth led the Dawnwatch to the Root seal beneath the Archive. He placed his ring hand — the one bearing the Dawnwatch signet with its broken chain — on the 12-foot stone door and spoke to the oldest thing in the world. He asked, not commanded. The Root answered: "Yes. I have been waiting. Thank you for asking." The continental ward network stabilized. The covenant was renewed.
+
+He then led the party to Fenhollow, where they purchased 4 acres of land and built the Dawnwatch Homestead — a garden, a hearth, a table for ten, and a future. He thatched the roof himself (Wynn Galley taught him). Mira planted the garden. Aldric built the hearth. The ruined signet ring stayed in his pocket — beside the Dawnwatch ring on his finger. The old and the new. The fallen and the rising.
+
+## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+- Well-made longsword (equipped, oiled+sharpened)
+- Chain mail + steel shield (equipped, AC 19 — base 16 + shield +2 + Defense +1)
+- Dark tabard over chain mail
 - Ruined signet ring (pocket) — from his fallen house, carried always
-- Iron disc (expended, kept as evidence) — Serevane's Unchained Compact token
-- Healing Potion (1x)
-- Healer's Kit (shared, party carries 3)
-- Antitoxin vial (shared, party carries 2)
-- 3x quality mining lanterns (party gear, from Greymoor)
-- Blackveil's operational ledger (east road contacts, Fenhollow destination)
-- Vane's acquisition ledger (evidence, from Salthollow)
-- Yara Senn's handler correspondence (6 coded letters, evidence)
-- Ashdale's letter re: Crucible fragment (evidence, from Salthollow strongbox)
-- Ashdale's contact list incl. Overseer Callista Venn (evidence, from Fenhollow)
-- Ashford's correspondence incl. C.V. letters (evidence, from Fenhollow)
-- COMPLIANT/RESISTANT/REMOVED list (evidence, from Salthollow)
+- Dawnwatch signet ring (Z) — steel, broken chain insignia
+- Silver chain pendant (Revka Sarn, Veldmere)
+- Eddan's harbor seal (personal gift)
+- Antitoxin vial
+- Dalla's pickled fish (it's better than it sounds)
+- Edric's seal copy (evidence)
 - 3x regional civic charters + master index (from the Athenaeum)
-- Calder's handwritten letter (evidence)
-- Sub-level 2 map (Serevane's hand-drawn layout)
-- Guard rotation schedule
-- Annotated map margin (Valis Procedure overview)
 - 8x Duskport Letters of Credential (Voss)
 - 8x Harrowgate commendation letters (Kellan)
 - 8x Greymoor commendation letters (Kess + Sister Maren + Chapel seal)
 - 8x Salthollow commendation letters (Ashworth + Fell)
 - 8x Fenhollow commendation letters (Brenn + Venn + Galley)
+- 8x Veldmere commendation letters (Fell + Ashvale + Kelwick)
 - 1x Temple commendation (Sister Maren)
 - Priority river clearance (all ports)
 - Overland travel writ (Salthollow–Fenhollow, 28 days)
 - Marsh passage writ (Fenhollow, 29 days)
-- Provisioning writ (8 days remaining)
-- Civic barge priority passage (56 days remaining)
-- Party funds: 2,168.5gp
+- Harbor priority passage (Veldmere, indefinite)
+- Party funds: 3,871.5gp
 
 ## Roleplay Instructions
 Speak with the cadence of someone used to command — economical, direct, no wasted words. Let the bravado slip occasionally to show the guilt underneath. Treat every common person as worth protecting. Show visible contempt for corrupt authority, visible respect for genuine courage regardless of rank. The ruined signet ring comes out when things get dark — he looks at it, says nothing, puts it away.
