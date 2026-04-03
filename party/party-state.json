@@ -78,7 +78,7 @@
       "inventory": ["Spellbook (in travel case)", "Arcane focus", "Dagger (sharpened)", "Ink + quill", "Scholar's travelling robes", "Chain shirt (equipped, AC 15)", "Spell component pouch", "Dunwick's leather-bound notebook"],
       "spell_slots": { "1st": 2 },
       "arcane_recovery_used": false,
-      "notes": "AC 15 (chain shirt). Decoded Senn's handler correspondence. Regional civic charters invalidate network-wide property seizures."
+      "notes": "AC 15 (chain shirt). Decoded Senn's handler correspondence. Regional civic charters invalidate network-wide property seizures. Scroll of Detect Magic consumed in S4 Turn 7."
     },
     "bram": {
       "full_name": "Bram Thistlewick",

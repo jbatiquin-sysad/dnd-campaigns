@@ -49,12 +49,12 @@ Vael Orun revealed Thessaly was the fifth Vel Noctis account — a 300gp gamblin
 In Greymoor, Thessaly secured Shaft 9's main gate (Deception 24) alongside Bram and six volunteer miners. She also recruited Sable Wick–style assets: on the barge, her Insight (20) cracked Vella Drace's cover and opened the door to recruitment. She identified Judge Kess's surveillance network and read the hawk woman's fear correctly. Three names now crossed off her list. Four remain.
 
 **Thessaly's List (Current):**
-1. ~~House Aldenmere — Duskport~~ ✅
-2. ~~Guildmaster Orvyn Tetch — Harrowgate~~ ✅
-3. ~~The Pallid Court — Greymoor~~ ✅
-4. Marchion Drael Sulwick — Port Veldmere
-5. Lorekeeper Idris Vane — Salthollow
-6. Commander Brecca Ashford — Fenhollow
+1. Marchion Drael Sulwick — Port Veldmere
+2. ~~The Pallid Court — Greymoor~~ ✅
+3. ~~Lorekeeper Idris Vane — Salthollow~~ ✅
+4. ~~House Aldenmere — Duskport~~ ✅
+5. ~~Commander Brecca Ashford — Fenhollow~~ ✅
+6. ~~Guildmaster Orvyn Tetch — Harrowgate~~ ✅
 7. The Sealed Quorum — Aelindra
 
 ## Equipment (Current — S4 Turn 34, Veldmere)

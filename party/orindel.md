@@ -60,6 +60,8 @@ On the voyage home, he shared his dream: finding homes for every name on his lis
 - Boots (resoled at Thornfield)
 - Jar of honey (gift from barge mother)
 - Bottle of whiskey (gift from Dak, Salthollow)
+- Marsh honey jar (gift from Wynn Galley, Fenhollow)
+- Carved wooden Marsh Light icon (gift from Sister Venn, Fenhollow)
 - 15 gp
 
 ## Known Rituals

@@ -12,7 +12,7 @@
 |-----|-----|-----|-----|-----|-----|
 |  8  |  14 |  10 |  15 |  12 |  13 |
 
-**HP:** 10 | **Hit Dice:** 2d6
+**HP:** 10 | **Hit Dice:** 2d6 | **AC:** 14
 
 ## Key Features
 - Spellcasting (INT-based): Spellbook, prepare INT mod + level spells/day
