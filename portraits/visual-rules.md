@@ -124,6 +124,7 @@ Reference file for generating accurate character portrait prompts. All traits ar
 
 ## General Notes for Image Generation
 
+- **Shields in non-combat scenes:** Shields should be slung across the character's back by a leather strap, NOT held on the arm. Arm-mounted shields are for combat scenes only.
 - **Scale matters:** When multiple characters appear together, height differences must be visible. A halfling's head reaches a dwarf's chest. A dwarf's head reaches an elf's shoulder.
 - **Wear and tear:** Adventuring gear should look USED — oiled leather, polished-but-scratched metal, repaired straps, road dust. Not pristine.
 - **Light sources:** Underground/night scenes should use warm lantern/torch light. Drow and elves see in darkness — their eyes may catch light differently.
