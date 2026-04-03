@@ -19,7 +19,7 @@
 | **Fen Druval (Harrowgate)** | — | Harbormaster, Harrowgate | S4 Turn 15 | Primed ally | Mira identified ghost shipments through his records. Cooperated with the civic trigger at dawn. |
 | **Aldwin Peck** | — | Guild clerk, Harrowgate | S4 Turn 14 | Informant | Revealed that Corvath had Guildmaster Tetch's seal authority. |
 | **Dalla Vetch** | — | Landlord, The Brass Nail, Harrowgate | S4 Turn 14 | Safehouse contact | No questions asked. Confirmed clean. |
-| **Dalla (Aelindra)** | — | Retired scribe, The Inkwell, Aelindra | S3 Turn 12 | Safehouse contact | Old man, no questions. Provided 3 connected rooms with private staircase. |
+| **Dalla (Aelindra)** | — | Retired scribe, The Inkwell, Aelindra | S3 Turn 12 | Safehouse contact | No questions. Provided 3 connected rooms with private staircase. Left porridge on the stove and flowers on the table. |
 | **Garret Holme** | — | Carriage driver | S4 Turn 12 | Hired transport | Drove the party from Duskport to Harrowgate via King's Road. |
 | **Captain Torva Gild** | — | Civic barge *Millstone*, Greymoor dock logistics | S4 Turn 19 | Recruited ally, Greymoor | Broad woman, 22 years on the river. Noticed cargo manifests didn't match weight for 8 months. Provided safehouse contact and dock logistics. "Tell me what you need and I'll tell you what I know." |
 | **Donal Crewe** | — | Former Shaft 9 miner, deep-shaft guide | S4 Turn 19 | Recruited, reinstated at Shaft 9 | Broken wrist, knows every tunnel. Found the sealed door at 600 feet 5 months ago. Guided the recon and the strike. |
@@ -52,7 +52,7 @@
 | **Tam Galley** | — | Marsh guide, Wynn's nephew | S4 Turn 34 | Guide | Twenties. Read the marsh channels like sentences. Guided the overnight punt crossing. |
 | **Old Pell** | — | Marsh guide | S4 Turn 34 | Guide | Sixties. Doesn't talk. Poles a punt like he was born holding one. |
 | **Soren Blackwater** | — | Captain, sloop *Marsh Hawk*, Tidemeet | S4 Turn 34 | Transport — berth 14, Veldmere, 3-day window | Sun-darkened, salt-crusted. Harren's contact. "Buy me a drink when it's done." |
-| **Harbormaster Lenne Cray** | — | Public harbor authority, Veldmere | S4 Turn 34 (named) | Potential ally — filing complaints about Sulwick | Honest. Manages south harbor. Separate jurisdiction from Sulwick's private harbor. |
+| **Harbormaster Lenne Cray** | — | Public harbor authority, Veldmere | S4 Turn 34 (named) | Allied — reinstated as sole customs authority | Built a case for months. Deployed the harbor chain. "I'm not stupid." Has the key. |
 
 ## Neutral / Departed NPCs
 
@@ -60,9 +60,9 @@
 |-----|----------|------|----------------|----------------|-------------------|
 | **Cassin Vael** | — | Crimson Ledger debt collector | S1 Turn 1 | Departed — account closed | Professional, patient, percentage-based. Closed the account when he saw the Writ: "You did something better." Did not look back. |
 | **Sergeant Hesta** | — | City watch, Duskport | S1 Turn 8 | Neutral, on duty | Professional skepticism. Logged "House Ironveil, temple business." Not fooled, but satisfied. |
-| **Thessara Kain** | Human, 68 | Former Archivist-General, Aelindra | S3 Turn 15 (named), Turn 24 (met) | House arrest, testified, Aelindra | 9th-circle archivist. Intended to unmake every binding in the Archive. Chose redemption when Zaryth showed her the cost. |
+| **Thessara Kain** | Human, 68 | Former Archivist-General, Aelindra | S3 Turn 15 (named), Turn 24 (met) | Testified publicly, sentence deferred to reform tribunal, Aelindra | Chose redemption. Public testimony broke the Sealed Quorum. Working with Veyra on managed seal transitions. Decoded the 6 remaining sealed site locations for the party freely. |
 | **Peytr Hask** | Human, 23 | Junior clerk, Duskport Registry Office | S4 Turn 10 | Under protective supervision | Inside leak — coerced, not corrupt (mother's medical care paid by third party). |
-| **Judge Aldara Kess** | — | Greymoor magistrate | S4 Turn 20 (named), Turn 24 (flipped) | Cooperating, signing corrections, joined inter-city network | Was coerced — Blackveil threatened her niece Kara Stenn. Flipped when Kara was freed. Signed warrants, permit suspension, shaft restoration. Now part of Voss–Kellan–Kess network. |
+| **Judge Aldara Kess** | — | Greymoor magistrate | S4 Turn 20 (named), Turn 24 (flipped) | Cooperating, joined inter-city network. Mobilized miners to interdict Maren at Greymoor cove. | Was coerced — Blackveil threatened her niece Kara Stenn. Flipped when Kara was freed. Led Maren interdiction with Torben Vask + 20 miners. |
 | **Senna Vael** | — | Junior faculty, Salthollow | S4 Turn 26 | Immunity granted, testified | Vane's watcher. Reported the party — then turned by Orindel. Fed disinformation. Granted immunity. Cried. |
 | **Harlen Cobb** | — | Solicitor, Salthollow | S4 Turn 28 | Cooperating fully | Handled all of Vane's legal work. "Careful, not crooked." Answered every question when the paperwork was overwhelming. |
 
@@ -76,15 +76,18 @@
 | **Guildmaster Orvyn Tetch** | — | Head of Coinwright's Guild, Harrowgate | S4 Turn 10 (named) | Summoned for inquiry, Guild frozen | Currency manipulation, financial infrastructure for the Vel Noctis network. |
 | **Drest** | Human, 40s | Fixer, hired by Calder | S4 Turn 4 | In custody, Duskport | Heavyset, bald, missing last 2 fingers left hand, voice like gravel. Led the temple attack crew. |
 | **Dorn Blackveil** | — | Ex-mine foreman, Vel Noctis handler (Greymoor) | S4 Turn 11 (named), Turn 24 (captured) | Arrested, Greymoor | 8 months in Greymoor. Supervised Crucible excavation personally. Captured without combat at dawn. |
-| **Lucenne Dray** | — | Ex-trade inspector, Vel Noctis handler (Veldmere) | S4 Turn 11 | Active — customs house, public harbor | 11 months in Veldmere. Controls what gets logged. |
+| **Lucenne Dray** | — | Ex-trade inspector, Vel Noctis handler (Veldmere) | S4 Turn 11 | ✅ Arrested, Veldmere | Falsified customs records. Standing access to Sulwick's compound. Arrested at dawn, came quietly. |
 | **Yara Senn** | — | Ex-university lecturer, Vel Noctis handler (Salthollow) | S4 Turn 11 | ✅ Arrested, Salthollow | Arrested at Greengage Inn. Came quietly. |
 | **Wren Ashdale** | — | Ex-Thornwatch sergeant, Vel Noctis handler (Fenhollow) | S4 Turn 11 | ✅ Arrested, Fenhollow | Fragment lifted from his desk by Mira. Surrendered voluntarily. Contact list revealed Overseer Callista Venn. |
-| **Marchion Drael Sulwick** | — | Trade lord, Port Veldmere | S4 Turn 10 | Active — fleet ready | Thessaly's list #1. Debt-slavery, sea lane control. 6 armed merchant vessels at anchor. |
-| **The Pallid Court** | — | Corrupt judges, Greymoor | S4 Turn 10 | ✅ HANDLED | Thessaly's list #2. Kess flipped, Blackveil arrested, Shaft 9 restored. |
-| **Lorekeeper Idris Vane** | — | Private archivist, Salthollow | S4 Turn 10 | ✅ Suspended, in custody | Thessaly's list #3. Acquisitions frozen. University quarter restored. |
-| **Commander Brecca Ashford** | — | Corrupt militia commander, Fenhollow | S4 Turn 10 | ✅ In custody, Fenhollow | Thessaly's list #5. Career military. "I should have verified." |
-| **Overseer Callista Venn** | — | Senior Unchained Compact operative | S4 Turn 32 (named) | Active — Sulwick's compound, Veldmere | Senior to all handlers. Arrived 3 days ago with iron chest (Archive transport protocol). |
-| **The Sealed Quorum** | — | Secret censorship committee, Aelindra | S4 Turn 10 | Monitored | Thessaly's list #7. Institutional target. Being watched post-Thessara. |
+| **Marchion Drael Sulwick** | — | Trade lord, Port Veldmere | S4 Turn 10 | ✅ Arrested, Veldmere | Fleet frozen 3-2 council vote. Harbor chain deployed. Arrested at dawn. "I want my solicitor." |
+| **The Pallid Court** | — | Corrupt judges, Greymoor | S4 Turn 10 | ✅ HANDLED | Kess flipped, Blackveil arrested, Shaft 9 restored. |
+| **Lorekeeper Idris Vane** | — | Private archivist, Salthollow | S4 Turn 10 | ✅ Suspended, in custody | Acquisitions frozen. University quarter restored. |
+| **Commander Brecca Ashford** | — | Corrupt militia commander, Fenhollow | S4 Turn 10 | ✅ In custody, Fenhollow | Career military. "I should have verified." |
+| **Overseer Callista Venn** | — | Senior Unchained Compact operative | S4 Turn 32 (named) | ✅ Arrested, Veldmere | Surrendered voluntarily after Zaryth talked her down from triggering raw Shard discharge. Iron chest secured. |
+| **The Sealed Quorum** | — | Secret censorship committee, Aelindra | S4 Turn 10 | ✅ DISSOLVED — 11-0 unanimous vote | Kael suspended+charged. Maren arrested. Duvane cooperating. Voss fugitive (defanged). |
+| **Archivist Dorin Kael** | — | Sealed Quorum — Internal Review enforcer | S4 Turn 41 | ✅ Suspended, charged, under guard, Aelindra | Ran Quorum ops from inside Archive. Ward-solvent + Root back-door map seized. |
+| **Archivist Seren Voss** | — | Sealed Quorum — Collections | S4 Turn 41 | ⚠️ Missing, fugitive — defanged | No amplifiers, no calibration index, no network. Pale Library obsession. Diminishing threat. |
+| **Archivist Pell Maren** | — | Sealed Quorum — External Relations | S4 Turn 41 | ✅ Arrested, Greymoor cove | Fled with 6 amplifiers. Interdicted by Kess + Torben Vask + 20 miners. All amplifiers secured. |
 
 ## Minor / One-Scene NPCs
 
@@ -101,8 +104,48 @@
 
 ---
 
-*Last updated: Session 4, Turn 34 (Veldmere, public harbor)*
-*Next target: Marchion Drael Sulwick + Overseer Callista Venn (Veldmere)*
-*Campaign clock: ~3 days before remaining handlers act independently*
-*Inter-city network: Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Ashworth (Salthollow) — Brenn (Fenhollow) — Serevane (counter-intel)*
-*Scoreboard: 5/7 handled. 2 remain (Sulwick/Veldmere, Sealed Quorum/Aelindra).*
+## Veldmere Allies (S4 Turns 35–39)
+
+| NPC | Race/Age | Role | Status | Quick Description |
+|-----|----------|------|--------|-------------------|
+| **Dalla Sorn** | Human, 60s | Landlord, The Salt Barrel, Veldmere | Safehouse contact | Retired ship's cook. Husband was a customs clerk who quit when Dray arrived. Best fish stew in the harbor district. |
+| **Revka Sarn** | Human, 50s | Leader, Silver Chain maritime network | Allied — brother rescued, debt owed to Dawnwatch | Weathered sailor. 3 months watching Sulwick's compound. 14 operatives in Veldmere. Gave Zaryth the silver chain pendant. "The Silver Chain remembers its debts." |
+| **Eddan Sarn** | Human, 50s | Former harbormaster, Revka's brother | Rescued — recovering at Chapel of the Harbor Light | 9 months captive in compound basement. First words: "Revka?" Gave Zaryth his personal harbor seal. |
+| **Dorin Ashvale** | — | Harbor Council, fishermen's guild rep | Allied — voted for fleet freeze | "Should have done this years ago." |
+| **Sera Kelwick** | — | Harbor Council, merchant representative | Allied — voted for fleet freeze | Husband's shipping business robbed by Sulwick's falsified clearances. "My husband built this business honestly." |
+| **Magistrate Oren Fell** | — | Harbor Council, civic appointee | Allied — voted for fleet freeze, drafted warrants, joined network | Cousin of Salthollow's Tomas Fell. Process man. Cited civic code section 14 paragraph 3 from memory. |
+| **Sergeant Brenn Colvard** | — | City watch, Veldmere, 20 years | Served warrants, secured compound | Built like a dock piling. "I've got room on the list." |
+| **Tormund Hask** | Human, 50s | Sulwick's guard captain | Cooperating witness | Career soldier. Relieved when legal authority arrived. Laid down his sword first. |
+| **Brother Caius** | — | Chapel of the Harbor Light priest | Allied — rang chapel bell | 15 years in Veldmere. Sheltered Jorin and Eddan. |
+| **Jorin** | Human, 16 | Night observer, fish market | Contact | Watched the private harbor. Spotted cylinder transfers and grey-cloaked figures boarding ships. |
+| **Asha** | — | Silver Chain operative, "blind" fortune-teller | Allied — early warning | Not blind. "The iron chest screams at night. The marchion doesn't sleep anymore either." |
+
+## Aelindra NPCs — Sealed Quorum Arc (S4 Turns 41–49)
+
+| NPC | Race/Age | Role | Status | Quick Description |
+|-----|----------|------|--------|-------------------|
+| **Archivist Lenne Duvane** | Elf, 50s | Sealed Quorum — Ward Maintenance | Cooperating witness, testified | Designed the amplifiers. Turned at the Chapel of the Quiet Archive. "Enough." Provided master calibration index. |
+| **Sister Oria** | — | Chapel of the Quiet Archive keeper, 40 years | Ally | Told Duvane: "Forgiveness starts with stopping." Attended the testimony. |
+| **Archivist Brenn Holt** | — | Senior archivist council, institutional conservative | Reversed position — voted with reforms | "This session is not the wound. It is the surgery." |
+| **Captain Sera Voss** | — | Archive Guard Captain | Allied — served Kael's suspension | No relation to Magistrate Voss. Read the decrypted messages and acted immediately. |
+| **Father Tomas** | — | Chapel of the Quiet Archive | Ally | Offered the Dawnwatch permanent sanctuary status. |
+| **Master Orin Ashvale** | Dwarf | Metalsmith, Cartographers' Quarter, Aelindra | Craftsman | Forged the 8 Dawnwatch signet rings. "Military steel. Good grain." |
+| **Seff Corwin** | — | Avian courier specialist, Aelindra harbor | Service | 30 years breeding message hawks. Provided 4 pairs. |
+
+## Dawnwatch Homestead (Fenhollow)
+
+| NPC | Race/Age | Role | Status | Quick Description |
+|-----|----------|------|--------|-------------------|
+| **Tessa Marsh** | Human, 40s | Homestead caretaker | Active — manages farm | Corwin Marsh's sister. Widowed. Knows bees, gardens, orchards. 4gp/month + loft room. |
+| **Ren** | Human, 12 | Tessa's son (formerly Greymoor contact) | At homestead | The boy who spotted the canvas-wrapped extraction. Wants to learn magic from Pip. |
+| **Lila** | Human, 9 | Tessa's daughter | At homestead | Shy, good with animals. Adopted Mira's herb garden on day one. |
+
+---
+
+*Last updated: Session 4, Turn 51 (Dawnwatch Homestead, Fenhollow)*
+*Campaign status: ALL TARGETS HANDLED — 7/7. Root awakened. Covenant renewed.*
+*Party name: The Dawnwatch*
+*Party level: 3*
+*Inter-city network: Voss–Kellan–Kess–Ashworth–Brenn–Fell (6 cities) + Serevane + Revka/Silver Chain + Veyra Solund*
+*Remaining thread: Archivist Seren Voss — missing, defanged*
+*Home: Dawnwatch Homestead, Fenhollow inland rise*

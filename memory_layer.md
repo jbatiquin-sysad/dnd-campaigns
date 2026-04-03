@@ -2696,3 +2696,194 @@ All party: Full HP, full resources, Level 2.
 **Campaign clock:** ~3 days.
 **Inter-city network:** 5 cities + Serevane.
 **Party:** Full HP, full resources, Level 2. 2,168.5gp.
+
+## S4 Turn 35 — Veldmere: First Day
+
+**Random Event: d100 = 47 — NEUTRAL** (Blind fortune-teller: "The iron chest screams at night.")
+
+**Safehouse:** The Salt Barrel, Anchor Row. Dalla Sorn, retired ship's cook. 2gp/night. Back exit to canal, rooftop sightline to private harbor.
+
+**Side Hustles (58gp):** Full party intel gathering. Key findings: Sulwick's 6 vessels (2 refitted warships) provisioning for departure. Iron chest HUMS through the floor. Compound has 14+ armed guards. Sewer grate near south wall recently disturbed. Harbor lease revocable by council majority. Original charter allows emergency fleet freeze. Dray falsifying manifests. Harbormaster Lenne Cray has 7 complaints with copies. Brother Caius (chapel) and Jorin (16, night observer) recruited.
+
+**State Changes:** party_gold +58gp −2gp lodging.
+
+---
+
+## S4 Turn 36 — Sewer Recon / Council Investigation
+
+**Random Event: d100 = 14 — NEGATIVE** (Sea fog, visibility 60ft until midday)
+
+**Sewer Recon (Mira + Pip):** Mapped 3 junctions. Junction 2: vertical shaft into compound (active access point). Junction 3: widened shaft beneath Warehouse 3. Ritual chamber found — stone table, 4 iron brackets (1 cylinder installed, 3 empty), chalk positioning marks. Ward-inversion preparation site.
+
+**Council Investigation (Thessaly):** Identified 5 Harbor Council members. Ashvale (likely ally), Kelwick (flippable — lease clause), Fell (flippable — Cray's evidence + Salthollow cousin connection). Emergency session requires 3-member petition.
+
+**Key Intel:** Pip found brass token with silver chain stamp in sewer + torn page of ward-inversion procedure. Sylvara identified procedure as ward INVERSION (not discharge). Iron chest = ward anchor. Warehouse 3 = amplifier components. Ritual chamber = delivery mechanism.
+
+**State Changes:** party_gold +68gp −2gp.
+
+---
+
+## S4 Turn 37 — The Silver Chain / Revised Timeline
+
+**Random Event: d100 = 93 — WILD CARD** (Sub-rolls: 29 neutral + 83 windfall = strange traveler who IS a powerful contact)
+
+**Revka Sarn arrived.** Leader of the Silver Chain — 80-year-old maritime enforcement network, 14 operatives in Veldmere. Brother Eddan Sarn held captive in compound basement 9 months. Provided full intel: Shard of Unmaking in iron chest, 4 resonance amplifiers, ward-inversion plan. CRITICAL: real transfer timeline is TONIGHT, not tomorrow — Dray spotted Pip, fed false timing.
+
+**Council Play:** Thessaly flipped all 3 targets. Ashvale (YES), Fell (YES — cited civic code from memory), Kelwick (YES). Emergency petition filed.
+
+**Operation Plan Finalized:** Phase 1 (Vote, 5th bell) → Phase 2 (Sewer, 22nd bell) → Phase 3 (Warehouse 3, 22nd bell) → Phase 4 (Overwatch).
+
+**State Changes:** party_gold +67gp −2gp.
+
+---
+
+## S4 Turn 38 — Operation Veldmere
+
+**Random Event: d100 = 61 — POSITIVE** (Fell's procedural knowledge killed Sulwick's delay motion)
+
+**Phase 1 — Vote:** Thessaly Persuasion 22. Cray testified. Fleet freeze passed 3-2. Harbor chain deployed. Chapel bell rang at sundown.
+
+**Phase 2 — Sewer:** Mira pulled 4th cylinder (6 seconds). Mira picked Eddan's cell lock (19 vs DC 17). Eddan extracted to fishing boat. Zero detection.
+
+**Phase 3 — Warehouse 3:** Bram + Sylvara seized all 3 remaining cylinders during changeover. Assembly notes taken. Zero detection.
+
+**All phases COMPLETE. Zero combat. Zero casualties. Inversion array disabled (0/4 amplifiers).**
+
+**State Changes:** Orindel 1 slot expended (Warding Prayer). 4 cylinders seized. Eddan rescued.
+
+---
+
+## S4 Turn 39 — Dawn: Warrants Served
+
+**Random Event: d100 = 34 — NEUTRAL** (Iron chest audible from outside compound. Dock workers staying away.)
+
+**Compound Entry:** Warrants served by Fell + Colvard + 12 watchmen. Guard captain Hask stood down (14 guards followed). 4 grey operatives surrendered. Sulwick arrested. Dray arrested. Venn confronted on 3rd floor — threatened raw Shard discharge with brass key. Zaryth Persuasion 22 talked her down. Venn surrendered voluntarily.
+
+**Iron Chest Contents:** Shard of Unmaking (destabilizing, inert within 48hrs), Venn's operational journal (200+ pages), Sealed Quorum letter (Phase 3 request), 11-site list (6 encoded).
+
+**Rewards:** 600gp bounties, 800gp seized from *Tide Sovereign*, 8x Veldmere commendations, provisioning extension, harbor priority passage.
+
+**State Changes:** party_gold +1600gp. Sulwick/Dray/Venn in custody. 6 grey operatives in custody. Fleet impounded.
+
+---
+
+## S4 Turn 40 — Veldmere: Closing Out / Equipment / Smelting
+
+**Random Event: d100 = 68 — POSITIVE** (Clear skies, strong north wind — perfect sailing to Aelindra)
+
+**Smelting (Bram):** 8 short swords + 2 chain shirts + misc fittings → 6 steel ingots. Sales: 216gp.
+**Loose Ends Closed:** Eddan visited (gave Zaryth harbor seal). Shard confirmed inert. Dalla Sorn paid extra. Revka farewell (silver chain pendant to Zaryth). Pigeon confirmed from Duskport — all quiet.
+
+**The Dawnwatch Named:** Unanimous vote. Pip proposed. Sylvara designed insignia (rising sun, 8 rays, broken chain, horizon line). Rings commissioned later in Aelindra.
+
+**State Changes:** party_gold +216gp −8gp smelting. 6 steel ingots. Departed for Aelindra.
+
+---
+
+## S4 Turns 41-43 — Aelindra: Quorum Identified and Broken
+
+**Turn 41 Random Event: d100 = 19 — NEGATIVE** (Credential audit trap for Sylvara from Kael's Internal Review)
+
+**Ally Check-ins:** Veyra (4 offices flagged in Quorum mail routing), Edric (3 archivists on "sabbatical"), Serevane (arriving with encryption key), Thessara (named all 4 Quorum members: Kael, Voss, Maren, Duvane).
+
+**Turn 42:** Duvane turned at Chapel of the Quiet Archive (Zaryth Persuasion 20, Aldric Persuasion 19). Provided master calibration index. Serevane arrived with cipher device. 247 messages decrypted — all 4 identities confirmed.
+
+**Turn 43 Random Event: d100 = 55 — POSITIVE** (Pip found Kael's chalk marks at Root seal)
+
+**Kael suspended** by Veyra. Office sealed. Mira found contingencies: ward-solvent vial, escape letter to *Grey Fin*, back-door map to Root. Pigeons dispatched to Greymoor (Maren interdiction), Harrowgate (Thornvault secured), Veldmere (Silver Chain watch).
+
+**State Changes:** Kael suspended. Duvane cooperating. Calibration index secured. Ward-solvent seized.
+
+---
+
+## S4 Turn 44 — The Dawnwatch Rings
+
+Rings commissioned from Master Orin Ashvale, Aelindra. 2 steel ingots used. 40gp. 8 signet rings — dark polished steel, Dawnwatch insignia (intaglio), bearer's initial inside band.
+
+**State Changes:** steel ingots 6→4. party_gold −40gp.
+
+---
+
+## S4 Turn 45 — Inventory Audit / Document Burn
+
+Full inventory redistribution. Healing Potion moved Zaryth→Pip. Resonance key moved Mira→Sylvara. Ward-solvent moved Sylvara→Aldric. Healer's Kits distributed (Aldric, Orindel, Mira). Lanterns distributed (Aldric, Orindel). Obsolete documents burned (Calder's letter, old maps, Mira's receipts, etc.).
+
+---
+
+## S4 Turn 46 — Thessara's Testimony / Rings Received
+
+**Random Event: d100 = 76 — WINDFALL** (Archivist Brenn Holt reversed position)
+
+**Public Testimony:** Thessaly presented evidence (Persuasion 23). Duvane testified. Sylvara authenticated. Thessara spoke last. Holt reversed: "This session is not the wound. It is the surgery."
+
+**All resolutions passed 11-0:** Quorum dissolved, charges authorized, reform mandate, Archivist-General authorized to secure all sealed sites.
+
+**7/7 targets handled. Thessaly crossed the last name off the list.**
+
+**Rings received.** Zaryth distributed. Pip cried. Everyone drank Dalla's good wine.
+
+**Greymoor pigeon confirmed:** Kess mobilized. Maren interdicted. All 6 amplifiers secured.
+
+**State Changes:** Quorum dissolved. Maren arrested. All 10 amplifiers accounted for. Convergence dead.
+
+---
+
+## S4 Turns 47-48 — Root Deliberation / Preparation
+
+**Turn 47 Random Event: d100 = 51 — POSITIVE** (Sylvara found full covenant text)
+
+Full covenant: "The Root sleeps. The Archive watches. This is the covenant. When the watchers number eight and the chain is broken, the Root may be asked — not commanded — to wake."
+
+Veyra and Thessara both approved the approach. Messenger birds purchased (4 pairs, 32gp). Pip's letter to Lira sent via bird network. Sylvara taught pre-Sundering history to the full party.
+
+---
+
+## S4 Turn 49 — The Root
+
+**Random Event: d100 = 50 — NEUTRAL** (Exact center. The universe watched.)
+
+**Dawn.** The Dawnwatch descended to the Root seal. Zaryth placed his ring hand on the 12-foot stone door and spoke — asking, not commanding.
+
+**The Root responded.** Golden light spread in 8 rays matching the Dawnwatch insignia. The Wellspring woke. Ward-marks across the continental network flared gold simultaneously. Every sealed site strengthened. The covenant was renewed.
+
+*"Yes. I have been waiting. Thank you for asking."*
+
+**State Changes:** Root awake. Continental ward network stabilized. Convergence permanently impossible.
+
+---
+
+## S4 Turn 50 — Level Up / Property Purchase
+
+**Random Event: d100 = 77 — WINDFALL** (Wynn Galley's property offer)
+
+**All party leveled to 3.** Key gains: Zaryth (Oath of Devotion), Mira/Thessaly (Thief archetype, 2d6 Sneak Attack), Aldric/Orindel (2nd-level spells), Sylvara/Bram/Pip (2nd-level spells, Sculpt Spells).
+
+**Dawnwatch Homestead purchased:** 4 acres, Fenhollow inland rise. 120gp (Wynn's deal with Maren Blackthorn). Stone cottage, stream, 10 fruit trees, wild bee colonies. 275gp total setup.
+
+**State Changes:** All party Level 3. party_gold −275gp. Property acquired.
+
+---
+
+## S4 Turn 51 — Building Home
+
+**Random Event: d100 = 82 — WINDFALL** (Tessa Marsh — perfect caretaker)
+
+**8 days of building:** Roof repaired (Bram+Aldric+Zaryth). Hearth built (Aldric, 1 steel ingot for grate). Garden planted (Mira+Orindel). Beehives established (Orindel+Pip). Orchard restored (Sylvara+Thessaly). Camping ground cleared (Bram+Zaryth). Cottage furnished.
+
+**Caretaker hired:** Tessa Marsh (Corwin Marsh's sister) + Ren (12) + Lila (9). 4gp/month.
+
+**Dawnwatch Homestead: OPERATIONAL.**
+
+**State Changes:** steel ingots 4→3. party_gold −13gp (supplies). Homestead operational.
+
+---
+
+## CAMPAIGN STATUS — End of Session 4 (Turn 51)
+
+**Party:** The Dawnwatch, Level 3, 8 members
+**Location:** Dawnwatch Homestead, Fenhollow inland rise
+**Funds:** 3,871.5gp
+**Scoreboard:** 7/7 COMPLETE
+**The Root:** Awake. Covenant renewed.
+**Home:** Operational. Caretaker: Tessa Marsh.
+**Remaining:** Archivist Seren Voss (missing, defanged). Personal quests.

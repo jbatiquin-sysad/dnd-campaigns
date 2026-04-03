@@ -1,176 +1,163 @@
-# Week 5 — The Crucible, The Athenaeum & The Wardhouse
+# Week 5 — Veldmere, Aelindra & The Root
 
-**In-Game:** Days 22–28+ (ongoing)
-**Session:** S4 Turns 19–34 (continuing)
-**DM:** Mara Solenne, The Storyteller → Aldric Voss, The Chronicler
-**Party Level:** 2
+**In-Game:** Days 28–40+
+**Session:** S4 Turns 35–51
+**DM:** Corvus Chance, The Wildcard
+**Party Level:** 2 → 3
 
 ## Summary
 
-### The River North (Days 22–23)
+### Veldmere (Days 28–32)
 
-The party boarded the civic barge *Millstone* from Harrowgate using the provisioning writ and civic barge passage. Two days upriver to Greymoor. En route, the party worked cover jobs (105gp earned) while gathering critical intelligence and recruiting allies.
+The Dawnwatch arrived at Veldmere's public harbor (berth 14) via marsh punts and Soren Blackwater's sloop *Marsh Hawk*. Safehouse established at The Salt Barrel, Anchor Row (Dalla Sorn, retired ship's cook). Three days of intel gathering and side hustles revealed the full scope of Marchion Sulwick's operation: 6 armed vessels (2 refitted warships), Overseer Callista Venn in the compound's east wing with an iron chest containing a Shard of Unmaking, a ritual chamber beneath the compound for ward-inversion, and Lucenne Dray falsifying customs records.
 
-Key discoveries on the water: a hawk woman named Vella Drace — a Greymoor court clerk sent by Judge Aldara Kess to monitor the party's arrival. Thessaly and Orindel determined she was afraid, not hostile — a civic agent reporting under duress. Captain Torva Gild was recruited as a logistics ally. Donal Crewe (former Shaft 9 miner) was recruited as a deep-shaft guide after revealing a sealed stone door at 600 feet. Sister Maren (temple courier, same order as Vael Orun) was recruited with documented evidence of court corruption.
+Key allies recruited: Harbormaster Lenne Cray (7 formal complaints, evidence file), Brother Caius (Chapel of the Harbor Light), Jorin (16, night observer), and Revka Sarn — leader of the Silver Chain, an 80-year-old maritime enforcement network. Revka's brother Eddan Sarn had been held captive in the compound basement for 9 months.
 
-Sylvara identified the sealed chamber system beneath Greymoor as **the Crucible** — an Archive containment facility housing a **Binding Shard**, a Sundering-era keystone in a continental ward network. Extraction of the Shard would weaken wards at sealed sites across the region.
+The party identified the Harbor Council's fleet-freeze clause (Sylvara, charter research) and flipped 3 of 5 council members: Dorin Ashvale (fishermen's guild), Magistrate Oren Fell (civic appointee, cousin of Salthollow's Tomas Fell), and Sera Kelwick (merchant representative).
 
-### Operation Crucible (Day 24, Pre-Dawn)
+**Operation Veldmere — Four Phases:**
 
-Four simultaneous phases executed at dawn:
+1. **The Vote (5th bell):** Thessaly + Aldric + Orindel at council session. Fleet freeze passed 3-2. Harbor chain deployed by Cray. Chapel bell rang at sundown.
 
-1. **The Shaft:** Zaryth, Mira, Aldric, Pip, Orindel + guides Donal Crewe and Torben Vask descended via ventilation shaft. Full surprise achieved. Mira lifted the resonance key (Sleight of Hand 23) off Blackveil's table before he knew the party was there. Zaryth intimidated Guard 1 into yielding (21). Aldric talked Guard 2 down. Six hired workers secured peacefully. Dorn Blackveil captured without combat.
+2. **The Sewer (22nd bell):** Zaryth + Mira + Pip + Revka entered via south wall grate. Mira pulled the 4th resonance amplifier cylinder from the ritual chamber (8 seconds). Mira picked the lock on Eddan Sarn's cell (19 vs DC 17). Eddan extracted to Revka's fishing boat. Zero detection.
 
-2. **The Gate:** Bram + Thessaly + 6 volunteer miners secured Shaft 9's main entrance. Thessaly's Deception (24) and Bram's Intimidation (19) neutralized both gate guards non-lethal.
+3. **Warehouse 3 (22nd bell):** Bram + Sylvara entered during guard changeover. All 3 remaining cylinders seized. Assembly notes taken. Zero detection.
 
-3. **The Courthouse:** Sylvara + Sister Maren + Gerd Holtz + Brother Ollen filed a combined civic/temple inquiry before Judge Kess arrived. Two prisoners freed (Fen Druval, Kara Stenn). Kess revealed as coerced — Blackveil had threatened her niece Kara Stenn. With Kara freed, Kess flipped and signed warrants for Blackveil's arrest, permit suspension, and Shaft 9 restoration.
+4. **Dawn — Compound Entry:** Warrants served by Magistrate Fell + Sergeant Colvard + city watch. Guard captain Tormund Hask stood down voluntarily (14 household guards followed). 4 grey operatives (Venn's) surrendered. Sulwick arrested ("I want my solicitor"). Dray arrested. Venn confronted on 3rd floor with brass key over the iron chest — threatened raw Shard discharge. Zaryth talked her down (Persuasion 22). Venn surrendered voluntarily.
 
-4. **The Barge:** Dalla Vask recruited Vella Drace — six months of fraudulent mining permits secured.
+**Zero combat. Zero casualties across all phases.**
 
-**Zero combat. Zero casualties. Zero resources expended.**
+Iron chest secured: Shard of Unmaking (paired piece to Greymoor Binding Shard, destabilizing, went inert within 48 hours), Venn's operational journal (200+ pages, complete network map), Sealed Quorum letter (Phase 3 authorization request), list of 11 sealed sites (6 encoded).
 
-### Aftermath (Day 24–25)
+Rewards: 600gp bounties, 8x Veldmere commendations (triple-signed), provisioning extension, harbor priority passage. Veldmere joined inter-city network: Voss–Kellan–Kess–Ashworth–Brenn–Fell.
 
-Blackveil arrested. Shaft 9 restored to Torben Vask's crew. Judge Kess joined the inter-city inquiry network (Voss–Kellan–Kess). Equipment sold (82gp). Greymoor bounty (250gp), commendations, provisioning extension, and barge passage extension received.
+### The Dawnwatch Named (Veldmere, evening)
 
-Sylvara's overnight study of Blackveil's ledger revealed: a Crucible calibration fragment was extracted the night before the operation and sent east by covered wagon to Wren Ashdale in Fenhollow via Thornfield waystation.
+The party voted unanimously to name themselves **The Dawnwatch**. Pip proposed the name. Sylvara designed the insignia: rising sun with 8 rays, broken chain below a horizon line, circular border. Bram smelted 2 steel ingots (from seized enemy weapons) into 8 signet rings at Master Orin Ashvale's forge in Aelindra. Each ring engraved with the bearer's initial on the inside band.
 
-Party departed Greymoor on the civic barge *Iron Penny*, heading south toward Salthollow.
+### Return to Aelindra (Days 33–36)
 
-### The Salthollow Operation (Days 25–27)
+Four-day voyage north. Party leveled to 3 during the crossing. Arrived at Aelindra, safehouse at The Inkwell (Dalla, retired scribe). Reconnected with allies: Veyra Solund (interim Archivist-General), Edric Aldenmere (Archive reform), Serevane (arrived with encryption key for Quorum's internal mail).
 
-Two days on the river gathering intel, then one day in Salthollow. The party identified Lorekeeper Idris Vane's operation: property acquisition through solicitor Harlen Cobb, faculty purge at the university, and nightly document extraction by covered wagon to Fenhollow. Handler Yara Senn (ex-university lecturer) ran the third-floor archive lockdown with 4 armed guards.
+**The Sealed Quorum — Identified and Dissolved:**
 
-Key allies recruited: Professor Elara Dunwick (2 years of documentation), Dak (archive porter, eyewitness), Councilwoman Brynn Ashworth (2 years of stipend records), and student Lira (anonymous tip about wagons). Senna Vael (Vane's watcher) was turned by Orindel — but had already reported the party's arrival.
+Thessara Kain provided the four names: Archivist Dorin Kael (Internal Review, enforcer), Archivist Seren Voss (Collections, fled), Archivist Pell Maren (External Relations, fled with 6 amplifiers), Archivist Lenne Duvane (Ward Maintenance, wavering).
 
-Sylvara discovered the Athenaeum — a sealed pre-Sundering vault beneath the archive containing original civic charters for every town in the river basin. These charters invalidate all property seizures across the entire Unchained Compact network.
+- **Duvane turned** at the Chapel of the Quiet Archive (Zaryth Persuasion 20, Aldric Persuasion 19). Provided master calibration index (without which amplifiers are useless at uncalibrated sites). Agreed to testify.
+- **Serevane's encryption key** + Veyra's mail access = 247 Quorum messages decrypted. All 4 identities confirmed. Phase 3 plan exposed: simultaneous activation of all sealed sites within 48-hour window.
+- **Kael suspended** by Veyra. Office sealed. Contingencies found by Mira: escape plan (*Grey Fin* vessel), ward-solvent vial (could dissolve Root seal), back-door map to the Root.
+- **Maren interdicted** by Kess + Torben Vask + 20 miners at Greymoor cove. All 6 amplifiers secured. Maren arrested.
+- **Voss** missing but defanged — no calibration index, no amplifiers, no network.
 
-Operation Athenaeum — four simultaneous phases at 11th bell: wagon interception (7 crates seized), Athenaeum opened (Ashworth's civic authority on the seal), archive third floor secured (3 guards neutralized, strongbox cracked), civic trigger at dawn (Ashworth convened emergency session, Vane suspended, Senn arrested, acquisitions frozen). Zero combat. Zero casualties.
+**Thessara's Public Testimony:** Senior archivist council chamber, open session. Thessaly presented evidence. Duvane testified. Sylvara authenticated correspondence. Thessara spoke last. Archivist Brenn Holt (last holdout) reversed position. All resolutions passed **11-0**: Quorum dissolved, charges authorized, reform mandate, Archivist-General authorized to secure all sealed sites.
 
-Salthollow joined the inter-city network: Voss–Kellan–Kess–Ashworth.
+**7/7 targets handled.**
 
-### Outfitting & Maintenance (Day 28)
+### The Root (Day 37, Dawn)
 
-Full gear audit at Thornfield waystation. Sylvara and Bram equipped with padded armor (AC +1 each). All party outfitted with clothing befitting four-city credentials. All weapons maintained — oiled, sharpened, repaired. Aldric's chain mail re-linked. Orindel's shield crack repaired.
+Sylvara discovered the full covenant text: *"The Root sleeps. The Archive watches. This is the covenant. When the watchers number eight and the chain is broken, the Root may be asked — not commanded — to wake."*
+
+Veyra and Thessara both approved the approach. The Dawnwatch descended to the Root seal — a 12-foot circular stone door covered in 200-year-old ward-marks. Zaryth placed his ring hand on the seal and spoke: asking, not commanding, if the Root was ready to wake.
+
+**The Root responded.** Golden light spread from the seal in eight rays matching the Dawnwatch insignia. The Wellspring — raw arcane energy predating structured magic — woke. Ward-marks across the entire continental network flared gold simultaneously. Every sealed site strengthened. The covenant was renewed.
+
+The ward network is now actively maintained by a conscious Wellspring. Amplifier-based inversion is impossible against actively maintained wards. The convergence plan is permanently dead.
+
+### Dawnwatch Homestead (Days 38–45)
+
+The party purchased 4 acres on Fenhollow's inland rise (120gp, Wynn Galley's arrangement with Maren Blackthorn). Stone cottage, spring-fed stream, 10 fruit trees, wild bee colonies. 8 days of building: Bram + Aldric + Zaryth repaired the roof, Aldric built the hearth (used 1 steel ingot for the grate), Mira + Orindel planted the garden, Orindel + Pip established 3 beehives, Sylvara + Thessaly restored the orchard, Bram + Zaryth cleared the camping ground.
+
+Caretaker hired: **Tessa Marsh** (Corwin Marsh's sister, widowed, knows bees/gardens/orchards) + her children Ren (12, the boy from Greymoor) and Lila (9). 4gp/month + cottage loft room.
 
 ## Key Events
 
-- Vella Drace identified as Greymoor court clerk, recruited with 6 months of fraudulent permits
-- Captain Torva Gild recruited — Greymoor dock logistics
-- Donal Crewe recruited — Shaft 9 guide, knows sealed door location
-- Sister Maren recruited — temple authority, same order as Vael Orun
-- The Crucible identified — Archive containment facility, Binding Shard keystone
-- Torben Vask recruited — Shaft 9 crew chief, 5 months documentation
-- Dalla Vask recruited — miners' quarter community network, 40 families
-- Gerd Holtz testified — forged geological surveys, sworn statement
-- Brother Ollen recruited — Chapel of the Balanced Stone, secondary safehouse
-- Operation Crucible: 4 simultaneous phases, all successful, zero combat
-- Resonance key seized (Unchained Compact ward-collapse device)
-- Judge Kess flipped — was coerced via niece Kara Stenn
-- Kara Stenn + Fen Druval freed from false imprisonment
-- Stenn (harbormaster) revealed as coerced — Kara's cousin, now free
-- Crucible calibration fragment sent east to Fenhollow before operation
-- Greymoor joins inter-city network: Voss–Kellan–Kess
-- Pigeon (Tomas) dispatched to Duskport with full report
-- **Salthollow:** Athenaeum opened — regional civic charters secured. Vane suspended. Senn arrested. Ashworth joined network.
-- **Fenhollow:** Ward Nexus secured. Calibration fragment recovered (Mira). Ashford relieved. Brenn reinstated. Ashdale's contact list revealed Overseer Callista Venn.
-- **Outfitting:** Sylvara + Bram → chain shirts (AC 15). Pip → quality short sword. Full maintenance at Thornfield.
-- **Delta Run:** Marsh punts + *Marsh Hawk* sloop. 18 hours Fenhollow to Veldmere. Bypassed all checkpoints.
-- **Veldmere arrival:** Public harbor, berth 14. No advance warning. Callista Venn in Sulwick's compound with iron chest.
+- Operation Veldmere: fleet frozen, harbor chain deployed, sewer infiltration, Eddan Sarn rescued, Venn talked down, Sulwick arrested
+- The Dawnwatch named (Pip proposed, unanimous vote)
+- Dawnwatch signet rings forged from enemy steel (Bram smelted, Orin crafted)
+- Sealed Quorum identified: Kael, Voss, Maren, Duvane
+- Duvane turned at the Chapel of the Quiet Archive
+- 247 Quorum messages decrypted via Serevane's cipher device
+- Kael suspended, contingencies seized (ward-solvent, escape plan, Root back-door map)
+- Maren interdicted at Greymoor cove, 6 amplifiers secured
+- Thessara's public testimony — 11-0 unanimous on all resolutions
+- The Root awakened — covenant renewed, continental ward network stabilized
+- Dawnwatch Homestead purchased and built in Fenhollow
+- Party leveled to 3
+- Bram and Thessaly: acknowledged relationship
+- Zaryth and Mira: garden promise, closing distance
+- Pip's letter to Lira sent via bird network
 
 ## NPCs Introduced
 
-| NPC | Role | Status (End of Week) |
-|-----|------|------|
-| Captain Torva Gild | Civic barge *Millstone*, Greymoor dock logistics | Recruited ally |
-| Vella Drace | Court clerk, Greymoor magistrate | Recruited — permits handed over |
-| Donal Crewe | Former Shaft 9 miner, deep-shaft guide | Recruited — reinstated |
-| Sister Maren | Temple courier, Chapel of the Balanced Stone | Recruited ally |
-| Torben Vask | Former Shaft 9 crew chief | Recruited — reinstated as crew chief |
-| Dalla Vask | Torben's wife, miners' quarter network | Recruited — community leader |
-| Gerd Holtz | Chief assayer, 30 years | Testified, sworn statement on record |
-| Brother Ollen | Chapel of the Balanced Stone priest | Recruited ally |
-| Hilde Ashburn | Broken Drum landlord | Safehouse contact |
-| Ren | Boy, ~12, miner's son | Pip's contact |
-| Fen Druval | Miner, falsely imprisoned | Freed |
-| Kara Stenn | Old harbormaster's daughter, Kess's niece | Freed |
-| Stenn | New harbormaster, Kara's cousin | Freed from coercion |
-| Judge Aldara Kess | Greymoor magistrate | Flipped — cooperating, signed warrants |
-| Dorn Blackveil | Vel Noctis handler, ex-mine foreman | Arrested, in custody |
-| Solt | Captain, civic barge *Iron Penny* | Transport |
+### Veldmere
 
-### Salthollow NPCs
+| NPC | Role | Status |
+|-----|------|--------|
+| Dalla Sorn | Landlord, The Salt Barrel | Safehouse contact |
+| Revka Sarn | Leader, Silver Chain maritime network | Allied — brother rescued |
+| Eddan Sarn | Former harbormaster, Revka's brother | Rescued after 9 months captivity |
+| Dorin Ashvale | Harbor Council, fishermen's guild | Allied — voted for fleet freeze |
+| Sera Kelwick | Harbor Council, merchant representative | Allied — voted for fleet freeze |
+| Magistrate Oren Fell | Harbor Council, civic appointee | Allied — voted for fleet freeze, drafted warrants |
+| Sergeant Brenn Colvard | City watch, 20 years | Served warrants, secured compound |
+| Tormund Hask | Sulwick's guard captain | Cooperating witness — stood down voluntarily |
+| Brother Caius | Chapel of the Harbor Light | Allied — rang chapel bell |
+| Jorin | Boy, 16, night observer | Contact — spotted cylinder transfers |
+| Asha | Silver Chain operative ("blind" fortune-teller) | Allied — early warning network |
+| Captain Renn | *Grey Fin* coastal vessel | Departed — Kael's escape plan neutralized |
 
-| NPC | Role | Status (End of Week) |
-|-----|------|------|
-| Councilwoman Brynn Ashworth | Salthollow civic authority, Athenaeum custodian | Ally — leading local inquiry |
-| Councilman Tomas Fell | Salthollow council | Ally — seconded emergency session |
-| Professor Elara Dunwick | Retired faculty, 2 years documentation | Ally — testified |
-| Dak | Archive porter, eyewitness | Ally — testified |
-| Senna Vael | Junior faculty, turned double agent | Immunity granted, testified |
-| Harlen Cobb | Solicitor, handled Vane's legal work | Cooperating fully |
-| Lira | Student, anonymous tipster | Contact |
-| Maren Blackthorn | Folded Page landlord | Safehouse contact |
-| Lorekeeper Idris Vane | Private archive, university quarter | Suspended, in custody |
-| Yara Senn | Vel Noctis handler, ex-lecturer | Arrested, in custody |
-| Dockmaster Grenn | Installed loyalist | Under review |
+### Aelindra (New)
 
-### Fenhollow NPCs
+| NPC | Role | Status |
+|-----|------|--------|
+| Archivist Dorin Kael | Sealed Quorum — Internal Review | Suspended, charged, under guard |
+| Archivist Seren Voss | Sealed Quorum — Collections | Fugitive, missing, defanged |
+| Archivist Pell Maren | Sealed Quorum — External Relations | Arrested, Greymoor |
+| Archivist Lenne Duvane | Sealed Quorum — Ward Maintenance | Cooperating witness, testified |
+| Sister Oria | Chapel of the Quiet Archive keeper | Ally |
+| Archivist Brenn Holt | Senior archivist council | Reversed position, voted with reforms |
+| Captain Sera Voss | Archive Guard Captain | Allied — served Kael's suspension |
+| Father Tomas | Chapel of the Quiet Archive | Offered Dawnwatch permanent sanctuary |
+| Master Orin Ashvale | Metalsmith, Cartographers' Quarter | Crafted the Dawnwatch rings |
+| Seff Corwin | Avian courier specialist, harbor | Provided 4 pairs messenger birds |
 
-| NPC | Role | Status (End of Week) |
-|-----|------|------|
-| Captain Jorik Brenn | Legitimate militia captain, 20 years | Reinstated, wardhouse custodian, joined network |
-| Old Harren Fenn | Marsh custodian, 60 years | Wardhouse custodian, guided party |
-| Sister Venn | Chapel of the Marsh Light priestess | Testified, rang chapel bell |
-| Wynn Galley | Fish market, community leader | Ally |
-| Corporal Denn | Local militia | Stood down, saluted Brenn first |
-| Elda Fenn | Harren's daughter-in-law | Sheltered at chapel |
-| Corwin Marsh | Heron's Rest landlord | Safehouse contact |
-| Greta Holm | Bathhouse owner | Service |
-| Commander Brecca Ashford | Corrupt militia commander | In custody |
-| Wren Ashdale | Vel Noctis handler, ex-Thornwatch | In custody |
+### Fenhollow (New)
 
-### Veldmere NPCs (Identified)
+| NPC | Role | Status |
+|-----|------|--------|
+| Tessa Marsh | Homestead caretaker | Active — manages farm |
+| Ren | Tessa's son, 12 (formerly Greymoor contact) | At homestead — wants to learn magic |
+| Lila | Tessa's daughter, 9 | At homestead — adopted Mira's herb garden |
 
-| NPC | Role | Status (End of Week) |
-|-----|------|------|
-| Soren Blackwater | Captain, *Marsh Hawk* sloop | Transport — berth 14, 3-day window |
-| Harbormaster Lenne Cray | Public harbor authority | Potential ally — filing complaints |
-| Overseer Callista Venn | Senior Unchained Compact operative | Active — in Sulwick's compound |
-| Marchion Drael Sulwick | Trade lord, chairs council | Active — fleet ready |
-| Lucenne Dray | Handler, customs house | Active |
+## Key Items (New This Week)
 
-## Key Items
+- 4x resonance amplifier cylinders (seized, Veldmere — evidence)
+- Ward-inversion assembly notes (Sylvara)
+- Venn's operational journal, 200+ pages (Sylvara)
+- Sealed Quorum letter — Phase 3 request (Thessaly)
+- 11-site list, 6 decoded by Thessara (Thessaly)
+- Ward-solvent vial (Aldric, triple-wrapped — DANGEROUS)
+- Kael's back-door map to the Root (Mira)
+- Kael's escape letter to Captain Renn (Mira)
+- Master calibration index (hidden at Inkwell, NOT carried)
+- Silver chain pendant (Zaryth, from Revka)
+- Eddan's harbor seal (Zaryth)
+- Brass Silver Chain token (evidence)
+- 4 grey cloaks (infiltration)
+- 8x Dawnwatch signet rings (all party members)
+- 3 steel ingots (Bram)
+- 4 pairs messenger birds (Orindel managing)
 
-- Resonance key — Unchained Compact ward-collapse device (Mira carrying)
-- Blackveil's operational ledger — east road contacts, Fenhollow destination
-- 3x quality mining lanterns
-- 3x regional civic charters + master index (from the Athenaeum, Salthollow)
-- Vane's acquisition ledger (from Salthollow strongbox)
-- Yara Senn's handler correspondence — 6 coded letters, decoded (from Salthollow)
-- Ashdale's letter re: Crucible fragment (from Salthollow strongbox)
-- Ashdale's contact list — 6 names incl. Overseer Callista Venn (from Fenhollow)
-- Ashford's correspondence — letters from Blackveil, Ashdale, "C.V." (from Fenhollow)
-- COMPLIANT/RESISTANT/REMOVED list (from Salthollow)
-- Harren's delta map (river routes to coast)
-- Dunwick's leather-bound notebook (Sylvara)
-- Lira's note (Pip)
-- Carved Marsh Light icon (Orindel, from Sister Venn)
+## End of Week State
 
-## End of Week State (IN PROGRESS)
-
-- **Location:** Veldmere, public harbor, berth 14
-- **Party Funds:** 2,168.5gp
-- **Party Level:** 2
-- **All party:** Full HP, full resources, properly outfitted
-- **Provisioning writ:** 8 days remaining
-- **Civic barge passage:** 56 days remaining
-- **Overland travel writ:** 28 days remaining
-- **Marsh passage writ:** 29 days remaining
-- **Campaign clock:** ~3 days
-- **Campaign Scoreboard:** 5/7 handled. 2 remain (Sulwick/Veldmere, Sealed Quorum/Aelindra).
-- **Inter-city network:** Voss–Kellan–Kess–Ashworth–Brenn (5 cities) + Serevane (counter-intel)
-- **AC upgrades this week:** Sylvara 12→15, Bram 12→15 (chain shirts from Fenhollow)
-- **Credentials:** 8x Duskport, 8x Harrowgate, 8x Greymoor, 8x Salthollow, 8x Fenhollow, 1x temple, priority river clearance, overland travel writ, marsh passage writ
-- **Escape route:** Soren Blackwater, *Marsh Hawk*, berth 14, 3-day window
-- **Key threats:** Sulwick's fleet (6 armed vessels), Overseer Callista Venn (in compound with iron chest), Lucenne Dray (customs house)
+- **Location:** Dawnwatch Homestead, Fenhollow inland rise
+- **Party Name:** The Dawnwatch
+- **Party Funds:** 3,871.5gp
+- **Party Level:** 3
+- **All party:** Full HP, full resources
+- **Campaign Scoreboard:** 7/7 COMPLETE
+- **The Root:** Awake. Covenant renewed. Ward network stabilized continent-wide.
+- **Inter-city network:** Voss–Kellan–Kess–Ashworth–Brenn–Fell (6 cities) + Serevane + Revka/Silver Chain + Veyra Solund
+- **Property:** Dawnwatch Homestead operational. Caretaker: Tessa Marsh.
+- **Remaining thread:** Archivist Seren Voss — missing, defanged, diminishing threat
+- **Personal threads:** Aldric's necromancer, Bram's school, Orindel's street children, Pip's letter to Lira, Zaryth's house/ring
