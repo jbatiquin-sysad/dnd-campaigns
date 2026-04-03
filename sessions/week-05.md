@@ -1,8 +1,8 @@
-# Week 5 — The Crucible Beneath the Mountain
+# Week 5 — The Crucible, The Athenaeum & The Wardhouse
 
-**In-Game:** Days 22–25 (ongoing)
-**Session:** S4 Turns 19–25 (continuing from Harrowgate)
-**DM:** Mara Solenne, The Storyteller
+**In-Game:** Days 22–28+ (ongoing)
+**Session:** S4 Turns 19–34 (continuing)
+**DM:** Mara Solenne, The Storyteller → Aldric Voss, The Chronicler
 **Party Level:** 2
 
 ## Summary
@@ -37,6 +37,22 @@ Sylvara's overnight study of Blackveil's ledger revealed: a Crucible calibration
 
 Party departed Greymoor on the civic barge *Iron Penny*, heading south toward Salthollow.
 
+### The Salthollow Operation (Days 25–27)
+
+Two days on the river gathering intel, then one day in Salthollow. The party identified Lorekeeper Idris Vane's operation: property acquisition through solicitor Harlen Cobb, faculty purge at the university, and nightly document extraction by covered wagon to Fenhollow. Handler Yara Senn (ex-university lecturer) ran the third-floor archive lockdown with 4 armed guards.
+
+Key allies recruited: Professor Elara Dunwick (2 years of documentation), Dak (archive porter, eyewitness), Councilwoman Brynn Ashworth (2 years of stipend records), and student Lira (anonymous tip about wagons). Senna Vael (Vane's watcher) was turned by Orindel — but had already reported the party's arrival.
+
+Sylvara discovered the Athenaeum — a sealed pre-Sundering vault beneath the archive containing original civic charters for every town in the river basin. These charters invalidate all property seizures across the entire Unchained Compact network.
+
+Operation Athenaeum — four simultaneous phases at 11th bell: wagon interception (7 crates seized), Athenaeum opened (Ashworth's civic authority on the seal), archive third floor secured (3 guards neutralized, strongbox cracked), civic trigger at dawn (Ashworth convened emergency session, Vane suspended, Senn arrested, acquisitions frozen). Zero combat. Zero casualties.
+
+Salthollow joined the inter-city network: Voss–Kellan–Kess–Ashworth.
+
+### Outfitting & Maintenance (Day 28)
+
+Full gear audit at Thornfield waystation. Sylvara and Bram equipped with padded armor (AC +1 each). All party outfitted with clothing befitting four-city credentials. All weapons maintained — oiled, sharpened, repaired. Aldric's chain mail re-linked. Orindel's shield crack repaired.
+
 ## Key Events
 
 - Vella Drace identified as Greymoor court clerk, recruited with 6 months of fraudulent permits
@@ -56,6 +72,11 @@ Party departed Greymoor on the civic barge *Iron Penny*, heading south toward Sa
 - Crucible calibration fragment sent east to Fenhollow before operation
 - Greymoor joins inter-city network: Voss–Kellan–Kess
 - Pigeon (Tomas) dispatched to Duskport with full report
+- **Salthollow:** Athenaeum opened — regional civic charters secured. Vane suspended. Senn arrested. Ashworth joined network.
+- **Fenhollow:** Ward Nexus secured. Calibration fragment recovered (Mira). Ashford relieved. Brenn reinstated. Ashdale's contact list revealed Overseer Callista Venn.
+- **Outfitting:** Sylvara + Bram → chain shirts (AC 15). Pip → quality short sword. Full maintenance at Thornfield.
+- **Delta Run:** Marsh punts + *Marsh Hawk* sloop. 18 hours Fenhollow to Veldmere. Bypassed all checkpoints.
+- **Veldmere arrival:** Public harbor, berth 14. No advance warning. Callista Venn in Sulwick's compound with iron chest.
 
 ## NPCs Introduced
 
@@ -78,20 +99,78 @@ Party departed Greymoor on the civic barge *Iron Penny*, heading south toward Sa
 | Dorn Blackveil | Vel Noctis handler, ex-mine foreman | Arrested, in custody |
 | Solt | Captain, civic barge *Iron Penny* | Transport |
 
+### Salthollow NPCs
+
+| NPC | Role | Status (End of Week) |
+|-----|------|------|
+| Councilwoman Brynn Ashworth | Salthollow civic authority, Athenaeum custodian | Ally — leading local inquiry |
+| Councilman Tomas Fell | Salthollow council | Ally — seconded emergency session |
+| Professor Elara Dunwick | Retired faculty, 2 years documentation | Ally — testified |
+| Dak | Archive porter, eyewitness | Ally — testified |
+| Senna Vael | Junior faculty, turned double agent | Immunity granted, testified |
+| Harlen Cobb | Solicitor, handled Vane's legal work | Cooperating fully |
+| Lira | Student, anonymous tipster | Contact |
+| Maren Blackthorn | Folded Page landlord | Safehouse contact |
+| Lorekeeper Idris Vane | Private archive, university quarter | Suspended, in custody |
+| Yara Senn | Vel Noctis handler, ex-lecturer | Arrested, in custody |
+| Dockmaster Grenn | Installed loyalist | Under review |
+
+### Fenhollow NPCs
+
+| NPC | Role | Status (End of Week) |
+|-----|------|------|
+| Captain Jorik Brenn | Legitimate militia captain, 20 years | Reinstated, wardhouse custodian, joined network |
+| Old Harren Fenn | Marsh custodian, 60 years | Wardhouse custodian, guided party |
+| Sister Venn | Chapel of the Marsh Light priestess | Testified, rang chapel bell |
+| Wynn Galley | Fish market, community leader | Ally |
+| Corporal Denn | Local militia | Stood down, saluted Brenn first |
+| Elda Fenn | Harren's daughter-in-law | Sheltered at chapel |
+| Corwin Marsh | Heron's Rest landlord | Safehouse contact |
+| Greta Holm | Bathhouse owner | Service |
+| Commander Brecca Ashford | Corrupt militia commander | In custody |
+| Wren Ashdale | Vel Noctis handler, ex-Thornwatch | In custody |
+
+### Veldmere NPCs (Identified)
+
+| NPC | Role | Status (End of Week) |
+|-----|------|------|
+| Soren Blackwater | Captain, *Marsh Hawk* sloop | Transport — berth 14, 3-day window |
+| Harbormaster Lenne Cray | Public harbor authority | Potential ally — filing complaints |
+| Overseer Callista Venn | Senior Unchained Compact operative | Active — in Sulwick's compound |
+| Marchion Drael Sulwick | Trade lord, chairs council | Active — fleet ready |
+| Lucenne Dray | Handler, customs house | Active |
+
 ## Key Items
 
 - Resonance key — Unchained Compact ward-collapse device (Mira carrying)
 - Blackveil's operational ledger — east road contacts, Fenhollow destination
 - 3x quality mining lanterns
-- Bram: +hand axe (backup melee)
+- 3x regional civic charters + master index (from the Athenaeum, Salthollow)
+- Vane's acquisition ledger (from Salthollow strongbox)
+- Yara Senn's handler correspondence — 6 coded letters, decoded (from Salthollow)
+- Ashdale's letter re: Crucible fragment (from Salthollow strongbox)
+- Ashdale's contact list — 6 names incl. Overseer Callista Venn (from Fenhollow)
+- Ashford's correspondence — letters from Blackveil, Ashdale, "C.V." (from Fenhollow)
+- COMPLIANT/RESISTANT/REMOVED list (from Salthollow)
+- Harren's delta map (river routes to coast)
+- Dunwick's leather-bound notebook (Sylvara)
+- Lira's note (Pip)
+- Carved Marsh Light icon (Orindel, from Sister Venn)
 
 ## End of Week State (IN PROGRESS)
 
-- **Location:** Civic barge *Iron Penny*, heading south toward Salthollow
-- **Party Funds:** 1,178.5gp
+- **Location:** Veldmere, public harbor, berth 14
+- **Party Funds:** 2,168.5gp
 - **Party Level:** 2
-- **All party:** Full HP, full resources
+- **All party:** Full HP, full resources, properly outfitted
 - **Provisioning writ:** 8 days remaining
-- **Civic barge passage:** 60 days remaining
-- **Campaign clock:** ~7 days before handlers act independently
-- **Route:** Greymoor → Salthollow (2 days river + 1 day overland) → Fenhollow (2 days) → Veldmere
+- **Civic barge passage:** 56 days remaining
+- **Overland travel writ:** 28 days remaining
+- **Marsh passage writ:** 29 days remaining
+- **Campaign clock:** ~3 days
+- **Campaign Scoreboard:** 5/7 handled. 2 remain (Sulwick/Veldmere, Sealed Quorum/Aelindra).
+- **Inter-city network:** Voss–Kellan–Kess–Ashworth–Brenn (5 cities) + Serevane (counter-intel)
+- **AC upgrades this week:** Sylvara 12→15, Bram 12→15 (chain shirts from Fenhollow)
+- **Credentials:** 8x Duskport, 8x Harrowgate, 8x Greymoor, 8x Salthollow, 8x Fenhollow, 1x temple, priority river clearance, overland travel writ, marsh passage writ
+- **Escape route:** Soren Blackwater, *Marsh Hawk*, berth 14, 3-day window
+- **Key threats:** Sulwick's fleet (6 armed vessels), Overseer Callista Venn (in compound with iron chest), Lucenne Dray (customs house)

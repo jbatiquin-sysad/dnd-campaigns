@@ -35,6 +35,24 @@
 | **Stenn** | — | New harbormaster, Greymoor, Kara's cousin | S4 Turn 20 | Freed from coercion | Took the job to keep Kara alive. Reports to Kess because Kess was threatened. Now free. Stamped priority river clearance for the party. |
 | **Ren** | — | Boy, ~12, miner's son, Greymoor | S4 Turn 22 | Pip's contact | Watches Shaft 9 at night. Saw canvas-wrapped extraction heading east. Pip gave him a sparking copper coin. |
 | **Solt** | — | Captain, civic barge *Iron Penny* | S4 Turn 25 | Transport | Wiry man. Read the priority clearance twice. "Well then. Welcome aboard, I suppose." |
+| **Councilwoman Brynn Ashworth** | — | Salthollow civic authority, Athenaeum custodian | S4 Turn 28 | Ally — leading local inquiry, joined inter-city network | Most stubborn woman in Salthollow. 2 years of stipend documentation. Opened the Athenaeum civic seal. Convened emergency session. Part of Voss–Kellan–Kess–Ashworth–Brenn network. |
+| **Councilman Tomas Fell** | — | Salthollow council | S4 Turn 28 | Ally — seconded emergency session | Voted against Vane's appointment. Marginalized. Seconded Ashworth immediately. |
+| **Professor Elara Dunwick** | — | Retired faculty, Salthollow University, 40 years | S4 Turn 27 | Ally — testified under oath | Red pen. Chandler's Row. 2 years of documentation. "If you can get this in front of someone who isn't bought, I'll testify." Gave Sylvara a leather-bound notebook. |
+| **Dak** | — | Archive porter, Salthollow | S4 Turn 27 | Ally — testified | Saw civic records in crates. Scared of third-floor staff. Stood up anyway. Gave Orindel a bottle of whiskey. |
+| **Lira** | — | Student, Salthollow University | S4 Turn 26 | Contact | Wrote the anonymous note on the barge. Watched the wagons. Gave Pip a second note: "I'm going to be a real scholar." |
+| **Maren Blackthorn** | — | Landlord, The Folded Page, Salthollow | S4 Turn 27 | Safehouse contact | Sixties, widow, no questions. Brought plum wine for the celebration. |
+| **Captain Jorik Brenn** | — | Legitimate militia captain, Fenhollow, 20 years | S4 Turn 32 | Ally — reinstated, wardhouse custodian, joined inter-city network | Took the pension because his wife needed the healer. Regretted walking away every day. Walked back in his old tabard at dawn. Part of 5-city network. |
+| **Old Harren Fenn** | Human, 70s | Marsh custodian, 60 years on the land | S4 Turn 32 | Ally — wardhouse custodian | Grandfather's name on the wardhouse wall. Knows every path through the marsh. Guided the party to the ruins. Dog named nothing — it's just "the dog." |
+| **Sister Venn** | — | Priestess, Chapel of the Marsh Light, Fenhollow | S4 Turn 31 | Ally — testified, rang the chapel bell | Same order as Vael Orun and Sister Maren. 3 months documentation. Sheltered the Fenn children. Gave Orindel a carved Marsh Light icon. |
+| **Wynn Galley** | — | Fish market leader, Fenhollow | S4 Turn 31 | Ally — community leader | Knows every family in the marsh district. Organized the celebration. Provided smoked fish and marsh honey. |
+| **Corporal Denn** | — | Local militia, Fenhollow | S4 Turn 31 | Ally — stood down, saluted Brenn first | "If Captain Brenn walked through that gate, every local man would listen." He was right. |
+| **Elda Fenn** | — | Harren's daughter-in-law, displaced | S4 Turn 31 | Sheltered at chapel | Brought her son Tam to Orindel's clinic. Connected the party to Harren. |
+| **Corwin Marsh** | — | Landlord, The Heron's Rest, Fenhollow | S4 Turn 31 | Safehouse contact | Retired fisherman, bad knee, good instincts. "The militia's been... different." |
+| **Greta Holm** | — | Bathhouse owner, Fenhollow | S4 Turn 31 | Service | Arms like a blacksmith. Charged Orindel extra for singing. |
+| **Tam Galley** | — | Marsh guide, Wynn's nephew | S4 Turn 34 | Guide | Twenties. Read the marsh channels like sentences. Guided the overnight punt crossing. |
+| **Old Pell** | — | Marsh guide | S4 Turn 34 | Guide | Sixties. Doesn't talk. Poles a punt like he was born holding one. |
+| **Soren Blackwater** | — | Captain, sloop *Marsh Hawk*, Tidemeet | S4 Turn 34 | Transport — berth 14, Veldmere, 3-day window | Sun-darkened, salt-crusted. Harren's contact. "Buy me a drink when it's done." |
+| **Harbormaster Lenne Cray** | — | Public harbor authority, Veldmere | S4 Turn 34 (named) | Potential ally — filing complaints about Sulwick | Honest. Manages south harbor. Separate jurisdiction from Sulwick's private harbor. |
 
 ## Neutral / Departed NPCs
 
@@ -45,6 +63,8 @@
 | **Thessara Kain** | Human, 68 | Former Archivist-General, Aelindra | S3 Turn 15 (named), Turn 24 (met) | House arrest, testified, Aelindra | 9th-circle archivist. Intended to unmake every binding in the Archive. Chose redemption when Zaryth showed her the cost. |
 | **Peytr Hask** | Human, 23 | Junior clerk, Duskport Registry Office | S4 Turn 10 | Under protective supervision | Inside leak — coerced, not corrupt (mother's medical care paid by third party). |
 | **Judge Aldara Kess** | — | Greymoor magistrate | S4 Turn 20 (named), Turn 24 (flipped) | Cooperating, signing corrections, joined inter-city network | Was coerced — Blackveil threatened her niece Kara Stenn. Flipped when Kara was freed. Signed warrants, permit suspension, shaft restoration. Now part of Voss–Kellan–Kess network. |
+| **Senna Vael** | — | Junior faculty, Salthollow | S4 Turn 26 | Immunity granted, testified | Vane's watcher. Reported the party — then turned by Orindel. Fed disinformation. Granted immunity. Cried. |
+| **Harlen Cobb** | — | Solicitor, Salthollow | S4 Turn 28 | Cooperating fully | Handled all of Vane's legal work. "Careful, not crooked." Answered every question when the paperwork was overwhelming. |
 
 ## Antagonists / Enemies
 
@@ -56,13 +76,14 @@
 | **Guildmaster Orvyn Tetch** | — | Head of Coinwright's Guild, Harrowgate | S4 Turn 10 (named) | Summoned for inquiry, Guild frozen | Currency manipulation, financial infrastructure for the Vel Noctis network. |
 | **Drest** | Human, 40s | Fixer, hired by Calder | S4 Turn 4 | In custody, Duskport | Heavyset, bald, missing last 2 fingers left hand, voice like gravel. Led the temple attack crew. |
 | **Dorn Blackveil** | — | Ex-mine foreman, Vel Noctis handler (Greymoor) | S4 Turn 11 (named), Turn 24 (captured) | Arrested, Greymoor | 8 months in Greymoor. Supervised Crucible excavation personally. Captured without combat at dawn. |
-| **Lucenne Dray** | — | Ex-trade inspector, Vel Noctis handler (Veldmere) | S4 Turn 11 | Active — fleet ready | 11 months in Port Veldmere. Handler for Marchion Drael Sulwick. "Sulwick's fleet ready, await signal." |
-| **Yara Senn** | — | Ex-university lecturer, Vel Noctis handler (Salthollow) | S4 Turn 11 | Active — low resources | 9 months in Salthollow. Handler for Lorekeeper Idris Vane. Funding pipeline severed. |
-| **Wren Ashdale** | — | Ex-Thornwatch sergeant, Vel Noctis handler (Fenhollow) | S4 Turn 11 | Active — has Crucible calibration fragment | 5 months in Fenhollow. Handler for Commander Brecca Ashford. Received canvas-wrapped fragment from Greymoor. |
-| **Marchion Drael Sulwick** | — | Trade lord, Port Veldmere | S4 Turn 10 | Active | Thessaly's list #1. Debt-slavery, sea lane control. Fleet reportedly ready. |
+| **Lucenne Dray** | — | Ex-trade inspector, Vel Noctis handler (Veldmere) | S4 Turn 11 | Active — customs house, public harbor | 11 months in Veldmere. Controls what gets logged. |
+| **Yara Senn** | — | Ex-university lecturer, Vel Noctis handler (Salthollow) | S4 Turn 11 | ✅ Arrested, Salthollow | Arrested at Greengage Inn. Came quietly. |
+| **Wren Ashdale** | — | Ex-Thornwatch sergeant, Vel Noctis handler (Fenhollow) | S4 Turn 11 | ✅ Arrested, Fenhollow | Fragment lifted from his desk by Mira. Surrendered voluntarily. Contact list revealed Overseer Callista Venn. |
+| **Marchion Drael Sulwick** | — | Trade lord, Port Veldmere | S4 Turn 10 | Active — fleet ready | Thessaly's list #1. Debt-slavery, sea lane control. 6 armed merchant vessels at anchor. |
 | **The Pallid Court** | — | Corrupt judges, Greymoor | S4 Turn 10 | ✅ HANDLED | Thessaly's list #2. Kess flipped, Blackveil arrested, Shaft 9 restored. |
-| **Lorekeeper Idris Vane** | — | Private archivist, Salthollow | S4 Turn 10 | Active | Thessaly's list #3. Suppressed documents. Low resources after funding cut. |
-| **Commander Brecca Ashford** | — | Corrupt militia commander, Fenhollow | S4 Turn 10 | Active — weakened | Thessaly's list #5. Sealed marsh ruins. Handler has Crucible fragment. |
+| **Lorekeeper Idris Vane** | — | Private archivist, Salthollow | S4 Turn 10 | ✅ Suspended, in custody | Thessaly's list #3. Acquisitions frozen. University quarter restored. |
+| **Commander Brecca Ashford** | — | Corrupt militia commander, Fenhollow | S4 Turn 10 | ✅ In custody, Fenhollow | Thessaly's list #5. Career military. "I should have verified." |
+| **Overseer Callista Venn** | — | Senior Unchained Compact operative | S4 Turn 32 (named) | Active — Sulwick's compound, Veldmere | Senior to all handlers. Arrived 3 days ago with iron chest (Archive transport protocol). |
 | **The Sealed Quorum** | — | Secret censorship committee, Aelindra | S4 Turn 10 | Monitored | Thessaly's list #7. Institutional target. Being watched post-Thessara. |
 
 ## Minor / One-Scene NPCs
@@ -80,7 +101,8 @@
 
 ---
 
-*Last updated: Session 4, Turn 25 (en route to Salthollow)*
-*Next destination: Salthollow (2 days river + 1 day overland)*
-*Campaign clock: ~7 days before remaining handlers act independently*
-*Inter-city network: Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor)*
+*Last updated: Session 4, Turn 34 (Veldmere, public harbor)*
+*Next target: Marchion Drael Sulwick + Overseer Callista Venn (Veldmere)*
+*Campaign clock: ~3 days before remaining handlers act independently*
+*Inter-city network: Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Ashworth (Salthollow) — Brenn (Fenhollow) — Serevane (counter-intel)*
+*Scoreboard: 5/7 handled. 2 remain (Sulwick/Veldmere, Sealed Quorum/Aelindra).*

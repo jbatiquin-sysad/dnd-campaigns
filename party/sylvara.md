@@ -12,7 +12,7 @@
 |-----|-----|-----|-----|-----|-----|
 |  8  |  14 |  10 |  16 |  12 |  13 |
 
-**HP:** 10 | **Hit Dice:** 2d6
+**HP:** 10 | **Hit Dice:** 2d6 | **AC:** 15
 
 ## Key Features
 - Spellcasting (INT-based): Spellbook with 6+ spells, prepare INT mod + level/day
@@ -51,13 +51,15 @@ In Session 4, Sylvara was the party's detection and authentication specialist. A
 
 In Greymoor, Sylvara was the campaign's strategic intelligence lead. On the barge, she identified the sealed chamber system as the Crucible — an Archive containment facility — and the Binding Shard as a Sundering-era continental ward keystone (History 18, 21). She framed the entire conspiracy's architecture: "Duskport was a legal barrier. Aelindra was the knowledge. Greymoor is the physical infrastructure." During Operation Crucible, she led the courthouse filing (Persuasion 22) — presenting combined evidence from three cities before Judge Kess arrived, filing under ecclesiastical authority via Sister Maren, and freeing two prisoners. Overnight, she studied Blackveil's operational ledger (Investigation 20) and traced the east road wagon to Wren Ashdale in Fenhollow — identifying the Crucible calibration fragment as the next threat.
 
-## Equipment (Current — S4 Turn 25, en route to Salthollow)
-- Spellbook (in travel case)
+## Equipment (Current — S4 Turn 34, Veldmere)
+- Spellbook (in travel case, dried+sealed against marsh air)
 - Arcane focus
-- Dagger
-- Ink + quill
-- Common clothes
+- Dagger (sharpened)
+- Ink + quill (refilled)
+- Chain shirt (equipped, AC 13 + DEX = AC 15) — seized from Fenhollow imports
+- Scholar's travelling robes (from Thornfield)
 - Spell component pouch
+- Dunwick's leather-bound notebook (gift from Salthollow)
 
 ## Roleplay Instructions
 Speak with precision and mild condescension (not malicious — she just assumes everyone else hasn't done the reading). Reference historical precedents. Get visibly excited about magical phenomena. Show vulnerability only when the stakes involve the tome or innocent lives.

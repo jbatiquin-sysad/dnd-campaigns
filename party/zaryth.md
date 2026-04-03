@@ -61,9 +61,10 @@ In Session 4, Zaryth returned to Duskport to find Calder Aldenmere had launched 
 
 In Greymoor, Zaryth led Operation Crucible — four simultaneous phases at dawn that secured Shaft 9, captured handler Dorn Blackveil, seized the Unchained Compact's resonance key, freed two falsely imprisoned civilians, flipped the coerced Judge Kess, and protected the Binding Shard (a Sundering-era continental ward keystone) beneath the mountain. Zero combat. Zero casualties. Zero resources expended. He intimidated a Vel Noctis guard into yielding with a single word: "Yield." Three cities now stand behind the party — Duskport, Harrowgate, Greymoor — connected by an inter-city inquiry network.
 
-## Equipment (Current — S4 Turn 25, en route to Salthollow)
-- Well-made longsword (equipped) — purchased in Duskport, 15gp
-- Chain mail + steel shield (equipped, AC 19 — base 16 + shield +2 + Defense +1)
+## Equipment (Current — S4 Turn 34, Veldmere)
+- Well-made longsword (equipped, oiled+sharpened) — purchased in Duskport, 15gp
+- Chain mail + steel shield (equipped, AC 19 — base 16 + shield +2 + Defense +1, chain mail re-linked+restored at Thornfield)
+- Dark tabard over chain mail — purchased at Thornfield, authorized agent appearance
 - Ruined signet ring (pocket) — from his fallen house, carried always
 - Iron disc (expended, kept as evidence) — Serevane's Unchained Compact token
 - Healing Potion (1x)
@@ -71,6 +72,13 @@ In Greymoor, Zaryth led Operation Crucible — four simultaneous phases at dawn 
 - Antitoxin vial (shared, party carries 2)
 - 3x quality mining lanterns (party gear, from Greymoor)
 - Blackveil's operational ledger (east road contacts, Fenhollow destination)
+- Vane's acquisition ledger (evidence, from Salthollow)
+- Yara Senn's handler correspondence (6 coded letters, evidence)
+- Ashdale's letter re: Crucible fragment (evidence, from Salthollow strongbox)
+- Ashdale's contact list incl. Overseer Callista Venn (evidence, from Fenhollow)
+- Ashford's correspondence incl. C.V. letters (evidence, from Fenhollow)
+- COMPLIANT/RESISTANT/REMOVED list (evidence, from Salthollow)
+- 3x regional civic charters + master index (from the Athenaeum)
 - Calder's handwritten letter (evidence)
 - Sub-level 2 map (Serevane's hand-drawn layout)
 - Guard rotation schedule
@@ -78,11 +86,15 @@ In Greymoor, Zaryth led Operation Crucible — four simultaneous phases at dawn 
 - 8x Duskport Letters of Credential (Voss)
 - 8x Harrowgate commendation letters (Kellan)
 - 8x Greymoor commendation letters (Kess + Sister Maren + Chapel seal)
+- 8x Salthollow commendation letters (Ashworth + Fell)
+- 8x Fenhollow commendation letters (Brenn + Venn + Galley)
 - 1x Temple commendation (Sister Maren)
 - Priority river clearance (all ports)
+- Overland travel writ (Salthollow–Fenhollow, 28 days)
+- Marsh passage writ (Fenhollow, 29 days)
 - Provisioning writ (8 days remaining)
-- Civic barge priority passage (60 days remaining)
-- Party funds: 1,178.5gp
+- Civic barge priority passage (56 days remaining)
+- Party funds: 2,168.5gp
 
 ## Roleplay Instructions
 Speak with the cadence of someone used to command — economical, direct, no wasted words. Let the bravado slip occasionally to show the guilt underneath. Treat every common person as worth protecting. Show visible contempt for corrupt authority, visible respect for genuine courage regardless of rank. The ruined signet ring comes out when things get dark — he looks at it, says nothing, puts it away.

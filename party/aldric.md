@@ -46,14 +46,16 @@ In Session 4, Aldric served as Zaryth's right hand across every operation. In Du
 
 In Greymoor, Aldric recruited Donal Crewe on the barge by tending his broken wrist (Medicine 17) and earning his trust over an afternoon. During Operation Crucible, he talked Guard 2 into surrendering mid-bite on an apple (Persuasion 16). He also recruited Brother Ollen at the Chapel of the Balanced Stone and uncovered the two falsely imprisoned civilians (Fen Druval and Kara Stenn). At the Broken Drum celebration, he lit candles at the Chapel for everyone the Unchained Compact touched. Hilde knitted him a scarf. It's too small. He wears it anyway.
 
-## Equipment (Current — S4 Turn 25, en route to Salthollow)
-- Warhammer (equipped)
-- Chain mail (equipped)
+## Equipment (Current — S4 Turn 34, Veldmere)
+- Warhammer (equipped, oiled nightly)
+- Chain mail (equipped, re-linked+restored at Thornfield)
 - Shield (equipped)
-- Holy symbol
+- New acolyte underlayer robes (from Thornfield)
+- Holy symbol (polished)
 - Prayer book (contains an unaddressed letter written before the Aelindra operation)
 - Holy water vial (purchased in Aelindra, 25gp)
-- Hilde's knitted scarf
+- Hilde's knitted scarf (worn as bracer wrap on shield arm)
+- Dunwick's tea blend (gift from Salthollow)
 - 15 gp
 
 ## Roleplay Instructions

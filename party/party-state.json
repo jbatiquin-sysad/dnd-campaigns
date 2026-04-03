@@ -1,24 +1,30 @@
 {
   "session": 4,
-  "turn": 25,
-  "active_dm": "dm-storyteller",
-  "location": "Civic barge Iron Penny, heading south toward Salthollow",
-  "campaign_clock": "~7 days before handlers act independently",
-  "party_gold": 1178.5,
+  "turn": 34,
+  "active_dm": "dm-chronicler",
+  "location": "Veldmere, public harbor, south side, berth 14",
+  "campaign_clock": "~3 days before handlers act independently",
+  "party_gold": 2168.5,
   "provisions_writ_days": 8,
-  "barge_passage_days": 60,
-  "route": "Greymoor → Salthollow (2 days river + 1 day overland) → Fenhollow (2 days) → Veldmere",
+  "barge_passage_days": 56,
+  "overland_travel_writ_days": 28,
+  "marsh_passage_writ_days": 29,
+  "route": "Fenhollow → Tidemeet (marsh punts overnight) → Veldmere (Marsh Hawk sloop, 6hrs)",
   "credentials": [
     "8x Duskport Letters of Credential (Voss)",
     "8x Harrowgate commendation letters (Kellan)",
     "8x Greymoor commendation letters (Kess + Sister Maren + Chapel seal)",
+    "8x Salthollow commendation letters (Ashworth + Fell)",
+    "8x Fenhollow commendation letters (Brenn + Venn + Galley)",
     "1x Temple commendation (Sister Maren)",
-    "Priority river clearance (all ports)"
+    "Priority river clearance (all ports)",
+    "Overland travel writ (Salthollow-Fenhollow, 28 days)",
+    "Marsh passage writ (Fenhollow, 29 days)"
   ],
-  "inter_city_network": ["Voss (Duskport)", "Kellan (Harrowgate)", "Kess (Greymoor)", "Serevane (counter-intel, Duskport)"],
+  "inter_city_network": ["Voss (Duskport)", "Kellan (Harrowgate)", "Kess (Greymoor)", "Ashworth (Salthollow)", "Brenn (Fenhollow)", "Serevane (counter-intel, Duskport)"],
   "scoreboard": {
-    "handled": ["House Aldenmere (Duskport)", "Guildmaster Orvyn Tetch (Harrowgate)", "The Pallid Court (Greymoor)"],
-    "active": ["Marchion Drael Sulwick (Veldmere) — fleet ready", "Lorekeeper Idris Vane (Salthollow) — low resources", "Commander Brecca Ashford (Fenhollow) — has Crucible fragment", "The Sealed Quorum (Aelindra) — monitored"]
+    "handled": ["House Aldenmere (Duskport)", "Guildmaster Orvyn Tetch (Harrowgate)", "The Pallid Court (Greymoor)", "Lorekeeper Idris Vane (Salthollow)", "Commander Brecca Ashford (Fenhollow)"],
+    "active": ["Marchion Drael Sulwick (Veldmere) — fleet ready, Overseer Callista Venn present", "The Sealed Quorum (Aelindra) — monitored"]
   },
   "party": {
     "zaryth": {
@@ -29,12 +35,12 @@
       "hp": { "current": 19, "max": 19 },
       "ac": 19,
       "conditions": [],
-      "inventory": ["Well-made longsword (equipped)", "Chain mail + steel shield (equipped, AC 19)", "Ruined signet ring", "Iron disc (expended, evidence)", "Healing Potion (1x)", "3x quality mining lanterns (party)", "Healer's Kit (shared, 3x)", "Antitoxin vial (shared, 2x)", "Calder's handwritten letter (evidence)", "Sub-level 2 map", "Guard rotation schedule", "Valis Procedure annotations", "Blackveil's operational ledger"],
+      "inventory": ["Well-made longsword (equipped, oiled+sharpened)", "Chain mail + steel shield (equipped, AC 19, maintained)", "Dark tabard over chain mail", "Ruined signet ring", "Iron disc (expended, evidence)", "Healing Potion (1x)", "3x quality mining lanterns (party)", "Healer's Kit (shared, 3x)", "Antitoxin vial (shared, 2x)", "Calder's handwritten letter (evidence)", "Sub-level 2 map", "Guard rotation schedule", "Valis Procedure annotations", "Blackveil's operational ledger", "Vane's acquisition ledger (evidence)", "Yara Senn's handler correspondence (evidence)", "Ashdale's letter re: Crucible fragment (evidence)", "Ashdale's contact list incl. Overseer Callista Venn (evidence)", "Ashford's correspondence incl. C.V. letters (evidence)", "COMPLIANT/RESISTANT/REMOVED list (evidence)", "3x regional civic charters + master index"],
       "spell_slots": { "1st": 2 },
       "lay_on_hands": 10,
       "faerie_fire": true,
       "player": "YOU",
-      "notes": "Exiled knight. Sworn to protect village that sheltered him. Keeps ruined signet ring of former order."
+      "notes": "Exiled knight. Tabard befitting authorized agent of five cities."
     },
     "mira": {
       "full_name": "Mira Thistlewick",
@@ -44,9 +50,9 @@
       "hp": { "current": 15, "max": 15 },
       "ac": 15,
       "conditions": [],
-      "inventory": ["Blade (equipped)", "Short sword (off-hand)", "Light crossbow (equipped)", "Hand crossbow + 30 bolts", "Reinforced leather armor (equipped)", "Abjuration amulet (attuned)", "Healing Potion (1x)", "Thieves' tools", "Crowbar", "Dark hooded clothes", "3 receipts (INTEREST ONLY evidence)", "Crown exterior approach map", "Resonance key (Unchained Compact device)"],
+      "inventory": ["Blade (equipped, sharpened)", "Short sword (off-hand, sharpened)", "Light crossbow (upgraded, restrung, equipped)", "Hand crossbow + 28 bolts (cleaned+oiled)", "Reinforced leather armor (equipped, oiled)", "Abjuration amulet (attuned)", "Healing Potion (1x)", "Thieves' tools", "Crowbar", "Fitted dark travelling outfit", "3 receipts (INTEREST ONLY evidence)", "Resonance key (Unchained Compact device)"],
       "spell_slots": null,
-      "notes": "Carrying the resonance key seized from Blackveil."
+      "notes": "Carrying resonance key. Amulet bypasses detection wards."
     },
     "aldric": {
       "full_name": "Brother Aldric Stonebrow",
@@ -56,7 +62,7 @@
       "hp": { "current": 20, "max": 20 },
       "ac": 18,
       "conditions": [],
-      "inventory": ["Warhammer (equipped)", "Chain mail + shield (equipped)", "Holy symbol", "Prayer book", "Holy water vial", "Hilde's knitted scarf"],
+      "inventory": ["Warhammer (equipped, oiled)", "Chain mail + shield (equipped, re-linked+restored)", "New acolyte underlayer robes", "Holy symbol (polished)", "Prayer book", "Holy water vial", "Hilde's knitted scarf (bracer wrap)", "Dunwick's tea blend"],
       "spell_slots": { "1st": 2 },
       "channel_divinity": 1,
       "notes": "Wants to find the necromancer who killed his mentor."
@@ -67,12 +73,12 @@
       "class": "Wizard (Evocation)",
       "level": 2,
       "hp": { "current": 10, "max": 10 },
-      "ac": 12,
+      "ac": 15,
       "conditions": [],
-      "inventory": ["Spellbook (in travel case)", "Arcane focus", "Dagger", "Ink + quill", "Common clothes", "Spell component pouch"],
+      "inventory": ["Spellbook (in travel case)", "Arcane focus", "Dagger (sharpened)", "Ink + quill", "Scholar's travelling robes", "Chain shirt (equipped, AC 15)", "Spell component pouch", "Dunwick's leather-bound notebook"],
       "spell_slots": { "1st": 2 },
       "arcane_recovery_used": false,
-      "notes": "Studying Blackveil's operational ledger. Identified the Crucible and Binding Shard."
+      "notes": "AC 15 (chain shirt). Decoded Senn's handler correspondence. Regional civic charters invalidate network-wide property seizures."
     },
     "bram": {
       "full_name": "Bram Thistlewick",
@@ -80,12 +86,12 @@
       "class": "Wizard (Evocation)",
       "level": 2,
       "hp": { "current": 11, "max": 11 },
-      "ac": 12,
+      "ac": 15,
       "conditions": [],
-      "inventory": ["Spellbook", "Quarterstaff (equipped)", "Hand axe (backup melee)", "Dagger", "Military insignia", "Spell component pouch", "Pigeon messenger kit (paired with Thessaly)"],
+      "inventory": ["Spellbook", "Quarterstaff (equipped, oiled)", "Hand axe (sharpened)", "Dagger (sharpened)", "Military insignia", "Spell component pouch", "Pigeon messenger kit (paired with Thessaly)", "Chain shirt (equipped, AC 15)", "Military-cut travelling coat", "Boots (resoled)"],
       "spell_slots": { "1st": 2 },
       "arcane_recovery_used": false,
-      "notes": ""
+      "notes": "AC 15 (chain shirt)."
     },
     "thessaly": {
       "full_name": "Thessaly Ironveil",
@@ -95,9 +101,9 @@
       "hp": { "current": 16, "max": 16 },
       "ac": 14,
       "conditions": [],
-      "inventory": ["Rapier (equipped)", "Short sword (off-hand)", "Hand crossbow + bolts", "Studded leather armor (equipped)", "Fine clothes", "Signet ring (House Ironveil)", "Thieves' tools", "Pigeon messenger kit (paired with Bram)"],
+      "inventory": ["Rapier (equipped, sharpened)", "Short sword (off-hand, oiled)", "Hand crossbow + bolts (cleaned+oiled)", "Studded leather armor (equipped, studs tightened)", "Fine clothes (infiltration set)", "Quality travelling outfit", "Signet ring (House Ironveil, polished)", "Thieves' tools", "Pigeon messenger kit (paired with Bram)"],
       "spell_slots": null,
-      "notes": "Thessaly's list: 3/7 handled (Aldenmere, Tetch, Pallid Court). 4 remain (Sulwick, Vane, Ashford, Sealed Quorum)."
+      "notes": "List: 5/7 handled. 2 remain (Sulwick, Sealed Quorum)."
     },
     "orindel": {
       "full_name": "Orindel Ashwick",
@@ -107,10 +113,10 @@
       "hp": { "current": 15, "max": 15 },
       "ac": 18,
       "conditions": [],
-      "inventory": ["Mace (equipped)", "Scale mail + wooden shield (equipped)", "Holy symbol", "Crowbar", "Dark clothes"],
+      "inventory": ["Mace (equipped, oiled)", "Scale mail + wooden shield (equipped, rim repaired)", "Holy symbol", "Crowbar", "Cleric's travelling robe", "Boots (resoled)", "Jar of honey (barge gift)", "Bottle of whiskey (Dak gift)", "Marsh honey jar (Wynn Galley gift)", "Carved wooden Marsh Light icon (Sister Venn gift)"],
       "spell_slots": { "1st": 2 },
       "channel_divinity": 1,
-      "notes": "Pigeon (Tomas) dispatched to Duskport with Greymoor report. Named the pigeon after a boy he lost."
+      "notes": "Pigeon Tomas dispatched with Fenhollow report."
     },
     "pip": {
       "full_name": "Pip Tanglethorn",
@@ -120,10 +126,10 @@
       "hp": { "current": 10, "max": 10 },
       "ac": 14,
       "conditions": [],
-      "inventory": ["Spellbook (in travel case)", "Dagger", "Common clothes", "Studded leather armor (equipped)", "Focus stone (Sylvara's river pebble)"],
+      "inventory": ["Spellbook (in travel case)", "Quality short sword (equipped, Ashdale's)", "Dagger (backup, sharpened)", "Full outfit (shirt, trousers, vest, cloak)", "Studded leather armor (equipped)", "Focus stone (Sylvara's river pebble)", "Lira's note"],
       "spell_slots": { "1st": 2 },
       "arcane_recovery_used": false,
-      "notes": "Gave Ren a sparking copper coin in Greymoor. Found a talented girl on the barge."
+      "notes": "Looks like a real wizard now."
     }
   }
 }

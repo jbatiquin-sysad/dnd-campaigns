@@ -46,18 +46,18 @@ In Greymoor, Mira was the recon and strike lead for Operation Crucible. She scou
 
 On the voyage home, she shared her dream: a place of her own with a garden. Her aspiration: to learn to stay instead of run. Her darkest hour: discovering the Ledger was eating her payments and going empty for a week — until Pip laughed at something stupid and she decided to keep that laugh in the world. She asked Zaryth to visit her garden someday. He said he'd be honored.
 
-## Equipment (Current — S4 Turn 25, en route to Salthollow)
-- Blade (equipped)
-- Short sword (off-hand backup)
-- Light crossbow (equipped)
-- Hand crossbow + 30 bolts
-- Reinforced leather armor (equipped, AC 12 + DEX) — scavenged from Vel Noctis operative, S4
+## Equipment (Current — S4 Turn 34, Veldmere)
+- Blade (equipped, sharpened)
+- Short sword (off-hand backup, sharpened)
+- Light crossbow (upgraded+restrung, equipped)
+- Hand crossbow + 28 bolts (cleaned+oiled)
+- Reinforced leather armor (equipped, AC 12 + DEX, oiled) — scavenged from Vel Noctis operative, S4
 - Abjuration amulet (attuned) — suppresses detection magic, seized from assassin in S4
 - Resonance key (Unchained Compact ward-collapse device) — seized from Blackveil, Greymoor
 - Healing Potion (1x)
 - Thieves' tools
 - Crowbar
-- Dark hooded clothes
+- Fitted dark travelling outfit (new, from Thornfield)
 - 3 receipts (INTEREST ONLY stamps — evidence of Ledger fraud)
 - Crown exterior approach map (hand-drawn in Aelindra)
 

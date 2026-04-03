@@ -51,12 +51,14 @@ In Greymoor, Pip held the corridor during Operation Crucible — Burning Hands r
 
 On the voyage home, he shared his dream: to be a real wizard, properly trained. His aspiration: to be honestly brave — scared and doing it anyway. His darkest hour: opening the fake spellbook and feeling confirmed as a fool. His light: Mira. "She didn't pull me back to the light. She just stood in it. And eventually I walked toward her."
 
-## Equipment (Current — S4 Turn 25, en route to Salthollow)
-- Spellbook (in travel case, purchased in Aelindra 5gp)
-- Dagger
-- Common clothes
-- Studded leather armor (equipped, AC 12 + DEX)
+## Equipment (Current — S4 Turn 34, Veldmere)
+- Spellbook (in travel case, cleaned, purchased in Aelindra 5gp)
+- Quality short sword (equipped, Ashdale's Thornwatch-issue) — seized in Fenhollow
+- Dagger (backup, sharpened by Mira)
+- Full outfit — shirt, trousers, vest, cloak (from Thornfield)
+- Studded leather armor (equipped, AC 12 + DEX, studs checked)
 - Focus stone (Sylvara's river pebble, 40 years old, no magical properties)
+- Lira's note (from Salthollow student)
 - 15 gp
 
 ## Roleplay Instructions

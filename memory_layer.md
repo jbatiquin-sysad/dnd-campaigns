@@ -2516,3 +2516,183 @@ Campaign scoreboard: 3/7 handled (Aldenmere, Tetch, Pallid Court). 4 remain.
 Campaign clock: ~7 days.
 Location: Civic barge Iron Penny, heading south toward Salthollow.
 All party: Full HP, full resources, Level 2.
+
+---
+## S4 Turn 26 — The River South / Salthollow Approach
+
+**Scene:** Civic barge *Iron Penny*, two days south toward Salthollow landing.
+
+**Side Hustles (108gp over 2 days):** Full party worked cover jobs while gathering intel.
+
+**Key Intelligence Gathered:**
+- Mira: False-manifest passenger (Senna Vael) watching party, reporting to Vane
+- Thessaly: Merchant family fled Salthollow — Vane buying university quarter, prices tripled
+- Sylvara: Pre-Sundering sealed vault beneath university quarter, pre-dates Aelindra
+- Bram: New dockmaster Grenn installed 7 months ago, replaced 30-year veteran
+- Aldric: Professor Elara Dunwick — retired faculty, 40 years, purged by Vane, has documentation
+- Orindel: Dak — porter at archive, floors 3+ locked down, new non-local staff
+- Pip: Student note — "Vane moving documents out at night. Covered wagons. East road."
+- Zaryth: Senna Vael tracking party, university seal satchel
+
+**Arrival:** Salthollow river landing, late afternoon. Dockmaster Grenn logged party.
+
+**State Changes:** party_gold +108gp. Provisioning writ 8→6 days.
+
+---
+## S4 Turn 27 — Salthollow / Safehouse, Hustles, Evening Brief
+
+**Safehouse:** The Folded Page, Inkwell Lane. Maren Blackthorn, landlord. 1.5gp/night. Adjacent to Quill & Cork (where Dak drinks).
+
+**Side Hustles (53gp):** Full party intel gathering.
+
+**Key Intelligence:**
+- Mira (Investigation 22): Archive mapped — 3 floors, ward on service door (same family as Harrowgate, amulet bypasses), loading dock active nightly
+- Thessaly (Deception 20): 11 properties acquired through solicitor Harlen Cobb. Senna Vael entered archive 6th bell.
+- Sylvara (History 20, Arcana 17): Sealed vault = **the Athenaeum** — civic charters, binding precedents. Same ward family as Crucible + Undercroft. Second entry via cemetery ventilation shaft.
+- Bram (Perception 16): Wagon tracks confirmed, two-stage relay at half-mile turnout
+- Aldric (Persuasion 18): Professor Dunwick recruited — 2 years documentation, will testify under oath
+- Orindel (Insight 20): Dak recruited — saw civic records in crates, scared of third-floor staff ("talk like soldiers"), willing to testify if protected
+- Pip (Performance 15, Perception 14): Watched wagon loading — 4 crates, 8th bell departure, single armed driver. Student Lira spotted watching.
+- Zaryth (Insight 19): Yara Senn visually identified — forties, grey cloak, staying at Greengage Inn
+
+**State Changes:** party_gold +53gp. Provisioning writ 6→5 days.
+
+---
+## S4 Turn 28 — Salthollow / Operation Athenaeum
+
+**Four Questions Answered:**
+1. Council: Split 3-2. Three bought cheap (30gp stipends via Cobb). Councilwoman Brynn Ashworth + Councilman Tomas Fell = civic trigger. Ashworth has 2 years of stipend documentation.
+2. Third-floor staff: 5 total — Yara Senn + 4 guards (2 day/2 night + 1 permanent crossbow). Night: 3 guards + Senn.
+3. Senna Vael: TURNED by Orindel. But already reported to Vane — surprise lost. Now double agent feeding disinformation.
+4. Athenaeum entry: Cemetery ventilation shaft behind Chapel of the Quiet Stone. Civic seal — requires Ashworth to open.
+
+**Operation Athenaeum — Four Phases at 11th Bell:**
+
+**Phase 1 — Wagons (Bram + Thessaly + Pip):** 7 crates seized at staging turnout. 2 drivers secured. Pip Dancing Lights distraction. Thessaly Deception 22. Bram Intimidation 20. Zero combat.
+
+**Phase 2 — Athenaeum (Sylvara + Aldric + Ashworth):** Ashworth opened civic seal. Vault contained original civic charters for every town in the river basin — Salthollow, Harrowgate, Greymoor, Fenhollow, Veldmere. Pre-Sundering. Legally binding. Invalidate all network property seizures. 3 charters + master index extracted.
+
+**Phase 3 — Archive (Zaryth + Mira + Orindel):** Service door bypassed (Mira amulet). Third floor: Mira dropped Guard A non-lethal (7 dmg). Guard B surrendered. Crossbow man surrendered after Zaryth's speech. Strongbox opened (Mira 21 vs DC 18). Contents: Senn's handler correspondence, Vane's acquisition ledger, Ashdale's letter ("Fragment secured. Commander grows impatient."), COMPLIANT/RESISTANT/REMOVED list.
+
+**Phase 4 — Civic Trigger (Dawn):** Ashworth convened emergency session. Thessaly Persuasion 23. Three bought council members recused. Vane suspended, warrant issued. Senn arrested. Acquisitions frozen. University quarter restored. Salthollow joins network: Voss–Kellan–Kess–Ashworth.
+
+**Zero casualties across all phases.**
+
+**State Changes:** party_gold +53gp. Provisioning writ 5→4 days. Mira: 1 bolt expended.
+
+---
+## S4 Turn 29 — Spoils, Rewards, Speech, Departure
+
+**Equipment Sales:** 74gp (5x short swords, hand axe, old crossbow, misc gear) + 23gp coin from prisoners = 97gp.
+**Mira:** Light crossbow upgraded (better condition, same stats).
+
+**Salthollow Rewards:** 150gp bounty, 8x commendation letters (Ashworth + Fell), provisioning writ +4 days, overland travel writ (30 days), university library access (lifetime).
+
+**Zaryth's Speech:** Addressed Dunwick, Ashworth, Dak, Senna Vael, Lira, and all who helped. "Four cities now stand together... We did not save this town. You saved this town."
+
+**Departure:** Evening, east road toward Fenhollow. Ashworth's courier 1 day ahead warning marsh folk.
+
+**State Changes:** party_gold +247gp. Provisioning writ 4→8 days (+4 extension). New credentials: 8x Salthollow commendations + overland travel writ.
+
+---
+## S4 Turn 30 — Gear Audit / Outfitting / Maintenance
+
+**Scene:** Marsh road to Fenhollow. Thornfield waystation resupply.
+
+**Purchases at Thornfield (43gp):**
+- Sylvara: padded armor (AC 12→13), scholar's robes
+- Bram: padded armor (AC 12→13), military coat, boot resole
+- Aldric: chain mail re-linked+restored, new underlayer robes
+- Mira: fitted dark travelling outfit
+- Pip: full new outfit (shirt, trousers, vest, cloak)
+- Thessaly: quality travelling outfit
+- Orindel: cleric's travelling robe, boot resole
+- Zaryth: dark tabard over chain mail
+
+**Full Maintenance:** All weapons oiled+sharpened. All armor inspected+repaired. Mira restrung crossbow. Aldric chain mail re-linked. Orindel shield rim repaired (pine resin). All equipment in full working order.
+
+**State Changes:** party_gold 1,639.5→1,596.5gp. Sylvara AC 12→13. Bram AC 12→13. All party properly outfitted for credentials level.
+
+**Location:** Marsh road, 1 day from Fenhollow.
+**Campaign clock:** ~5 days.
+**All party:** Full HP, full resources, Level 2.
+
+---
+## S4 Turn 31 — Fenhollow / Bathhouse, Safehouse, Hustles
+
+**Scene:** Fenhollow. Marsh town on stilts. Militia stockade north end. Sealed marsh ruins east.
+
+**Bathhouse:** Greta Holm's hot spring bathhouse. Full party cleaned up. 8 silver.
+
+**Safehouse:** The Heron's Rest, south walkway. Corwin Marsh, landlord. 1.5gp/night. View of stockade and ruins.
+
+**Side Hustles (51gp):** Full party intel gathering.
+
+**Key Intelligence:**
+- Mira (Stealth 21, Perception 20): Stockade mapped — 20-25 militia (~12 imports/soldiers), 2 gate guards. Causeway to ruins guarded both ends by day, UNGUARDED after 9th bell curfew. Empty wagon waiting for Vane's shipment.
+- Thessaly (Deception 21, Insight 20): Wynn Galley recruited (community leader). Ashford arrived 5 months ago, replaced Captain Jorik Brenn, imposed curfew, recruited 12 non-local militia. Wren Ashdale = quartermaster.
+- Sylvara (History 21, Arcana 19): Ruins = pre-Sundering civic wardhouse. Contains Ward Nexus — control node for regional ward network. Calibration fragment = bypass key needing archivist to operate. Ashford can't get in without fragment + translated instructions (both intercepted).
+- Bram (Perception 19): 24 militia, 12 imports drill Thornwatch formations. Ashdale frustrated — door won't open.
+- Aldric (Persuasion 17): Sister Venn recruited — Chapel of the Marsh Light, 3 months documentation, will testify. Sheltering displaced Fenn children.
+- Orindel (Medicine 19, Insight 21): Elda Fenn recruited. Old Harren Fenn has marsh path bypassing causeway. Meeting arranged.
+- Pip (Perception 16): Ashdale spotted briefing imports at Mudlark tavern. Drainage grate south stockade wall — halfling-sized.
+- Zaryth (Insight 20): Ashford = career military, won't fold to credentials alone. Curfew 9th bell, 2-man patrols, 15-min cycles. Occupied town.
+
+**State Changes:** party_gold +51gp. Provisioning writ 7→6 days.
+
+---
+## S4 Turn 32 — Fenhollow / Harren Fenn, Hustles, Operation Wardhouse
+
+**Harren Fenn:** 70s, 60 years on the marsh. Confirmed marsh path to ruins back wall (undetected). Named Captain Jorik Brenn as legitimate militia captain (appointment never ratified). Grandfather's name carved inside wardhouse.
+
+**Side Hustles (54gp):** All four questions answered.
+- Mira: Causeway unguarded after 9th bell. Night approach clean.
+- Thessaly (Persuasion 19): Captain Jorik Brenn recruited. Will open civic seal and resume command.
+- Sylvara (Arcana 20): Ward Nexus = control interface for regional ward network. Fragment = emergency bypass key.
+- Bram (Perception 20): Ashdale planning to send people to Salthollow tomorrow — clock is NOW.
+- Aldric: Sister Venn briefed, will ring chapel bell at dawn for civic assembly.
+- Orindel: Corporal Denn confirmed — local militia will stand down if Brenn gives the order.
+- Pip: Drainage grate confirmed halfling-sized. Memorized location.
+
+**Operation Wardhouse — Four Phases:**
+
+**Phase 1 — Wardhouse (Zaryth + Sylvara + Aldric + Orindel + Harren + Brenn):** Marsh path, back wall approach. Brenn opened civic seal. Ward Nexus intact, fully functional. Harren found grandfather's name on the wall. COMPLETE.
+
+**Phase 2 — Fragment (Mira + Pip):** Entered stockade via drainage grate. Mira Sleight of Hand 24 — lifted calibration fragment from Ashdale's desk while he wrote a letter. Replaced with river stone. Zero detection. COMPLETE.
+
+**Phase 3 — Gate (Bram + Thessaly + Brenn, dawn):** Brenn walked to stockade gate in captain's tabard. Thessaly Persuasion 23 + credentials from five cities. Bram Intimidation 21. Local militia stood down. 12 imports surrendered when they saw Zaryth arriving from the wardhouse, Mira holding the fragment, and the chapel bell ringing. Zero combat. COMPLETE.
+
+**Phase 4 — Civic Trigger (Aldric + Venn + Galley + Harren, dawn):** Chapel bell rang. Marsh folk assembled. Charters presented. Ashford relieved. Brenn reinstated. Curfew lifted. Council elections ordered. COMPLETE.
+
+**Ashford:** In custody. "I should have verified. That's on me."
+**Ashdale intel:** Contact list with 6th name — **Overseer Callista Venn**, based in Veldmere, senior to all handlers.
+
+**State Changes:** party_gold +54gp. Fragment secured in wardhouse. Fenhollow joins network: Voss–Kellan–Kess–Ashworth–Brenn.
+
+---
+## S4 Turn 33 — Fenhollow / Spoils, Rewards, Upgrades, Route Planning
+
+**Equipment:** Sold seized gear for 236gp + 85gp coin = 321gp total.
+**Upgrades:** Sylvara chain shirt (AC 13→15). Bram chain shirt (AC 13→15). Pip +quality short sword.
+
+**Fenhollow Rewards:** 200gp bounty, 8x commendation letters (Brenn + Venn + Galley), provisioning writ +3 days, marsh passage writ (30 days), Harren's delta map.
+
+**Route Decision:** Option B — river delta route. Marsh punts overnight to Tidemeet, then Soren Blackwater's sloop *Marsh Hawk* to Veldmere. 18 hours total vs 3 days overland. Bypasses all road checkpoints.
+
+**State Changes:** party_gold +521gp = 2,168.5gp. Sylvara AC 15. Bram AC 15. Pip +short sword. Provisioning writ 6→9 days.
+
+---
+## S4 Turn 34 — Delta Run / Veldmere Arrival
+
+**Stage 1 — Marsh Punts (overnight):** Tam Galley + Old Pell guided. Navigation 19. Zero detection. Sylvara decoded Senn's 6th letter: recommended consolidating all Compact assets in Veldmere.
+
+**Stage 2 — Marsh Hawk (6 hours):** Soren Blackwater's sloop, Tidemeet to Veldmere. Arrived mid-afternoon. Docked public harbor berth 14.
+
+**Soren's Intel:** Sulwick's fleet = 6 armed merchant vessels, private harbor north side. Harbormaster Lenne Cray (public harbor) = honest, filing complaints. Callista Venn arrived 3 days ago by fast courier with iron chest (Archive transport protocol). In Sulwick's compound.
+
+**State Changes:** Location = Veldmere public harbor. Provisioning writ 9→8 days.
+
+**Campaign Scoreboard:** 5/7 handled. Sulwick + Sealed Quorum remain.
+**Campaign clock:** ~3 days.
+**Inter-city network:** 5 cities + Serevane.
+**Party:** Full HP, full resources, Level 2. 2,168.5gp.

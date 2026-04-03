@@ -51,12 +51,15 @@ In Greymoor, Orindel performed the Warding Prayer before Operation Crucible (for
 
 On the voyage home, he shared his dream: finding homes for every name on his list, and getting a dog. His aspiration: to make people feel safe by who he is, not his magic. His darkest hour: a boy named Tomas, age nine, third name on the list. Found him too late. Fever. The clinic was closed — holy day. One spell slot wasn't enough. "The light isn't a place you return to. It's a direction you choose. Every morning."
 
-## Equipment (Current — S4 Turn 25, en route to Salthollow)
-- Mace (equipped)
-- Scale mail + wooden shield (equipped, AC 18)
+## Equipment (Current — S4 Turn 34, Veldmere)
+- Mace (equipped, oiled)
+- Scale mail + wooden shield (equipped, AC 18, each scale cleaned, rim crack repaired with pine resin+cord)
 - Holy symbol
 - Crowbar
-- Dark clothes
+- Cleric's travelling robe (new, from Thornfield)
+- Boots (resoled at Thornfield)
+- Jar of honey (gift from barge mother)
+- Bottle of whiskey (gift from Dak, Salthollow)
 - 15 gp
 
 ## Known Rituals

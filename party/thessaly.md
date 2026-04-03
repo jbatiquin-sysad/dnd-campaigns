@@ -57,13 +57,14 @@ In Greymoor, Thessaly secured Shaft 9's main gate (Deception 24) alongside Bram 
 6. Commander Brecca Ashford — Fenhollow
 7. The Sealed Quorum — Aelindra
 
-## Equipment (Current — S4 Turn 25, en route to Salthollow)
-- Rapier (equipped)
-- Short sword (off-hand)
-- Hand crossbow + bolts
-- Studded leather armor (equipped, AC 14)
-- Fine clothes
-- Signet ring (House Ironveil)
+## Equipment (Current — S4 Turn 34, Veldmere)
+- Rapier (equipped, sharpened with fine-grain whetstone)
+- Short sword (off-hand, oiled)
+- Hand crossbow + bolts (mechanism cleaned+oiled)
+- Studded leather armor (equipped, AC 14, studs tightened)
+- Fine clothes (infiltration set)
+- Quality travelling outfit (new, from Thornfield)
+- Signet ring (House Ironveil, polished)
 - Thieves' tools
 - Pigeon messenger kit (paired with Bram)
 - 25 gp

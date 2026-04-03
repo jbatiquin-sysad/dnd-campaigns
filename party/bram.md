@@ -12,7 +12,7 @@
 |-----|-----|-----|-----|-----|-----|
 |  10 |  14 |  13 |  15 |  12 |   8 |
 
-**HP:** 11 | **Hit Dice:** 2d6
+**HP:** 11 | **Hit Dice:** 2d6 | **AC:** 15
 
 ## Key Features
 - Spellcasting (INT-based): Spellbook, prepare INT mod + level spells/day
@@ -49,14 +49,17 @@ In Session 4, Bram coordinated the harbor interdiction in Duskport — working w
 
 In Greymoor, Bram secured Shaft 9's main gate alongside Thessaly and six volunteer miners (Intimidation 19). He also recruited Torben Vask — the former Shaft 9 crew chief — through dock labor cover, earning the man's trust over arm-wrestling matches he kept losing. Bram coordinated the gate team's timing with the underground strike, ensuring no reinforcements entered and no one escaped.
 
-## Equipment (Current — S4 Turn 25, en route to Salthollow)
-- Spellbook
-- Quarterstaff (equipped)
-- Hand axe (backup melee) — seized from Blackveil's operation, Greymoor
-- Dagger
+## Equipment (Current — S4 Turn 34, Veldmere)
+- Spellbook (inspected)
+- Quarterstaff (equipped, oiled)
+- Hand axe (backup melee, sharpened) — seized from Blackveil's operation, Greymoor
+- Dagger (sharpened)
 - Military insignia (old unit)
 - Spell component pouch
 - Pigeon messenger kit (paired with Thessaly)
+- Chain shirt (equipped, AC 13 + DEX = AC 15) — seized from Fenhollow imports
+- Military-cut travelling coat (from Thornfield)
+- Boots (resoled at Thornfield)
 - 10 gp
 
 ## Roleplay Instructions
