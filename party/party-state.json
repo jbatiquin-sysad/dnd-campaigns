@@ -1,102 +1,111 @@
 {
-  "session": 1,
-  "turn": 0,
-  "active_dm": "dm-chronicler",
+  "session": 4,
+  "turn": 51,
+  "active_dm": "dm-wildcard",
+  "in_game_day": 45,
+  "current_week_file": "week-06",
+  "week_boundaries": {
+    "week-01": { "days": "1-2", "turns": "S1+S2" },
+    "week-02": { "days": "2-9", "turns": "S3 T1-10" },
+    "week-03": { "days": "10-16", "turns": "S3 T11-28" },
+    "week-04": { "days": "16-28", "turns": "S4 T1-34" },
+    "week-05": { "days": "28-32", "turns": "S4 T35-40" },
+    "week-06": { "days": "33-45", "turns": "S4 T41-51" }
+  },
+  "party_name": "The Dawnwatch",
+  "insignia": "Rising sun (8 rays), broken chain below horizon line, circular border",
+  "location": "Dawnwatch Homestead, Fenhollow inland rise",
+  "campaign_status": "ALL TARGETS HANDLED — 7/7. Root awakened. Covenant renewed.",
+  "party_gold": 3871.5,
+  "steel_ingots": 3,
+  "property": {
+    "name": "Dawnwatch Homestead",
+    "location": "Fenhollow inland rise, 20 min from village",
+    "size": "4 acres",
+    "caretaker": "Tessa Marsh (+ Ren 12, Lila 9)",
+    "monthly_cost": 5
+  },
+  "inter_city_network": ["Voss (Duskport)", "Kellan (Harrowgate)", "Kess (Greymoor)", "Ashworth (Salthollow)", "Brenn (Fenhollow)", "Fell (Veldmere)", "Serevane (Aelindra)", "Revka/Silver Chain (maritime)", "Veyra Solund (Archivist-General)"],
   "party": {
+    "zaryth": {
+      "full_name": "Zaryth Vel'quinar",
+      "race": "Drow (Dark Elf)",
+      "class": "Paladin (Oath of Devotion)",
+      "level": 3,
+      "hp": { "current": 28, "max": 28 },
+      "ac": 19,
+      "spell_slots": { "1st": 3 },
+      "lay_on_hands": 15,
+      "channel_divinity": 1,
+      "player": "YOU"
+    },
     "mira": {
       "full_name": "Mira Thistlewick",
       "race": "Lightfoot Halfling",
-      "class": "Rogue",
-      "level": 1,
-      "hp": { "current": 9, "max": 9 },
-      "conditions": [],
-      "inventory": ["Thieves' tools", "Crowbar", "Dark hooded clothes", "15 gp"],
-      "spell_slots": null,
-      "notes": ""
+      "class": "Rogue (Thief)",
+      "level": 3,
+      "hp": { "current": 23, "max": 23 },
+      "ac": 15,
+      "sneak_attack": "2d6"
     },
     "aldric": {
       "full_name": "Brother Aldric Stonebrow",
       "race": "Hill Dwarf",
       "class": "Cleric (Life Domain)",
-      "level": 1,
-      "hp": { "current": 12, "max": 12 },
-      "conditions": [],
-      "inventory": ["Warhammer", "Chain mail", "Shield", "Holy symbol", "Prayer book", "15 gp"],
-      "spell_slots": { "1st": 2 },
-      "channel_divinity": 1,
-      "notes": ""
+      "level": 3,
+      "hp": { "current": 28, "max": 28 },
+      "ac": 18,
+      "spell_slots": { "1st": 4, "2nd": 2 },
+      "channel_divinity": 1
     },
     "sylvara": {
       "full_name": "Sylvara Dawnwhisper",
       "race": "High Elf",
       "class": "Wizard (Evocation)",
-      "level": 1,
-      "hp": { "current": 6, "max": 6 },
-      "conditions": [],
-      "inventory": ["Spellbook", "Arcane focus", "Ink + quill", "Common clothes", "10 gp"],
-      "spell_slots": { "1st": 2 },
-      "arcane_recovery_used": false,
-      "notes": ""
+      "level": 3,
+      "hp": { "current": 14, "max": 14 },
+      "ac": 15,
+      "spell_slots": { "1st": 4, "2nd": 2 },
+      "sculpt_spells": true
     },
     "bram": {
       "full_name": "Bram Thistlewick",
       "race": "Stout Halfling",
       "class": "Wizard (Evocation)",
-      "level": 1,
-      "hp": { "current": 6, "max": 6 },
-      "conditions": [],
-      "inventory": ["Spellbook", "Quarterstaff", "Military insignia", "10 gp"],
-      "spell_slots": { "1st": 2 },
-      "arcane_recovery_used": false,
-      "notes": ""
+      "level": 3,
+      "hp": { "current": 15, "max": 15 },
+      "ac": 15,
+      "spell_slots": { "1st": 4, "2nd": 2 },
+      "sculpt_spells": true
     },
     "thessaly": {
       "full_name": "Thessaly Ironveil",
       "race": "Mountain Dwarf",
       "class": "Rogue (Thief)",
-      "level": 1,
-      "hp": { "current": 9, "max": 9 },
-      "conditions": [],
-      "inventory": ["Rapier", "Fine clothes", "Signet ring", "Thieves' tools", "25 gp"],
-      "spell_slots": null,
-      "notes": ""
+      "level": 3,
+      "hp": { "current": 24, "max": 24 },
+      "ac": 14,
+      "sneak_attack": "2d6"
     },
     "orindel": {
       "full_name": "Orindel Ashwick",
       "race": "Wood Elf",
       "class": "Cleric (Life Domain)",
-      "level": 1,
-      "hp": { "current": 9, "max": 9 },
-      "conditions": [],
-      "inventory": ["Mace", "Scale mail", "Holy symbol", "Crowbar", "Dark clothes", "15 gp"],
-      "spell_slots": { "1st": 2 },
-      "channel_divinity": 1,
-      "notes": ""
+      "level": 3,
+      "hp": { "current": 23, "max": 23 },
+      "ac": 18,
+      "spell_slots": { "1st": 4, "2nd": 2 },
+      "channel_divinity": 1
     },
     "pip": {
       "full_name": "Pip Tanglethorn",
       "race": "Lightfoot Halfling",
       "class": "Wizard (Evocation)",
-      "level": 1,
-      "hp": { "current": 6, "max": 6 },
-      "conditions": [],
-      "inventory": ["Spellbook", "Dagger", "Common clothes", "15 gp"],
-      "spell_slots": { "1st": 2 },
-      "arcane_recovery_used": false,
-      "notes": "Owes debt to Crimson Ledger guild (unknown to him: Mira is paying it)"
-    },
-    "zaryth": {
-      "full_name": "Zaryth Vel'quinar",
-      "race": "Drow (Dark Elf)",
-      "class": "Paladin",
-      "level": 1,
-      "hp": { "current": 12, "max": 12 },
-      "conditions": [],
-      "inventory": ["Battered longsword", "Scratched plate armor", "Ruined signet ring", "10 gp"],
-      "spell_slots": { "1st": 2 },
-      "lay_on_hands": 5,
-      "player": "YOU",
-      "notes": "Exiled knight. Sworn to protect village that sheltered him. Keeps ruined signet ring of former order."
+      "level": 3,
+      "hp": { "current": 14, "max": 14 },
+      "ac": 14,
+      "spell_slots": { "1st": 4, "2nd": 2 },
+      "sculpt_spells": true
     }
   }
 }
