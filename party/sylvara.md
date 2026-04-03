@@ -51,6 +51,10 @@ In Session 4, Sylvara was the party's detection and authentication specialist. A
 
 In Greymoor, Sylvara was the campaign's strategic intelligence lead. On the barge, she identified the sealed chamber system as the Crucible — an Archive containment facility — and the Binding Shard as a Sundering-era continental ward keystone (History 18, 21). She framed the entire conspiracy's architecture: "Duskport was a legal barrier. Aelindra was the knowledge. Greymoor is the physical infrastructure." During Operation Crucible, she led the courthouse filing (Persuasion 22) — presenting combined evidence from three cities before Judge Kess arrived, filing under ecclesiastical authority via Sister Maren, and freeing two prisoners. Overnight, she studied Blackveil's operational ledger (Investigation 20) and traced the east road wagon to Wren Ashdale in Fenhollow — identifying the Crucible calibration fragment as the next threat.
 
+In Salthollow, Sylvara discovered the Athenaeum — a sealed pre-Sundering vault beneath the university archive containing original civic charters for every town in the river basin (History 20, Arcana 17). These charters predate Aelindra and invalidate all property seizures across the entire Unchained Compact network. She also fully analyzed the archive's ward glyph (Arcana 19) — same family as Harrowgate, confirming Mira's amulet would bypass it. During Operation Athenaeum, she entered the vault with Aldric and Councilwoman Ashworth, authenticated the charters, and extracted three plus the master index.
+
+In Fenhollow, Sylvara descended into the wardhouse and confirmed the Ward Nexus — a pre-Sundering control interface for the regional ward network — was intact and fully functional (Arcana 20). She also identified the calibration fragment as an emergency bypass key that required an archivist to operate. Five sealed sites, five different ward families, one conspiracy — and Sylvara was the only person alive who had seen all five from the inside.
+
 ## Equipment (Current — S4 Turn 34, Veldmere)
 - Spellbook (in travel case, dried+sealed against marsh air)
 - Arcane focus

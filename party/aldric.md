@@ -46,6 +46,10 @@ In Session 4, Aldric served as Zaryth's right hand across every operation. In Du
 
 In Greymoor, Aldric recruited Donal Crewe on the barge by tending his broken wrist (Medicine 17) and earning his trust over an afternoon. During Operation Crucible, he talked Guard 2 into surrendering mid-bite on an apple (Persuasion 16). He also recruited Brother Ollen at the Chapel of the Balanced Stone and uncovered the two falsely imprisoned civilians (Fen Druval and Kara Stenn). At the Broken Drum celebration, he lit candles at the Chapel for everyone the Unchained Compact touched. Hilde knitted him a scarf. It's too small. He wears it anyway.
 
+In Salthollow, Aldric worked the temple circuit (consulting, 4gp) and recruited Professor Elara Dunwick — 40 years of faculty service, 2 years of documentation, purged by Vane. He also helped Orindel identify Brother Ollen's counterpart in the Salthollow temple network. During Operation Athenaeum, he stood with Zaryth and Orindel on the archive third floor while Mira cracked the strongbox.
+
+In Fenhollow, Aldric descended into the wardhouse with Zaryth, Sylvara, Orindel, Harren Fenn, and Captain Brenn via the marsh path. He stood beside Brenn when the civic seal opened and the Ward Nexus was revealed intact. At dawn, when the chapel bell rang and the marsh folk assembled, Aldric presented the civic charters alongside Sister Venn. He gave Orindel's Marsh Light icon a long look and said nothing. He didn't need to.
+
 ## Equipment (Current — S4 Turn 34, Veldmere)
 - Warhammer (equipped, oiled nightly)
 - Chain mail (equipped, re-linked+restored at Thornfield)

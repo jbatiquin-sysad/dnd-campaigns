@@ -61,6 +61,10 @@ In Session 4, Zaryth returned to Duskport to find Calder Aldenmere had launched 
 
 In Greymoor, Zaryth led Operation Crucible — four simultaneous phases at dawn that secured Shaft 9, captured handler Dorn Blackveil, seized the Unchained Compact's resonance key, freed two falsely imprisoned civilians, flipped the coerced Judge Kess, and protected the Binding Shard (a Sundering-era continental ward keystone) beneath the mountain. Zero combat. Zero casualties. Zero resources expended. He intimidated a Vel Noctis guard into yielding with a single word: "Yield." Three cities now stand behind the party — Duskport, Harrowgate, Greymoor — connected by an inter-city inquiry network.
 
+In Salthollow, Zaryth led Operation Athenaeum — opening a pre-Sundering vault containing original civic charters for every town in the river basin. He entered the archive third floor with Mira and Orindel, securing the strongbox and three guards while Sylvara and Ashworth opened the Athenaeum below. Four cities now connected. He watched Senna Vael cry after being granted immunity and said nothing. Some things don't need words.
+
+In Fenhollow, Zaryth led the wardhouse approach through the marsh with Aldric, Sylvara, Orindel, Harren Fenn, and Captain Brenn. He stood in the Ward Nexus chamber — the fifth sealed site the party had entered — and watched Harren find his grandfather's name carved into the wall. At dawn, five cities stood behind the party. Ashdale's contact list revealed the name above all the handlers: Overseer Callista Venn, based in Veldmere. The road turned south.
+
 ## Equipment (Current — S4 Turn 34, Veldmere)
 - Well-made longsword (equipped, oiled+sharpened) — purchased in Duskport, 15gp
 - Chain mail + steel shield (equipped, AC 19 — base 16 + shield +2 + Defense +1, chain mail re-linked+restored at Thornfield)

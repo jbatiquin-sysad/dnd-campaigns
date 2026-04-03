@@ -49,7 +49,11 @@ In Session 4, Orindel was the party's solo rescue specialist. At the Temple of t
 
 In Greymoor, Orindel performed the Warding Prayer before Operation Crucible (force resistance on Zaryth, Mira, Aldric, Pip). He recruited Sister Maren on the barge — same order as Vael Orun — and Dalla Vask through his street clinic in the miners' quarter (Medicine 18, Insight 19). Dalla told him: "There are forty families on this ridge who want their mountain back." During the shaft strike, he secured six hired workers peacefully. He named the pigeon Tomas — after a boy he lost. Nobody questioned it.
 
-On the voyage home, he shared his dream: finding homes for every name on his list, and getting a dog. His aspiration: to make people feel safe by who he is, not his magic. His darkest hour: a boy named Tomas, age nine, third name on the list. Found him too late. Fever. The clinic was closed — holy day. One spell slot wasn't enough. "The light isn't a place you return to. It's a direction you choose. Every morning."
+In Salthollow, Orindel recruited Dak — the archive porter who saw civic records being loaded into crates at night (Insight 20). Dak was scared of the third-floor staff ("talk like soldiers") but stood up anyway. Orindel also ran a street clinic and identified that the night crews carried weapons and arrived by covered wagon from the east (Medicine 18, Insight 19). During Operation Athenaeum, he stood with Zaryth and Aldric on the archive third floor. Dak gave him a bottle of whiskey afterward. He kept it.
+
+In Fenhollow, Orindel recruited Elda Fenn through his clinic — she connected the party to Old Harren Fenn, who knew the marsh path to the wardhouse (Medicine 19, Insight 21). He also identified that Corporal Denn and the local militia would stand down if Captain Brenn gave the order. At dawn, when the chapel bell rang, Orindel stood beside Sister Venn. She gave him a carved wooden Marsh Light icon. He carries it next to his holy symbol.
+
+On the voyage home from Aelindra, he shared his dream: finding homes for every name on his list, and getting a dog. His aspiration: to make people feel safe by who he is, not his magic. His darkest hour: a boy named Tomas, age nine, third name on the list. Found him too late. Fever. The clinic was closed — holy day. One spell slot wasn't enough. "The light isn't a place you return to. It's a direction you choose. Every morning."
 
 ## Equipment (Current — S4 Turn 34, Veldmere)
 - Mace (equipped, oiled)

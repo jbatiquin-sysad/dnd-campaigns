@@ -49,6 +49,10 @@ In Session 4, Bram coordinated the harbor interdiction in Duskport — working w
 
 In Greymoor, Bram secured Shaft 9's main gate alongside Thessaly and six volunteer miners (Intimidation 19). He also recruited Torben Vask — the former Shaft 9 crew chief — through dock labor cover, earning the man's trust over arm-wrestling matches he kept losing. Bram coordinated the gate team's timing with the underground strike, ensuring no reinforcements entered and no one escaped.
 
+In Salthollow, Bram confirmed wagon tracks on the east road — a two-stage relay at a half-mile turnout (Perception 16). During Operation Athenaeum, he led the wagon interception at the staging turnout alongside Thessaly and Pip (Intimidation 20). Seven crates seized, two drivers secured, zero combat.
+
+In Fenhollow, Bram mapped the militia stockade's patrol patterns and identified the 12 imported soldiers drilling Thornwatch formations (Perception 20). He confirmed Ashdale was frustrated — the wardhouse door wouldn't open without the fragment. At dawn, Bram stood at the stockade gate with Thessaly and Captain Brenn. When Brenn walked through in his old tabard, every local militiaman stood down. The 12 imports surrendered when they saw the full party converging from three directions.
+
 ## Equipment (Current — S4 Turn 34, Veldmere)
 - Spellbook (inspected)
 - Quarterstaff (equipped, oiled)

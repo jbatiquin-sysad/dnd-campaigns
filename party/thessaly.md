@@ -48,6 +48,10 @@ Vael Orun revealed Thessaly was the fifth Vel Noctis account — a 300gp gamblin
 
 In Greymoor, Thessaly secured Shaft 9's main gate (Deception 24) alongside Bram and six volunteer miners. She also recruited Sable Wick–style assets: on the barge, her Insight (20) cracked Vella Drace's cover and opened the door to recruitment. She identified Judge Kess's surveillance network and read the hawk woman's fear correctly. Three names now crossed off her list. Four remain.
 
+In Salthollow, Thessaly identified the 11 properties acquired through solicitor Harlen Cobb (Deception 20) and confirmed Senna Vael had entered the archive at 6th bell. She recruited Sable Wick's Salthollow equivalent — Councilwoman Brynn Ashworth, who had 2 years of stipend documentation proving three council members were bought for 30gp each. During Operation Athenaeum, Thessaly presented the combined evidence at the emergency session (Persuasion 23) — three bought council members recused, Vane suspended, Senn arrested. Four names crossed off.
+
+In Fenhollow, Thessaly recruited Captain Jorik Brenn — the legitimate militia captain displaced by Ashford (Persuasion 19). At dawn, she stood at the stockade gate with Bram and Brenn. Her Deception (24) and credentials from five cities convinced the gate guards to stand down. When Brenn walked through in his captain's tabard, every local militiaman saluted. Five names crossed off. Two remain.
+
 **Thessaly's List (Current):**
 1. Marchion Drael Sulwick — Port Veldmere
 2. ~~The Pallid Court — Greymoor~~ ✅
