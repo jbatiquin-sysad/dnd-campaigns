@@ -2887,3 +2887,166 @@ Veyra and Thessara both approved the approach. Messenger birds purchased (4 pair
 **The Root:** Awake. Covenant renewed.
 **Home:** Operational. Caretaker: Tessa Marsh.
 **Remaining:** Archivist Seren Voss (missing, defanged). Personal quests.
+
+---
+
+# SESSION 5 — The Chronicler
+
+## S5 Days 46–48 — Homestead Operations / Aldric's Account
+
+**DM:** Aldric Voss, The Chronicler
+
+Dawnwatch established daily operations. Zaryth began alchemy training. All members assigned professions and side hustles. Birds dispatched to all 9 contacts re: necromantic activity. Sylvara wrote to Archive contact re: prominent necromancers and Order of the Ashen Veil.
+
+**Aldric's full account:** Order of the Ashen Veil — healers. Temple of Quiet Passage, Ashenmere Valley, 3 days east of Greymoor. A visitor accessed crypts 10 days before the attack (Brother Velan signed them in). 17 dead. Figure on the ridge — robed, staff or rod. Visitor's ledger destroyed. Greymoor magistrate has a sealed file.
+
+**State Changes:** Training clocks started (all 8 members). Birds in flight.
+
+---
+
+## S5 Days 49–50 — Barrowfen / Veradis Kael Captured
+
+Expedition: Zaryth, Mira, Sylvara, Orindel → Barrowfen. 5 graves disturbed. Hooded woman with dark staff passed through 12 days prior.
+
+**Sylvara analyzed catalyst residue (Arcana 23):** Arcane necromancy. Delayed-activation. Bone ash + grave salts + rendered fat. Formal training required.
+
+**3 zombies destroyed** in birch hollow. Surprise round. Radiant finishers. Zero party damage.
+
+**Necromancer's campsite found.** Evidence: moth-crescent vials, journal page referencing Ashenmere and Keth-Varos, charcoal map to barrow.
+
+**Overnight ambush.** Necromancer returned pre-dawn. Surprise round — 49 damage. Subdued non-lethally.
+
+**Interrogation — Veradis Kael:** Former scholar-initiate, Order of the Ashen Veil. Expelled for researching necrotic boundary mechanics. Solely responsible for Ashenmere. Catalyst designed for solo remote operation. Keth-Varos was proof-of-concept for anonymous buyer ("Thornfield commission"). Dead drop on Thornfield Road. Payment via Veldmere exchange, name "Maren Holt."
+
+**State Changes:** Veradis captured. Staff of the Moth, journal, catalyst vials, all evidence secured.
+
+---
+
+## S5 Day 51 — Aldric Confronts Veradis / Deliberation
+
+Aldric visited Veradis in root cellar. Named the dead. "You didn't prove a principle. You murdered seventeen healers." Did not kill her.
+
+Dawnwatch deliberated. Decision: transfer to Greymoor magistrate with warded manacles (Sylvara Arcane Lock + Orindel divine seal). Fenhollow militia escort arranged.
+
+**State Changes:** Prisoner transfer planned. Warded manacles prepared.
+
+---
+
+## S5 Days 52–59 — Bird Responses / Thessaly's Veldmere Mission
+
+**All 9 bird responses received:**
+- Duskport: "Maren Holt" received 6 crates "anatomical specimens"
+- Harrowgate: Ashwick village, 8 years ago — disturbed graves
+- Greymoor: Ashenmere file available. Holding confirmed.
+- Salthollow: Scorched earth on Thornfield Road, 2 months ago
+- Veldmere: "Maren Holt" account opened by Thornfield Dispatch
+- Aelindra (Veyra): Veradis expulsion confirmed
+- Aelindra (Thessara): Veradis is likely "The Pale Quill." Papers copied before suppression — 2+ copies in unknown hands.
+- Maritime: Hooded passenger with sealed crates, Veldmere–Duskport
+- Fenhollow: Handled in person
+
+**Prisoner escort departed Day 54** (Orindel, Bram, 4 militia). Transfer successful.
+
+**Thessaly's Veldmere mission (Day 55–59):** Collected 150 gp as "Maren Holt" (Deception 25). Traced money to **Thornfield Dispatch** — courier Harlen Grubb. Standing contract with unknown client.
+
+**Sylvara completed Veradis journal analysis (Day 56):** Full catalyst formula. Ashwick was early prototype (8 years ago). Keth-Varos catalyst NOT applied — barrow inert. Buyer referred to as "the commission." Sealed vault in Ashenmere catacombs — unknown to Veradis.
+
+**State Changes:** Veradis transferred to Greymoor. 150 gp collected. Thornfield Dispatch identified. party_gold → ~4,069.
+
+---
+
+## S5 Days 60–61 — Keth-Varos Sealed / Thornfield Dispatch
+
+**Barrow of Keth-Varos:** Full party operation. Barrow confirmed inert. Three chambers swept. North chamber: sealed stone door with faint abjuration ward — NOT opened, marked for future. Entrance collapsed (Aldric masonry + Bram leverage). Sylvara Arcane Lock. **KETH-VAROS SEALED (1/7).**
+
+**Thornfield Dispatch:** Zaryth, Thessaly, Sylvara visited coaching inn. Thessaly worked Grubb (Persuasion nat 20 = 26). Logbook surrendered. Key finding: parcel delivered to **Reading Room 7, Aelindra Archive** 5 months ago.
+
+**State Changes:** Keth-Varos sealed. Grubb cooperating. Logbook secured.
+
+---
+
+## S5 Days 63–71 — Operation Living-Dead (Aelindra)
+
+Party traveled to Aelindra (charter carriage, 3.5 days).
+
+**Intel chain:** Veyra identified **Edra Voss** in Reading Room 7 (visiting scholar, 8 months). Cole confirmed: University of Greymoor credentials forged. Edric confirmed: Seren Voss had a sister — academic, Greymoor. Dalla located bolt-hole (Saltmere, "Lenna Marsh") + ship berth on *Greyhaven*. Serevane: Edra is a broker, not the endpoint — a "Patron" exists above her.
+
+**Operation executed Day 71:**
+- Exits covered (Mira, Thessaly, Bram, Pip)
+- Room 7 sealed and inspected: research notes (7 barrow sites), Pale Quill papers (2 copies), correspondence to "the Watcher," **Sending Stone** (paired), catalyst vial, map marking Vel Tharis "NEXT"
+- Bolt-hole secured: 85 gp, 3 forged identity kits, organizational chart with **closed eye** symbol, sealed letter
+- Edra detained at Archive entrance. Zero combat.
+
+**Interrogation:** Edra is Seren Voss's sister. Seren killed in Duskport harbor (ligature marks). Edra hired by the Watcher 6 months ago. Watcher communicates via Sending Stone. Old, uses archaisms, knows Archive intimately. Believes outer wards are failing.
+
+**Sealed letter (opened):** Second operative dispatched to Vel Tharis. "Sethrak's Threshold failed. The cascade has begun."
+
+**Vigil of the Closed Eye:** Pre-Sundering ward-keeper order. Maintained outer ward network. Believed destroyed. Closed eye symbol matches.
+
+**Sending Stone — first contact:** Zaryth sent directly. Watcher responded: *"Prove me wrong. Vel Tharis. Go see."*
+
+**State Changes:** Edra captured. Sending Stone acquired. 7 barrow sites identified. Reward: 300 gp + permanent Archive Level 3 access for Sylvara. party_gold → ~4,206.
+
+---
+
+## S5 Days 73–76 — Vel Tharis Sealed / Ward Cascade Confirmed
+
+**Vel Tharis:** Coastal cliffs north of Aelindra. Sea cave entrance (low tide, 6-hour window). Sylvara measured **Node 9: 40% capacity, degrading.** Standing stone with closed eye on cliff top.
+
+**Day 75 — Intercept:** Mercenary operative arrived with pre-made catalyst kit. Zaryth called surrender. Operative attacked. Combat: 2 rounds, 11 damage to Zaryth only. Operative subdued. Key finding: catalyst method reduced to mass-producible kits.
+
+Sea cave collapsed and sealed. **VEL THARIS SEALED (2/7).** Operative turned over. Reward: 100 gp.
+
+**Sending Stone exchange:** Zaryth proposed ward repair. Watcher responded with node statuses: **Node 10 at 31%. Node 12 at 28%.** Watcher's condition: face-to-face meeting at Greyveil Pass, Node 12.
+
+**Sylvara's research confirmed:** 14 outer ward nodes. Cascade real. Node 12 fails in ~2 months. Repair ritual 90% reconstructed — missing activation sequence. Vigil caches documented near Nodes 9, 12, 14.
+
+**State Changes:** Vel Tharis sealed. Ward cascade confirmed. Watcher meeting set. party_gold → ~4,746.
+
+---
+
+## S5 Days 81–97 — Homestead Optimization / Greyveil Prep
+
+**Infrastructure:** Forge built. Chickens acquired. Fertilizer applied. Tin deposit found (bronze capability). Slate outcrop found. Wynn Dodd cart service. Apothecary contract (15 gp/week). Game meat sales (3 gp/week). Net passive income: 16–22 gp/week.
+
+**All 8 professions completed.** Pip's armor upgraded (AC 14→15). 8 travel cloaks crafted. Alchemy stockpile built. 24 days smoked rations prepared.
+
+**Calendar system established:** AS/BS era. 12 months (Frostmere–Deepfrost). 7-day week (Forgeday–Lightday). Campaign Day 1 = 1st Greenthaw 1247 AS.
+
+**Tidemeet beach day (2nd Brightmere, Lightday):** Full household — 8 party + Tessa, Ren, Lila. Fishing, swimming, picnic. Mira: "This is what we're protecting."
+
+**State Changes:** Homestead self-sustaining. All training complete. Greyveil expedition prepared. party_gold → ~4,599.
+
+---
+
+## S5 Days 98–108 — The Road to Greyveil
+
+**Phase 1 (Days 98–102):** Fenhollow → Greymoor. Charter carriage. Uneventful. Sylvara rendezvoused at Greymoor. Intel gathered: Reavers scattered, night movement beyond the pass, old Vigil stone road exists.
+
+**Phase 2 (Days 104–106):** Greymoor → Greypeak Pass. Reavers spotted, avoided party. Cold, exposed.
+
+**Phase 3 (Days 107–108):** Vigil stone road north. Encountered 3 standing Vigil wardens — undead sentinels, responded to Ward Compass, let party pass. 1 collapsed warden — recovered medallion. Shapes on eastern ridgeline at night (entities beyond thinning ward). Orindel heard ward "singing" through the stone — strained, wavering. Compass readings dropping: 35% → 33% → 30%.
+
+**Day 108 — Greyveil Pass:** Met **Vaelith, Last Warden of the Vigil of the Closed Eye.** Over 1,000 years old. 114 years at Greyveil alone. Activated the necromantic contingency because it was in the protocols and no one was left to say otherwise.
+
+Zaryth introduced the party. Spoke of their principles: every crisis has a solution that doesn't sacrifice the innocent. Offered to share the burden.
+
+Vaelith handed over the **activation sequence** — the missing piece of the ward repair ritual. Confirmed the Vigil cache (Warden's Vault) is through the pass: resonance crystal, ritual components, field manual.
+
+**State Changes:** Ward repair ritual COMPLETE (Sylvara's reconstruction + Vaelith's activation sequence). Vaelith allied.
+
+---
+
+## CAMPAIGN STATUS — Session 5 Paused (Day 108)
+
+**Party:** The Dawnwatch, Level 3, 8 members
+**Location:** Greyveil Pass entrance, Node 12
+**Funds:** ~4,599 gp (500 travel fund carried)
+**Barrows Sealed:** 2/7 (Keth-Varos, Vel Tharis)
+**Ward Status:** Node 9 (40%), Node 10 (31%), Node 12 (28%). Cascade active.
+**Prisoners:** Veradis Kael (Greymoor), Edra Voss (Aelindra)
+**The Watcher:** Vaelith — met in person. Allied. Activation sequence handed over.
+**Ward Repair Ritual:** Complete. Cache through the pass.
+**Homestead:** Operational, self-sustaining, passive income 16–22 gp/week. Tessa managing.
+**Calendar:** 18th Highsun, 1247 AS — Windday
+**Next:** Enter Greyveil Pass. Retrieve Vigil cache. Repair Node 12.
