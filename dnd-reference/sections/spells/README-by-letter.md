@@ -1,0 +1,26 @@
+# Spells by Letter
+
+Total detected spells: 317
+
+- [A](by-letter/spells-A.md) (19 spells)
+- [B](by-letter/spells-B.md) (13 spells)
+- [C](by-letter/spells-C.md) (35 spells)
+- [D](by-letter/spells-D.md) (26 spells)
+- [E](by-letter/spells-E.md) (9 spells)
+- [F](by-letter/spells-F.md) (25 spells)
+- [G](by-letter/spells-G.md) (17 spells)
+- [H](by-letter/spells-H.md) (15 spells)
+- [I](by-letter/spells-I.md) (10 spells)
+- [J](by-letter/spells-J.md) (1 spells)
+- [K](by-letter/spells-K.md) (1 spells)
+- [L](by-letter/spells-L.md) (9 spells)
+- [M](by-letter/spells-M.md) (27 spells)
+- [N](by-letter/spells-N.md) (1 spells)
+- [P](by-letter/spells-P.md) (24 spells)
+- [R](by-letter/spells-R.md) (11 spells)
+- [S](by-letter/spells-S.md) (40 spells)
+- [T](by-letter/spells-T.md) (16 spells)
+- [U](by-letter/spells-U.md) (1 spells)
+- [V](by-letter/spells-V.md) (3 spells)
+- [W](by-letter/spells-W.md) (13 spells)
+- [Z](by-letter/spells-Z.md) (1 spells)
