@@ -136,16 +136,53 @@
 
 | NPC | Race/Age | Role | Status | Quick Description |
 |-----|----------|------|--------|-------------------|
-| **Tessa Marsh** | Human, 40s | Homestead caretaker | Active — manages farm | Corwin Marsh's sister. Widowed. Knows bees, gardens, orchards. 4gp/month + loft room. |
-| **Ren** | Human, 12 | Tessa's son (formerly Greymoor contact) | At homestead | The boy who spotted the canvas-wrapped extraction. Wants to learn magic from Pip. |
-| **Lila** | Human, 9 | Tessa's daughter | At homestead | Shy, good with animals. Adopted Mira's herb garden on day one. |
+| **Tessa Marsh** | Human, 40s | Homestead caretaker | Active — manages farm, garden, animals | Corwin Marsh's sister. Widowed. Knows bees, gardens, orchards. Cook mentor to Pip. 4gp/month + loft room. |
+| **Ren** | Human, 12 | Tessa's son | At homestead | Tends goats and chickens. Wants to learn magic from Pip. Salutes when the party leaves. |
+| **Lila** | Human, 9 | Tessa's daughter | At homestead | Adopted Mira's herb garden. Draws pictures for Zaryth (goats, mountains, stick-figure parties). Morale officer. |
+| **Wynn Dodd** | Human, 40s | Carter, weekly delivery circuit | Active — Fenhollow route | Runs weekly pickup/delivery between homestead and Fenhollow market. 2gp/week. Sourced the chickens. |
+| **Master Haldren** | — | Apothecary, Fenhollow | Active — supply contract | Buys 10 herb bundles/week from Mira at 1.5gp each. Wants a long-term supply relationship. |
+
+## Session 5 NPCs — Necromancer Arc & Ward Cascade
+
+### Barrowfen & Fenhollow Region
+
+| NPC | Race/Age | Role | Status | Quick Description |
+|-----|----------|------|--------|-------------------|
+| **Edrin Marsh** | Human, 50s | Village head, Barrowfen | Ally — grateful | Weathered farmer. Reported the restless graves. No relation to Tessa Marsh (common surname). |
+| **Torben** | Human, 30s | Farmer, Barrowfen | Witness | Saw the walking dead — recognized old Halda Brenn among them. Carried an axe. Didn't engage. Smart. |
+| **Senna** | Human, 20s | Villager, Barrowfen | Witness | Mother buried in the cemetery (untouched). Described the chemical smell on bad nights. |
+| **Harlen Grubb** | Human, 50s | Courier, Thornfield Dispatch | Cooperating — surrendered logbook | Grey beard, heavy build, green coat with silver clasp. Ran the Watcher's logistics channel. Relieved to be done. |
+
+### Prisoners
+
+| NPC | Race/Age | Role | Status | Quick Description |
+|-----|----------|------|--------|-------------------|
+| **Veradis Kael** | Human, 30s | Necromancer, "The Pale Quill" | Prisoner — Greymoor garrison | Former scholar-initiate, Order of the Ashen Veil. Destroyed the Temple of Quiet Passage (17 dead). Designed the delayed-activation catalyst. Captured by the Dawnwatch at Barrowfen. Confessed. Does not apologize. |
+| **Edra Voss** | Human, 30s | Broker, Watcher's operative | Prisoner — Aelindra city custody | Seren Voss's sister. Operated under 3 aliases (Edra Voss, Maren Holt, Lenna Marsh). Managed logistics for the necromantic operation from inside the Archive. Forged credentials. Cooperated fully during interrogation. |
+| **Unnamed Mercenary** | Human, late 30s | Hired operative, Vel Tharis | Prisoner — Aelindra city custody | Scar from temple to jaw. Carried a pre-made catalyst kit. Hired in Duskport. Didn't know what was in the vials. Sword-for-hire, not a necromancer. |
+
+### The Watcher / Vigil of the Closed Eye
+
+| NPC | Race/Age | Role | Status | Quick Description |
+|-----|----------|------|--------|-------------------|
+| **Vaelith** | Unknown, 1,000+ | Last Warden, Vigil of the Closed Eye | Allied — met at Greyveil Pass | Ancient. Face like weathered granite. Eyes that burn with ward-light. Staff carved with glowing ward symbols. 114 years alone at Greyveil Pass. Activated the necromantic contingency because it was in the protocols and no one was left to say otherwise. Handed over the ward repair ritual activation sequence. "You came." |
+
+### Aelindra (Session 5)
+
+| NPC | Race/Age | Role | Status | Quick Description |
+|-----|----------|------|--------|-------------------|
+| **Dalla** | — | Street contact, Aelindra | Active ally | Located Edra Voss's bolt-hole and escape route within 24 hours. Sharp, connected, reliable. |
+| **Serevane** | — | Information broker, Aelindra | Active ally | Identified Edra as a broker, not the endpoint. Flagged the "Patron" above her. "Take the room first." |
+| **Durnock** | Human, 60s | Retired miner, Greymoor | Intel source | Prospected north of Greypeak Pass 20 years ago. Described the Vigil stone road and "singing from the ground." Turned back on the third night. |
 
 ---
 
-*Last updated: Session 4, Turn 51 (Dawnwatch Homestead, Fenhollow)*
-*Campaign status: ALL TARGETS HANDLED — 7/7. Root awakened. Covenant renewed.*
+*Last updated: Session 5, Day 108 (Greyveil Pass, Node 12)*
+*Campaign status: Ward cascade active. 2/7 barrows sealed. Vaelith allied.*
 *Party name: The Dawnwatch*
 *Party level: 3*
-*Inter-city network: Voss–Kellan–Kess–Ashworth–Brenn–Fell (6 cities) + Serevane + Revka/Silver Chain + Veyra Solund*
-*Remaining thread: Archivist Seren Voss — missing, defanged*
-*Home: Dawnwatch Homestead, Fenhollow inland rise*
+*Party gold: ~4,599 gp*
+*Inter-city network: Voss–Kellan–Kess–Ashworth–Brenn–Fell (6 cities) + Serevane + Revka/Silver Chain + Veyra Solund + Dalla + Cole*
+*Homestead: Operational, self-sustaining, passive income 16–22 gp/week. Tessa managing.*
+*Remaining threads: Ward cascade (Nodes 10, 12 critical), 5 unsecured barrows, Archivist Seren Voss (missing)*
+*Current objective: Repair Node 12 at Greyveil Pass with Vaelith*
