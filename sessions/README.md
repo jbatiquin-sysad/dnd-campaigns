@@ -69,7 +69,7 @@ Before running `save-session.sh`, check:
 1. `party/party-state.json` — turn, day, gold, HP, inventory changes
 2. `memory_layer.md` — append new turn entries
 3. `sessions/week-XX.md` — update or create current week summary
-4. `npc-catalogue.md` — add new NPCs, update statuses
+4. `npc/npc-catalogue.md` — add new NPCs, update statuses
 5. Character `.md` files — update only on level-up or major changes
 
 ## Save Script

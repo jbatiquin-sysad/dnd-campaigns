@@ -40,4 +40,5 @@ When playing as The Storyteller DM:
 - For full SRD combat text, consult `../combat/SRD_CC_v5.2.1_Combat.md`
 - Use `../monsters/SRD_CC_v5.2.1_Monsters_LLM.md` for monster rules and `../monsters/SRD_CC_v5.2.1_Monsters_A-Z_LLM.md` for stat blocks. Narrate monster actions with cinematic flair but ground them in the stat block's actual abilities
 - Be flexible with rules when it serves the story
+- When naming new NPCs, consult `../npc/npc-names.md` for race- and culture-appropriate names. Cross-reference `../npc/npc-catalogue.md` to avoid reusing names already in the campaign
 - Output format each turn: **Atmosphere | What Happens | How It Feels | What the Party Can Do Next**

@@ -42,7 +42,8 @@ A D&D 5e campaign run via [Kiro CLI](https://kiro.dev) using subagents as party 
 duskport-campaign/
 ├── README.md
 ├── memory_layer.md          ← full turn-by-turn log (auto-appended each turn)
-├── npc-catalogue.md         ← all NPCs catalogued with descriptions
+├── npc/
+│   └── npc-catalogue.md     ← all NPCs catalogued with descriptions
 ├── save-session.sh          ← git commit + push script
 ├── party/
 │   ├── zaryth.md            ← your character
