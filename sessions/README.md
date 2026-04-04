@@ -58,6 +58,10 @@ Before running `save-session.sh`, check:
 | week-04 | 16–28 | 12 days | Calder → Harrowgate → Greymoor → Salthollow → Fenhollow → Veldmere |
 | week-05 | 28–32 | 5 days | Operation Veldmere + naming |
 | week-06 | 33–45 | 13 days | Aelindra return → Quorum → Root → Homestead |
+| week-07 | 46–59 | 14 days | Necromancer's Trail — Veradis captured, Barrowfen, Keth-Varos |
+| week-08 | 60–68 | 9 days | Operation Living-Dead — Edra Voss captured, Aelindra |
+| week-09 | 69–80 | 12 days | Ward Cascade confirmed — Vel Tharis sealed, Watcher contact |
+| week-10 | 81–108 | 28 days | Homestead optimization → Greyveil expedition → Met Vaelith |
 
 ### Notes
 - Week 01 is short (2 days) because it was the campaign's first night — one continuous arc
