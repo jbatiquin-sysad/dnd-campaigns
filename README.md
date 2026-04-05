@@ -18,6 +18,23 @@ A D&D 5e campaign run via [Kiro CLI](https://kiro.dev) using subagents as party 
 2. Say: *"Resume our DnD session — load memory_layer.md and party-state.json from duskport-campaign"*
 3. Pick a DM and go
 
+## Before Logging Off — Save Checklist
+
+The chat context is **in-memory only** and lost when you exit. Before ending a session, make sure these files are updated:
+
+| # | File | What to Update | Priority |
+|---|------|----------------|----------|
+| 1 | `party/party-state.json` | Day, location, gold, HP, spell slots, key items, campaign status | **Critical** — this is the primary resume file |
+| 2 | `memory_layer.md` | Append turn-by-turn entries for the session + campaign status footer | **Critical** — the full narrative record |
+| 3 | `sessions/week-XX.md` | Create/update current week summary | High |
+| 4 | `npc/npc-catalogue.md` | Add new NPCs, update statuses | High |
+| 5 | `party/*.md` | Update only on level-up, major equipment changes, or backstory events | Medium |
+| 6 | `maps/map-known-world.md` | Add new locations, update ward node statuses, distances | Medium |
+| 7 | `README.md` | Update "Current Status" section and timeline | Low |
+| 8 | `git commit + push` | Commit everything and push to remote | **Critical** |
+
+Quick version — ask: *"Save the session — update party-state.json, memory_layer.md, week file, NPC catalogue, then commit and push"*
+
 ## The Party — The Dawnwatch
 
 | Character | Race | Class | Level | AC | HP | Professions |

@@ -1,31 +1,108 @@
 {
-  "session": 4,
-  "turn": 51,
-  "active_dm": "dm-wildcard",
-  "in_game_day": 45,
-  "current_week_file": "week-06",
+  "session": 5,
+  "active_dm": "dm-chronicler",
+  "in_game_day": 108,
+  "calendar_date": "18th Highsun, 1247 AS",
+  "calendar_day_of_week": "Windday",
+  "current_week_file": "week-10",
   "week_boundaries": {
     "week-01": { "days": "1-2", "turns": "S1+S2" },
     "week-02": { "days": "2-9", "turns": "S3 T1-10" },
     "week-03": { "days": "10-16", "turns": "S3 T11-28" },
     "week-04": { "days": "16-28", "turns": "S4 T1-34" },
     "week-05": { "days": "28-32", "turns": "S4 T35-40" },
-    "week-06": { "days": "33-45", "turns": "S4 T41-51" }
+    "week-06": { "days": "33-45", "turns": "S4 T41-51" },
+    "week-07": { "days": "46-59", "turns": "S5" },
+    "week-08": { "days": "60-68", "turns": "S5" },
+    "week-09": { "days": "69-80", "turns": "S5" },
+    "week-10": { "days": "81-108", "turns": "S5" }
   },
   "party_name": "The Dawnwatch",
   "insignia": "Rising sun (8 rays), broken chain below horizon line, circular border",
-  "location": "Dawnwatch Homestead, Fenhollow inland rise",
-  "campaign_status": "ALL TARGETS HANDLED — 7/7. Root awakened. Covenant renewed.",
-  "party_gold": 3871.5,
-  "steel_ingots": 3,
+  "location": "Greyveil Pass, Node 12 — entrance to the pass with Vaelith",
+  "campaign_status": "ARC 1 COMPLETE (7/7 targets). ARC 2 IN PROGRESS — Ward cascade active. 2/7 barrows sealed. Vaelith allied. Repair ritual complete. Entering Greyveil Pass.",
+  "party_gold": {
+    "total": 4599,
+    "carried": 500,
+    "homestead_reserves": 4099
+  },
+  "materials": {
+    "steel_ingots": 4,
+    "iron_ore": "2 loads (unprocessed)",
+    "tin_ore": "1 load",
+    "copper_traces": "marked, unextracted",
+    "slate": "1 cartload",
+    "limestone": "~30 blocks",
+    "red_clay": "2 loads"
+  },
+  "alchemy_stores": {
+    "healing_poultice": 12,
+    "alertness_tincture": 6,
+    "stimulant_tonic": 2,
+    "basic_antitoxin": 3,
+    "alchemist_fire": 2,
+    "catalyst_compound_research": 8,
+    "holy_water": 6,
+    "oil_flasks": 12
+  },
   "property": {
     "name": "Dawnwatch Homestead",
     "location": "Fenhollow inland rise, 20 min from village",
     "size": "4 acres",
     "caretaker": "Tessa Marsh (+ Ren 12, Lila 9)",
-    "monthly_cost": 5
+    "monthly_cost": 5,
+    "structures": ["main house", "alchemy shed", "forge", "goat pen", "chicken coop", "school (foundation laid)"],
+    "passive_income_weekly": "16-22 gp",
+    "delivery_service": "Wynn Dodd (weekly cart, 2 gp/week)",
+    "apothecary_contract": "Master Haldren (15 gp/week, 10 herb bundles)"
   },
-  "inter_city_network": ["Voss (Duskport)", "Kellan (Harrowgate)", "Kess (Greymoor)", "Ashworth (Salthollow)", "Brenn (Fenhollow)", "Fell (Veldmere)", "Serevane (Aelindra)", "Revka/Silver Chain (maritime)", "Veyra Solund (Archivist-General)"],
+  "professions": {
+    "zaryth": "Alchemist",
+    "mira": "Herbalist",
+    "aldric": "Mason, Miner",
+    "sylvara": "Enchanter",
+    "bram": "Smith",
+    "thessaly": "Tailor",
+    "orindel": "Jeweler, Hunter",
+    "pip": "Inscriber, Cook"
+  },
+  "ward_status": {
+    "inner_ward_root": "Active, healthy (renewed by Dawnwatch)",
+    "node_9": "40% — degrading (Vel Tharis, measured by Sylvara)",
+    "node_10": "31% — degrading (NE coast, reported by Watcher)",
+    "node_11": "FAILED (Sethrak's Threshold, cascade origin)",
+    "node_12": "28% — critical (Greyveil Pass, current location)"
+  },
+  "barrows_sealed": ["Keth-Varos (1/7)", "Vel Tharis (2/7)"],
+  "barrows_unsecured": 5,
+  "key_items": {
+    "sending_stone": "Paired with Vaelith. Zaryth carries.",
+    "ward_compass": "Vigil instrument. Zaryth carries.",
+    "ward_repair_ritual": "Complete (Sylvara reconstruction + Vaelith activation sequence)",
+    "staff_of_moth": "Necromancy focus. Sylvara (research).",
+    "vigil_warden_medallion": "Iron, closed eye symbol. Found on collapsed warden.",
+    "pale_quill_papers": "1 copy retained (Sylvara, Archive vault)."
+  },
+  "prisoners": {
+    "veradis_kael": "Greymoor garrison (warded cell)",
+    "edra_voss": "Aelindra city custody",
+    "mercenary_operative": "Aelindra city custody"
+  },
+  "inter_city_network": [
+    "Voss (Duskport)",
+    "Kellan (Harrowgate)",
+    "Kess (Greymoor)",
+    "Cole (Greymoor garrison)",
+    "Ashworth (Salthollow)",
+    "Brenn (Fenhollow)",
+    "Fell (Veldmere)",
+    "Dray (Veldmere guild)",
+    "Serevane (Aelindra)",
+    "Dalla (Aelindra)",
+    "Veyra Solund (Archivist-General)",
+    "Revka/Silver Chain (maritime)",
+    "Sable (maritime)"
+  ],
   "party": {
     "zaryth": {
       "full_name": "Zaryth Vel'quinar",
@@ -103,7 +180,7 @@
       "class": "Wizard (Evocation)",
       "level": 3,
       "hp": { "current": 14, "max": 14 },
-      "ac": 14,
+      "ac": 15,
       "spell_slots": { "1st": 4, "2nd": 2 },
       "sculpt_spells": true
     }
