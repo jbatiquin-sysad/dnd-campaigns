@@ -236,7 +236,7 @@ Ancient pre-Sundering road running north from Greypeak Pass along the highland r
 ## LANDMARKS & NOTABLE LOCATIONS
 
 ### Dawnwatch Homestead (Fenhollow) ⌂
-Four-acre homestead at the edge of Fenhollow. Purchased by the Dawnwatch after dismantling the Unchained Compact. Includes main house, alchemy shed, forge, goat pen, chicken coop, herb garden, orchard, and north meadow (school foundation laid). Caretaker: Tessa Marsh, with Ren (12) and Lila (9). Passive income: 16–22 gp/week.
+Four-acre homestead at the edge of Fenhollow. Purchased by the Dawnwatch after dismantling the Unchained Compact. Includes main house, alchemy shed, forge, goat pen, chicken coop, beehives (3), herb garden, orchard, and north meadow (school foundation laid). Caretaker: Tessa Marsh, with Ren (12) and Lila (9). Passive income: 16–22 gp/week.
 
 ### Tidemeet ⚓
 River mouth where the Fenhollow river meets the Hearthcoast Sea. Sandy beach on the south bank, rocky tide pools on the north. Half-day walk south of Fenhollow (2 hours by cart). Coastal vessels dock here — sea route to Aelindra (3–4 days).

@@ -129,7 +129,7 @@
 | Size | 4 acres |
 | Caretaker | Tessa Marsh (+ Ren 12, Lila 9) |
 | Monthly cost | 5 gp |
-| Structures | Main house, alchemy shed, forge, goat pen, chicken coop, school (foundation laid) |
+| Structures | Main house, alchemy shed, forge, goat pen, chicken coop, beehives (3), school (foundation laid) |
 | Passive income | 16–22 gp/week |
 | Delivery | Wynn Dodd (weekly cart, 2 gp/week) |
 | Apothecary contract | Master Haldren (15 gp/week, 10 herb bundles) |

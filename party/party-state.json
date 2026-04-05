@@ -54,7 +54,7 @@
     "size": "4 acres",
     "caretaker": "Tessa Marsh (+ Ren 12, Lila 9)",
     "monthly_cost": 5,
-    "structures": ["main house", "alchemy shed", "forge", "goat pen", "chicken coop", "school (foundation laid)"],
+    "structures": ["main house", "alchemy shed", "forge", "goat pen", "chicken coop", "beehives (3)", "school (foundation laid)"],
     "passive_income_weekly": "16-22 gp",
     "delivery_service": "Wynn Dodd (weekly cart, 2 gp/week)",
     "apothecary_contract": "Master Haldren (15 gp/week, 10 herb bundles)"
