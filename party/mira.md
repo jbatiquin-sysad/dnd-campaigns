@@ -45,7 +45,9 @@ On the voyage to Aelindra, she told Zaryth about Sera — a woman from the fish 
 
 At the Dawnwatch Homestead, Mira planted the garden herself — 30 by 40 feet, south-facing, medicinal herbs along the wall, vegetables in the center, flowers along the borders. On Day 5, the first green shoots appeared. Lila (the caretaker's daughter, 9) sat beside her in the herb bed, watering seedlings with a cup. Something inside Mira that had been locked for a very long time opened quietly and stayed open.
 
-## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+During the node repair arc, Mira held perimeter at every site — crossbow up, eyes on the horizon, the last line of defense while the anchors channeled. At Sethrak's Threshold, she and Thessaly held the perimeter alone for 20 minutes against unknown threats. Bram carved her a wooden comb (halfling on a crescent moon) and left it on her pack without a word. She wore it in her hair the next morning. She began learning leatherworking from Gren Ashwick in Aelindra — "Rogue's hands. You'll learn quick." On the cliff at Cape Ashward, after the last node sang, she said: "We did it." Quietly. To no one. To everyone.
+
+## Equipment (Current — S5 Day 120, Cape Ashward)
 - Blade (equipped, sharpened)
 - Short sword (off-hand, sharpened)
 - Light crossbow (upgraded+restrung, equipped)
@@ -61,6 +63,9 @@ At the Dawnwatch Homestead, Mira planted the garden herself — 30 by 40 feet, s
 - Dawnwatch signet ring (M)
 - Kael's back-door map to the Root + escape letter (evidence)
 - Fitted dark travelling outfit
+- Leatherworking kit (awl, needles, waxed thread, edge beveler, cutting board)
+- Wooden comb (Bram-crafted, halfling on crescent moon)
+- Dawnwatch signet ring (M) — ENCHANTED: ward-network attuned, resonance pulse
 
 ## Roleplay Instructions
 Speak in a quick, street-smart voice. Always be scanning for angles and opportunities. Deflect serious moments with humor. Never admit you're scared — show it through action instead.

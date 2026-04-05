@@ -66,7 +66,9 @@ At the Root seal beneath the Archive, he placed his ring hand on the 12-foot sto
 
 He built the Dawnwatch Homestead in Fenhollow — thatched the roof himself. Mira planted the garden. Aldric built the hearth. The ruined signet ring stays in his pocket beside the Dawnwatch ring on his finger. The old and the new. The fallen and the rising.
 
-## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+In Session 5, Zaryth led the Dawnwatch north to repair the outer ward network — four nodes, from Greyveil Pass to Cape Ashward. At Node 12, he spoke to the entities on the ridgeline and they yielded. At Sethrak's Threshold, he walked alone toward 14 ward-wraiths and talked them into standing down — zero combat. He served as the Warden's Anchor during the Node 11 reconstruction, channeling the ward through conviction rather than magic (CHA checks: 22, 19, 16 — all passed). Vaelith named the Dawnwatch as wardens of the Vigil and began teaching Zaryth ward engineering — the first apprentice in over a thousand years. Zaryth crafted his first field tool (a copper resonance probe) and detected a node's outer radius by hand. Four nodes repaired. The outer ring holds. The cascade is over.
+
+## Equipment (Current — S5 Day 120, Cape Ashward)
 - Well-made longsword (equipped, oiled+sharpened)
 - Chain mail + steel shield (equipped, AC 19 — base 16 + shield +2 + Defense +1)
 - Dark tabard over chain mail

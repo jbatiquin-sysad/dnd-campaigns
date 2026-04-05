@@ -39,14 +39,14 @@ Quick version — ask: *"Save the session — update party-state.json, memory_la
 
 | Character | Race | Class | Level | AC | HP | Professions |
 |-----------|------|-------|-------|----|----|-------------|
-| **Zaryth Vel'quinar** | Drow | Paladin (Devotion) | 3 | 19 | 28 | Alchemist — *you* |
-| Mira Thistlewick | Lightfoot Halfling | Rogue (Thief) | 3 | 15 | 23 | Herbalist |
+| **Zaryth Vel'quinar** | Drow | Paladin (Devotion) | 3 | 19 | 28 | Alchemist, Tinkerer, Ward Engineer Apprentice — *you* |
+| Mira Thistlewick | Lightfoot Halfling | Rogue (Thief) | 3 | 15 | 23 | Herbalist, Leatherworker |
 | Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | 3 | 18 | 28 | Mason, Miner |
 | Sylvara Dawnwhisper | High Elf | Wizard (Evocation) | 3 | 15 | 14 | Enchanter |
-| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 3 | 15 | 15 | Smith |
+| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 3 | 15 | 15 | Smith, Woodcarver |
 | Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 3 | 14 | 24 | Tailor |
-| Orindel Ashwick | Wood Elf | Cleric (Life) | 3 | 18 | 23 | Jeweler, Hunter |
-| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 3 | 15 | 14 | Inscriber, Cook |
+| Orindel Ashwick | Wood Elf | Cleric (Life) | 3 | 18 | 23 | Jeweler, Hunter, Hymn Composer |
+| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 3 | 15 | 14 | Inscriber, Cook, Flutist |
 
 ## The DMs
 
@@ -76,7 +76,7 @@ duskport-campaign/
 │   └── dm-wildcard.md
 ├── sessions/
 │   ├── README.md                ← save convention
-│   ├── week-01.md through week-10.md
+│   ├── week-01.md through week-11.md
 ├── maps/
 │   └── map-known-world.md       ← world map, distances, ward nodes
 ├── combat/
@@ -105,6 +105,7 @@ duskport-campaign/
 | 8 | 60–68 | 30th Brightmere–8th Brightmere | Operation Living-Dead (Aelindra) | Chronicler |
 | 9 | 69–80 | 9th–20th Brightmere | The Ward Cascade | Chronicler |
 | 10 | 81–108 | 21st Brightmere–18th Highsun | Homestead & Road to Greyveil | Chronicler |
+| 11 | 108–120 | 18th–28th Highsun | The Four Nodes — Outer Ward Ring Complete | Storyteller |
 
 ## Campaign Arcs
 
@@ -124,9 +125,9 @@ Dismantled a seven-city conspiracy. All 7 targets handled. Zero combat casualtie
 
 Root awakened. Continental ward covenant renewed.
 
-### Arc 2: The Ward Cascade (Session 5) — IN PROGRESS
+### Arc 2: The Ward Cascade (Session 5) — OUTER RING COMPLETE
 
-The outer ward network (14 nodes, pre-Sundering) is failing. A cascade is in progress.
+The outer ward network's known nodes have been repaired. The cascade is ended.
 
 | Thread | Status |
 |--------|--------|
@@ -135,22 +136,30 @@ The outer ward network (14 nodes, pre-Sundering) is failing. A cascade is in pro
 | Barrow of Keth-Varos | 🔒 Sealed (1/7) |
 | Barrow of Vel Tharis | 🔒 Sealed (2/7) |
 | 5 remaining barrows | Unsecured — locations known |
-| Node 9 (Vel Tharis) | 40% — degrading |
-| Node 10 (NE coast) | 31% — degrading |
-| Node 11 (Sethrak's Threshold) | ✖ FAILED |
-| Node 12 (Greyveil Pass) | 28% — critical |
-| Vaelith (Last Warden) | Allied — met at Greyveil |
-| Ward repair ritual | Complete (Sylvara + Vaelith) |
-| Vigil cache (Greyveil) | Through the pass — not yet retrieved |
+| Node 9 (Vel Tharis) | ✔ **78% — REPAIRED** |
+| Node 10 (Cape Ashward) | ✔ **80% — REPAIRED** (highest reading) |
+| Node 11 (Sethrak's Threshold) | ✔ **75% — RECONSTRUCTED** (cascade origin sealed) |
+| Node 12 (Greyveil Pass) | ✔ **72% — REPAIRED** |
+| Nodes 1–8, 13–14 | Unknown — Field Manual has documentation |
+| Vaelith (Last Warden) | Travelling with party. Archive consulting offered. |
+| Ward repair ritual | Complete — used at all 4 nodes |
+| Vigil Field Manual | Acquired — complete documentation for all 14 nodes |
+| Dawnwatch Rings | 8x enchanted — ward-network attuned, resonance pulse |
+| Warden's Forge | Discovered — operational, 2.5 blocks raw resonance stone |
+| Ward-Light Hymn | Composed by Orindel — used as sympathetic resonance in all repairs |
 
-## Current Status — Session 5 PAUSED
+## Current Status — Session 5 (Storyteller)
 
-**Date:** 18th Highsun, 1247 AS (Day 108)
-**DM:** Aldric Voss, The Chronicler
-**Location:** Greyveil Pass, Node 12 — entrance to the pass with Vaelith
-**Party Level:** 3 | **Party Gold:** ~4,599 gp
+**Date:** 28th Highsun, 1247 AS (Day 120)
+**DM:** Mara Solenne, The Storyteller
+**Location:** Ashward's Landing, Cape Ashward — outer ward ring COMPLETE
+**Party Level:** 3 | **Party Gold:** ~4,644 gp
 **Homestead:** Operational, self-sustaining. Passive income 16–22 gp/week. Tessa managing.
 
-**Next:** Enter Greyveil Pass. Retrieve the Vigil cache. Repair Node 12.
+**Outer Ward Ring:** COMPLETE. 4/4 known nodes repaired. Cascade ended. Network stable.
+**Barrows:** 2/7 sealed. 5 remaining.
+**Vaelith:** Travelling with party. Teaching Zaryth ward engineering.
 
-**Inter-City Network:** Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Ashworth (Salthollow) — Brenn (Fenhollow) — Fell (Veldmere) — Serevane + Dalla (Aelindra) — Revka/Silver Chain (maritime) — Veyra Solund (Archivist-General) — Cole (Greymoor garrison)
+**Next:** Return to Aelindra or homestead. Seal remaining barrows. Survey unknown nodes (1–8, 13, 14). Live.
+
+**Inter-City Network:** Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Ashworth (Salthollow) — Brenn (Fenhollow) — Fell (Veldmere) — Serevane (Aelindra counter-intel) — Dalla (Aelindra) — Veyra Solund (Archivist-General) — Edric Aldenmere (Archive reform) — Revka/Silver Chain (maritime) — Cole (Greymoor garrison) — Corran Ashward (Cape Ashward) — Tessa Marsh (Homestead)

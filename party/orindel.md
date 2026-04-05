@@ -48,7 +48,9 @@ His darkest hour: a boy named Tomas, age nine, third name on his list. Found him
 
 At the Dawnwatch Homestead, Orindel established 3 beehives, planted the garden with Mira, and placed the carved Marsh Light icon from Sister Venn on the mantelpiece above Aldric's hearth. "For the house." Nobody objected. It looked right.
 
-## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+Composed the Ward-Light Hymn at Greyveil Pass — three verses and a chorus, inspired by the Node 12 repair and Vaelith's 114-year vigil. The hymn became integral to every subsequent repair, providing sympathetic resonance that stabilized the anchors and reduced feedback. Taught Pip to play the flute — "You don't force the sound out. You offer it." At Sethrak's Threshold, when his spell slots were spent and his anchor was failing, he sang the hymn to hold the channel — channeling the ward's frequency through music alone. It worked. It wasn't in the manual. Coached Pip through five-note scales, connected phrases, and the full melody. By Node 10, Pip played every note perfect. Orindel heard the ward singing through the stone road, harmonized with it by campfire, and tuned a resonance crystal by ear at the Warden's Forge. His voice isn't trained. It doesn't matter.
+
+## Equipment (Current — S5 Day 120, Cape Ashward)
 - Mace (equipped, oiled)
 - Scale mail + wooden shield (equipped, AC 18, rim repaired)
 - Holy symbol
@@ -61,7 +63,7 @@ At the Dawnwatch Homestead, Orindel established 3 beehives, planted the garden w
 - Bottle of whiskey (Dak gift, Salthollow)
 - Marsh honey jar (Wynn Galley gift, Fenhollow)
 - Carved wooden Marsh Light icon (Sister Venn gift — now on homestead mantelpiece)
-- Dawnwatch signet ring (O)
+- Dawnwatch signet ring (O) — ENCHANTED: ward-network attuned, resonance pulse
 
 ## Known Rituals
 - Warding Prayer: force resistance, up to 4 willing creatures, 1 hour duration, 10-minute uninterrupted prayer + holy symbol required

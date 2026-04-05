@@ -62,6 +62,7 @@ Before running `save-session.sh`, check:
 | week-08 | 60–68 | 9 days | Operation Living-Dead — Edra Voss captured, Aelindra |
 | week-09 | 69–80 | 12 days | Ward Cascade confirmed — Vel Tharis sealed, Watcher contact |
 | week-10 | 81–108 | 28 days | Homestead optimization → Greyveil expedition → Met Vaelith |
+| week-11 | 108–120 | 12 days | The Four Nodes — Node 12, 11, 9, 10 repaired. Outer ward ring COMPLETE. |
 
 ### Notes
 - Week 01 is short (2 days) because it was the campaign's first night — one continuous arc

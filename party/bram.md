@@ -47,7 +47,9 @@ Smelted seized enemy weapons into steel ingots. Commissioned the 8 Dawnwatch sig
 
 At the Dawnwatch Homestead, Bram took charge of construction — stripped the rotted roof, shaped beams, built the table for ten. Planning Phase 2: the school. Shares a room with Thessaly. They don't discuss it. It just happened.
 
-## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+During the node repair arc, Bram served as east/northeast anchor in every repair. Never failed a single CON save across all four nodes — the only anchor with a perfect record. Carved a driftwood flute for Pip (pale wood, 6-hole, halfling-sized) and a wooden comb for Mira (halfling on a crescent moon, left on her pack without a word). Worked the Warden's Forge to enchant all 8 Dawnwatch rings — heating each to resonance temperature with a smith's precision. Began learning woodcarving from Old Seff in Aelindra. His drone hum became part of the Ward-Light Hymn's foundation. At Node 10, when asked if they'd actually done it, he looked at his ring and nodded once. Bram.
+
+## Equipment (Current — S5 Day 120, Cape Ashward)
 - Spellbook
 - Quarterstaff (equipped, oiled)
 - Hand axe (sharpened)
@@ -58,7 +60,8 @@ At the Dawnwatch Homestead, Bram took charge of construction — stripped the ro
 - Military-cut travelling coat
 - Boots (resoled)
 - 3 steel ingots
-- Dawnwatch signet ring (B)
+- Woodcarving kit (gouges, chisels, drawknife, sharpening stone)
+- Dawnwatch signet ring (B) — ENCHANTED: ward-network attuned, resonance pulse
 
 ## Roleplay Instructions
 Speak in clipped, military cadence. Issue tactical assessments constantly. Get flustered when magic doesn't behave like a weapon should. Secretly proud of every spell that works — never admits it out loud.

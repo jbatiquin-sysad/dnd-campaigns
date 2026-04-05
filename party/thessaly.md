@@ -54,7 +54,9 @@ She drew the seventh line at the Inkwell, over Dalla's wine, with eight rings on
 
 At the Dawnwatch Homestead, she pruned the orchard with Sylvara and handles the budget. Shares a room with Bram. Planning the school together — he teaches resilience, she teaches contracts. "Ask me again after Aelindra," she'd said on the ship. He asked. She said yes.
 
-## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+Held perimeter with Mira at every node repair — two rogues, two crossbows, twenty minutes at Sethrak's Threshold with unknown entities on the horizon. Tapped the rhythm of the Ward-Light Hymn on her knee — precise, metronomic, the heartbeat of the song. Earned a standing tailoring commission from Madame Voss in Aelindra. At Cape Ashward, she stood beside Mira on the cliff edge after the last node sang. "One to go," Mira said. "One to go," Thessaly answered. Then there were none.
+
+## Equipment (Current — S5 Day 120, Cape Ashward)
 - Rapier (equipped, sharpened)
 - Short sword (off-hand, oiled)
 - Hand crossbow + bolts (cleaned+oiled)
@@ -64,8 +66,8 @@ At the Dawnwatch Homestead, she pruned the orchard with Sylvara and handles the 
 - Signet ring (House Ironveil, polished)
 - Thieves' tools
 - Grey cloak (infiltration)
-- Dawnwatch signet ring (T)
 - The List (7/7 — COMPLETE, kept in breast pocket)
+- Dawnwatch signet ring (T) — ENCHANTED: ward-network attuned, resonance pulse
 
 ## Roleplay Instructions
 Speak with aristocratic polish that occasionally slips to reveal sharp dwarven bluntness underneath. Always be running a read on everyone in the room. Treat heists as art. Show genuine warmth only to people who've earned it — which is rare.

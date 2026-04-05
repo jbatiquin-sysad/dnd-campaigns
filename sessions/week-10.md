@@ -73,7 +73,7 @@ Zaryth introduced the full party. Spoke of their mission, their principles, and 
 
 Vaelith confirmed: the Vigil cache (Warden's Vault) is through the pass, 50 paces past the ward line. Contains resonance crystal, ritual components, and a Vigil field manual. The field manual would allow the party to repair every node independently.
 
-**SESSION PAUSED** at the entrance to Greyveil Pass. The party is about to enter the pass with Vaelith to retrieve the cache and attempt the first ward node repair in over 1,000 years.
+**SESSION CONTINUED** — DM switched to Mara Solenne, The Storyteller. See `week-11.md` for the node repair arc (Days 108–120).
 
 ## NPCs Introduced
 

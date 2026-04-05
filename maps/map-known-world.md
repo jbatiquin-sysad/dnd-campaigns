@@ -6,15 +6,24 @@
 ```text
                                   FAR NORTH
                                      ↑
-                          ╔═══════════════════╗
-                          ║  GREYVEIL PASS    ║
-                          ║  ⊗ Node 12 (28%) ║
-                          ╚════════╤══════════╝
-                                   │
-              ⊗ Node 11            │           ⊗ Node 10 (31%)
-         (Sethrak's Threshold)     │          (NE coast)
-            ✖ FAILED               │
-                                   │
+                          ┌───────────────────────┐
+                          │   WARDEN'S FORGE ⚒    │
+                          │  (Vigil last redoubt)  │
+                          └───────────┬────────────┘
+                                      │
+                              Vigil Stone Road
+                                (2 days south)
+                                      │
+                          ╔═══════════════════════╗
+                          ║   GREYVEIL PASS       ║
+                          ║  ⊗ Node 12 (72%) ✔   ║
+                          ╚════════════╤══════════╝
+                                       │
+              ⊗ Node 11 (75%) ✔           │           ⊗ Node 10 (80%) ✔
+         (Sethrak's Threshold)         │          (Cape Ashward)
+            RECONSTRUCTED              │          ★ PARTY IS HERE
+            ← 2 days from Forge        │
+                                       │
                           The Greypeak Mountains
                          ~~~~~~~~~~~~~~~~~~~~~~~~
                         /                        \
@@ -80,13 +89,16 @@
 |--------|---------|
 | ⊗ | Outer Ward Node |
 | ✖ | Failed Ward Node |
+| ✔ | Repaired Ward Node |
 | 🔒 | Sealed Barrow |
 | ⌂ | Dawnwatch Homestead |
 | ⛪ | Ruined Temple (Ashenmere) |
+| ⚒ | Warden's Forge (Vigil) |
 | 🏨 | Thornfield Dispatch (coaching inn) |
 | ⚓ | Tidemeet (river mouth / port) |
 | ☒ | Investigated site |
 | ☆ | Mountain pass |
+| ★ | Current party location |
 
 ---
 
@@ -123,13 +135,13 @@ Northern mining city in the Greypeak Mountains. Seat of the Pallid Court. Known 
 - From Homestead: 5 days by charter carriage (Iron Road), or 2 days south to Fenhollow + 3 days north via Thornveil Forest
 
 ### Fenhollow
-Northwestern marshland settlement and base of the Thornwatch (Commander Brecca Ashford). Not a true city, but raised villages linked by boardwalks and causeways through the marshes.
+Northwestern marshland settlement and base of the Thornwatch (Captain Jorik Brenn, reinstated). Not a true city, but raised villages linked by boardwalks and causeways through the marshes.
 
 - Population: ~3,000 (distributed)
 - From Homestead: 20 minutes walk / immediate vicinity
 
 ### Port Veldmere
-Southern port city across the Hearthcoast Sea from Duskport. Seat of Marchion Drael Sulwick's trade empire. Controls southern sea routes.
+Southern port city across the Hearthcoast Sea from Duskport. Seat of Marchion Drael Sulwick's former trade empire (dismantled). Controls southern sea routes.
 
 - Population: ~18,000
 - From Homestead: 1.5 days via Tidemeet river route, or 3 days overland to Duskport + 3 days by ship
@@ -139,10 +151,10 @@ Southern port city across the Hearthcoast Sea from Duskport. Seat of Marchion Dr
 ## SEAS & WATERWAYS
 
 ### The Hearthcoast Sea
-The central body of water connecting Duskport, Veldmere, Salthollow, and Aelindra. Busy shipping lanes; Sulwick's fleet dominates southern routes.
+The central body of water connecting Duskport, Veldmere, Salthollow, and Aelindra. Busy shipping lanes; Sulwick's fleet impounded, Silver Chain now patrols southern routes.
 
 ### The Mirren River
-Flows from Greypeak foothills southeast through Harrowgate and toward the coast east of Duskport. Primary inland trade artery; Tetch's guild controls exchange rates at river ports.
+Flows from Greypeak foothills southeast through Harrowgate and toward the coast east of Duskport. Primary inland trade artery; Tetch's guild frozen, under civic oversight.
 
 ### The Fenhollow Marshes
 Vast wetlands northwest of Harrowgate. Tidal and treacherous; navigable mainly by locals and Thornwatch guides. Three sealed pre-Sundering ruins appear at low tide.
@@ -158,10 +170,10 @@ Dense old-growth forest between Greymoor and Fenhollow. The Iron Road skirts its
 Northern mountain range. Greymoor sits in a southern valley. Greypeak Pass is the only reliable crossing to lands beyond. The Greypeak Reavers (10–15 bandits) operate in the pass — opportunists, avoid large armed groups. Griffons nest in the high crags (territorial during Highsun breeding season).
 
 ### The Northern Highlands
-Barren scrubland and exposed rock beyond Greypeak Pass. No settlements. No trees. Constant wind. The Vigil Stone Road runs north along the ridge. Temperature drops sharply. Animal life thins as you move north — the ward boundary's influence. Ogres reported in the highland scrubland (2–3, territorial). Possible troll in a ravine (unconfirmed). At night, shapes are visible on the eastern ridgeline — entities on the other side of the thinning ward boundary.
+Barren scrubland and exposed rock beyond Greypeak Pass. No settlements. No trees. Constant wind. The Vigil Stone Road runs north along the ridge. Temperature drops sharply. Animal life thins as you move north — the ward boundary's influence. Ogres reported in the highland scrubland (2–3, territorial). Possible troll in a ravine (unconfirmed). At night, shapes are visible on the eastern ridgeline — entities on the other side of the thinning ward boundary. **Post-Node 12 repair:** entities withdrew from Greyveil Pass ridgelines. Ward dome visible and stable at 72%.
 
 ### The Dead Zones (Beyond the Outer Wards)
-Lands beyond the outer ward perimeter. Pre-Sundering texts describe them as "lands where death is ambient" — necrotic energy saturates the environment. Prolonged exposure causes exhaustion, necrotic damage, then death. The wards don't just keep things out — they keep the death energy from spreading inward. With Node 11 failed and adjacent nodes degrading, the boundary is leaking. **Do not cross the ward line.**
+Lands beyond the outer ward perimeter. Pre-Sundering texts describe them as "lands where death is ambient" — necrotic energy saturates the environment. Prolonged exposure causes exhaustion, necrotic damage, then death. The wards don't just keep things out — they keep the death energy from spreading inward. **Post-repair status:** With all 4 known nodes restored and the cascade ended, the ward boundary has stabilized. The dead zone around Sethrak's Threshold is actively recovering — necrotic field evaporated upon Node 11 reconstruction. Enchanted Dawnwatch rings provide ward-network recognition but not full environmental protection beyond the ward line.
 
 ---
 
@@ -183,7 +195,7 @@ Coastal route connecting Aelindra to Salthollow. 2 days overland. Well-maintaine
 Connects Salthollow south to Duskport along the northeastern coast. 3 days overland. Less maintained. Fishing villages along route.
 
 ### Vigil Stone Road (Northern Highlands)
-Ancient pre-Sundering road running north from Greypeak Pass along the highland ridge toward Greyveil Pass and beyond. Fitted stone, no mortar — Vigil of the Closed Eye construction. Still intact after 1,200+ years. No settlements. Vigil wardens (undead sentinels) still stand guard at intervals. The road is a ward conduit — residual energy keeps the stones warm and the wardens animated. Discovered by the Dawnwatch during the Greyveil expedition.
+Ancient pre-Sundering road running north from Greypeak Pass along the highland ridge toward Greyveil Pass and beyond. Fitted stone, no mortar — Vigil of the Closed Eye construction. Still intact after 1,200+ years. No settlements. Vigil wardens (undead sentinels) still stand guard at intervals. The road is a ward conduit — residual energy keeps the stones warm and the wardens animated. Discovered by the Dawnwatch during the Greyveil expedition. **Extends north past Greyveil Pass to the Warden's Forge (2 days) and branches toward Sethrak's Threshold (Node 11).**
 
 ### Sea Routes (from Tidemeet)
 
@@ -216,13 +228,15 @@ Ancient pre-Sundering road running north from Greypeak Pass along the highland r
 | **Port Veldmere** | 1.5 days (Tidemeet river route) | 5 days (Tidemeet → Duskport → Veldmere) | River route faster |
 | **Greypeak Pass** | 5 days to Greymoor + 3 days climb | — | Mountain crossing |
 | **Greyveil Pass (Node 12)** | ~13 days total | — | Greymoor (5d) → Greypeak Pass (3d) → Vigil Road (4–5d) |
+| **Warden's Forge** | ~15 days total | — | Greyveil Pass + 2 days north on Vigil Road |
+| **Sethrak's Threshold (Node 11)** | ~15 days total | — | Warden's Forge + 2 days (or Greyveil + branch NE) |
 
 ---
 
 ## LANDMARKS & NOTABLE LOCATIONS
 
 ### Dawnwatch Homestead (Fenhollow) ⌂
-Four-acre homestead at the edge of Fenhollow. Purchased by the Dawnwatch after dismantling the Unchained Compact. Includes main house, alchemy shed, goat pen, herb garden, orchard, and north meadow (school site under construction). Caretaker: Tessa Marsh, with Ren and Lila.
+Four-acre homestead at the edge of Fenhollow. Purchased by the Dawnwatch after dismantling the Unchained Compact. Includes main house, alchemy shed, forge, goat pen, chicken coop, herb garden, orchard, and north meadow (school foundation laid). Caretaker: Tessa Marsh, with Ren (12) and Lila (9). Passive income: 16–22 gp/week.
 
 ### Tidemeet ⚓
 River mouth where the Fenhollow river meets the Hearthcoast Sea. Sandy beach on the south bank, rocky tide pools on the north. Half-day walk south of Fenhollow (2 hours by cart). Coastal vessels dock here — sea route to Aelindra (3–4 days).
@@ -242,8 +256,17 @@ Pre-settlement ossuary barrow on a treeless hilltop northeast of Barrowfen. ~300
 ### Barrow of Vel Tharis 🔒
 Pre-settlement barrow complex on coastal cliffs north of Aelindra. ~400–500 ancient remains. Sea cave entrance (accessible at low tide only, 6-hour window). Standing stone with closed eye symbol on the cliff top near Node 9. Second operative intercepted here before catalyst application. Entrance collapsed and sealed by the Dawnwatch with Arcane Lock. Second barrow secured.
 
-### Greyveil Pass
-Northern mountain pass beyond the Greypeaks. Location of outer ward Node 12. Site of the Watcher's requested meeting on the 1st of Highsun, 1247 AS. Largely unknown territory — beyond the party's current explored range.
+### Greyveil Pass ✔
+Northern mountain pass beyond the Greypeaks. Location of outer ward Node 12 — **REPAIRED by the Dawnwatch (28% → 72%)**. Site of the meeting with Vaelith, Last Warden of the Vigil. Warden's Vault (emptied — resonance crystal installed, field manual retrieved). Three undead Vigil wardens stand guard on the stone road. Ward dome now visible and stable. Entities withdrew from ridgelines after repair.
+
+### Cape Ashward ✔
+Northeastern coastal headland. Location of outer ward Node 10 — **REPAIRED by the Dawnwatch (31% → 80%)**. Standing stone on the highest point, singing again for the first time in decades. Fishing village of Ashward's Landing in the sheltered cove below (~200 people, headman Corran Ashward). Salt-ward beeswax coating applied to copper circuit for coastal protection. *Tern's Wing* at anchor in the cove.
+
+### Warden's Forge ⚒
+Vigil of the Closed Eye's primary workshop, located in a mountain hollow 2 days north of Greyveil Pass on the Vigil Stone Road. Stone building built into mountainside. Self-sustaining forge-ward has burned for 1,000+ years. Contains: banked forge (operational), crystal-cutting tools, ward-imprinting basin, raw resonance stone (2.5 blocks remaining — enough for many future crystals). The Dawnwatch cut a resonance crystal for Node 11 and enchanted all 8 Dawnwatch rings here. **Beyond the ward line — no ward dome protection.**
+
+### Sethrak's Threshold (Node 11) ✔
+Location of outer ward Node 11 — former cascade origin point. **RECONSTRUCTED by the Dawnwatch** (FAILED → 75%). Full 6-anchor reconstruction with Zaryth as Warden's Anchor. 14 ward-wraiths (inverted Vigil wardens) communicated with and freed peacefully — zero combat. Golden light column tore the sky open. Named for Captain Sethrak, Vaelith's commanding officer. ~2 days travel from the Warden's Forge. Territory recovering — necrotic field evaporated upon repair.
 
 ### Greypeak Pass ☆
 Only reliable mountain crossing. Controlled by Greymoor; strategic chokepoint.
@@ -255,13 +278,13 @@ Pre-Sundering underground complex beneath the city. Repository opened by the par
 Visible at low tide. Stone structures pre-dating current settlements; purpose unknown. Thornwatch blocks access. The Unchained Compact would want them opened.
 
 ### The Grand Archive (Aelindra)
-Four tiers. The Crown summit holds restricted vaults. Sub-level 2 (Thessara's chamber) is secured. The Sealed Quorum operates from the Crown governance wing. Sylvara Dawnwhisper holds permanent Level 3 restricted access.
+Four tiers. The Crown summit holds restricted vaults. Sub-level 2 (Thessara's chamber) secured. The Sealed Quorum dissolved. Sylvara Dawnwhisper holds permanent Level 3 restricted access. Interim Archivist-General: Veyra Solund. Thessara Kain under house arrest.
 
 ### The Athenaeum (Salthollow)
-Idris Vane's private archive. University-adjacent but independently operated. Holds suppressed pre-Sundering documents. No military protection.
+Pre-Sundering sealed vault beneath the university quarter. Contains original civic charters for every town in the river basin. Restored to civic control after Dawnwatch operation.
 
 ### The Coinwright's Guildhall (Harrowgate)
-Tetch's seat of power. Controls regional currency exchange. River-facing and heavily guarded by private security.
+Tetch's former seat of power. Guild frozen under civic oversight. Corvath arrested. Clearinghouse ledger seized.
 
 ---
 
@@ -269,25 +292,22 @@ Tetch's seat of power. Controls regional currency exchange. River-facing and hea
 
 The continental ward system has two layers:
 
-**Inner Ward (The Root):** Renewed by the Dawnwatch (Session 3). Active. Healthy. Protects the heartland.
+**Inner Ward (The Root):** Renewed by the Dawnwatch (Session 4). Active. Healthy. Protects the heartland.
 
-**Outer Ward:** 14 anchor nodes forming a perimeter around the continent. Pre-Sundering construction. Maintained by the Vigil of the Closed Eye until the Sundering. No maintenance in 1,247 years. Cascade in progress.
+**Outer Ward:** 14 anchor nodes forming a perimeter around the continent. Pre-Sundering construction. Maintained by the Vigil of the Closed Eye until the Sundering. **OUTER RING COMPLETE — 4/4 known nodes repaired by the Dawnwatch. Cascade ended. Network stable and self-reinforcing.**
 
 ### Known Nodes
 
 | Node | Location | Status | Notes |
 |------|----------|--------|-------|
-| **Node 9** | Coastal cliffs north of Aelindra (Vel Tharis) | **40%** — degrading | Measured by Sylvara with Ward Compass. Standing stone with closed eye symbol. |
-| **Node 10** | Northeastern coast | **31%** — degrading | Reported by the Watcher. Not yet visited. |
-| **Node 11** | Northern wastes (Sethrak's Threshold) | **FAILED ✖** | Confirmed failed by the Watcher. Cascade origin point. |
-| **Node 12** | Greyveil Pass, northern mountains | **28%** — critical | Reported by the Watcher. Meeting site: 1st of Highsun. Most urgent node. |
-| Nodes 1–8, 13–14 | Unknown locations | Unknown | Sylvara researching in Aelindra Archive. |
+| **Node 9** | Coastal cliffs north of Aelindra (Vel Tharis) | **78% ✔ REPAIRED** | Repaired by Dawnwatch. Standing stone singing. Cache retrieved from standing stone base. Barrow sealed below. |
+| **Node 10** | Cape Ashward headland, NE coast | **80% ✔ REPAIRED** | Repaired by Dawnwatch. Highest reading. Standing stone singing. Fishing village of Ashward's Landing nearby. |
+| **Node 11** | Sethrak's Threshold (northern wastes) | **75% ✔ RECONSTRUCTED** | Cascade origin. Full reconstruction by Dawnwatch (6-anchor, Zaryth as Warden's Anchor). 14 ward-wraiths freed peacefully. Zero combat. |
+| **Node 12** | Greyveil Pass | **72% ✔ REPAIRED** | Repaired by Dawnwatch. Vaelith's vigil site. Ward dome stable. Entities withdrew voluntarily. |
+| Nodes 1–8, 13–14 | Unknown locations | Unknown | Vigil Field Manual contains full documentation for all 14 nodes. |
 
 ### Cascade Model
-When a node fails, adjacent nodes absorb the load. Node 11's failure is stressing Nodes 10 and 12. At current decay rates:
-- **Node 12 fails:** ~2 months (estimated mid-Goldmere 1247 AS)
-- **Node 9 fails:** ~4–5 months (estimated Duskmere 1247 AS)
-- **Full perimeter collapse:** 6–8 months if unchecked
+**CASCADE ENDED.** All four known outer nodes repaired. Network stable and self-reinforcing. Remaining nodes (1-8, 13, 14) status unknown — Vigil Field Manual contains documentation for all 14 nodes. Future survey expeditions planned.
 
 ### Barrow Sites (from Edra Voss's research)
 
@@ -296,3 +316,47 @@ When a node fails, adjacent nodes absorb the load. Node 11's failure is stressin
 | 1 | Barrow of Keth-Varos (NE of Barrowfen) | **🔒 SEALED** |
 | 2 | Barrow of Vel Tharis (N of Aelindra) | **🔒 SEALED** |
 | 3–7 | Five additional sites (locations in Edra's research notes) | **Unsecured** — locations known to Sylvara |
+
+---
+
+## COMPLETED ROUTE — Outer Ward Ring
+
+```
+⚒ Warden's Forge (crystal cut, rings enchanted)
+  │
+  ↓ 2 days
+  │
+⊗ Node 11 — Sethrak's Threshold ✔ (75%, RECONSTRUCTED, 14 wraiths freed)
+  │
+  ↓ 10 days south (via Greyveil → Greymoor → Harrowgate → Aelindra)
+  │
+🏛 Aelindra (recuperated, resupplied, allies visited)
+  │
+  ↓ half-day north
+  │
+⊗ Node 9 — Vel Tharis ✔ (78%, REPAIRED)
+  │
+  ↓ 2 days by ship (*Tern's Wing*)
+  │
+⊗ Node 10 — Cape Ashward ✔ (80%, REPAIRED) ★ PARTY IS HERE
+```
+
+**OUTER WARD RING: COMPLETE. All 4 known nodes repaired. Cascade ended.**
+
+**Next phase:** Return to Aelindra or homestead. Seal remaining 5 barrows. Survey unknown nodes (1–8, 13, 14).
+
+---
+
+## INTER-CITY ALLIANCE NETWORK
+
+| City | Contact | Role |
+|------|---------|------|
+| Duskport | Magistrate Sera Voss | Civic inquiry lead |
+| Harrowgate | Alderman Kellan | Civic authority |
+| Greymoor | Judge Aldara Kess | Warrants + civic reform |
+| Salthollow | Councilwoman Brynn Ashworth | Civic authority |
+| Fenhollow | Captain Jorik Brenn | Militia commander (reinstated) |
+| Port Veldmere | Councilman Fell + Revka Sarn (Silver Chain) | Civic + maritime |
+| Aelindra | Veyra Solund (interim Archivist-General) | Archive governance |
+| Maritime | Revka Sarn / Sable (Silver Chain) | Sea lane enforcement |
+| Duskport (counter-intel) | Serevane | Intelligence operations |

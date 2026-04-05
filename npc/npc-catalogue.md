@@ -165,7 +165,7 @@
 
 | NPC | Race/Age | Role | Status | Quick Description |
 |-----|----------|------|--------|-------------------|
-| **Vaelith** | Unknown, 1,000+ | Last Warden, Vigil of the Closed Eye | Allied — met at Greyveil Pass | Ancient. Face like weathered granite. Eyes that burn with ward-light. Staff carved with glowing ward symbols. 114 years alone at Greyveil Pass. Activated the necromantic contingency because it was in the protocols and no one was left to say otherwise. Handed over the ward repair ritual activation sequence. "You came." |
+| **Vaelith** | Unknown, 1,000+ | Last Warden, Vigil of the Closed Eye | Allied — travelling with party. Offered permanent Archive consulting position by Veyra Solund. | Ancient. Face like weathered granite. Pale, steady eyes. Patched robes, blue-and-silver scarf (gift from Pip). 114 years alone at Greyveil Pass. Handed over the activation sequence. Named the Dawnwatch as wardens of the Vigil. Wept when Node 12 sang. Guided all four node repairs. Teaching Zaryth ward engineering. Laughed at Pip's Dancing Lights — first laugh in centuries. "The Vigil's work is continued. By the Dawnwatch." |
 
 ### Aelindra (Session 5)
 
@@ -177,12 +177,39 @@
 
 ---
 
-*Last updated: Session 5, Day 108 (Greyveil Pass, Node 12)*
-*Campaign status: Ward cascade active. 2/7 barrows sealed. Vaelith allied.*
+## Session 5 NPCs — Storyteller Arc (Node Repairs, Days 108–120)
+
+### Cape Ashward
+
+| NPC | Race/Age | Role | Status | Quick Description |
+|-----|----------|------|--------|-------------------|
+| **Corran Ashward** | Human, 60s | Village headman, Ashward's Landing | Ally — Cape Ashward | Salt-cured fisherman. Grandmother heard the standing stone sing 60 years ago. Heard it sing again when Node 10 was repaired. Tears on his face. "If you can make it sing again, you're welcome to try." |
+| **Wren Ashward** | Human, 5 | Corran's granddaughter | — | "Grandpa, the rock is singing." Will remember this day for the rest of her life. |
+| **Captain Dalla Vetch** | Human, 50s | Captain, sloop *Tern's Wing* | Transport ally | Weathered, no-nonsense. Revka's recommendation. "Stay out of the rigging." Ran the party to Cape Ashward and back. |
+
+### Aelindra (Storyteller Arc)
+
+| NPC | Race/Age | Role | Status | Quick Description |
+|-----|----------|------|--------|-------------------|
+| **Old Seff** | Human, 70s+ | Woodturner, Cartographers' Quarter market | Bram's carving teacher | Makes bowls and spoons. Tested Pip's flute: "Good instinct. Terrible finishing. Sit down." Three hours of instruction. |
+| **Gren Ashwick** | Human, 60s | Saddler, harbor tier workshop | Mira's leatherworking teacher | Sixty years at the bench, hands like old oak. "Rogue's hands. Steady, fast, good with a blade. You'll learn quick." |
+| **Madame Voss** | Human, 50s | Tailor, second tier, Aelindra | Thessaly's standing commission contact | Makes robes for Archive staff. Offered Thessaly a standing commission. No relation to Magistrate Voss. |
+
+### Sethrak's Threshold (Ward-Wraiths)
+
+| NPC | Race/Age | Role | Status | Quick Description |
+|-----|----------|------|--------|-------------------|
+| **Ward-Wraith Leader** | Unknown, 1,000+ | Former Vigil captain, inverted by Node 11 failure | At peace — dissolved into ward network | Tallest of the 14. Rank markings on blackened armor. Spoke through the necrotic field. Last words: "I can hear it. Thank you, Warden." Sethrak's Threshold was named for their captain, Sethrak. |
+| **14 Ward-Wraiths** | — | Former Vigil wardens, Final Stand formation | At peace — dissolved into ward network | Held formation for 14 months at a dead node. Yielded when Zaryth spoke to them and Sylvara showed the crystal. Sang with the hymn during reconstruction. Went home. |
+
+---
+
+*Last updated: Session 5 (Storyteller), Day 120 (Cape Ashward, Node 10)*
+*Campaign status: OUTER WARD RING COMPLETE. 4/4 known nodes repaired. Cascade ended. 2/7 barrows sealed.*
 *Party name: The Dawnwatch*
 *Party level: 3*
-*Party gold: ~4,599 gp*
-*Inter-city network: Voss–Kellan–Kess–Ashworth–Brenn–Fell (6 cities) + Serevane + Revka/Silver Chain + Veyra Solund + Dalla + Cole*
+*Party gold: ~4,644 gp*
+*Inter-city network: Voss–Kellan–Kess–Ashworth–Brenn–Fell (6 cities) + Serevane + Revka/Silver Chain + Veyra Solund + Dalla + Cole + Corran Ashward*
 *Homestead: Operational, self-sustaining, passive income 16–22 gp/week. Tessa managing.*
-*Remaining threads: Ward cascade (Nodes 10, 12 critical), 5 unsecured barrows, Archivist Seren Voss (missing)*
-*Current objective: Repair Node 12 at Greyveil Pass with Vaelith*
+*Remaining threads: 5 unsecured barrows, Nodes 1–8/13/14 (unknown), Archivist Seren Voss (missing)*
+*Vaelith: Travelling with party. Archive consulting position offered.*

@@ -53,16 +53,20 @@ His darkest hour: opening the fake spellbook and feeling confirmed as a fool. Hi
 
 At the Dawnwatch Homestead, assisted with beehives (stung 11 times Day 2, refused to quit). Practiced Fire Bolt — 24 of 30 hits. Ren (12, the caretaker's son) asked him to teach magic. Pip said: "When you're old enough. I promise."
 
-## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+During the node repair arc, Pip served as west anchor in every repair. Failed CON saves at Node 12 (minute 8), Node 11 (minutes 5 and 18), and Node 9 (minute 8) — and self-recovered every single time after the first. At Node 12, Sylvara pulled his quadrant. At Node 11, she reached for him at minute 18 — but he picked up the flute, played his note, and pushed back into the channel himself. She let go. By Node 10, he passed every save clean. Bram carved him a driftwood flute on the road to the Warden's Forge. Orindel taught him to play — scales first, then phrases, then the Ward-Light Hymn. His single held flute note on the chorus became part of every repair's sympathetic resonance. At Cape Ashward, he played the full hymn — every note perfect — while a five-year-old girl named Wren watched from the quay and asked how he made the rock sing. He told her the whole story.
+
+## Equipment (Current — S5 Day 120, Cape Ashward)
 - Spellbook (in travel case)
 - Quality short sword (equipped, Ashdale's Thornwatch-issue)
 - Dagger (backup, sharpened)
 - Full outfit — shirt, trousers, vest, cloak
-- Studded leather armor (equipped, AC 14)
+- Studded leather armor (equipped, AC 15 — reinforced by Thessaly)
 - Focus stone (Sylvara's river pebble, 40 years old)
 - Healing Potion (1x)
 - Grey cloak (infiltration)
-- Dawnwatch signet ring (P)
+- Driftwood flute (Bram-crafted, pale wood, 6-hole, halfling-sized)
+- Charcoal self-portrait (bought from Aelindra university student)
+- Dawnwatch signet ring (P) — ENCHANTED: ward-network attuned, resonance pulse
 - Lira's note (from Salthollow)
 
 ## Roleplay Instructions

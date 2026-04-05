@@ -49,7 +49,7 @@ Her darkest hour: leaving Aelindra knowing she may have given Thessara permissio
 
 At the Dawnwatch Homestead, she restored the orchard with Thessaly. Bram built her a writing desk — east window, morning light. She wrote one line about each party member and read them aloud. Pip cried.
 
-## Equipment (Current — S4 Turn 51, Dawnwatch Homestead)
+## Equipment (Current — S5 Day 120, Cape Ashward)
 - Spellbook (in travel case)
 - Arcane focus
 - Dagger (sharpened)
@@ -59,7 +59,7 @@ At the Dawnwatch Homestead, she restored the orchard with Thessaly. Bram built h
 - Spell component pouch
 - Resonance key (Unchained Compact ward-collapse device)
 - Grey cloak (infiltration)
-- Dawnwatch signet ring (S)
+- Dawnwatch signet ring (S) — ENCHANTED: ward-network attuned, resonance pulse
 - Venn's operational journal (200+ pages — complete network map)
 - Blackveil's operational ledger
 - Vane's acquisition ledger
