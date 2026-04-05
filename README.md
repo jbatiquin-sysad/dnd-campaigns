@@ -14,26 +14,59 @@ A D&D 5e campaign run via [Kiro CLI](https://kiro.dev) using subagents as party 
 
 ## How to Resume a Session
 
-1. Open terminal, run `kiro-cli chat`
-2. Say: *"Resume our DnD session — load memory_layer.md and party-state.json from duskport-campaign"*
-3. Pick a DM and go
+**Quick start (recommended):**
+```bash
+cd ~/duskport-campaign && ./resume-session.sh
+```
 
-## Before Logging Off — Save Checklist
+This pulls latest from GitHub, displays the campaign dashboard (day, location, gold, DM, status), copies the resume prompt to your clipboard, and launches `kiro-cli chat`. Just paste and hit Enter.
+
+**Pick a specific DM:**
+```bash
+./resume-session.sh storyteller   # Mara Solenne — narrative-first, cinematic
+./resume-session.sh chronicler    # Aldric Voss — strict RAW, tactical
+./resume-session.sh wildcard      # Corvus Chance — RAW + d100 chaos
+```
+
+**Manual resume (without script):**
+1. Open terminal, run `kiro-cli chat`
+2. Say: *"Resume our DnD session — load memory_layer.md and party-state.json from duskport-campaign use The Storyteller this time"*
+
+## Before Logging Off — Save
+
+**Quick save (recommended):**
+```bash
+./save-session.sh
+```
+
+This syncs party-state to `~/.kiro/prompts/`, stages all changes, pulls latest, commits with an auto-generated message (day + week title), and pushes to GitHub.
+
+**Custom commit message:**
+```bash
+./save-session.sh "Node 11 reconstructed, 14 wraiths freed"
+```
+
+**Manual save (without script):** Ask in chat: *"Save the session — update party-state.json, memory_layer.md, week file, NPC catalogue, then commit and push"*
+
+### Save Checklist
 
 The chat context is **in-memory only** and lost when you exit. Before ending a session, make sure these files are updated:
 
 | # | File | What to Update | Priority |
 |---|------|----------------|----------|
-| 1 | `party/party-state.json` | Day, location, gold, HP, spell slots, key items, campaign status | **Critical** — this is the primary resume file |
-| 2 | `memory_layer.md` | Append turn-by-turn entries for the session + campaign status footer | **Critical** — the full narrative record |
+| 1 | `party/party-state.json` | Day, location, gold, HP, spell slots, key items, campaign status | **Critical** — primary resume file |
+| 2 | `memory_layer.md` | Append turn-by-turn entries for the session + campaign status footer | **Critical** — full narrative record |
 | 3 | `sessions/week-XX.md` | Create/update current week summary | High |
 | 4 | `npc/npc-catalogue.md` | Add new NPCs, update statuses | High |
-| 5 | `party/*.md` | Update only on level-up, major equipment changes, or backstory events | Medium |
-| 6 | `maps/map-known-world.md` | Add new locations, update ward node statuses, distances | Medium |
-| 7 | `README.md` | Update "Current Status" section and timeline | Low |
-| 8 | `git commit + push` | Commit everything and push to remote | **Critical** |
+| 5 | `party/party-inventory.md` | Shared gold, provisions, materials, credentials, key items | High — hook on any shared resource change |
+| 6 | `party/party-equipment.md` | Individual armor, weapons, accessories per member | Medium — hook on personal gear change |
+| 7 | `party/party-professions.md` | Skills, training status, income ranges, training tracker | Medium — hook on profession use or advancement |
+| 8 | `party/*.md` | Character sheets — update on level-up, major equipment, or backstory events | Medium |
+| 9 | `maps/map-known-world.md` | New locations, ward node statuses, distances, party location marker | Medium |
+| 10 | `README.md` | "Current Status" section and timeline | Low |
+| 11 | `git commit + push` | Run `./save-session.sh` or commit manually | **Critical** |
 
-Quick version — ask: *"Save the session — update party-state.json, memory_layer.md, week file, NPC catalogue, then commit and push"*
+Quick version — ask in chat: *"Save the session — update party-state, memory layer, week file, NPC catalogue, inventory, equipment, professions, then commit and push"*
 
 ## The Party — The Dawnwatch
 
@@ -60,9 +93,13 @@ Quick version — ask: *"Save the session — update party-state.json, memory_la
 duskport-campaign/
 ├── README.md
 ├── memory_layer.md              ← full turn-by-turn log
-├── save-session.sh              ← git commit + push script
+├── save-session.sh              ← stage + commit + push to GitHub
+├── resume-session.sh            ← pull + dashboard + launch kiro-cli
 ├── party/
 │   ├── party-state.json         ← HP, spell slots, inventory, conditions
+│   ├── party-inventory.md       ← shared gold, provisions, materials, credentials
+│   ├── party-equipment.md       ← individual loadouts, slot-by-slot
+│   ├── party-professions.md     ← skills, training, income ranges
 │   ├── zaryth.md                ← your character
 │   ├── mira.md, aldric.md, sylvara.md, bram.md,
 │   │   thessaly.md, orindel.md, pip.md
