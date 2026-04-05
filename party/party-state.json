@@ -128,8 +128,12 @@
   },
   "transport": {
     "terns_wing": "At anchor, Cape Ashward. Return passage to Aelindra available.",
-    "civic_barge_priority": "60-day pass (Greymoor/Harrowgate river system)",
-    "overland_travel_writ": "30-day pass (Salthollow)"
+    "civic_barge_priority": "EXPIRED (~Day 78) — was 60-day pass, renew at Kellan (Harrowgate) or Kess (Greymoor)",
+    "overland_travel_writ": "EXPIRED (~Day 58) — was 30-day pass from Salthollow, renew at Ashworth",
+    "marsh_passage_writ": "EXPIRED (~Day 62) — was 30-day pass from Fenhollow, renew at Brenn",
+    "priority_river_clearance": "Active — all ports (Stenn, Greymoor, no expiry)",
+    "harbor_priority_passage": "Active — Veldmere, indefinite",
+    "sylvara_archive_access": "Active — Aelindra Level 3, permanent"
   },
   "party": {
     "zaryth": {

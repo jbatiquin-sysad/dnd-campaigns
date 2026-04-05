@@ -3498,8 +3498,11 @@ Vaelith handed over the **activation sequence** — the missing piece of the war
 ### Transport Available
 
 - *Tern's Wing* — at anchor Cape Ashward, return to Aelindra
-- Civic barge priority — 60-day pass (Greymoor/Harrowgate river)
-- Overland travel writ — 30 days (Salthollow)
+- Priority river clearance — all ports (no expiry)
+- Harbor priority passage — Veldmere (indefinite)
+- ~~Civic barge priority~~ — EXPIRED (~Day 78, was 60-day pass) — renew at Kellan or Kess
+- ~~Overland travel writ~~ — EXPIRED (~Day 58, was 30-day pass) — renew at Ashworth
+- ~~Marsh passage writ~~ — EXPIRED (~Day 62, was 30-day pass) — renew at Brenn
 
 ### Open Threads
 

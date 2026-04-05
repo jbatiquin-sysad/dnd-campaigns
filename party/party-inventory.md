@@ -69,9 +69,9 @@
 | 8x Veldmere commendation letters | Fell + Ashvale + Kelwick | Active |
 | 1x Temple commendation | Sister Maren | Active |
 | Priority river clearance | All ports | Active |
-| Civic barge priority passage | Greymoor/Harrowgate river, 60 days | Active (check expiry) |
-| Overland travel writ | Salthollow–Fenhollow, 30 days | Active (check expiry) |
-| Marsh passage writ | Fenhollow, 30 days | Active (check expiry) |
+| Civic barge priority passage | Greymoor/Harrowgate river, 60 days | ❌ EXPIRED (~Day 78) — renew at Kellan or Kess |
+| Overland travel writ | Salthollow–Fenhollow, 30 days | ❌ EXPIRED (~Day 58) — renew at Ashworth |
+| Marsh passage writ | Fenhollow, 30 days | ❌ EXPIRED (~Day 62) — renew at Brenn |
 | Harbor priority passage | Veldmere, indefinite | Active |
 | Sylvara Archive Level 3 access | Aelindra, permanent | Active |
 
