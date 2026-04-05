@@ -3,27 +3,63 @@
 # Usage: ./resume-session.sh [dm]
 #   dm options: chronicler, storyteller, wildcard (default: last active DM)
 
-CAMPAIGN_DIR="/Users/jasonbatiquin/duskport-campaign"
+set -euo pipefail
 
-cd "$CAMPAIGN_DIR" || { echo "Error: campaign directory not found"; exit 1; }
-
-# Pull latest from remote
-echo "📥 Pulling latest from GitHub..."
-git pull --quiet origin main 2>/dev/null
-
-# Read current state
+CAMPAIGN_DIR="$(cd "$(dirname "$0")" && pwd)"
 STATE="$CAMPAIGN_DIR/party/party-state.json"
+
+cd "$CAMPAIGN_DIR" || { echo "❌ Campaign directory not found"; exit 1; }
+
+# Verify git repo
+if [ ! -d .git ]; then
+  echo "❌ Not a git repository: $CAMPAIGN_DIR"; exit 1
+fi
+
+# Verify state file
 if [ ! -f "$STATE" ]; then
   echo "❌ party-state.json not found"; exit 1
 fi
 
-DAY=$(python3 -c "import json; print(json.load(open('$STATE'))['in_game_day'])" 2>/dev/null)
-DATE=$(python3 -c "import json; print(json.load(open('$STATE'))['calendar_date'])" 2>/dev/null)
-LOCATION=$(python3 -c "import json; print(json.load(open('$STATE'))['location'])" 2>/dev/null)
-GOLD=$(python3 -c "import json; print(json.load(open('$STATE'))['party_gold']['total'])" 2>/dev/null)
-STATUS=$(python3 -c "import json; print(json.load(open('$STATE'))['campaign_status'])" 2>/dev/null)
-ACTIVE_DM=$(python3 -c "import json; print(json.load(open('$STATE'))['active_dm'])" 2>/dev/null)
-WEEK=$(python3 -c "import json; print(json.load(open('$STATE'))['current_week_file'])" 2>/dev/null)
+# Pull latest — but warn on failure instead of hiding it
+echo "📥 Pulling latest from GitHub..."
+if ! git pull --quiet origin main 2>&1; then
+  echo "⚠️  Git pull failed — you may not have the latest version."
+  echo "   Check for merge conflicts or network issues."
+  read -p "   Continue anyway? (y/n) " -n 1 -r
+  echo
+  [[ $REPLY =~ ^[Yy]$ ]] || exit 1
+fi
+
+# Parse state in one python3 call
+read -r DAY DATE LOCATION GOLD STATUS ACTIVE_DM WEEK < <(python3 -c "
+import json, sys
+s = json.load(open('$STATE'))
+fields = [
+    str(s['in_game_day']),
+    s['calendar_date'],
+    s['location'],
+    str(s['party_gold']['total']),
+    s['campaign_status'],
+    s['active_dm'],
+    s['current_week_file']
+]
+# Use tab separator to handle spaces in values
+print('\t'.join(fields))
+" 2>/dev/null | tr '\t' '\n' | {
+  read -r DAY; read -r DATE; read -r LOCATION; read -r GOLD; read -r STATUS; read -r ACTIVE_DM; read -r WEEK
+  echo "$DAY" "$DATE" "$LOCATION" "$GOLD" "$STATUS" "$ACTIVE_DM" "$WEEK"
+}) 2>/dev/null
+
+# Fallback: parse individually if the above fails
+if [ -z "${DAY:-}" ]; then
+  DAY=$(python3 -c "import json; print(json.load(open('$STATE'))['in_game_day'])" 2>/dev/null || echo "?")
+  DATE=$(python3 -c "import json; print(json.load(open('$STATE'))['calendar_date'])" 2>/dev/null || echo "?")
+  LOCATION=$(python3 -c "import json; print(json.load(open('$STATE'))['location'])" 2>/dev/null || echo "?")
+  GOLD=$(python3 -c "import json; print(json.load(open('$STATE'))['party_gold']['total'])" 2>/dev/null || echo "?")
+  STATUS=$(python3 -c "import json; print(json.load(open('$STATE'))['campaign_status'])" 2>/dev/null || echo "?")
+  ACTIVE_DM=$(python3 -c "import json; print(json.load(open('$STATE'))['active_dm'])" 2>/dev/null || echo "dm-storyteller")
+  WEEK=$(python3 -c "import json; print(json.load(open('$STATE'))['current_week_file'])" 2>/dev/null || echo "?")
+fi
 
 # DM selection
 DM_ARG="${1:-}"
@@ -44,6 +80,11 @@ else
   esac
 fi
 
+# Verify DM file exists
+if [ ! -f "$CAMPAIGN_DIR/dm/${DM_FILE}.md" ]; then
+  echo "⚠️  DM file dm/${DM_FILE}.md not found — continuing anyway"
+fi
+
 # Display campaign state
 echo ""
 echo "⚔️  DUSKPORT CAMPAIGN — SESSION RESUME"
@@ -56,10 +97,20 @@ echo "📖 Week file: $WEEK"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "📋 $STATUS"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+# Warn about uncommitted local changes
+if ! git diff --quiet || ! git diff --staged --quiet || [ -n "$(git ls-files --others --exclude-standard)" ]; then
+  echo ""
+  echo "⚠️  You have uncommitted local changes:"
+  git status --short
+  echo "   Consider running ./save-session.sh first."
+fi
+
 echo ""
 
 # Build the resume prompt
-RESUME_PROMPT="Resume our DnD session — load memory_layer.md and party-state.json from duskport-campaign use $(echo "$DM_NAME" | awk -F', ' '{print $2}') this time"
+DM_TITLE=$(echo "$DM_NAME" | awk -F', ' '{print $2}')
+RESUME_PROMPT="Resume our DnD session — load memory_layer.md and party-state.json from duskport-campaign use $DM_TITLE this time"
 
 echo "🚀 Launching kiro-cli chat..."
 echo "   Your opening prompt (auto-copied to clipboard):"
