@@ -3,62 +3,59 @@
 # Usage: ./resume-session.sh [dm]
 #   dm options: chronicler, storyteller, wildcard (default: last active DM)
 
-set -euo pipefail
-
 CAMPAIGN_DIR="$(cd "$(dirname "$0")" && pwd)"
 STATE="$CAMPAIGN_DIR/party/party-state.json"
 
 cd "$CAMPAIGN_DIR" || { echo "❌ Campaign directory not found"; exit 1; }
 
-# Verify git repo
-if [ ! -d .git ]; then
-  echo "❌ Not a git repository: $CAMPAIGN_DIR"; exit 1
-fi
+# Preflight checks
+[ -d .git ] || { echo "❌ Not a git repository: $CAMPAIGN_DIR"; exit 1; }
+[ -f "$STATE" ] || { echo "❌ party-state.json not found"; exit 1; }
+command -v python3 >/dev/null || { echo "❌ python3 not found — needed to parse campaign state"; exit 1; }
+command -v kiro-cli >/dev/null || { echo "❌ kiro-cli not found in PATH"; exit 1; }
 
-# Verify state file
-if [ ! -f "$STATE" ]; then
-  echo "❌ party-state.json not found"; exit 1
-fi
-
-# Pull latest — but warn on failure instead of hiding it
+# Pull latest — warn on failure, prompt if interactive
 echo "📥 Pulling latest from GitHub..."
 if ! git pull --quiet origin main 2>&1; then
   echo "⚠️  Git pull failed — you may not have the latest version."
-  echo "   Check for merge conflicts or network issues."
-  read -p "   Continue anyway? (y/n) " -n 1 -r
-  echo
-  [[ $REPLY =~ ^[Yy]$ ]] || exit 1
+  if [ -t 0 ]; then
+    read -p "   Continue anyway? (y/n) " -n 1 -r
+    echo
+    [[ $REPLY =~ ^[Yy]$ ]] || exit 1
+  else
+    echo "   Non-interactive mode — continuing with local state."
+  fi
 fi
 
-# Parse state in one python3 call
-read -r DAY DATE LOCATION GOLD STATUS ACTIVE_DM WEEK < <(python3 -c "
-import json, sys
+# Parse all state in one python3 call using null-byte separator
+_parse() {
+  python3 -c "
+import json
 s = json.load(open('$STATE'))
-fields = [
-    str(s['in_game_day']),
-    s['calendar_date'],
-    s['location'],
-    str(s['party_gold']['total']),
-    s['campaign_status'],
-    s['active_dm'],
-    s['current_week_file']
-]
-# Use tab separator to handle spaces in values
-print('\t'.join(fields))
-" 2>/dev/null | tr '\t' '\n' | {
-  read -r DAY; read -r DATE; read -r LOCATION; read -r GOLD; read -r STATUS; read -r ACTIVE_DM; read -r WEEK
-  echo "$DAY" "$DATE" "$LOCATION" "$GOLD" "$STATUS" "$ACTIVE_DM" "$WEEK"
-}) 2>/dev/null
+print(s['in_game_day'])
+print(s['calendar_date'])
+print(s['location'])
+print(s['party_gold']['total'])
+print(s['campaign_status'])
+print(s['active_dm'])
+print(s['current_week_file'])
+" 2>/dev/null
+}
 
-# Fallback: parse individually if the above fails
+{
+  IFS= read -r DAY
+  IFS= read -r DATE
+  IFS= read -r LOCATION
+  IFS= read -r GOLD
+  IFS= read -r STATUS
+  IFS= read -r ACTIVE_DM
+  IFS= read -r WEEK
+} < <(_parse)
+
 if [ -z "${DAY:-}" ]; then
-  DAY=$(python3 -c "import json; print(json.load(open('$STATE'))['in_game_day'])" 2>/dev/null || echo "?")
-  DATE=$(python3 -c "import json; print(json.load(open('$STATE'))['calendar_date'])" 2>/dev/null || echo "?")
-  LOCATION=$(python3 -c "import json; print(json.load(open('$STATE'))['location'])" 2>/dev/null || echo "?")
-  GOLD=$(python3 -c "import json; print(json.load(open('$STATE'))['party_gold']['total'])" 2>/dev/null || echo "?")
-  STATUS=$(python3 -c "import json; print(json.load(open('$STATE'))['campaign_status'])" 2>/dev/null || echo "?")
-  ACTIVE_DM=$(python3 -c "import json; print(json.load(open('$STATE'))['active_dm'])" 2>/dev/null || echo "dm-storyteller")
-  WEEK=$(python3 -c "import json; print(json.load(open('$STATE'))['current_week_file'])" 2>/dev/null || echo "?")
+  echo "❌ Failed to parse party-state.json — file may be malformed."
+  echo "   Validate with: python3 -m json.tool $STATE"
+  exit 1
 fi
 
 # DM selection
@@ -80,10 +77,7 @@ else
   esac
 fi
 
-# Verify DM file exists
-if [ ! -f "$CAMPAIGN_DIR/dm/${DM_FILE}.md" ]; then
-  echo "⚠️  DM file dm/${DM_FILE}.md not found — continuing anyway"
-fi
+[ -f "$CAMPAIGN_DIR/dm/${DM_FILE}.md" ] || echo "⚠️  DM file dm/${DM_FILE}.md not found — continuing anyway"
 
 # Display campaign state
 echo ""
@@ -99,7 +93,7 @@ echo "📋 $STATUS"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
 # Warn about uncommitted local changes
-if ! git diff --quiet || ! git diff --staged --quiet || [ -n "$(git ls-files --others --exclude-standard)" ]; then
+if ! git diff --quiet 2>/dev/null || ! git diff --staged --quiet 2>/dev/null || [ -n "$(git ls-files --others --exclude-standard 2>/dev/null)" ]; then
   echo ""
   echo "⚠️  You have uncommitted local changes:"
   git status --short
@@ -118,9 +112,8 @@ echo ""
 echo "   $RESUME_PROMPT"
 echo ""
 
-# Copy to clipboard
+# Copy to clipboard (macOS)
 echo "$RESUME_PROMPT" | pbcopy 2>/dev/null && echo "📋 Copied to clipboard — just paste and hit Enter!" || echo "💡 Copy the prompt above and paste it into chat."
 echo ""
 
-# Launch kiro-cli
 exec kiro-cli chat
