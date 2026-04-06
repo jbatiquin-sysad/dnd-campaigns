@@ -3533,10 +3533,151 @@ Vaelith handed over the **activation sequence** — the missing piece of the war
 
 ### Scene Images This Arc
 
-- `gen-scenes/node11-repaired.png` — The Reconstruction of Sethrak's Threshold (wide-angle, golden light column, wraiths dissolving)
+- `genai-scenes/node11-repaired.png` — The Reconstruction of Sethrak's Threshold
+- `genai-scenes/ashenmere-valley.png` — The Ashenmere Valley, ruined Temple of Quiet Passage
+- `genai-scenes/dawnwatch-autumn.png` — Homestead in autumn, tower complete
+- `genai-scenes/dawnwatch-winter.png` — Homestead in deep winter, Vaelith on the tower
+- `genai-scenes/dawnwatch-fireworks.png` — Year's End fireworks celebration
+- `genai-scenes/dawnwatch-spring.png` — First day of spring, 1248 AS
 
 ### Audio This Arc
 
-- `speeches/Ward-Light Hymn.mp3` — Orindel's hymn, composed at Greyveil Pass
+- `songs/Ward-Light Hymn.mp3` — Orindel's hymn, composed at Greyveil Pass
+- `songs/Seventeen Hammerdown.mp3` — Ashen Veil funeral hymn, sung at Ashenmere graves
+- `songs/Candleflute Winter.mp3` — Pip's first original composition, Hearthwatch night
+- `songs/Longest Night End.mp3` — Orindel's winter hymn, "For the Longest Night"
+
+---
+
+## CAMPAIGN STATUS — Session 5 (Storyteller), Day 360 — Year's End 1247 AS
+
+**Party:** The Dawnwatch, Level 3, 8 members + Vaelith (homestead resident)
+**Location:** Dawnwatch Homestead, Fenhollow
+**In-Game Day:** 360 | **Calendar:** 30th Thawsend, 1247 AS — Year's End
+**DM:** Mara Solenne, The Storyteller
+**Party Funds:** ~6,530 gp
+**Provisions:** Fully stocked for winter. 90+ days preserved stores.
+
+### ARC 2 — COMPLETE. ALL 7 BARROWS SEALED.
+
+| # | Barrow | Sealed | Notes |
+|---|--------|--------|-------|
+| 1 | Keth-Varos | Pre-expedition | |
+| 2 | Vel Tharis | Pre-expedition | |
+| 3 | Drowned Barrow | Day 155 | Fenhollow Marshes. Tidal access. |
+| 4 | Thornhallow Ossuary | Day 159 | Deep Thornveil. Preservation wards. Clay vessel undisturbed. |
+| 5 | Mirren's Rest | Day 168 | Mirren River island. River resonance basin. |
+| 6 | Ashenmere Catacombs | Day 177 | **Vigil Heartstone discovered (1/7).** Aldric's quest resolved. Greymoor garrison posted. |
+| 7 | Salt Crypts | Day 189 | Coast S of Salthollow. Salt-preserved. |
+
+**Zero combat across entire barrow circuit. Zero casualties.**
+
+### Vigil Heartstone
+
+- 1 of 7 known ward network amplifiers. Active, connected, protected by pre-Sundering recognition ward.
+- Location: Ashenmere Catacombs vault. Greymoor garrison posted at temple site.
+- 6 more Heartstones exist — locations unknown. Field Manual may reference them.
+
+### Dawnwatch Tower — BUILT (Day 233)
+
+- 4 levels: ground (storage), Level 2 (enchanting workshop + glass furnace), Level 3 (inscription desk + jeweler's atelier), Level 4 (library, 12 books)
+- Rooftop lookout ring with iron railings, telescope (~8x magnification), signal beacon
+- Ward-glyph alarm perimeter
+
+### Homestead — Fully Developed
+
+Main house (loom + tailoring desk, Tessa's loft upgraded), tower, alchemy shed (tinkerer's workstation + Vaelith's loft), forge, smokehouse, tannery, stable/toolshed, root cellar (mushroom cultivation), goat pen, chicken coop, beehives (3 + second rack), herb garden (doubled, ghost-nettle shade), Mira's garden (built, spring planting), school (foundation only). Passive income: 35–45 gp/week.
+
+### All Weapons Enchanted
+
+| Weapon | Owner | Enchantment |
+|--------|-------|-------------|
+| Dawnwatch Longsword | Zaryth | Magical, Warding Edge (+2 AC reaction 1/short rest), resonance bond |
+| Yew Quarterstaff | Bram | Magical, arcane focus |
+| Short sword | Mira | Shadow Fang — magical, crit blinds 1 round |
+| Light crossbow | Mira | Whisper Bolt — magical, silent attacks |
+| Warhammer | Aldric | Hearthstone — magical, 1/day self-heal 1d4 on hit |
+| Rapier | Thessaly | Veil Pierce — magical, advantage vs undetected targets |
+| Mace | Orindel | Shepherd's Strike — magical, 1/day push 10 ft on hit |
+| Yew Shortbow | Orindel | True Flight — magical, ignore half cover |
+| Short sword | Pip | Spark Edge — magical, 1/day +1d4 fire on hit |
+
+### All Members Equipped
+
+- Left hand: Dawnwatch signet ring (ward-network attuned, resonance pulse)
+- Right hand: Iron purpose ring (individual minor enchantment)
+- Neck: Quartz amulet (individual cantrip)
+- Armor upgrades: vambraces (Mira, Thessaly, Pip, Zaryth), greaves (Zaryth, Aldric), padded underlayers (Zaryth, Aldric, Sylvara)
+
+### Professions — 19 Total, 18 Proficient, 1 In Training
+
+| Member | Professions |
+|--------|------------|
+| Zaryth | Alchemist ✔, Tinkerer ✔, Ward Engineer 🔄 (intermediate, ~115 days) |
+| Mira | Herbalist ✔, Leatherworker ✔ |
+| Aldric | Mason ✔, Miner ✔ |
+| Sylvara | Enchanter ✔, Glassblower ✔ |
+| Bram | Smith ✔, Woodcarver ✔ |
+| Thessaly | Tailor ✔, Weaver ✔ |
+| Orindel | Jeweler ✔, Hunter ✔, Hymn Composer ✔ |
+| Pip | Inscriber ✔, Cook ✔, Flutist ✔ |
+
+### Proficiency Milestones This Arc
+
+| Member | Skill | Day |
+|--------|-------|-----|
+| Zaryth | Tinkerer | Day 174 |
+| Mira | Leatherworker | Day 181 |
+| Bram | Woodcarver | Day 182 |
+| Pip | Flutist | Day 183 |
+| Thessaly | Weaver | Day ~233 |
+| Sylvara | Glassblower | Day ~233 |
+
+### Library — 12 Books (Tower Level 4)
+
+Hearthcoast Flora, The Mason's Companion, Principles of Metallurgy, A Practical Guide to Enchantment, The Glassmaker's Art, Inscriber's Manual: Inks & Scrolls, Songs of the Hearthcoast, Field Medicine & Herbcraft, Pre-Sundering History: A Primer, The Weaver's Pattern Book, Bestiary of the Hearthcoast, Civic Law of the River Basin
+
+### Allies — New This Arc
+
+| NPC | Role | Location |
+|-----|------|----------|
+| Vaelith | Last Warden of the Vigil, homestead resident | Alchemy shed loft |
+| Corran Ashward | Village headman, Cape Ashward | Ashward's Landing |
+| Sister Venn | Priestess, Chapel of the Marsh Light | Fenhollow |
+| Sable Fen | Thornwatch guide | Fenhollow Marshes |
+| Donal Wick | River boatman | Harrowgate |
+| Tarn Gully | Fishing boat | Salthollow |
+
+### Winter Celebrations
+
+- **Hearthwatch** (Day 270) — Modest. Stories by the hearth. Pip's winter melody.
+- **Longnight Eve** (Day 300) — Feast. Orindel's winter hymn. Vaelith's vigil.
+- **Thaw Prayer** (Day 330) — Candles in every window. Prayer flag on the tower.
+- **Year's End** (Day 360) — Full celebration. 40 guests from Fenhollow. Fireworks (Zaryth + Bram). Pip performs from the tower.
+
+### Open Threads
+
+**Ward Network:**
+- 3 nodes tentatively identified: Node 1 (volcanic island S of Veldmere), Node 5 (western headland/Stormcape), Node 8 (upper Mirren River)
+- 7 nodes unidentified: 2, 3, 4, 6, 7, 13, 14
+- Vigil Heartstones: 1/7 found. 6 locations unknown. Field Manual cross-reference needed.
+- Warden's Forge — 2.5 blocks raw resonance stone remaining
+- Marsh Light phenomenon — possible ward energy surface manifestation. Chapel may mark pooling site.
+
+**Personal:**
+- Zaryth's ruined signet ring — his fallen house, still unspoken
+- Aldric's Order of the Ashen Veil — quest RESOLVED. May rebuild chapel someday.
+- Orindel's street children — ongoing, Tomas's legacy
+- Mira's garden — BUILT. Spring planting ahead.
+- Pip's education — growing. First original composition. Scroll scribing achieved.
+- Bram's school — foundation laid. Construction next.
+- Thessaly's list — complete. What's next? She stayed. She weaves.
+- Sylvara's notebook — the record of everything. Now has a library.
+
+**World:**
+- Archivist Seren Voss — missing, defanged but unresolved
+- Deep vaults beneath Aelindra — what's sealed, should any be opened?
+- Three sealed ruins in Fenhollow Marshes — purpose unknown
+- The Watcher (Sending Stone contact) — silent since ward repairs. Watching?
 
 ---
