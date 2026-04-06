@@ -8,52 +8,136 @@
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| **Total** | **~4,644 gp** | |
-| Carried (travel fund) | 600 gp | On person during expeditions |
-| Homestead reserves | 4,044 gp | Stored at Dawnwatch Homestead |
+| **Total** | **~5,223 gp** | |
+| Carried (expedition fund) | ~1,477 gp | On person / in party chest |
+| Homestead reserves | ~3,746 gp | Stored at Dawnwatch Homestead (includes ~70 gp passive income accrued) |
 
 ---
 
-## Provisions
+## Provisions (Carried — Expedition)
 
 | Item | Quantity | Notes |
 |------|----------|-------|
-| Smoked travel rations | 18 days | Orindel's game, Tessa's preservation |
+| Smoked travel rations | ~44 days | Venison, boar, supplemented by fresh game daily |
 | Healing Potions | 2 | Zaryth (1), Mira (1) |
 | Healer's Kits | 3 | Aldric (1), Orindel (1), Mira (1) |
 | Crossbow bolts (Mira) | Full | Restocked Aelindra |
 | Crossbow bolts (Thessaly) | Full | Restocked Aelindra |
-| Antitoxin vials | 1 | Zaryth carrying |
+| Broadhead arrows (Orindel) | 40 | Iron heads, pheasant-fletched, ash shafts |
+| Waterskins | 8 | Leather, 1 gallon each |
 
 ---
 
-## Alchemy Stores (Homestead)
+## Alchemy Stores (Carried — Expedition)
 
-| Item | Quantity |
-|------|----------|
-| Healing poultice | 12 |
-| Alertness tincture | 6 |
-| Stimulant tonic | 2 |
-| Basic antitoxin | 3 |
-| Alchemist's fire | 2 |
-| Catalyst compound (research) | 8 |
-| Holy water | 6 |
-| Oil flasks | 12 |
+| Item | Carried | At Homestead |
+|------|---------|-------------|
+| Healing poultice | 16 | 2 |
+| Alertness tincture | 6 | 0 |
+| Stimulant tonic | 5 | 1 |
+| Basic antitoxin | 5 | 0 |
+| Alchemist's fire | 3 | 1 |
+| Ghost-nettle analgesic | 1 | 0 |
+| Holy water | 4 | 2 |
+| Oil flasks | 8 | 4 |
+| Healing potions | 2 | 0 |
+| Catalyst compound (research) | 0 | 8 |
+
+**Alchemy field kit (Zaryth carries):** Mortar, pestle, 6 empty vials, binding agents, basic reagents. Can brew 2–3 poultices/tinctures in the field.
 
 ---
 
-## Materials (Homestead + Forge)
+## Camping Gear (Carried — Expedition)
 
-| Material | Quantity | Location |
-|----------|----------|----------|
-| Steel ingots | 4 (3 with Bram, 1 at homestead) | Carried / Homestead |
-| Iron ore | 2 loads (unprocessed) | Homestead |
-| Tin ore | 1 load | Homestead |
-| Copper traces | Marked, unextracted | Homestead vicinity |
-| Slate | 1 cartload | Homestead |
-| Limestone | ~30 blocks | Homestead |
-| Red clay | 2 loads | Homestead |
-| Raw resonance stone | 2.5 blocks | Warden's Forge (stored) |
+| Item | Qty | Notes |
+|------|-----|-------|
+| Canvas tents (4-person) | 2 | Waxed canvas, pole-and-stake. Sleeps 8. |
+| Bedrolls | 8 | Wool-stuffed, oilcloth outer |
+| Cooking pot (large, iron) | 1 | Camp stew for 8 |
+| Cooking pot (small) | 1 | Alchemy/tea/individual |
+| Iron skillet | 1 | Pip insisted |
+| Mess kits (bowl, cup, spoon) | 8 | Tin, stackable |
+| Rope, hempen (50 ft) | 2 | One per tent group |
+| Grappling hook | 1 | Barrow access |
+| Pitons (iron) | 10 | Climbing, anchoring |
+| Tinderbox | 2 | Fire starting |
+| Torches | ~14 | Started with 20, used 6 in barrows |
+| Mining lanterns | 3 | Zaryth, Aldric, Orindel |
+| Oil flasks (lantern) | 6 | |
+| Fishing tackle | 2 | Orindel + Pip |
+| Hatchet | 1 | Firewood, camp clearing |
+| Folding shovel | 1 | Barrow sealing, camp latrine |
+| Canvas tarp (10x10) | 1 | Rain cover, ground sheet |
+| Salt (5 lbs) | 1 | Meat preservation |
+| Sacks (large) | 4 | Ore, foraged goods, game |
+
+---
+
+## Transport
+
+| Asset | Status | Notes |
+|-------|--------|-------|
+| **Anvil (pack mule)** | With party | Marsh-bred, brown, stocky, opinionated. Carries gear + ore. |
+| Mule tack + panniers | Equipped | For ore/materials |
+| Mule feed | ~40 days remaining | Grain supplement, grazes otherwise |
+| *Tern's Wing* | At anchor, Cape Ashward | Return passage to Aelindra available |
+| Pigeon (Tomas) | With Orindel | Paired to Bram in Duskport |
+
+---
+
+## Materials (Carried on Anvil — Expedition)
+
+| Material | Quantity | Notes |
+|----------|----------|-------|
+| Steel ingot | 1 | Expedition carry |
+| Iron ingot | 1 (partial — used for arrowheads, stakes) | Expedition carry |
+| Bronze alloy | ~8 lbs | Expedition carry |
+| High-grade iron ore | 1 load | Mined at Greymoor quarry |
+| Silver-bearing quartz (gem-grade) | 2 chunks | Mined at Greymoor |
+| Quartz with iron inclusions | Several chunks | Aldric's finds, Iron Road |
+| Refined silver | ~2 oz | Smelted from galena at Greymoor |
+| Ashwood lengths | 2 | Weapon hafts, staff blanks |
+| Black walnut heartwood | 1 section (rare) | Bram's box project — in progress |
+| Foraged herbs (mixed) | Various bundles | Comfrey, yarrow, arnica, mountain thyme, elderflower, etc. |
+
+## Materials (At Homestead)
+
+| Material | Quantity | Notes |
+|----------|----------|-------|
+| Steel ingot | 1 | Reserve |
+| Iron ingot | 1 | Reserve |
+| Bronze alloy | ~7 lbs | Reserve |
+| Slate | 1 cartload | Building material |
+| Limestone | ~30 blocks | Building material |
+| Red clay | 2 loads | Building material |
+| Raw resonance stone | 2.5 blocks | Warden's Forge (stored remotely) |
+| Elm | 1 load | Shield blanks, hafts, furniture |
+| Ashwood | Partial | Various uses |
+| Oak heartwood | Partial | Various uses |
+
+---
+
+## Craft Supplies (Carried — Expedition)
+
+| Kit | Carrier |
+|-----|---------|
+| Woodcarving kit | Bram |
+| Leatherworking kit | Mira |
+| Smith's tools (portable — hammer, tongs, file) | Bram |
+| Jeweler's tools | Orindel |
+| Inscription kit + ink vials (oak gall x2, ghost-nettle x1, walnut hull, elderberry) | Pip |
+| Alchemy field kit | Zaryth |
+| Ward instruments (compass, probe, frequency fork) | Zaryth |
+| Fishing tackle (x2) | Orindel + Pip |
+
+---
+
+## Scrolls (Carried)
+
+| Scroll | Level | Effect | Carrier |
+|--------|-------|--------|---------|
+| Scroll of Sleep | 1st | 5d8 HP pool, no save, 1 min | Pip |
+| Scroll of Web | 2nd | 20-ft cube, STR save or restrained, 1 hr, flammable | Pip |
 
 ---
 
@@ -68,22 +152,13 @@
 | 8x Fenhollow commendation letters | Brenn + Venn + Galley | Active |
 | 8x Veldmere commendation letters | Fell + Ashvale + Kelwick | Active |
 | 1x Temple commendation | Sister Maren | Active |
+| 1x Greymoor letter of passage (Ashenmere) | Judge Kess | Active — authorizes entry to sealed temple site |
 | Priority river clearance | All ports | Active |
-| Civic barge priority passage | Greymoor/Harrowgate river, 60 days | ❌ EXPIRED (~Day 78) — renew at Kellan or Kess |
+| Civic barge priority passage | Greymoor/Harrowgate river, 60 days | ✔ RENEWED at Harrowgate (~Day 135) |
 | Overland travel writ | Salthollow–Fenhollow, 30 days | ❌ EXPIRED (~Day 58) — renew at Ashworth |
 | Marsh passage writ | Fenhollow, 30 days | ❌ EXPIRED (~Day 62) — renew at Brenn |
 | Harbor priority passage | Veldmere, indefinite | Active |
 | Sylvara Archive Level 3 access | Aelindra, permanent | Active |
-
----
-
-## Transport
-
-| Asset | Status | Notes |
-|-------|--------|-------|
-| *Tern's Wing* | At anchor, Cape Ashward | Return passage to Aelindra available |
-| Civic barge priority | 60-day pass | Greymoor/Harrowgate river system |
-| Pigeon (Tomas) | With Orindel | Paired to Bram in Duskport |
 
 ---
 
@@ -100,6 +175,7 @@
 | Edric's seal copy | Aelindra | Archivist-General seal evidence |
 | Kael's back-door map + escape letter | Aelindra | Root access evidence (Mira) |
 | Pale Quill papers (1 copy) | Aelindra Archive vault | Necromantic research |
+| Barrow location map (oilcloth) | Edra's research, copied by Sylvara | 7 sites, waterproof ink |
 
 ---
 
@@ -109,15 +185,19 @@
 |------|---------|-------|
 | Sending Stone | Zaryth | Paired with Vaelith |
 | Ward Compass | Zaryth | Vigil instrument, reads node % |
+| Copper resonance probe | Zaryth | Handmade field tool |
+| Copper frequency fork | Zaryth | Field instrument — frequency band reading |
+| Salt-ward beeswax kit | Zaryth | For coastal copper circuits |
 | Vigil Field Manual | Sylvara | Complete doc for all 14 nodes |
 | Ward repair activation sequence | Sylvara | Vaelith's book |
-| Copper resonance probe | Zaryth | Handmade field tool |
-| Salt-ward beeswax kit | Zaryth | For coastal copper circuits |
 | Staff of the Moth | Sylvara (research) | Necromancy focus |
 | Vigil warden medallion | Party | Iron, closed eye, from collapsed warden |
 | Resonance key | Sylvara | Unchained Compact ward-collapse device |
 | Ward-solvent vial | Aldric (inner pocket) | DANGEROUS — dissolves ward-marks |
 | Iron disc (expended) | Zaryth | Serevane's mark, used |
+| Dawnwatch Longsword (enchanted) | Zaryth | Magical, Warding Edge (+2 AC reaction 1/short rest), resonance bond |
+| Yew Quarterstaff (enchanted) | Bram | Magical, arcane focus, ward-glyph shimmer |
+| Yew Shortbow (sinew-backed) | Orindel | Well-made, Bram-crafted |
 
 ---
 
@@ -129,12 +209,14 @@
 | Size | 4 acres |
 | Caretaker | Tessa Marsh (+ Ren 12, Lila 9) |
 | Monthly cost | 5 gp |
-| Structures | Main house, alchemy shed, forge, goat pen, chicken coop, beehives (3), school (foundation laid) |
-| Passive income | 16–22 gp/week |
+| Structures | Main house, alchemy shed, forge, smokehouse (NEW), goat pen, chicken coop, beehives (3 + second rack NEW), root cellar (NEW), school (foundation laid) |
+| Herb garden | Doubled (NEW) — medicinal + ghost-nettle test plot at north wall |
+| Passive income | **35–45 gp/week** (projected, once new improvements mature) |
 | Delivery | Wynn Dodd (weekly cart, 2 gp/week) |
-| Apothecary contract | Master Haldren (15 gp/week, 10 herb bundles) |
-| Game meat sales | 3 gp/week (Orindel's surplus via Dodd) |
+| Apothecary contract | Master Haldren (30 gp/week when doubled garden matures, currently 15 gp/week) |
+| Game meat sales | ~5 gp/week (Orindel's snares, Ren checking weekly) |
+| Emergency contact | Captain Brenn, Fenhollow. Tomas (pigeon) to Orindel. |
 
 ---
 
-*Last updated: Day 152, 2nd Reaptide, 1247 AS — Dawnwatch Homestead, Fenhollow*
+*Last updated: Day 174, 24th Reaptide, 1247 AS — Greymoor (barrow expedition in progress)*
