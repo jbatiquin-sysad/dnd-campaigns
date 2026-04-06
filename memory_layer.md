@@ -3426,7 +3426,7 @@ Vaelith handed over the **activation sequence** — the missing piece of the war
 
 **Party:** The Dawnwatch, Level 3, 8 members + Vaelith (travelling ally)
 **Location:** Ashward's Landing, Cape Ashward, NE coast
-**In-Game Day:** 120 | **Calendar:** 28th Highsun, 1247 AS — Forgeday
+**In-Game Day:** 120 | **Calendar:** 28th Solstice, 1247 AS — Forgeday
 **DM:** Mara Solenne, The Storyteller
 **Party Funds:** ~4,644 gp
 **Provisions:** 18 days

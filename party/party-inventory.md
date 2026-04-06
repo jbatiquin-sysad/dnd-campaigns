@@ -137,4 +137,4 @@
 
 ---
 
-*Last updated: Day 120, 28th Highsun 1247 AS — Cape Ashward*
+*Last updated: Day 152, 2nd Reaptide, 1247 AS — Dawnwatch Homestead, Fenhollow*

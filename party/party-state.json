@@ -1,10 +1,10 @@
 {
   "session": 5,
   "active_dm": "dm-storyteller",
-  "in_game_day": 120,
-  "calendar_date": "28th Highsun, 1247 AS",
-  "calendar_day_of_week": "Forgeday",
-  "current_week_file": "week-11",
+  "in_game_day": 152,
+  "calendar_date": "2nd Reaptide, 1247 AS",
+  "calendar_day_of_week": "Fieldday",
+  "current_week_file": "week-13",
   "week_boundaries": {
     "week-01": { "days": "1-2", "turns": "S1+S2" },
     "week-02": { "days": "2-9", "turns": "S3 T1-10" },
@@ -16,16 +16,18 @@
     "week-08": { "days": "60-68", "turns": "S5" },
     "week-09": { "days": "69-80", "turns": "S5" },
     "week-10": { "days": "81-108", "turns": "S5" },
-    "week-11": { "days": "108-120", "turns": "S5 (Storyteller)" }
+    "week-11": { "days": "108-120", "turns": "S5 (Storyteller)" },
+    "week-12": { "days": "121-135", "turns": "S5 (Storyteller)" },
+    "week-13": { "days": "136-152", "turns": "S5 (Storyteller)" }
   },
   "party_name": "The Dawnwatch",
   "insignia": "Rising sun (8 rays), broken chain below horizon line, circular border",
-  "location": "Ashward's Landing, Cape Ashward — outer ward ring COMPLETE",
-  "campaign_status": "ARC 1 COMPLETE (7/7 targets). ARC 2 — OUTER WARD RING COMPLETE. 4/4 known nodes repaired (Node 12: 72%, Node 11: 75%, Node 9: 78%, Node 10: 80%). Cascade ended. 2/7 barrows sealed. 5 barrows + nodes 1-8,13,14 remain.",
+  "location": "Dawnwatch Homestead, Fenhollow",
+  "campaign_status": "ARC 1 COMPLETE (7/7 targets). ARC 2 — OUTER WARD RING COMPLETE. 4/4 known nodes repaired. Cascade ended. 3 unknown nodes tentatively identified (1, 5, 8). 7 unidentified (2, 3, 4, 6, 7, 13, 14). 2/7 barrows sealed. 5 unsecured (locations mapped). Homestead upgraded. Preparing barrow expedition.",
   "party_gold": {
-    "total": 4644,
+    "total": 4957,
     "carried": 600,
-    "homestead_reserves": 4044
+    "homestead_reserves": 4357
   },
   "materials": {
     "steel_ingots": 4,

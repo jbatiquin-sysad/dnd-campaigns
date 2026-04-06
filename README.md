@@ -114,6 +114,8 @@ duskport-campaign/
 ├── sessions/
 │   ├── README.md                ← save convention
 │   ├── week-01.md through week-11.md
+├── chrono/
+│   └── calendar-guide.md        ← 12-month calendar, seasons, festivals, timeline
 ├── maps/
 │   └── map-known-world.md       ← world map, distances, ward nodes
 ├── combat/
@@ -139,10 +141,12 @@ duskport-campaign/
 | 5 | 28–32 | 28th Greenthaw–2nd Brightmere | Veldmere & The Naming | Wildcard |
 | 6 | 33–45 | 3rd–15th Brightmere | Sealed Quorum → Root → Homestead | Wildcard |
 | 7 | 46–59 | 16th–29th Brightmere | The Necromancer's Trail | Chronicler |
-| 8 | 60–68 | 30th Brightmere–8th Brightmere | Operation Living-Dead (Aelindra) | Chronicler |
-| 9 | 69–80 | 9th–20th Brightmere | The Ward Cascade | Chronicler |
-| 10 | 81–108 | 21st Brightmere–18th Highsun | Homestead & Road to Greyveil | Chronicler |
-| 11 | 108–120 | 18th–28th Highsun | The Four Nodes — Outer Ward Ring Complete | Storyteller |
+| 8 | 60–68 | 30th Brightmere–8th Highsun | Operation Living-Dead (Aelindra) | Chronicler |
+| 9 | 69–80 | 9th–20th Highsun | The Ward Cascade | Chronicler |
+| 10 | 81–108 | 21st Highsun–18th Solstice | Homestead & Road to Greyveil | Chronicler |
+| 11 | 108–120 | 18th–28th Solstice | The Four Nodes — Outer Ward Ring Complete | Storyteller |
+| 12 | 121–135 | 1st–15th Goldmere | Cape Ashward → Home (side hustles) | Storyteller |
+| 13 | 136–152 | 16th Goldmere–2nd Reaptide | Homestead Weeks 1–2 (forging, enchanting, preparation) | Storyteller |
 
 ## Campaign Arcs
 
@@ -187,16 +191,17 @@ The outer ward network's known nodes have been repaired. The cascade is ended.
 
 ## Current Status — Session 5 (Storyteller)
 
-**Date:** 28th Highsun, 1247 AS (Day 120)
+**Date:** 2nd Reaptide, 1247 AS (Day 152)
 **DM:** Mara Solenne, The Storyteller
-**Location:** Ashward's Landing, Cape Ashward — outer ward ring COMPLETE
-**Party Level:** 3 | **Party Gold:** ~4,644 gp
-**Homestead:** Operational, self-sustaining. Passive income 16–22 gp/week. Tessa managing.
+**Location:** Dawnwatch Homestead, Fenhollow
+**Party Level:** 3 | **Party Gold:** ~4,957 gp
+**Homestead:** Upgraded — root cellar, doubled herb garden, second beehive rack. Projected passive income 35–45 gp/week. Tessa managing.
 
 **Outer Ward Ring:** COMPLETE. 4/4 known nodes repaired. Cascade ended. Network stable.
-**Barrows:** 2/7 sealed. 5 remaining.
-**Vaelith:** Travelling with party. Teaching Zaryth ward engineering.
+**Unknown Nodes:** 3 tentatively identified (1, 5, 8). 7 unidentified (2, 3, 4, 6, 7, 13, 14).
+**Barrows:** 2/7 sealed. 5 unsecured (locations mapped).
+**Vaelith:** At homestead. Teaching Zaryth ward engineering + tinkering.
 
-**Next:** Return to Aelindra or homestead. Seal remaining barrows. Survey unknown nodes (1–8, 13, 14). Live.
+**Next:** Seal remaining 5 barrows before winter (first frost ~Day 241). Survey unknown nodes. Live.
 
 **Inter-City Network:** Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Ashworth (Salthollow) — Brenn (Fenhollow) — Fell (Veldmere) — Serevane (Aelindra counter-intel) — Dalla (Aelindra) — Veyra Solund (Archivist-General) — Edric Aldenmere (Archive reform) — Revka/Silver Chain (maritime) — Cole (Greymoor garrison) — Corran Ashward (Cape Ashward) — Tessa Marsh (Homestead)

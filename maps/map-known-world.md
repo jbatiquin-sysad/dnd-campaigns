@@ -21,7 +21,7 @@
                                        │
               ⊗ Node 11 (75%) ✔           │           ⊗ Node 10 (80%) ✔
          (Sethrak's Threshold)         │          (Cape Ashward)
-            RECONSTRUCTED              │          ★ PARTY IS HERE
+            RECONSTRUCTED              │
             ← 2 days from Forge        │
                                        │
                           The Greypeak Mountains
@@ -48,7 +48,7 @@
         │             │  │  │          ┌────┴─────┐  │(university) │
         │    ⌂ Dawnwatch │  │          │HARROWGATE│  └──────┬──────┘
         │    Homestead   │  │          │ (trade   │         │
-        │             │  │  │          │  inland) │   Scholars'
+        │  ★ PARTY HERE  │  │          │  inland) │   Scholars'
         │    ☒ Barrowfen │  │          └────┬─────┘    Coastal
         │    ☒ Keth-Varos│  │               │           Road
         │    (🔒 SEALED) │  │               │            │
@@ -230,6 +230,7 @@ Ancient pre-Sundering road running north from Greypeak Pass along the highland r
 | **Greyveil Pass (Node 12)** | ~13 days total | — | Greymoor (5d) → Greypeak Pass (3d) → Vigil Road (4–5d) |
 | **Warden's Forge** | ~15 days total | — | Greyveil Pass + 2 days north on Vigil Road |
 | **Sethrak's Threshold (Node 11)** | ~15 days total | — | Warden's Forge + 2 days (or Greyveil + branch NE) |
+| **Cape Ashward (Node 10)** | — | ~5–6 days from Tidemeet (via Aelindra + 2 days ship) | NE coastal headland. Ashward's Landing fishing village. |
 
 ---
 
@@ -296,7 +297,7 @@ The continental ward system has two layers:
 
 **Outer Ward:** 14 anchor nodes forming a perimeter around the continent. Pre-Sundering construction. Maintained by the Vigil of the Closed Eye until the Sundering. **OUTER RING COMPLETE — 4/4 known nodes repaired by the Dawnwatch. Cascade ended. Network stable and self-reinforcing.**
 
-### Known Nodes
+### Known Nodes (Repaired)
 
 | Node | Location | Status | Notes |
 |------|----------|--------|-------|
@@ -304,18 +305,35 @@ The continental ward system has two layers:
 | **Node 10** | Cape Ashward headland, NE coast | **80% ✔ REPAIRED** | Repaired by Dawnwatch. Highest reading. Standing stone singing. Fishing village of Ashward's Landing nearby. |
 | **Node 11** | Sethrak's Threshold (northern wastes) | **75% ✔ RECONSTRUCTED** | Cascade origin. Full reconstruction by Dawnwatch (6-anchor, Zaryth as Warden's Anchor). 14 ward-wraiths freed peacefully. Zero combat. |
 | **Node 12** | Greyveil Pass | **72% ✔ REPAIRED** | Repaired by Dawnwatch. Vaelith's vigil site. Ward dome stable. Entities withdrew voluntarily. |
-| Nodes 1–8, 13–14 | Unknown locations | Unknown | Vigil Field Manual contains full documentation for all 14 nodes. |
+
+### Unknown Nodes (Tentatively Identified)
+
+| Node | Field Manual Description | Tentative Location | Confidence | Notes |
+|------|--------------------------|-------------------|------------|-------|
+| **Node 1** | "The Anchor of the Southern Deep" — standing stone on a volcanic island, 3 days' sail south of nearest port | Volcanic island S of Port Veldmere | Medium | Revka/Silver Chain may have local knowledge |
+| **Node 5** | "The Watcher's Perch" — high cliff overlooking the western sea, where the ward-line turns inland | Western headland beyond Greymoor, possibly the Stormcape | Low | Unmapped territory |
+| **Node 8** | "The River's Memory" — submerged stone in the deepest bend of the great river, visible only when water runs low | Upper Mirren River, upstream of Harrowgate | Medium | Seasonal access — low water in late summer/autumn |
+
+### Unknown Nodes (Unidentified)
+
+| Nodes | Status |
+|-------|--------|
+| 2, 3, 4, 6, 7, 13, 14 | Descriptions exist in Vigil Field Manual. No geographic match yet. Require deeper Archive cartographic research or local knowledge from inter-city contacts. |
 
 ### Cascade Model
-**CASCADE ENDED.** All four known outer nodes repaired. Network stable and self-reinforcing. Remaining nodes (1-8, 13, 14) status unknown — Vigil Field Manual contains documentation for all 14 nodes. Future survey expeditions planned.
+**CASCADE ENDED.** All four known outer nodes repaired. Network stable and self-reinforcing. 3 additional nodes tentatively located (1, 5, 8). 7 nodes remain unidentified (2, 3, 4, 6, 7, 13, 14). Vigil Field Manual contains documentation for all 14 nodes. Long-term survey expeditions planned.
 
 ### Barrow Sites (from Edra Voss's research)
 
-| # | Site | Status |
-|---|------|--------|
-| 1 | Barrow of Keth-Varos (NE of Barrowfen) | **🔒 SEALED** |
-| 2 | Barrow of Vel Tharis (N of Aelindra) | **🔒 SEALED** |
-| 3–7 | Five additional sites (locations in Edra's research notes) | **Unsecured** — locations known to Sylvara |
+| # | Site | Location | Status | Est. Remains | Notes |
+|---|------|----------|--------|-------------|-------|
+| 1 | Barrow of Keth-Varos | NE of Barrowfen, Thornfield Road | **🔒 SEALED** | ~300 | Entrance collapsed + Arcane Lock |
+| 2 | Barrow of Vel Tharis | Coastal cliffs N of Aelindra | **🔒 SEALED** | ~400–500 | Sea cave collapsed + Arcane Lock |
+| 3 | Ashenmere Catacombs | Beneath ruined temple, hills E of Greymoor | **⚠️ UNSECURED** | ~200–300 | Site of Kael's necromantic attack. Sealed vault unexplored. Ties to Aldric's Order of the Ashen Veil. |
+| 4 | The Drowned Barrow | Fenhollow Marshes, near Three Sealed Ruins | **⚠️ UNSECURED** | ~250 | Tidal access only. Thornwatch knows the area. |
+| 5 | Thornhallow Ossuary | Deep Thornveil Forest, 3 days N of Fenhollow | **⚠️ UNSECURED** | ~350 | Forest interior, unmapped. |
+| 6 | The Salt Crypts | Coastal caves S of Salthollow | **⚠️ UNSECURED** | ~200 | Sea-level caves, salt-preserved. Accessible by boat. |
+| 7 | Mirren's Rest | River island in the Mirren, upstream of Harrowgate | **⚠️ UNSECURED** | ~400 | Most exposed site — river traffic passes daily. |
 
 ---
 
@@ -338,7 +356,11 @@ The continental ward system has two layers:
   │
   ↓ 2 days by ship (*Tern's Wing*)
   │
-⊗ Node 10 — Cape Ashward ✔ (80%, REPAIRED) ★ PARTY IS HERE
+⊗ Node 10 — Cape Ashward ✔ (80%, REPAIRED)
+  │
+  ↓ 14 days (ship to Aelindra → overland via Salthollow → Harrowgate → Fenhollow)
+  │
+⌂ Dawnwatch Homestead, Fenhollow ★ PARTY IS HERE
 ```
 
 **OUTER WARD RING: COMPLETE. All 4 known nodes repaired. Cascade ended.**

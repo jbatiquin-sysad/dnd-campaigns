@@ -20,6 +20,7 @@
 | Belt | Sending Stone | Paired with Vaelith |
 | Belt | Copper resonance probe | Handmade field tool |
 | Pack | Salt-ward beeswax kit | Vaelith-prepared, coastal circuits |
+| Pack | Mining lantern | Light bearer |
 | Pack | Antitoxin vial | |
 | Pack | Healing Potion (1x) | |
 | Pack | Eddan's harbor seal | Personal gift |
