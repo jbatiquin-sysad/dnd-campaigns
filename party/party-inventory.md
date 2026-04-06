@@ -8,9 +8,9 @@
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| **Total** | **~5,223 gp** | |
-| Carried (expedition fund) | ~1,477 gp | On person / in party chest |
-| Homestead reserves | ~3,746 gp | Stored at Dawnwatch Homestead (includes ~70 gp passive income accrued) |
+| **Total** | **~6,530 gp** | |
+| Carried | ~800 gp | Expedition/travel fund |
+| Homestead reserves | ~5,730 gp | Stored at Dawnwatch Homestead |
 
 ---
 
@@ -32,14 +32,14 @@
 
 | Item | Carried | At Homestead |
 |------|---------|-------------|
-| Healing poultice | 16 | 2 |
-| Alertness tincture | 6 | 0 |
-| Stimulant tonic | 5 | 1 |
-| Basic antitoxin | 5 | 0 |
-| Alchemist's fire | 3 | 1 |
-| Ghost-nettle analgesic | 1 | 0 |
-| Holy water | 4 | 2 |
-| Oil flasks | 8 | 4 |
+| Healing poultice | 36 | 0 |
+| Alertness tincture | 14 | 0 |
+| Stimulant tonic | 9 | 0 |
+| Basic antitoxin | 11 | 0 |
+| Alchemist's fire | 7 | 0 |
+| Ghost-nettle analgesic | 2 | 0 |
+| Holy water | 6 | 0 |
+| Oil flasks | 12 | 0 |
 | Healing potions | 2 | 0 |
 | Catalyst compound (research) | 0 | 8 |
 
@@ -219,4 +219,4 @@
 
 ---
 
-*Last updated: Day 174, 24th Reaptide, 1247 AS — Greymoor (barrow expedition in progress)*
+*Last updated: Day 360, 30th Thawsend, 1247 AS — Dawnwatch Homestead, Fenhollow (Year's End)*

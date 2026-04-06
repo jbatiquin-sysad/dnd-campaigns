@@ -329,11 +329,11 @@ The continental ward system has two layers:
 |---|------|----------|--------|-------------|-------|
 | 1 | Barrow of Keth-Varos | NE of Barrowfen, Thornfield Road | **🔒 SEALED** | ~300 | Entrance collapsed + Arcane Lock |
 | 2 | Barrow of Vel Tharis | Coastal cliffs N of Aelindra | **🔒 SEALED** | ~400–500 | Sea cave collapsed + Arcane Lock |
-| 3 | Ashenmere Catacombs | Beneath ruined temple, hills E of Greymoor | **⚠️ UNSECURED** | ~200–300 | Site of Kael's necromantic attack. Sealed vault unexplored. Ties to Aldric's Order of the Ashen Veil. |
-| 4 | The Drowned Barrow | Fenhollow Marshes, near Three Sealed Ruins | **⚠️ UNSECURED** | ~250 | Tidal access only. Thornwatch knows the area. |
-| 5 | Thornhallow Ossuary | Deep Thornveil Forest, 3 days N of Fenhollow | **⚠️ UNSECURED** | ~350 | Forest interior, unmapped. |
-| 6 | The Salt Crypts | Coastal caves S of Salthollow | **⚠️ UNSECURED** | ~200 | Sea-level caves, salt-preserved. Accessible by boat. |
-| 7 | Mirren's Rest | River island in the Mirren, upstream of Harrowgate | **⚠️ UNSECURED** | ~400 | Most exposed site — river traffic passes daily. |
+| 3 | Ashenmere Catacombs | Beneath ruined temple, hills E of Greymoor | **🔒 SEALED** | ~200–300 | Heartstone discovered. Greymoor garrison posted. Aldric's quest resolved. |
+| 4 | The Drowned Barrow | Fenhollow Marshes, near Three Sealed Ruins | **🔒 SEALED** | ~250 | Tidal access. Sealed Day 155. |
+| 5 | Thornhallow Ossuary | Deep Thornveil Forest, 3 days N of Fenhollow | **🔒 SEALED** | ~350 | Preservation wards. Clay vessel undisturbed. Sealed Day 159. |
+| 6 | The Salt Crypts | Coastal caves S of Salthollow | **🔒 SEALED** | ~200 | Salt-preserved. Natural halite deposit. Sealed Day 189. |
+| 7 | Mirren's Rest | River island in the Mirren, upstream of Harrowgate | **🔒 SEALED** | ~400 | River resonance basin. Sealed Day 168. |
 
 ---
 

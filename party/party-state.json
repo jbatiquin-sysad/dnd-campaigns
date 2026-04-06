@@ -1,9 +1,9 @@
 {
   "session": 5,
   "active_dm": "dm-storyteller",
-  "in_game_day": 152,
-  "calendar_date": "2nd Reaptide, 1247 AS",
-  "calendar_day_of_week": "Fieldday",
+  "in_game_day": 360,
+  "calendar_date": "30th Thawsend, 1247 AS (Year's End)",
+  "calendar_day_of_week": "Starday",
   "current_week_file": "week-13",
   "week_boundaries": {
     "week-01": { "days": "1-2", "turns": "S1+S2" },
@@ -18,33 +18,24 @@
     "week-10": { "days": "81-108", "turns": "S5" },
     "week-11": { "days": "108-120", "turns": "S5 (Storyteller)" },
     "week-12": { "days": "121-135", "turns": "S5 (Storyteller)" },
-    "week-13": { "days": "136-152", "turns": "S5 (Storyteller)" }
+    "week-13": { "days": "136-360", "turns": "S5 (Storyteller) — homestead arc + barrow circuit + winter" }
   },
   "party_name": "The Dawnwatch",
   "insignia": "Rising sun (8 rays), broken chain below horizon line, circular border",
   "location": "Dawnwatch Homestead, Fenhollow",
-  "campaign_status": "ARC 1 COMPLETE (7/7 targets). ARC 2 — OUTER WARD RING COMPLETE. 4/4 known nodes repaired. Cascade ended. 3 unknown nodes tentatively identified (1, 5, 8). 7 unidentified (2, 3, 4, 6, 7, 13, 14). 2/7 barrows sealed. 5 unsecured (locations mapped). Homestead upgraded. Preparing barrow expedition.",
+  "campaign_status": "ARC 1 COMPLETE (7/7 targets). ARC 2 COMPLETE — outer ward ring repaired (4/4 nodes), ALL 7 BARROWS SEALED. Vigil Heartstone discovered at Ashenmere (1/7 known). Dawnwatch Tower built. Winter survived. Year 1247 complete. 3 unknown nodes tentatively identified (1, 5, 8). 7 unidentified (2, 3, 4, 6, 7, 13, 14). All weapons enchanted. Library established (12 books). Homestead fully developed.",
   "party_gold": {
-    "total": 4957,
-    "carried": 600,
-    "homestead_reserves": 4357
-  },
-  "materials": {
-    "steel_ingots": 4,
-    "iron_ore": "2 loads (unprocessed)",
-    "tin_ore": "1 load",
-    "copper_traces": "marked, unextracted",
-    "slate": "1 cartload",
-    "limestone": "~30 blocks",
-    "red_clay": "2 loads",
-    "raw_resonance_stone": "2.5 blocks (at Warden's Forge)"
+    "total": 6530,
+    "carried": 800,
+    "homestead_reserves": 5730
   },
   "alchemy_stores": {
-    "healing_poultice": 12,
-    "alertness_tincture": 6,
-    "stimulant_tonic": 2,
-    "basic_antitoxin": 3,
-    "alchemist_fire": 2,
+    "healing_poultice": 36,
+    "alertness_tincture": 14,
+    "stimulant_tonic": 9,
+    "basic_antitoxin": 11,
+    "alchemist_fire": 7,
+    "ghost_nettle_analgesic": 2,
     "catalyst_compound_research": 8,
     "holy_water": 6,
     "oil_flasks": 12,
@@ -56,45 +47,79 @@
     "size": "4 acres",
     "caretaker": "Tessa Marsh (+ Ren 12, Lila 9)",
     "monthly_cost": 5,
-    "structures": ["main house", "alchemy shed", "forge", "goat pen", "chicken coop", "beehives (3)", "school (foundation laid)"],
-    "passive_income_weekly": "16-22 gp",
+    "structures": [
+      "main house (loom + tailoring desk, Tessa's loft upgraded)",
+      "Dawnwatch Tower (4 levels + lookout ring, telescope, ward-glyph alarm)",
+      "alchemy shed (tinkerer's workstation + Vaelith's loft)",
+      "forge",
+      "smokehouse",
+      "tannery/leatherworking shed",
+      "stable/toolshed (Anvil)",
+      "root cellar (mushroom cultivation)",
+      "goat pen",
+      "chicken coop",
+      "beehives (3 + second rack)",
+      "herb garden (doubled, ghost-nettle shade structure)",
+      "Mira's garden (ornamental + vegetable, spring planting)",
+      "school (foundation only)"
+    ],
+    "passive_income_weekly": "35-45 gp (contracts + game + honey)",
     "delivery_service": "Wynn Dodd (weekly cart, 2 gp/week)",
-    "apothecary_contract": "Master Haldren (15 gp/week, 10 herb bundles)"
+    "apothecary_contract": "Master Haldren (30 gp/week when doubled garden at full capacity)"
   },
   "professions": {
-    "zaryth": "Alchemist, Tinkerer (in training), Ward Engineer Apprentice (Vaelith)",
-    "mira": "Herbalist, Leatherworker (in training)",
-    "aldric": "Mason, Miner",
-    "sylvara": "Enchanter",
-    "bram": "Smith, Woodcarver (in training)",
-    "thessaly": "Tailor",
-    "orindel": "Jeweler, Hunter, Hymn Composer",
-    "pip": "Inscriber, Cook, Flutist (in training)"
+    "zaryth": "Alchemist ✔, Tinkerer ✔, Ward Engineer Apprentice 🔄 (intermediate, ~115 days)",
+    "mira": "Herbalist ✔, Leatherworker ✔",
+    "aldric": "Mason ✔, Miner ✔",
+    "sylvara": "Enchanter ✔, Glassblower ✔",
+    "bram": "Smith ✔, Woodcarver ✔",
+    "thessaly": "Tailor ✔, Weaver ✔",
+    "orindel": "Jeweler ✔, Hunter ✔, Hymn Composer ✔",
+    "pip": "Inscriber ✔, Cook ✔, Flutist ✔"
   },
   "ward_status": {
     "inner_ward_root": "Active, healthy (renewed by Dawnwatch)",
     "outer_ward_ring": "COMPLETE — 4/4 known nodes repaired, cascade ended",
-    "node_9": "78% — REPAIRED by Dawnwatch (was 40%, Vel Tharis)",
-    "node_10": "80% — REPAIRED by Dawnwatch (was 31%, Cape Ashward)",
-    "node_11": "75% — RECONSTRUCTED by Dawnwatch (was FAILED, Sethrak's Threshold, cascade origin sealed)",
-    "node_12": "72% — REPAIRED by Dawnwatch (was 28%, Greyveil Pass)",
-    "nodes_unknown": "Nodes 1-8, 13, 14 — locations and status unknown. Vigil Field Manual has full documentation."
+    "node_9": "78% — REPAIRED (Vel Tharis)",
+    "node_10": "80% — REPAIRED (Cape Ashward)",
+    "node_11": "75% — RECONSTRUCTED (Sethrak's Threshold)",
+    "node_12": "72% — REPAIRED (Greyveil Pass)",
+    "nodes_tentative": "Node 1 (volcanic island S of Veldmere), Node 5 (western headland/Stormcape), Node 8 (upper Mirren River)",
+    "nodes_unknown": "Nodes 2, 3, 4, 6, 7, 13, 14 — unidentified",
+    "heartstones": "1/7 discovered (Ashenmere Catacombs — active, protected by recognition ward, Greymoor garrison posted)"
   },
-  "barrows_sealed": ["Keth-Varos (1/7)", "Vel Tharis (2/7)"],
-  "barrows_unsecured": 5,
+  "barrows_sealed": [
+    "Keth-Varos (1/7)",
+    "Vel Tharis (2/7)",
+    "Drowned Barrow (3/7) — Day 155",
+    "Thornhallow Ossuary (4/7) — Day 159",
+    "Mirren's Rest (5/7) — Day 168",
+    "Ashenmere Catacombs (6/7) — Day 177, Heartstone discovered",
+    "Salt Crypts (7/7) — Day 189"
+  ],
+  "barrows_unsecured": 0,
   "key_items": {
     "sending_stone": "Paired with Vaelith. Zaryth carries.",
     "ward_compass": "Vigil instrument. Zaryth carries.",
-    "ward_repair_ritual": "Complete (Sylvara reconstruction + Vaelith activation sequence)",
-    "vigil_field_manual": "Complete ward-engineering document for all 14 nodes. Sylvara carries.",
-    "dawnwatch_rings_enchanted": "8x ward-attuned signet rings. Network recognition, passage through ward lines, resonance pulse (danger awareness). All members wearing.",
     "copper_resonance_probe": "Handmade field tool. Zaryth carries.",
+    "copper_frequency_fork": "Field instrument. Zaryth carries.",
+    "ward_repair_ritual": "Complete (Sylvara + Vaelith).",
+    "vigil_field_manual": "Complete ward-engineering document for all 14 nodes. Sylvara carries / Tower library.",
+    "dawnwatch_rings_enchanted": "8x ward-attuned signet rings (left hand). All members.",
+    "purpose_rings_enchanted": "8x iron purpose rings (right hand). Individual enchantments. All members.",
+    "quartz_amulets_enchanted": "8x cantrip amulets. Individual enchantments. All members.",
+    "dawnwatch_longsword": "Enchanted, superior. Magical, Warding Edge, resonance bond. Zaryth.",
+    "yew_quarterstaff": "Enchanted. Magical, arcane focus. Bram.",
+    "yew_shortbow": "Sinew-backed, well-made. Enchanted (True Flight). Orindel.",
+    "dawnwatch_telescope": "Copper tube, dual glass lens, ~8x magnification. Tower lookout.",
+    "vigil_heartstone": "Ward network amplifier (1/7 known). Ashenmere vault. Active. Protected.",
+    "salt_ward_beeswax_kit": "Vaelith-prepared. For coastal node copper circuits.",
     "staff_of_moth": "Necromancy focus. Sylvara (research).",
-    "vigil_warden_medallion": "Iron, closed eye symbol. Found on collapsed warden.",
+    "vigil_warden_medallion": "Iron, closed eye symbol.",
     "pale_quill_papers": "1 copy retained (Sylvara, Archive vault).",
-    "pip_driftwood_flute": "Bram-crafted, pale wood, 6-hole, halfling-sized. Pip carries.",
-    "mira_wooden_comb": "Bram-crafted, halfling on crescent moon. Mira carries.",
-    "salt_ward_beeswax_kit": "Vaelith-prepared. For coastal node copper circuits."
+    "pip_driftwood_flute": "Bram-crafted. Pip carries.",
+    "mira_wooden_comb": "Bram-crafted. Mira carries.",
+    "bram_walnut_box": "Black walnut, broken-chain motif. Gift for Thessaly."
   },
   "prisoners": {
     "veradis_kael": "Greymoor garrison (warded cell)",
@@ -102,7 +127,7 @@
     "mercenary_operative": "Aelindra city custody"
   },
   "allies_travelling": {
-    "vaelith": "Last Warden of the Vigil. Travelling with party. Offered permanent Archive consulting position by Veyra Solund (pending)."
+    "vaelith": "Last Warden of the Vigil. Living at homestead (alchemy shed loft). Teaching Zaryth ward engineering."
   },
   "inter_city_network": [
     "Voss (Duskport)",
@@ -120,22 +145,46 @@
     "Revka/Silver Chain (maritime)",
     "Sable (maritime)",
     "Corran Ashward (Cape Ashward)",
-    "Tessa Marsh (Homestead caretaker)"
+    "Tessa Marsh (Homestead caretaker)",
+    "Sister Venn (Chapel of the Marsh Light, Fenhollow)",
+    "Sable Fen (Thornwatch guide, Fenhollow)",
+    "Donal Wick (river boatman, Harrowgate)",
+    "Tarn Gully (fishing boat, Salthollow)"
   ],
   "provisions": {
-    "rations_days": 18,
-    "crossbow_bolts_mira": "full (restocked Aelindra)",
-    "crossbow_bolts_thessaly": "full (restocked Aelindra)",
+    "winter_stores": "Fully stocked — 90+ days preserved meat, pickled vegetables, root cellar, mushroom cultivation",
+    "rations_days": "50+ (smoked, expedition surplus)",
+    "crossbow_bolts_mira": "full",
+    "crossbow_bolts_thessaly": "full",
+    "arrows_orindel": 40,
     "healers_kits": 3
   },
   "transport": {
-    "terns_wing": "At anchor, Cape Ashward. Return passage to Aelindra available.",
-    "civic_barge_priority": "EXPIRED (~Day 78) — was 60-day pass, renew at Kellan (Harrowgate) or Kess (Greymoor)",
-    "overland_travel_writ": "EXPIRED (~Day 58) — was 30-day pass from Salthollow, renew at Ashworth",
-    "marsh_passage_writ": "EXPIRED (~Day 62) — was 30-day pass from Fenhollow, renew at Brenn",
-    "priority_river_clearance": "Active — all ports (Stenn, Greymoor, no expiry)",
+    "anvil_pack_mule": "At homestead stable. Brown, stocky, opinionated.",
+    "terns_wing": "At anchor, Cape Ashward.",
+    "civic_barge_priority": "Renewed Day 135 — 60-day pass (EXPIRED ~Day 195, renew at Kellan or Kess)",
+    "overland_travel_writ": "Renewed Day 188 — 30-day pass (EXPIRED ~Day 218, renew at Ashworth)",
+    "priority_river_clearance": "Active — all ports (no expiry)",
     "harbor_priority_passage": "Active — Veldmere, indefinite",
     "sylvara_archive_access": "Active — Aelindra Level 3, permanent"
+  },
+  "library": {
+    "location": "Dawnwatch Tower, Level 4",
+    "books": 12,
+    "titles": [
+      "Hearthcoast Flora",
+      "The Mason's Companion",
+      "Principles of Metallurgy",
+      "A Practical Guide to Enchantment",
+      "The Glassmaker's Art",
+      "Inscriber's Manual: Inks & Scrolls",
+      "Songs of the Hearthcoast",
+      "Field Medicine & Herbcraft",
+      "Pre-Sundering History: A Primer",
+      "The Weaver's Pattern Book",
+      "Bestiary of the Hearthcoast",
+      "Civic Law of the River Basin"
+    ]
   },
   "party": {
     "zaryth": {
@@ -145,12 +194,12 @@
       "level": 3,
       "hp": { "current": 28, "max": 28 },
       "ac": 19,
-      "armor": "Chain mail + steel shield",
-      "weapon": "Well-made longsword",
+      "armor": "Chain mail + steel shield + padded underlayer + iron greaves + studded vambraces",
+      "weapon": "Dawnwatch Longsword (enchanted, superior — magical, Warding Edge, resonance bond)",
       "spell_slots": { "1st": 3 },
       "lay_on_hands": 15,
       "channel_divinity": 1,
-      "special": "Warden's Anchor (CHA-based ward channeling), Ward Engineer Apprentice",
+      "special": "Warden's Anchor, Tinkerer (proficient), Ward Engineer Apprentice (intermediate)",
       "player": "YOU"
     },
     "mira": {
@@ -160,10 +209,10 @@
       "level": 3,
       "hp": { "current": 23, "max": 23 },
       "ac": 15,
-      "armor": "Reinforced leather",
-      "weapons": "Short sword, light crossbow, hand crossbow",
+      "armor": "Reinforced leather + studded vambraces",
+      "weapons": "Short sword (enchanted — Shadow Fang), light crossbow (enchanted — Whisper Bolt), hand crossbow",
       "sneak_attack": "2d6",
-      "special": "Abjuration amulet (suppresses detection magic), leatherworking kit"
+      "special": "Abjuration amulet, Leatherworker (proficient)"
     },
     "aldric": {
       "full_name": "Brother Aldric Stonebrow",
@@ -172,11 +221,11 @@
       "level": 3,
       "hp": { "current": 28, "max": 28 },
       "ac": 18,
-      "armor": "Chain mail + shield",
-      "weapon": "Warhammer",
+      "armor": "Chain mail + shield + padded underlayer + iron greaves",
+      "weapon": "Warhammer (enchanted — Hearthstone)",
       "spell_slots": { "1st": 4, "2nd": 2 },
       "channel_divinity": 1,
-      "special": "Holy water vial, bass singer"
+      "special": "Order of the Ashen Veil quest RESOLVED. Heartstone discovered."
     },
     "sylvara": {
       "full_name": "Sylvara Dawnwhisper",
@@ -185,10 +234,10 @@
       "level": 3,
       "hp": { "current": 14, "max": 14 },
       "ac": 15,
-      "armor": "Chain shirt",
+      "armor": "Chain shirt + padded underlayer",
       "spell_slots": { "1st": 4, "2nd": 2 },
       "sculpt_spells": true,
-      "special": "Permanent Archive Level 3 access, Vigil Field Manual carrier"
+      "special": "Archive Level 3 access, Glassblower (proficient), Enchanter (proficient)"
     },
     "bram": {
       "full_name": "Bram Thistlewick",
@@ -198,9 +247,10 @@
       "hp": { "current": 15, "max": 15 },
       "ac": 15,
       "armor": "Chain shirt",
+      "weapon": "Yew Quarterstaff (enchanted — magical, arcane focus)",
       "spell_slots": { "1st": 4, "2nd": 2 },
       "sculpt_spells": true,
-      "special": "Hand axe, woodcarving kit, drone hum singer"
+      "special": "Woodcarver (proficient), Smith (proficient)"
     },
     "thessaly": {
       "full_name": "Thessaly Ironveil",
@@ -209,10 +259,10 @@
       "level": 3,
       "hp": { "current": 24, "max": 24 },
       "ac": 14,
-      "armor": "Studded leather",
-      "weapons": "Rapier, hand crossbow, short sword",
+      "armor": "Studded leather (refurbished) + studded vambraces",
+      "weapons": "Rapier (enchanted — Veil Pierce), hand crossbow, short sword",
       "sneak_attack": "2d6",
-      "special": "Position of Privilege (Noble background)"
+      "special": "Position of Privilege, Weaver (proficient), Tailor (proficient)"
     },
     "orindel": {
       "full_name": "Orindel Ashwick",
@@ -222,10 +272,10 @@
       "hp": { "current": 23, "max": 23 },
       "ac": 18,
       "armor": "Scale mail + wooden shield",
-      "weapon": "Mace",
+      "weapons": "Mace (enchanted — Shepherd's Strike), Yew Shortbow (enchanted — True Flight)",
       "spell_slots": { "1st": 4, "2nd": 2 },
       "channel_divinity": 1,
-      "special": "Ward-Light Hymn composer, melody singer, pigeon (Tomas)"
+      "special": "Hymn Composer (3 hymns), Hunter (proficient), Jeweler (proficient)"
     },
     "pip": {
       "full_name": "Pip Tanglethorn",
@@ -234,11 +284,11 @@
       "level": 3,
       "hp": { "current": 14, "max": 14 },
       "ac": 15,
-      "armor": "Studded leather",
-      "weapons": "Short sword, driftwood flute",
+      "armor": "Studded leather (reinforced) + studded vambraces",
+      "weapons": "Short sword (enchanted — Spark Edge), driftwood flute",
       "spell_slots": { "1st": 4, "2nd": 2 },
       "sculpt_spells": true,
-      "special": "River pebble (Sylvara's focus stone), flutist, Dancing Lights performer"
+      "special": "Flutist (proficient, 5+ melodies), Inscriber (proficient), Cook (proficient)"
     }
   }
 }

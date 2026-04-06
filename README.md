@@ -122,12 +122,10 @@ duskport-campaign/
 │   └── SRD combat rules (full + LLM-optimized)
 ├── monsters/
 │   └── SRD monster rules + A-Z stat blocks
-├── portraits/
-│   ├── visual-rules.md          ← race/class appearance reference
-│   ├── prompt-template.md       ← image gen prompt template
-│   └── generated/               ← scene-specific portrait prompts
+├── genai-prompts/               ← image/song gen AI prompts
+├── genai-scenes/                ← generated scene images + visual rules
+├── songs/                       ← generated songs (mp3)
 ├── speeches/                    ← key speeches and addresses
-└── gen-scenes/                  ← generated scene images
 ```
 
 ## Campaign Timeline
@@ -191,17 +189,19 @@ The outer ward network's known nodes have been repaired. The cascade is ended.
 
 ## Current Status — Session 5 (Storyteller)
 
-**Date:** 2nd Reaptide, 1247 AS (Day 152)
+**Date:** 30th Thawsend, 1247 AS (Day 360) — Year's End
 **DM:** Mara Solenne, The Storyteller
 **Location:** Dawnwatch Homestead, Fenhollow
-**Party Level:** 3 | **Party Gold:** ~4,957 gp
-**Homestead:** Upgraded — root cellar, doubled herb garden, second beehive rack. Projected passive income 35–45 gp/week. Tessa managing.
+**Party Level:** 3 | **Party Gold:** ~6,530 gp
+**Homestead:** Fully developed — tower, forge, smokehouse, tannery, alchemy shed, stable, root cellar, gardens, library (12 books). Passive income 35–45 gp/week. Tessa managing.
 
-**Outer Ward Ring:** COMPLETE. 4/4 known nodes repaired. Cascade ended. Network stable.
+**Arc 2:** COMPLETE. Outer ward ring repaired (4/4 nodes). ALL 7 BARROWS SEALED. Zero combat across entire barrow circuit.
+**Vigil Heartstone:** 1/7 discovered at Ashenmere. Active. Greymoor garrison posted.
 **Unknown Nodes:** 3 tentatively identified (1, 5, 8). 7 unidentified (2, 3, 4, 6, 7, 13, 14).
-**Barrows:** 2/7 sealed. 5 unsecured (locations mapped).
-**Vaelith:** At homestead. Teaching Zaryth ward engineering + tinkering.
+**All weapons enchanted.** All party members equipped with purpose rings + cantrip amulets.
+**Vaelith:** At homestead. Teaching Zaryth ward engineering (intermediate level).
+**Professions:** 19 total, 18 proficient, 1 in training (Ward Engineering).
 
-**Next:** Seal remaining 5 barrows before winter (first frost ~Day 241). Survey unknown nodes. Live.
+**Next:** Year 1248 AS begins. Spring. Survey unknown nodes. Investigate Heartstones. Build the school. Live.
 
-**Inter-City Network:** Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Ashworth (Salthollow) — Brenn (Fenhollow) — Fell (Veldmere) — Serevane (Aelindra counter-intel) — Dalla (Aelindra) — Veyra Solund (Archivist-General) — Edric Aldenmere (Archive reform) — Revka/Silver Chain (maritime) — Cole (Greymoor garrison) — Corran Ashward (Cape Ashward) — Tessa Marsh (Homestead)
+**Inter-City Network:** Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Ashworth (Salthollow) — Brenn (Fenhollow) — Fell (Veldmere) — Serevane (Aelindra counter-intel) — Dalla (Aelindra) — Veyra Solund (Archivist-General) — Edric Aldenmere (Archive reform) — Revka/Silver Chain (maritime) — Cole (Greymoor garrison) — Corran Ashward (Cape Ashward) — Tessa Marsh (Homestead) — Sister Venn (Chapel of the Marsh Light)

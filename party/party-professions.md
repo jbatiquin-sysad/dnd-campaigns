@@ -8,12 +8,12 @@
 
 | Member | Professions | Training Status |
 |--------|------------|-----------------|
-| Zaryth | Alchemist, Tinkerer, Ward Engineer | Alchemy ✔, Tinkering 🔄, Ward Engineering 🔄 |
+| Zaryth | Alchemist, Tinkerer, Ward Engineer | Alchemy ✔, Tinkering ✔, Ward Engineering 🔄 |
 | Mira | Herbalist, Leatherworker | Herbalist ✔, Leatherworking 🔄 |
 | Aldric | Mason, Miner | Both ✔ |
-| Sylvara | Enchanter | ✔ |
+| Sylvara | Enchanter, Glassblower | Enchanter ✔, Glassblowing 🔄 |
 | Bram | Smith, Woodcarver | Smith ✔, Woodcarving 🔄 |
-| Thessaly | Tailor | ✔ |
+| Thessaly | Tailor, Weaver | Tailor ✔, Weaving 🔄 |
 | Orindel | Jeweler, Hunter, Hymn Composer | Jeweler ✔, Hunter ✔, Composer ✔ |
 | Pip | Inscriber, Cook, Flutist | Inscriber ✔, Cook ✔, Flutist 🔄 |
 
@@ -80,13 +80,24 @@
 
 ---
 
-### Sylvara — Enchanter
+### Sylvara — Enchanter / Glassblower
 
 **Enchanter (trained):**
 - Ward-glyph inscription, minor enchantment, Arcane Lock
 - Resonance crystal cutting (with Orindel's ear and Vaelith's guidance)
 - Income: 10–16 gp/day (consulting, inscription commissions)
 - Watch for: enchantment commissions, rare components, Archive research access, ward-marked artifacts
+
+**Glassblower (in training):**
+- Producing glass vessels — vials, lenses, flasks, enchantment containers
+- Complements enchanting: Sylvara can make her own enchantment vessels and arcane glassware
+- Learning on the road: studying heat control, shaping techniques, material properties
+- Equipment needed: blowpipe (Bram forged — iron tube), punty rod (Bram forged), basic shaping tools (jacks, tweezers — Bram forging)
+- Materials: sand (Aldric sourcing — river sand, coastal sand), soda ash (from plant ash — Mira can provide), lime (from limestone — homestead has ~30 blocks)
+- Requires: high-heat source (forge with bellows, or dedicated glass furnace)
+- Next steps: gather materials on the road, study theory, first attempts at Greymoor or Salthollow forges
+- Long-term: produce alchemy vials (Zaryth), enchantment vessels, lenses (ward instruments), decorative glass, trade goods
+- Watch for: sand deposits (river bends, coastal), existing glassworks to observe, soda ash sources
 
 ---
 
@@ -108,7 +119,7 @@
 
 ---
 
-### Thessaly — Tailor
+### Thessaly — Tailor / Weaver
 
 **Tailor (trained):**
 - Garment construction, repair, weatherproofing, emblem work
@@ -116,6 +127,16 @@
 - Standing commission with Madame Voss (Aelindra)
 - Income: 8–12 gp/day (repair, commissions, consulting)
 - Watch for: quality fabric, noble clientele, armor reinforcement opportunities, infiltration outfit needs
+
+**Weaver (in training):**
+- Producing fabric from raw fiber — wool, linen, cotton
+- Complements tailoring: Thessaly can make the fabric AND the garment
+- Learning on the road: studying fiber preparation, spinning, basic loom patterns
+- Equipment needed: drop spindle (Bram can carve), weaving needles (Bram forged), portable frame loom (Bram building)
+- Materials: raw wool (homestead goats), plant fiber (flax/nettle — Mira can forage)
+- Next steps: consistent thread spinning, basic plain weave, twill patterns
+- Long-term: produce Dawnwatch-branded fabric, custom armor padding, bandages, trade goods
+- Watch for: raw fiber sources (wool, flax, cotton), looms to study, weavers to observe
 
 ---
 
@@ -181,15 +202,19 @@
 | Leatherworker | 3–5 gp | 5–7 gp | 7–10 gp |
 | Woodcarver | 3–5 gp | 5–7 gp | 7–10 gp |
 | Courier/Escort | 4–6 gp | 6–8 gp | 8–12 gp |
+| Weaver | 3–5 gp | 5–8 gp | 8–12 gp |
+| Glassblower | 4–6 gp | 7–10 gp | 10–15 gp |
 
 ---
 
 ## Training Tracker
 
-| Member | Skill | Teacher | Started | Est. Completion | Notes |
-|--------|-------|---------|---------|-----------------|-------|
-| Zaryth | Tinkering | Vaelith | Day 110 | Day ~150 | Copper probe crafted, field techniques |
-| Zaryth | Ward Engineering | Vaelith | Day 118 | Ongoing (months–years) | 5 principles learned, touch-reading rudimentary |
-| Mira | Leatherworking | Gren Ashwick | Day 119 | Day ~160 | Basic cuts, stitching started |
-| Bram | Woodcarving | Old Seff | Day 119 | Day ~160 | Grain reading, finishing, joinery basics |
-| Pip | Flute | Orindel | Day 109 | Day ~140 | Full hymn melody achieved, scales clean |
+| Member | Skill | Teacher | Started | Completed | Notes |
+|--------|-------|---------|---------|-----------|-------|
+| Zaryth | ~~Tinkering~~ | Vaelith | Day 110 | **Day 174 ✔** | Proficient. Fieldworthy. |
+| Zaryth | Ward Engineering | Vaelith | Day 118 | Ongoing (~Day 360, ~115 days) | Intermediate. Calibration tables fluent. Instrument-based assessment reliable. Touch-reading still developing. |
+| Mira | ~~Leatherworking~~ | Gren Ashwick / self | Day 119 | **Day 181 ✔** | Proficient. Quivers, pouches, belts, boots, armor fittings. |
+| Bram | ~~Woodcarving~~ | Old Seff / self | Day 119 | **Day 182 ✔** | Proficient. Furniture, instruments, decorative relief, dovetail joinery. |
+| Pip | ~~Flute~~ | Orindel | Day 109 | **Day 183 ✔** | Proficient. 5+ melodies, public performance, improvisation, original composition. |
+| Thessaly | ~~Weaving~~ | Self / observation | Day 174 | **Day ~233 ✔** | Proficient. Spinning, full loom, fabric production, pattern work. |
+| Sylvara | ~~Glassblowing~~ | Self / observation | Day 174 | **Day ~233 ✔** | Proficient. Vials, lenses, furnace operation. |

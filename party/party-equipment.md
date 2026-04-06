@@ -36,7 +36,7 @@
 ## Mira Thistlewick — Rogue
 
 **Armor:** Reinforced leather + studded vambraces (AC 15)
-**Weapons:** Short sword, light crossbow, hand crossbow
+**Weapons:** Short sword (enchanted — Shadow Fang), light crossbow (enchanted — Whisper Bolt), hand crossbow
 **Clothing:** Fitted dark travelling outfit, grey cloak (infiltration)
 
 | Slot | Item | Notes |
@@ -60,7 +60,7 @@
 ## Brother Aldric Stonebrow — Cleric
 
 **Armor:** Chain mail + shield + padded underlayer + iron greaves (AC 18)
-**Weapon:** Warhammer
+**Weapon:** Warhammer (enchanted — Hearthstone)
 **Clothing:** Acolyte underlayer robes
 
 | Slot | Item | Notes |
@@ -129,7 +129,7 @@
 ## Thessaly Ironveil — Rogue
 
 **Armor:** Studded leather (refurbished, AC 14) + studded vambraces
-**Weapons:** Rapier, hand crossbow, short sword
+**Weapons:** Rapier (enchanted — Veil Pierce), hand crossbow, short sword
 **Clothing:** Quality travelling outfit, fine clothes (infiltration set)
 
 | Slot | Item | Notes |
@@ -149,7 +149,7 @@
 ## Orindel Ashwick — Cleric
 
 **Armor:** Scale mail + wooden shield (AC 18, rim repaired)
-**Weapons:** Mace, Yew Shortbow (sinew-backed, well-made)
+**Weapons:** Mace (enchanted — Shepherd's Strike), Yew Shortbow (enchanted — True Flight, sinew-backed)
 **Clothing:** Cleric's travelling robe, resoled boots
 
 | Slot | Item | Notes |
@@ -174,7 +174,7 @@
 ## Pip Tanglethorn — Wizard
 
 **Armor:** Studded leather (AC 15 — reinforced by Thessaly) + studded vambraces
-**Weapons:** Short sword, driftwood flute
+**Weapons:** Short sword (enchanted — Spark Edge), driftwood flute
 **Clothing:** Full outfit (shirt, trousers, vest, cloak)
 
 | Slot | Item | Notes |
@@ -197,4 +197,4 @@
 
 ---
 
-*Last updated: Day 174, 24th Reaptide, 1247 AS — Greymoor (barrow expedition in progress)*
+*Last updated: Day 360, 30th Thawsend, 1247 AS — Dawnwatch Homestead (Year's End, all weapons enchanted)*
