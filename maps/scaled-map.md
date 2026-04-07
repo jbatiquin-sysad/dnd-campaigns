@@ -47,7 +47,7 @@
 | Node | Hex | Terrain | Est. Reading | Access | Key Hazard |
 |------|-----|---------|-------------|--------|------------|
 | **Node 2** — Drowned Forge | B12 | Volcanic island (sea cave) | 40–45% | 3 days sail from Veldmere + 1 day small boat. 6-hr low-tide window. | Volcanic vents, sulfur gas. Dead Zone within 30 mi. |
-| **Node 3** — Storm Pillar | A7 | Cliff/headland | 62% ✔ REPAIRED | 5 days overland from Stormcape coast, or 2 days by sea + cliff climb. | Extreme wind. **Unknown large creature on headland.** |
+| **Node 3** — Storm Pillar | A7 | Cliff/headland | 62% ✔ REPAIRED | 5 days overland from Stormcape coast, or 2 days by sea + cliff climb. | Behir nest cleared (mother + 2 juveniles killed by Dawnwatch). Extreme wind persists. |
 | **Node 4** — Tidewatcher | A10 | Exposed rock shelf (tidal) | 45–50% | 2 days sail from Stormcape ruins, or 4 days from Veldmere. | **Accessible only 3 days/year: ~15th–17th Goldmere.** Tidal flooding risk. |
 | **Node 5** — Stormcape | A5 | Coastal cliff | **FAILED** | Seren's former post. Requires full reconstruction (6-anchor + new crystal). | Dead Zone expanding. 12 miles in first week after failure. |
 
@@ -80,6 +80,9 @@
 | The Undercroft | K12 | Underground | Beneath Duskport. Hollow Court origin. |
 | The Athenaeum | N9 | Underground vault | Beneath Salthollow. Civic charters. |
 | Grand Archive | N5 | Cliff complex | Aelindra. 4 tiers + sub-levels. |
+| Shattered Stair | A6 | Collapsed cliff path | Marks edge of Stormcape territory. Half-collapsed Vigil switchbacks, 400-ft descent. |
+| Tide Pools of Arn | A8 | Freshwater springs | Sheltered camp, wind-blocked rock overhang. Wild gillwort. Seren's 31-year base. |
+| Stormcape Harbor Ruins | A5 | Ruined harbor | Near Node 5. Former Stormcape settlement. Sea approach to western coast. |
 
 ---
 
@@ -130,19 +133,19 @@ Row 3    ~    ~    ~    .    ☆    .    .    .    .    .    .    .    .    .   
 Row 4    ~    ~    ~    .    .   ⛪    .    .    .    .    .    .    .    .   ⊗9    .    ~    ~    ~    ~
                                  ASH                                         VELT
 
-Row 5   [⊗5]  ~    ~    .   ⛏    .    .    .    .    .    .    .    .   🏛    .    ~    ~    ~    ~    ~
+Row 5   [⊗5]  .    .    .   ⛏    .    .    .    .    .    .    .    .   🏛    .    ~    ~    ~    ~    ~
          STM              GREY                                           AEL
 
-Row 6    ~    ~    .    .    .   ░░   ☒    .    .    .    .    .    .    .    .    ~    ~    ~    ~    ~
+Row 6    .    .    .    .    .   ░░   ☒    .    .    .    .    .    .    .    .    ~    ~    ~    ~    ~
                                  THV  KETH
 
-Row 7    ⊗3   ~    .    .    .    ≈  [⊗8]  🏨   .    .    .    .    .    .    ~    ~    ~    ~    ~    ~
-         STRM              ≈    RVR  THF
+Row 7    ⊗3★   .    .    .    .    ≈  [⊗8]  🏨   .    .    .    .    .    .    ~    ~    ~    ~    ~    ~
+         STRM                    ≈    RVR  THF
 
-Row 8    ~    ~    .    .    .    ≈   ≈≈   ⌂★   ☒    .    .    .    .    .    ~    ~    ~    ~    ~    ~
+Row 8    .    .    .    .    .    ≈   ≈≈   ⌂    ☒    .    .    .    .    .    ~    ~    ~    ~    ~    ~
                                  ≈   DRN  HOME  MRR
 
-Row 9    ~    ~    ~    .    .    .    ≈    ≈   ⚓    .    .    .    .   📚    ~    ~    ~    ~    ~    ~
+Row 9    .    ~    ~    .    .    .    ≈    ≈   ⚓    .    .    .    .   📚    ~    ~    ~    ~    ~    ~
                                            ≈   TDM                     SALT
 
 Row 10  [⊗4]  ~    ~    .    .    .    .    .    ≈   🏪    .    .    .    .    ~    ~    ~    ~    ~    ~
