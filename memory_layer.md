@@ -895,3 +895,96 @@ Zaryth 19→20, Aldric 18→19, Orindel 18→19, Mira 15→16, Thessaly 14→15,
 - New training regimens established (Stormcape lessons, environmental potions, ward engineering)
 
 ---
+
+## S5 Turn (Wildcard 2) — Keeper's Kit / Revka's Warning
+
+**DM:** Corvus Chance, The Wildcard
+**Date:** 1st Greenthaw, 1248 AS (afternoon)
+**d100 = 83 — WINDFALL** (Revka Sarn's satchel arrives via Wynn Dodd)
+
+Revka Sarn (Silver Chain, Veldmere) sent a sealed Vigil iron chest salvaged from a shipwreck near the volcanic island chain. Ship was sunk by deliberate lightning — three parallel scorch lines, same pattern Seren recognized from Node 3 headland. Claw marks on the chest ward seal — large, 5-digit, failed to open it.
+
+**Chest contents (Keeper's Kit):** Blank resonance crystal (untuned), calibration tuning fork, 6x silvered powder vials, copper circuit wire, Warden-Captain Sethrak's note (3,000 years old — field calibration instructions: 4 hours, repair only, no reconstruction).
+
+**Key intel:** The creature at Node 3 is the same entity sinking ships. 5th-level lightning ability or innate. Actively patrolling western arc. An unknown keeper was killed attempting western node repairs. Someone else was heading to the volcanic islands — stopped by deliberate lightning.
+
+**Route revised to Option A:** Forge first (armor enchanting + Node 5 crystal), then west. Blank crystal for field repairs at Nodes 3, 4, 2.
+
+---
+
+## S5 Turns (Wildcard 3–8) — The Road West / Warden's Forge
+
+**Days 2–21 (2nd–22nd Greenthaw, 1248 AS)**
+
+**Route:** Homestead → Fenhollow Marshes (Sable Fen shortcut, 1 day saved) → Iron Road → Greymoor (resupply: gillwort, iron, rope; side hustles 56 gp) → Greypeak Pass (3 days, Stormcape cairn found — eastern traveler) → Vigil Stone Road (5 days, Vigil supply cache found by Seren — iron stakes, ceramic bowl, ward-oil, western oilcloth map) → Warden's Forge (7 days).
+
+**Greymoor intel:** Cole reported large clawed tracks heading west through high pass, 2 weeks old. 2 ships missing on western sea lane (3 months).
+
+**Warden's Forge (Days 15–21):**
+- **Node 5 crystal: CUT AND TUNED** (Sylvara + Orindel + Vaelith, 5 days)
+- **ALL 8 ARMOR SETS ENCHANTED +1 AC:** Zaryth 20, Aldric 19, Orindel 19, Mira 16, Thessaly 15, Bram 16, Sylvara 16, Pip 16
+- **Sethrak's Forge-Master Tools** discovered — Bram's personal set (+1 enchanting/cutting at Forge)
+- Alchemy: 2x Water Breathing, 1x Fire Resistance brewed. Enhanced antitoxin (5 total). Enhanced healing poultices (4).
+- Vaelith Lessons 12–21 (frequency attenuation, altitude, stone reading, circuit fabrication, ward-oil, forge-ward, crystal resonance, field calibration, western frequency reading)
+- Seren Lessons 1–3 (Stormcape customs/economy/Tide-Speakers, western creatures/boundary thinning, navigation/landmarks)
+
+**Forage/gather highlights:** Copper ore (Aldric+Bram, refined into 4 circuit coils), wind-sage + cliff-root (fire resistance reagents), ghost-lichen (rare luminescent), highland herbs, game throughout.
+
+---
+
+## S5 Turns (Wildcard 9–10) — Stormcape / The Storm Pillar / BEHIR COMBAT
+
+**Days 22–27 (22nd–27th Greenthaw, 1248 AS)**
+
+**Route:** Forge → Shattered Stair (3 days) → Tide Pools of Arn (1 day) → Node 3 headland (1 day).
+
+**Destroyed Vigil waymarkers:** The creature systematically dismantled western road markers. Five-digit claw gouges. Territorial.
+
+**Tide Pools of Arn:** Seren's safe camp. Wild gillwort found (2 more Water Breathing potions brewed, total 5). Tide-salt crystals. Coastal feast (Pip's Stormcape cooking).
+
+**d100 = 7 — CATASTROPHIC EVENT at Node 3.**
+
+**BEHIR COMBAT — Storm Pillar headland:**
+- Young Adult Behir (CR 6, 90 HP, AC 16) + 2x Juvenile Behirs (CR 3, 52 HP each, AC 14)
+- Mother + two young, nesting on the node platform, feeding on ward energy (suppressing Node 3)
+- Behir cache destroyed — original repair components gone
+- Lightning Breath Round 1: Aldric DOWN (0 HP), Bram DOWN (0 HP). Orindel Healing Word on Aldric, Spare the Dying on Bram.
+- Zaryth DOWN Round 2 (bite, 0 HP). Orindel Healing Word on Zaryth.
+- Zaryth Lay on Hands on Bram (10 HP). Zaryth Faerie Fire on adult — FAILED save. All attacks at advantage.
+- Adult killed Round 2: Mira Sneak Attack (14), Sylvara Shatter (19), Bram Scorching Ray (9), Pip Scorching Ray (7), Aldric Spiritual Weapon (9) + Guiding Bolt (17) = killing blow.
+- Juvenile A killed Round 3: Zaryth melee + Divine Smite (21 radiant+slashing).
+- Juvenile B fled. Party pursued. Killed by combined fire (Pip, Mira Sneak Attack, Bram, Aldric Spiritual Weapon, Sylvara Magic Missile).
+- **Zero deaths. First real combat of the western arc.**
+
+**Behir Harvest:** 40 adult scales + 60 juvenile scales (armor crafting/trade), 1 lightning gland (3-4 potion doses), 4 adult fangs, 10 adult claws, 24 juvenile fangs+claws, 120 sq ft hide (curing in salt), 20 ft sinew, 2 gal behir blood (ward-ink), 1 behir heart (major enchanting component — uncommitted), 2 behir eyes, structural bone, ~320 lbs meat (16 days rations smoked).
+
+---
+
+## S5 Turn (Wildcard 11–12) — Node 3 Repair / Platform Camp
+
+**Day 27–28 (27th–28th Greenthaw)**
+
+**Field calibration:** Blank crystal calibrated against Node 3 standing stone (4 hours, Zaryth with Vaelith guidance, Arcana 20). Crystal tuned to Node 3 frequency.
+
+**Node 3 Repair — 4-anchor, 10 minutes.** Anchors: Sylvara, Bram, Pip, Aldric. Zaryth activation. Orindel hymn + healer. Pip faltered twice, recovered with flute both times. Ward-oil applied to corroded copper. Bram's circuit coils installed.
+
+**NODE 3 — STORM PILLAR: REPAIRED. 62%.** Field-calibrated crystal (lower ceiling than forge-cut). Stable. Ward dome extends. 5 nodes singing.
+
+**Nest search (Mira nat 20):** Ship's strongbox (85 gp + gold signet ring + Stormcape pilot's navigation chart), 1 intact silvered powder vial, 4 behir egg shell fragments (alchemy), ship's oak keel section (rare timber).
+
+**Torven Ashwick's journal found:** Vigil keeper sent by Veyra Solund 4 months ago. Ship sunk by behir. Survived. Headed south toward Node 5. Status unknown. Possible Ashwick family connection to Orindel.
+
+**Alchemy:** 2x Potion of Lightning Resistance brewed (behir gland + egg shell, 2 gland doses remaining).
+
+**Long rest on platform. All resources restored.**
+
+**State at end of Day 28:**
+- Location: Storm Pillar platform, Node 3
+- Party gold: ~6,624 gp
+- Provisions: 34 days
+- Nodes repaired: 5 (9, 10, 11, 12, 3). Node 3 at 62%.
+- Nodes remaining: Node 5 (FAILED, reconstruction), Node 4 (tidal, Goldmere), Node 2 (volcanic)
+- All party: full HP, full resources, +1 AC
+- Next: South to Node 5 (Stormcape) — reconstruction. And possibly Torven Ashwick.
+
+---

@@ -47,7 +47,7 @@
 | Node | Hex | Terrain | Est. Reading | Access | Key Hazard |
 |------|-----|---------|-------------|--------|------------|
 | **Node 2** — Drowned Forge | B12 | Volcanic island (sea cave) | 40–45% | 3 days sail from Veldmere + 1 day small boat. 6-hr low-tide window. | Volcanic vents, sulfur gas. Dead Zone within 30 mi. |
-| **Node 3** — Storm Pillar | A7 | Cliff/headland | 35–40% | 5 days overland from Stormcape coast, or 2 days by sea + cliff climb. | Extreme wind. **Unknown large creature on headland.** |
+| **Node 3** — Storm Pillar | A7 | Cliff/headland | 62% ✔ REPAIRED | 5 days overland from Stormcape coast, or 2 days by sea + cliff climb. | Extreme wind. **Unknown large creature on headland.** |
 | **Node 4** — Tidewatcher | A10 | Exposed rock shelf (tidal) | 45–50% | 2 days sail from Stormcape ruins, or 4 days from Veldmere. | **Accessible only 3 days/year: ~15th–17th Goldmere.** Tidal flooding risk. |
 | **Node 5** — Stormcape | A5 | Coastal cliff | **FAILED** | Seren's former post. Requires full reconstruction (6-anchor + new crystal). | Dead Zone expanding. 12 miles in first week after failure. |
 
@@ -136,7 +136,7 @@ Row 5   [⊗5]  ~    ~    .   ⛏    .    .    .    .    .    .    .    .   🏛
 Row 6    ~    ~    .    .    .   ░░   ☒    .    .    .    .    .    .    .    .    ~    ~    ~    ~    ~
                                  THV  KETH
 
-Row 7   [⊗3]  ~    .    .    .    ≈  [⊗8]  🏨   .    .    .    .    .    .    ~    ~    ~    ~    ~    ~
+Row 7    ⊗3   ~    .    .    .    ≈  [⊗8]  🏨   .    .    .    .    .    .    ~    ~    ~    ~    ~    ~
          STRM              ≈    RVR  THF
 
 Row 8    ~    ~    .    .    .    ≈   ≈≈   ⌂★   ☒    .    .    .    .    .    ~    ~    ~    ~    ~    ~
@@ -200,7 +200,7 @@ Each repaired node projects a ward dome of approximately **6–8 hex radius** (1
 | Node 9 (78%) | O4 | Rows 1–8, Columns L–R |
 | Node 10 (80%) | Q3 | Rows 1–6, Columns N–T (overlap with 9) |
 | Node 5 (FAILED) | A5 | **NO COVERAGE** — Dead Zone expanding 12 mi/week |
-| Node 3 (~35–40%) | A7 | Minimal — rows 5–9, columns A–C. Degrading. |
+| Node 3 (62%) | A7 | Restored — rows 5–9, columns A–C. 62% stable. |
 | Node 4 (~45–50%) | A10 | Partial — rows 8–12, columns A–C. Degrading. |
 | Node 2 (~40–45%) | B12 | Partial — rows 10–14, columns A–D. Degrading. |
 

@@ -305,13 +305,14 @@ The continental ward system has two layers:
 | **Node 10** | Cape Ashward headland, NE coast | **80% ✔ REPAIRED** | Repaired by Dawnwatch. Highest reading. Standing stone singing. Fishing village of Ashward's Landing nearby. |
 | **Node 11** | Sethrak's Threshold (northern wastes) | **75% ✔ RECONSTRUCTED** | Cascade origin. Full reconstruction by Dawnwatch (6-anchor, Zaryth as Warden's Anchor). 14 ward-wraiths freed peacefully. Zero combat. |
 | **Node 12** | Greyveil Pass | **72% ✔ REPAIRED** | Repaired by Dawnwatch. Vaelith's vigil site. Ward dome stable. Entities withdrew voluntarily. |
+| **Node 3** | Storm Pillar, western headland (Stormcape) | **62% ✔ REPAIRED** | Field-calibrated crystal. Behir nest cleared (mother + 2 juveniles killed). Repaired by Dawnwatch Day 27, 1248 AS. |
 
 ### Unknown Nodes (Tentatively Identified)
 
 | Node | Field Manual Description | Tentative Location | Confidence | Notes |
 |------|--------------------------|-------------------|------------|-------|
 | **Node 1** | "The Anchor of the Southern Deep" — standing stone on a volcanic island, 3 days' sail south of nearest port | Volcanic island S of Port Veldmere | Medium | Revka/Silver Chain may have local knowledge |
-| **Node 5** | "The Watcher's Perch" — high cliff overlooking the western sea, where the ward-line turns inland | Western headland beyond Greymoor, possibly the Stormcape | Low | Unmapped territory |
+| **Node 5** | "The Watcher's Perch" — high cliff overlooking the western sea, where the ward-line turns inland | Western headland beyond Greymoor, Stormcape | **Confirmed** | **FAILED.** Confirmed by Seren Ashvale (Keeper of Node 5). Fell 9 months ago. Dead Zone expanding. Full reconstruction needed. |
 | **Node 8** | "The River's Memory" — submerged stone in the deepest bend of the great river, visible only when water runs low | Upper Mirren River, upstream of Harrowgate | Medium | Seasonal access — low water in late summer/autumn |
 
 ### Unknown Nodes (Unidentified)

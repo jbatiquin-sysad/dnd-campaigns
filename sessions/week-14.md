@@ -81,12 +81,15 @@ Two-trip approach adopted (Thessaly's proposal):
 
 ## End of Week State
 
-- **Location:** Dawnwatch Homestead, Fenhollow
-- **Party Funds:** ~6,530 gp
-- **Party Level:** 3
+- **Location:** Storm Pillar platform, Node 3, western coast
+- **Party Funds:** ~6,624 gp
+- **Party Level:** 3 | **All armor +1 AC enchanted**
 - **All party:** Full HP, full resources
 - **Barrows sealed:** 7/7 — ALL COMPLETE
-- **Ward status:** Outer ring complete (4/4 eastern nodes). Western arc: Node 5 FAILED, Nodes 2–4 degrading (35–50%).
-- **Calendar:** 1st Greenthaw, 1248 AS — New Year's Day
+- **Ward status:** 5 nodes active — Node 9 (78%), Node 10 (80%), Node 11 (75%), Node 12 (72%), **Node 3 (62% — NEW, field-calibrated)**. Node 5 FAILED. Nodes 2, 4 degrading.
+- **Calendar:** 28th Greenthaw, 1248 AS (Day 28)
 - **DM:** Corvus Chance, The Wildcard
-- **Next:** Departure prep → Warden's Forge → Western Arc Expedition begins
+- **Behir combat:** Young Adult (CR 6) + 2 Juveniles (CR 3) defeated. Zero deaths. First real combat of western arc.
+- **Behir harvest:** Scales, lightning gland, fangs, claws, hides, sinew, blood, heart (major enchanting component), eyes, 16 days rations.
+- **Torven Ashwick:** Missing Vigil keeper (sent by Veyra). Journal found in behir nest. Headed south toward Node 5. Status unknown.
+- **Next:** South to Node 5 (Stormcape) — full reconstruction. Search for Torven Ashwick.
