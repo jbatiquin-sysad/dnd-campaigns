@@ -165,7 +165,7 @@
 
 | NPC | Race/Age | Role | Status | Quick Description |
 |-----|----------|------|--------|-------------------|
-| **Vaelith** | Unknown, 1,000+ | Last Warden, Vigil of the Closed Eye | Allied — travelling with party. Offered permanent Archive consulting position by Veyra Solund. | Ancient. Face like weathered granite. Pale, steady eyes. Patched robes, blue-and-silver scarf (gift from Pip). 114 years alone at Greyveil Pass. Handed over the activation sequence. Named the Dawnwatch as wardens of the Vigil. Wept when Node 12 sang. Guided all four node repairs. Teaching Zaryth ward engineering. Laughed at Pip's Dancing Lights — first laugh in centuries. "The Vigil's work is continued. By the Dawnwatch." |
+| **Vaelith** | Unknown, 1,000+ | Last Warden, Vigil of the Closed Eye | Allied — at Dawnwatch Homestead. Teaching Zaryth ward engineering. | Ancient. Face like weathered granite. Pale, steady eyes. Patched robes, blue-and-silver scarf (gift from Pip). 114 years alone at Greyveil Pass. Named the Dawnwatch as wardens of the Vigil. **Resonance-bonded keeper** — fused to the ward network during the Sundering. Living failsafe. Root-like lines on wrist from closed-eye mark. As long as the network exists, he exists. Teaching Zaryth ward engineering (intermediate). "You asked the boundary to trust you. It did. Do not waste it." |
 
 ### Aelindra (Session 5)
 
@@ -213,4 +213,14 @@
 *Homestead: Operational, self-sustaining, passive income 16–22 gp/week. Tessa managing.*
 *Remaining threads: 5 unsecured barrows, Nodes 1–8/13/14 (unknown), Archivist Seren Voss (missing)*
 *Vaelith: Travelling with party. Archive consulting position offered.*
+*Seren Ashvale: At homestead. Guiding western arc expedition.*
+
+### Late Arc 2 / Homestead Arc NPCs
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Cole** | — | Greymoor garrison commander | S5 (barrow circuit) | Ally — posted at Ashenmere temple site | Commands the garrison guarding the Vigil Heartstone at Ashenmere Catacombs. |
+| **Sable Fen** | — | Thornwatch guide, Fenhollow Marshes | S5 (barrow circuit) | Ally — Fenhollow | Guided the party through the marshes to the Drowned Barrow and other marsh sites. |
+| **Donal Wick** | — | River boatman, Harrowgate | S5 (barrow circuit) | Ally — Harrowgate | Provided river transport during the barrow sealing circuit. |
+| **Tarn Gully** | — | Fishing boat captain, Salthollow | S5 (barrow circuit) | Ally — Salthollow | Provided coastal transport to the Salt Crypts. |
 | **Seren Ashvale** | Human, late 50s | Keeper of Node 5 (Stormcape), Vigil of the Closed Eye | S5 Wildcard Turn 1 | Allied, at Dawnwatch Homestead. Guiding western arc expedition. | 31 years of solitary vigil at Stormcape. Scar temple-to-jaw. Closed-eye mark on left hand. Walked through frozen marsh on New Year's Eve to find the Dawnwatch. Carries field logs for Nodes 2, 3, 4. "I've been ready for nine months. I just didn't have anyone to give it to." |
