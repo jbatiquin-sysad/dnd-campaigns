@@ -213,3 +213,4 @@
 *Homestead: Operational, self-sustaining, passive income 16–22 gp/week. Tessa managing.*
 *Remaining threads: 5 unsecured barrows, Nodes 1–8/13/14 (unknown), Archivist Seren Voss (missing)*
 *Vaelith: Travelling with party. Archive consulting position offered.*
+| **Seren Ashvale** | Human, late 50s | Keeper of Node 5 (Stormcape), Vigil of the Closed Eye | S5 Wildcard Turn 1 | Allied, at Dawnwatch Homestead. Guiding western arc expedition. | 31 years of solitary vigil at Stormcape. Scar temple-to-jaw. Closed-eye mark on left hand. Walked through frozen marsh on New Year's Eve to find the Dawnwatch. Carries field logs for Nodes 2, 3, 4. "I've been ready for nine months. I just didn't have anyone to give it to." |

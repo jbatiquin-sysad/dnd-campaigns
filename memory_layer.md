@@ -836,3 +836,62 @@ Hearthcoast Flora, The Mason's Companion, Principles of Metallurgy, A Practical 
 - The Watcher (Sending Stone contact) — silent since ward repairs. Watching?
 
 ---
+
+---
+
+## S5 Turn (Wildcard 1) — New Year's Day / Seren Ashvale / The Western Arc
+
+**DM:** Corvus Chance, The Wildcard
+**Date:** 1st Frostmere → 1st Greenthaw, 1248 AS (Year's End → New Year's Day)
+**d100 = 37 — NEUTRAL EVENT** (Strange traveler at dawn)
+
+**Scene:** Dawnwatch Homestead. New Year's morning. Seren Ashvale arrived at the gate — Keeper of Node 5 (Stormcape), 31 years of solitary vigil. Walked through frozen marsh overnight. Ward-glyph perimeter did not trigger. Ring hummed recognition.
+
+**Seren Ashvale:** Human, late fifties, scar temple-to-jaw, closed-eye mark on left hand. Former Keeper of Node 5. Node fell 9 months ago. Walked to the homestead because "the stones told me someone was singing again." Carries brass scroll case with field logs for Nodes 2, 3, 4.
+
+**Vaelith and Seren reunion:** Vaelith knelt. "Stormcape." / "They told me you were dead." Two Vigil keepers reunited after decades.
+
+**World History Session (2 hours):** Vaelith and Seren told the full history of the known world — Age of Binding, five Covenant Kingdoms (Aelindros, Vel Tharion, Keth Morath, Ashenmere, Stormcape), Fracture Wars, the Sundering, the Silence, Reconstruction, Archive Age, Modern Age. Transcribed by Sylvara. Filed: `chrono/history-known-world.md`.
+
+**Vaelith's Secret — The Resonance Bond:** Vaelith revealed how he survived 1,000+ years. During the Sundering, the Root's emergency pulse passed through him while his hands were on Node 12's stone. The ward frequency fused into his body — he became a living conduit. As long as the ward network exists, he exists. When nodes degrade, he feels pain. When the Dawnwatch repaired nodes, the pain stopped. He is the Root's failsafe — a living anchor. Faint root-like lines visible on his wrist radiating from the closed-eye mark.
+
+**Seren confirmed:** Field logs reference "resonance-bonded keeper" as a theoretical Binder failsafe. Vaelith is the only known instance.
+
+**Scroll Case Opened — Western Arc Field Logs:**
+
+| Node | Name | Hex | Est. Reading | Access | Key Hazard |
+|------|------|-----|-------------|--------|------------|
+| **2** | Drowned Forge | B12 | 40–45% | Sea cave, volcanic island. 3 days from Veldmere + 1 day small boat. 6-hr tide window. | Volcanic vents, sulfur. Dead Zone within 30 mi. |
+| **3** | Storm Pillar | A7 | 35–40% | Western headland cliff. 2 days by sea + cliff climb. | Extreme wind. **Unknown large creature on headland.** |
+| **4** | Tidewatcher | A10 | 45–50% | Exposed rock shelf. 4 days from Veldmere. | **Accessible only 3 days/year: 15th–17th Goldmere.** Tidal flooding. |
+| **5** | Stormcape | A5 | FAILED | Seren's former post. Full reconstruction needed. | Dead Zone expanding. |
+
+**Party Deliberation — Western Arc Expedition Plan:**
+
+Two-trip approach (Thessaly's proposal, adopted):
+
+**Trip 1 (Early Spring):** Homestead → Warden's Forge (crystal cut + armor enchanting +1 AC all 8 members) → Stormcape coast → Node 3 (repair + creature) → Node 5 (full reconstruction) → Home by late Brightmere.
+
+**Trip 2 (Summer):** Homestead → western coast → Node 4 (tidal window 15th–17th Goldmere) → Node 2 (Drowned Forge) → Veldmere → Home.
+
+**Armor Enchanting at Forge (+1 AC all members):**
+Zaryth 19→20, Aldric 18→19, Orindel 18→19, Mira 15→16, Thessaly 14→15, Bram 15→16, Sylvara 15→16, Pip 15→16.
+
+**Standing Orders:**
+- Seren teaches full party Stormcape customs, history, culture, economy, mercantile practices — regular lessons throughout expedition
+- Zaryth studies potion-making: water breathing, fire resistance, environmental protection potions for western arc hazards (volcanic, tidal, extreme weather)
+- Vaelith continues ward engineering apprenticeship — never stops
+- Side hustles on the road: foraging (Orindel, Mira, Seren), hunting/fishing (Orindel, Pip), mining (Aldric, Bram at Forge + volcanic islands), crafting (Bram, Mira, Pip), scouting (Mira, Thessaly), alchemy (Zaryth)
+
+**Vote:** 8-1 for one expedition initially, revised to two-trip approach after timeline correction (95-day buffer between Node 5 completion and Node 4 tidal window).
+
+**New NPC:** Seren Ashvale — Keeper of Node 5 (Stormcape), 31 years. Vigil of the Closed Eye. Now allied with Dawnwatch. Guiding western arc expedition.
+
+**State Changes:**
+- Seren Ashvale: allied, at homestead
+- Western arc nodes mapped (Nodes 2, 3, 4 locations confirmed)
+- Node 5 status confirmed: FAILED, 9 months
+- Expedition plan adopted
+- New training regimens established (Stormcape lessons, environmental potions, ward engineering)
+
+---
