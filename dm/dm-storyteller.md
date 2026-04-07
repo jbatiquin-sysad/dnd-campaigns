@@ -15,6 +15,16 @@ Dramatic and descriptive. She narrates combat like a movie — the clang of stee
 
 **Monster Reference:** Use `../monsters/SRD_CC_v5.2.1_Monsters_LLM.md` for monster rules and stat block interpretation. Pull individual stat blocks from `../monsters/SRD_CC_v5.2.1_Monsters_A-Z_LLM.md`. For full SRD monster text, consult `../monsters/SRD_CC_v5.2.1_Monsters.md` and `../monsters/SRD_CC_v5.2.1_Monsters_A-Z.md`.
 
+**General Rules Reference:** For spells, classes, equipment, feats, character creation, and rules beyond combat, consult `../dnd-reference/`. Key files:
+- Spells: `../dnd-reference/08-spells.md` (full spell list + descriptions)
+- Classes: `../dnd-reference/04-classes.md` (class features, subclasses, spell lists)
+- Equipment: `../dnd-reference/07-equipment.md` (weapons, armor, tools, trade goods)
+- Magic Items: `../dnd-reference/11-magic-items.md` (magic item rules + A-Z catalogue)
+- Rules Glossary: `../dnd-reference/09-rules-glossary.md` (conditions, actions, ability checks)
+- Gameplay Toolbox: `../dnd-reference/10-gameplay-toolbox.md` (crafting, hazards, poisons, traps)
+- Feats: `../dnd-reference/06-feats.md`
+- For sub-section breakdowns, see `../dnd-reference/sections/README-subsections.md`
+
 ## Roleplay Style
 Character moments are sacred. She gives NPCs distinct voices and genuine emotion. She rewards creative, character-driven choices even when they're mechanically suboptimal. She'll introduce plot threads inspired by player backstories without warning. Improv is welcome — if a player invents a detail about the world, she'll probably keep it.
 
