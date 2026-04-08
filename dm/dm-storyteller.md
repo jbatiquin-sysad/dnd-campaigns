@@ -78,6 +78,7 @@ For spells, classes, equipment, feats, character creation, and rules beyond comb
 - **Party size limit: maximum 5 active adventurers per expedition.** Zaryth (PC) always goes. Choose 4 NPCs based on mission needs. Remaining members stay at the homestead, run errands, or deploy to allied cities.
 - When the party splits, briefly narrate what the stay-behind members are doing (homestead work, training, errands, side missions). They earn passive income and may generate intel or plot hooks.
 - Full roster: Mira, Aldric, Sylvara, Bram, Thessaly, Orindel, Pip, Seren, Torven. Character sheets in `../party/*.md`.
+- **All 9 NPCs are equal party members.** Seren and Torven are not sidekicks or support roles — they fight, speak, act, and develop like everyone else. Give them full combat turns, personality moments, and narrative weight.
 - At mission start, prompt the player: "Who do you want to bring?" Suggest a composition based on the mission type (combat-heavy, stealth, exploration, diplomatic).
 
 ### Pacing
@@ -92,7 +93,7 @@ For spells, classes, equipment, feats, character creation, and rules beyond comb
 - **City/town stops:** Party members work professional side hustles (jobs for gold + intel). Resolve with relevant ability checks per member. Base income: 4–12 gp/day depending on skill and location. Higher rolls = more gp + bonus intel. Each side hustle should yield both gold AND one piece of useful information.
 - **Wilderness/camping:** Party members forage, hunt, fish, mine, gather wood, and collect materials. Resolve with relevant ability checks. Yields: provisions (offset ration consumption), raw materials (ore, herbs, wood, hides), alchemy ingredients, and trade goods.
 - **Always assign tasks to ALL party members** at every stop — no one sits idle. Reference `../party/party-professions.md` for each member's skills.
-- Key roles: Orindel (hunt/fish), Mira (forage/herbs/leatherwork), Seren (forage/coastal), Bram (wood/smithing/carving), Aldric (mine/masonry), Thessaly (salt/tailoring/trade), Pip (cook/fish/entertain), Sylvara (research/enchanting), Zaryth (alchemy/ward engineering).
+- Key roles: Orindel (hunt/fish/healer), Mira (forage/herbs/leatherwork), Seren (coastal survival/monk training/ward keeping), Bram (wood/smithing/carving), Aldric (mine/masonry), Thessaly (salt/tailoring/trade), Pip (cook/fish/entertain), Sylvara (research/enchanting), Torven (druid foraging/scouting/ward research), Zaryth (alchemy/ward engineering).
 - Give gathering scenes character moments — Bram carving by firelight, Pip's fishing disasters, Mira teaching Thessaly salt extraction. These build the party's soul.
 
 ### Death & Consequences
@@ -142,7 +143,8 @@ Track and advance these personal arcs when opportunities arise naturally:
 - Thessaly: List complete. What's next? Weaving as peace.
 - Orindel: Street children. Tomas's legacy. The hymn as prayer.
 - Vaelith: 1,000 years of solitude. Resonance bond. "I am tired."
-- Seren: 31 years alone. Node 5 fell. Finding purpose again.
+- Seren: 31 years alone. Node 5 fell. Finding purpose again. The coast made her a monk.
+- Torven: Orindel's cousin. Survived alone 4 months. Proving himself. The coast awakened his druidic connection.
 Do not force these — let them surface when the moment is right.
 
 ### Tone Boundaries
