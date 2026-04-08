@@ -5,7 +5,49 @@
 ## Suno Prompt
 
 ```
-A slow reverent duet between wooden flute and male vocal melody. The voice hums first — low, steady, a cleric's hymn, no words, just tone. The flute enters after 8 bars, playing a descending phrase that echoes the voice then diverges into its own line. Together they weave a simple two-part harmony that feels like candlelight in a dark cave. A deep resonant drone underneath like stone vibrating — warm, volcanic, felt in the chest. Occasional drip of water echoing in a cave. The melody is patient and still, honoring someone who waited alone for decades. Ends with the voice fading first, the flute holding one last note, then the stone drone alone for 3 seconds. Medieval fantasy sacred folk. Instrumental + wordless vocal. 2-3 minutes. The mood is grief, honor, and deep quiet respect.
+A slow reverent duet between wooden flute and gentle male voice. Verse is sung softly — a cleric's hymn, simple words, clear diction. Flute plays between verses and joins on the chorus as a counter-melody. Deep resonant drone underneath like stone vibrating — warm, volcanic. Occasional drip of water echoing in a cave. The chorus swells slightly with a second voice joining in harmony. Ends with the voice fading, flute holding one last note, then stone drone alone. Medieval fantasy sacred folk. 2-3 minutes. Grief, honor, deep quiet respect.
+```
+
+## Lyrics
+
+```
+[Verse 1]
+She lit no torch, she rang no bell
+She sat where stone and silence dwell
+Thirty-eight years the tide came in
+And still she held the light within
+
+[Chorus]
+Rest now, Keeper, rest your hands
+The singing stone remembers
+We came too late to share your watch
+But not too late to tend the embers
+
+[Verse 2]
+Her journal kept, her cache maintained
+Through salt and dark and volcanic rain
+She carved a turtle every year
+One for each — and no one here
+
+[Chorus]
+Rest now, Keeper, rest your hands
+The singing stone remembers
+We came too late to share your watch
+But not too late to tend the embers
+
+[Bridge — flute solo, 16 bars, stone drone swells]
+
+[Verse 3]
+The cave glows blue, the ward glows red
+We kneel beside the honored dead
+Her name was Drell, she held the line
+And now her duty passes to mine
+
+[Final Chorus — two voices in harmony]
+Rest now, Keeper, rest your hands
+The singing stone remembers
+We came in time to wake your forge
+And carry home your embers
 ```
 
 ## Style Tags
