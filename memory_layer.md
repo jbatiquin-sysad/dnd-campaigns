@@ -1076,3 +1076,43 @@ Both formally joined the Dawnwatch. Dawnwatch rings forged + enchanted. Characte
 - Next: Unknown. The outer ring is complete. What comes next?
 
 ---
+
+## CAMPAIGN STATUS — Session 5 (Wildcard) — DOWNTIME
+
+**Date:** 6th Reaptide, 1248 AS (Day 156) — Late Summer
+**DM:** Corvus Chance, The Wildcard
+**Location:** Dawnwatch Homestead, Fenhollow
+**Party Level:** 3 | **Party Gold:** ~7,280 gp | **Party Size:** 10 (max 5 active per expedition)
+
+### Ward Network
+- **Root:** Active, healthy
+- **Outer Ring (8/8 known):** ALL ACTIVE — 9 (78%), 10 (80%), 11 (75%), 12 (72%), 3 (62%), 5 (74%), 2 (71%), 4 (76%)
+- **Unknown Nodes:** 6 remaining (1, 6, 7, 8, 13, 14)
+- **Heartstones:** 1/7 discovered (Ashenmere)
+
+### Party Roster
+
+| Character | Race | Class | Level | AC | HP | Key |
+|-----------|------|-------|-------|----|----|-----|
+| **Zaryth** | Drow | Paladin (Devotion) | 3 | 20 | 28 | Journeyman ward engineer. Ward-ink (14 apps). |
+| Mira | Halfling | Rogue (Thief) | 3 | 16 | 23 | Behir scale-leather. Lightning resist. |
+| Aldric | Dwarf | Cleric (Life) | 3 | 19 | 28 | Sea Ward. +1d4 radiant warhammer. |
+| Sylvara | High Elf | Wizard (Evocation) | 3 | 16 | 14 | Behir scale mail. Lightning resist. |
+| Bram | Halfling | Wizard (Evocation) | 3 | 16 | 15 | Behir scale mail. +1 spell attacks. |
+| Thessaly | Dwarf | Rogue (Thief) | 3 | 16 | 24 | Silent Storm rapier. Nerve Strike. |
+| Orindel | Wood Elf | Cleric (Life) | 3 | 19 | 23 | Behir scale mail. Upgraded bow. |
+| Pip | Halfling | Wizard (Evocation) | 3 | 16 | 14 | Resonance Shell. Permanent fire sword. |
+| Seren | Human | Monk (Open Hand) | 3 | 16 | 24 | 40 ft speed. 3 ki. Stormcape keeper. |
+| Torven | Half-Elf | Druid (Land-Coast) | 3 | 16 | 21 | Wild Shape. Mirror Image. Orindel's cousin. |
+
+### Key Assets
+- **Homestead:** Fully developed. Tower, forge, library (14 books). Passive income 35-45 gp/week.
+- **Trimaran:** *Stormcape's Promise* at Tidemeet. 20 passengers, 5 tons cargo.
+- **Stormcape Alliance:** 5 cliff-holds. Pigeon network.
+- **Inter-City Network:** 7 cities + maritime + Stormcape.
+- **All weapons enchanted. All armor enchanted. 8/10 lightning resistant.**
+
+### Next Arc — Zaryth's Underdark / Aelindra Deep Vaults
+Zaryth is ready to explore his hometown in the Underdark and investigate connections to what's sealed beneath Aelindra. Research phase needed: cross-reference Vigil Field Manual, Drell's journal, Archive records. Party selection for Underdark expedition (max 5). This is Zaryth's personal quest — the ruined signet ring, the fallen house, finally addressed.
+
+---
