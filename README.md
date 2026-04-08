@@ -72,14 +72,16 @@ Quick version — ask in chat: *"Save the session — update party-state, memory
 
 | Character | Race | Class | Level | AC | HP | Professions |
 |-----------|------|-------|-------|----|----|-------------|
-| **Zaryth Vel'quinar** | Drow | Paladin (Devotion) | 3 | 19 | 28 | Alchemist, Tinkerer, Ward Engineer Apprentice — *you* |
-| Mira Thistlewick | Lightfoot Halfling | Rogue (Thief) | 3 | 15 | 23 | Herbalist, Leatherworker |
-| Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | 3 | 18 | 28 | Mason, Miner |
-| Sylvara Dawnwhisper | High Elf | Wizard (Evocation) | 3 | 15 | 14 | Enchanter, Glassblower |
-| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 3 | 15 | 15 | Smith, Woodcarver |
-| Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 3 | 14 | 24 | Tailor, Weaver |
-| Orindel Ashwick | Wood Elf | Cleric (Life) | 3 | 18 | 23 | Jeweler, Hunter, Hymn Composer |
-| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 3 | 15 | 14 | Inscriber, Cook, Flutist |
+| **Zaryth Vel'quinar** | Drow | Paladin (Devotion) | 3 | 20 | 28 | Alchemist, Tinkerer, Ward Engineer (Journeyman) — *you* |
+| Mira Thistlewick | Lightfoot Halfling | Rogue (Thief) | 3 | 16 | 23 | Herbalist, Leatherworker |
+| Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | 3 | 19 | 28 | Mason, Miner |
+| Sylvara Dawnwhisper | High Elf | Wizard (Evocation) | 3 | 16 | 14 | Enchanter, Glassblower |
+| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 3 | 16 | 15 | Smith, Woodcarver |
+| Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 3 | 16 | 24 | Tailor, Weaver |
+| Orindel Ashwick | Wood Elf | Cleric (Life) | 3 | 19 | 23 | Jeweler, Hunter, Hymn Composer |
+| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 3 | 16 | 14 | Inscriber, Cook, Flutist |
+| Seren Ashvale | Human | Ranger (Hunter) | 3 | 16 | 28 | Herbalist, Navigator, Ward Keeper |
+| Torven Ashwick | Human | Wizard (Abjuration) | 3 | 15 | 16 | Ward Engineer, Scribe, Researcher |
 
 ## The DMs
 
@@ -154,6 +156,7 @@ duskport-campaign/
 | Week | Days | Date (1248 AS) | Title | DM |
 |------|------|----------------|-------|----|
 | 14 | 1 | 1st Greenthaw | Seren Ashvale Arrives — Western Arc Mapped | Wildcard |
+| 15 | 1–156 | 1st Greenthaw–6th Reaptide | The Western Arc — Forge, Behir, 4 Nodes, Trimaran, Home | Wildcard |
 
 ## Campaign Arcs
 
@@ -196,37 +199,44 @@ The outer ward network's known nodes have been repaired. The cascade is ended.
 | Warden's Forge | Discovered — operational, 2.5 blocks raw resonance stone |
 | Ward-Light Hymn | Composed by Orindel — used as sympathetic resonance in all repairs |
 
-### Arc 3: The Western Arc (Session 5 — Wildcard, in progress)
+### Arc 3: The Western Arc (Session 5 — Wildcard) ✅ COMPLETE
 
-Seren Ashvale, Keeper of Node 5 (Stormcape), arrived New Year's Day 1248 AS with field logs for the western ward nodes. Node 5 fell 9 months ago. The western flank is open.
+All 4 western ward nodes repaired. Behir nest cleared. Stormcape alliance built. Trimaran acquired.
 
-| Node | Name | Location | Est. Reading | Key Hazard |
-|------|------|----------|-------------|------------|
-| Node 2 | Drowned Forge | Volcanic island chain, SW (B12) | 40–45% | Volcanic vents, sulfur. Dead Zone within 30 mi. |
-| Node 3 | Storm Pillar | Western headland cliff (A7) | 35–40% | Extreme wind. **Unknown large creature.** |
-| Node 4 | Tidewatcher | Exposed rock shelf, W coast (A10) | 45–50% | **Accessible only 3 days/year: 15th–17th Goldmere.** |
-| Node 5 | Stormcape | Western coast (A5) | **FAILED** | Dead Zone expanding. Full reconstruction needed. |
+| Node | Name | Location | Result | Key Event |
+|------|------|----------|--------|-----------|
+| Node 3 | Storm Pillar | Western headland (A7) | **62% ✔ REPAIRED** | Behir combat (CR 6 + 2×CR 3). Field-calibrated crystal. |
+| Node 5 | Stormcape | Western coast (A5) | **74% ✔ RECONSTRUCTED** | 6-anchor in Dead Zone. Seren came home. |
+| Node 2 | Drowned Forge | Volcanic island (B12) | **71% ✔ REPAIRED** | Warden Drell found (38 years at post, deceased). |
+| Node 4 | Tidewatcher | Tidal rock shelf (A10) | **76% ✔ INFUSED** | Folk ward-keeper Asha maintained it with shells. Pip's first flawless procedure. |
 
-**Expedition plan:** Two trips. Trip 1 (spring): Forge → Node 3 → Node 5. Trip 2 (summer): Node 4 (tidal window) → Node 2 → Veldmere → Home.
-**Armor enchanting:** +1 AC all 8 members at Warden's Forge.
+**ALL 8 KNOWN OUTER WARD NODES ACTIVE — first time in 1,248 years.**
 
-## Current Status — Session 5 (Wildcard)
+Behir heart → Thessaly's rapier (Silent Storm + Nerve Strike). Trimaran *Stormcape's Promise* built with Old Marsh. 5 Stormcape cliff-holds allied. Pigeon network to western coast.
 
-**Date:** 1st Greenthaw, 1248 AS (Day 1) — New Year's Day
+## Current Status — Session 5 (Wildcard) — DOWNTIME
+
+**Date:** 6th Reaptide, 1248 AS (Day 156) — Late Summer
 **DM:** Corvus Chance, The Wildcard
 **Location:** Dawnwatch Homestead, Fenhollow
-**Party Level:** 3 | **Party Gold:** ~6,530 gp
-**Homestead:** Fully developed — tower, forge, smokehouse, tannery, alchemy shed, stable, root cellar, gardens, library (12 books). Passive income 35–45 gp/week. Tessa managing.
+**Party Level:** 3 | **Party Gold:** ~7,280 gp | **Party Size:** 10 (max 5 active per expedition)
+**Homestead:** Fully developed — tower, forge, smokehouse, tannery, alchemy shed, stable, root cellar, gardens, library (14 books). Passive income 35–45 gp/week. Tessa managing. School walls in progress.
 
-**Arc 2:** COMPLETE. Outer ward ring repaired (4/4 nodes). ALL 7 BARROWS SEALED. Zero combat across entire barrow circuit.
-**Arc 3:** ACTIVE. Western arc mapped. Expedition planned. Seren Ashvale guiding.
+**Arc 1:** ✅ COMPLETE. 7/7 Unchained Compact targets.
+**Arc 2:** ✅ COMPLETE. 4/4 eastern nodes repaired. 7/7 barrows sealed.
+**Arc 3:** ✅ COMPLETE. 4/4 western nodes repaired. All 8 outer nodes active.
+**Ward Network:** Root (active) + 8 outer nodes: 9 (78%), 10 (80%), 11 (75%), 12 (72%), 3 (62%), 5 (74%), 2 (71%), 4 (76%).
 **Vigil Heartstone:** 1/7 discovered at Ashenmere. Active. Greymoor garrison posted.
-**Unknown Nodes:** 3 tentatively identified (1, 5, 8). 7 unidentified (2, 3, 4, 6, 7, 13, 14).
-**All weapons enchanted.** All party members equipped with purpose rings + cantrip amulets.
-**Vaelith:** At homestead. Teaching Zaryth ward engineering (intermediate level).
-**Seren Ashvale:** At homestead. Teaching Stormcape customs, history, culture. Guiding western expedition.
-**Professions:** 19 total, 18 proficient, 1 in training (Ward Engineering).
+**Unknown Nodes:** 6 unidentified (1, 6, 7, 8, 13, 14). Field Manual has documentation.
+**All weapons enchanted.** All armor enchanted (+1 AC + properties). 6/8 lightning resistant. Zaryth + Aldric have Sea Ward.
+**Zaryth:** Journeyman ward engineer (Vaelith, Lesson 57). Ward-circuit ink (14 applications).
+**Vaelith:** At homestead. Resonance-bonded keeper. Teaching Zaryth.
+**Seren Ashvale:** Full party member (Ranger 3). At homestead.
+**Torven Ashwick:** Full party member (Wizard 3, Abjuration). At homestead. Orindel's cousin.
+**Trimaran:** *Stormcape's Promise* at Tidemeet harbor. Detachable outriggers, 20 passengers, 5 tons cargo.
+**Stormcape Alliance:** 5 cliff-holds (Arn, Kell, Venn, Driftwood Landing, Saltspray). Pigeon network. Asha (folk ward-keeper, Node 4).
+**Professions:** 19+ total across 10 members. Zaryth: Journeyman ward engineer.
 
-**Next:** Year 1248 AS begins. Spring. Western Arc Expedition — Warden's Forge → Stormcape coast → Nodes 3, 5, 4, 2.
+**Next:** Downtime. No urgent objectives. Open threads: unknown nodes (1, 6, 7, 8, 13, 14), Heartstones (6 remaining), Zaryth's fallen house, Bram's school, personal quests, trimaran merchant runs, deep vaults, sealed marsh ruins.
 
-**Inter-City Network:** Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Ashworth (Salthollow) — Brenn (Fenhollow) — Fell (Veldmere) — Serevane (Aelindra counter-intel) — Dalla (Aelindra) — Veyra Solund (Archivist-General) — Edric Aldenmere (Archive reform) — Revka/Silver Chain (maritime) — Cole (Greymoor garrison) — Corran Ashward (Cape Ashward) — Tessa Marsh (Homestead) — Sister Venn (Chapel of the Marsh Light)
+**Inter-City Network:** Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Ashworth (Salthollow) — Brenn (Fenhollow) — Fell (Veldmere) — Serevane (Aelindra counter-intel) — Dalla (Aelindra) — Veyra Solund (Archivist-General) — Edric Aldenmere (Archive reform) — Revka/Silver Chain (maritime) — Cole (Greymoor garrison) — Corran Ashward (Cape Ashward) — Tessa Marsh (Homestead) — Sister Venn (Chapel of the Marsh Light) — Arn, Kell, Venn, Wynn (Stormcape cliff-holds) — Old Marsh (Driftwood Landing)
