@@ -1,9 +1,9 @@
-# Torven Ashwick — Wizard (Abjuration)
+# Torven Ashwick — Druid
 
 ## Identity
 - **Full Name:** Torven Ashwick
-- **Race:** Human
-- **Class:** Wizard (Abjuration)
+- **Race:** Half-Elf
+- **Class:** Druid (Circle of the Land — Coast)
 - **Level:** 3
 - **Background:** Sage (Archive-trained)
 - **Alignment:** Neutral Good
@@ -13,68 +13,72 @@
 ## Stats
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 8 (-1) | 14 (+2) | 12 (+1) | 16 (+3) | 13 (+1) | 10 (+0) |
+| 8 (-1) | 14 (+2) | 12 (+1) | 14 (+2) | 16 (+3) | 10 (+0) |
 
 ## Combat
-- **HP:** 16/16
-- **AC:** 15 (padded armor + DEX) — *needs armor upgrade*
+- **HP:** 21/21 (3d8 + 3 CON)
+- **AC:** 14 (hide armor + shield) — target: behir scale upgrade
 - **Speed:** 30 ft
 - **Initiative:** +2
 - **Proficiency Bonus:** +2
 
+## Racial Traits (Half-Elf)
+- Darkvision 60 ft
+- Fey Ancestry (advantage vs charm, can't be put to sleep magically)
+- 2 bonus skill proficiencies
+
 ## Armor
-- Padded armor (AC 11 + DEX = 13, stealth disadvantage) — **target: behir scale-leather or chain shirt**
+- Hide armor + wooden shield (AC 12 + 2 shield = 14)
 
 ## Weapons
 | Weapon | Attack | Damage | Range | Notes |
 |--------|--------|--------|-------|-------|
-| Fire Bolt | +5 | 1d10 | 120 ft | Cantrip, primary ranged |
-| Quarterstaff | +1 | 1d6-1 | Melee | Emergency only |
+| Produce Flame | +5 | 1d8 | 30 ft | Cantrip, primary ranged |
+| Shillelagh + Quarterstaff | +5 (WIS) | 1d8+3 | Melee | Bonus action to activate, uses WIS |
 | Dagger | +4 | 1d4+2 | Melee/20 ft | Backup |
 
 ## Class Features
-- **Arcane Recovery:** 1/day on short rest, recover 1 spell slot (1st level)
-- **Abjuration Savant:** Copy abjuration spells at half time/cost
-- **Arcane Ward:** When casting abjuration spell, gain temp HP shield = 2× wizard level + INT = 9 HP. Recharges when casting abjuration spells.
+- **Druidic:** Secret druid language
+- **Wild Shape (2/short rest):** Transform into beasts CR 1/4 or lower (no swimming/flying). Lasts 1 hour. Key forms: **cat** (scouting, Stealth +4), **octopus** (underwater scouting, 30 ft swim), **hawk** (aerial recon — available at Druid 4 for flying)
+- **Circle of the Land — Coast:** Bonus spells: Mirror Image, Misty Step (always prepared, don't count against limit)
+- **Natural Recovery:** 1/day on short rest, recover spell slots up to half druid level (1 slot)
 
 ## Spells
-**Cantrips (3):** Fire Bolt, Mage Hand, Light
+**Cantrips (2):** Produce Flame, Shillelagh
 
-**Spellbook (prepared = INT mod + level = 6):**
-| Spell | Level | Effect | Type |
-|-------|-------|--------|------|
-| Shield | 1st | Reaction: +5 AC until next turn | Abjuration — recharges Arcane Ward |
-| Absorb Elements | 1st | Reaction: halve incoming elemental damage, next melee +1d6 | Abjuration — recharges Arcane Ward |
-| Detect Magic | 1st | Sense magic within 30 ft, concentration, 10 min | Detection |
-| Alarm | 1st | Ward an area, alerts on intrusion, 8 hrs | Abjuration — recharges Arcane Ward |
-| See Invisibility | 2nd | See invisible creatures/objects, 1 hr | Detection |
-| Dispel Magic | 2nd* | End one spell on target (auto for 2nd or lower, check for higher) | Abjuration — recharges Arcane Ward |
+**Prepared (WIS mod + level = 6):**
+| Spell | Level | Effect |
+|-------|-------|--------|
+| Healing Word | 1st | 1d4+3 healing, bonus action, 60 ft range |
+| Entangle | 1st | 20-ft square, STR save or restrained, concentration |
+| Goodberry | 1st | 10 berries, each heals 1 HP |
+| Moonbeam | 2nd | 5-ft radius, 2d10 radiant, CON save, concentration — excellent vs undead/shapechangers |
+| Spike Growth | 2nd | 20-ft radius difficult terrain, 2d4 piercing per 5 ft moved — area denial |
+| Pass Without Trace | 2nd | +10 Stealth to all within 30 ft, concentration |
 
-*Dispel Magic is 3rd level. At Wizard 3, Torven has 2nd-level slots max. **Correction:** Replace with **Arcane Lock** (2nd, abjuration — locks a door/container, lasts until dispelled). Dispel Magic available at Level 5.*
-
-**Corrected 2nd-level spells:**
-| Spell | Level | Effect | Type |
-|-------|-------|--------|------|
-| See Invisibility | 2nd | See invisible creatures/objects, 1 hr | Detection |
-| Arcane Lock | 2nd | Lock a door/container until dispelled | Abjuration — recharges Arcane Ward |
+**Circle Bonus (always prepared, free):**
+| Spell | Level | Effect |
+|-------|-------|--------|
+| Mirror Image | 2nd | 3 duplicates, no concentration — defensive |
+| Misty Step | 2nd | Bonus action teleport 30 ft — escape/reposition |
 
 **Spell Slots:** 4× 1st, 2× 2nd
 
 ## Proficiencies
-- **Skills:** Arcana +5, Investigation +5, History +5, Perception +3
-- **Tools:** Calligrapher's supplies, Ward engineering (Vigil training)
-- **Saving Throws:** INT +5, WIS +3
-- **Languages:** Common, Elvish, Draconic
+- **Skills:** Arcana +4, Nature +4, Perception +5, Survival +5, Investigation +4, Insight +5
+- **Tools:** Herbalism kit, Calligrapher's supplies, Ward engineering (Vigil training)
+- **Saving Throws:** INT +4, WIS +5
+- **Languages:** Common, Elvish, Druidic, Sylvan
 
 ## Equipment
 | Slot | Item | Notes |
 |------|------|-------|
 | Ring (L) | Dawnwatch signet ring (T) — ENCHANTED | Ward-network attuned, resonance pulse |
 | Ring (R) | Iron purpose ring — ENCHANTED | Scholar's Focus: +1 to Arcana checks |
-| Neck | Quartz amulet — ENCHANTED | Message cantrip (at will, 120 ft) |
-| Carried | Spellbook (replacement — Sylvara + Pip provided) | Core spells copied |
+| Neck | Quartz amulet — ENCHANTED | Guidance cantrip (1/day, +1d4 ability check) |
+| Carried | Druidic focus (wooden staff carved with ward symbols) | Doubles as quarterstaff |
 | Belt | Dagger | Backup |
-| Pack | Quarterstaff | Emergency melee |
+| Pack | Herbalism kit | Foraging + medicine |
 | Pack | Calligrapher's supplies | Journal, ink, parchment |
 | Pack | Field journal (ongoing) | Documenting everything for Veyra |
 
@@ -88,10 +92,13 @@
 - **Motivation:** Live up to the Vigil legacy. Prove he's worthy of the ring. Make Veyra proud.
 - **Fear:** Being useless when it matters
 - **Quirk:** Writes everything down. Everything. Has filled 3 journals since joining the party.
-- **Relationship:** Orindel (cousin — growing bond, shared Ashwick heritage). Sylvara (mentor figure — she's teaching him). Vaelith (awe — the living legend). Pip (friendship — both youngest-energy members).
+- **Relationship:** Orindel (cousin — growing bond, shared Ashwick heritage). Sylvara (mentor figure). Vaelith (awe). Pip (friendship — both youngest-energy members).
+
+## Combat Role
+Support caster + scout. Wild Shape for reconnaissance (cat, octopus). Entangle and Spike Growth for area control. Moonbeam for sustained damage. Healing Word as backup healer (3rd healer in the party). Mirror Image + Misty Step for personal survival. Pass Without Trace for party stealth.
 
 ## Backstory
-Dispatched from Aelindra by Veyra Solund 4 months before meeting the Dawnwatch. Ship sunk by behir at Node 3. Survived alone on the Stormcape coast for 3 months. Found by the Dawnwatch on Day 29. Grandmother was Lenna Ashwick — Orindel's mother. They're family.
+Half-elf, born to a human father and elven mother in the Ashwick line. Grandmother was Lenna Ashwick — Orindel's mother. Trained at Aelindra Archive under Veyra Solund. Dispatched to survey western nodes 4 months before meeting the Dawnwatch. Ship sunk by behir at Node 3. Survived alone on the Stormcape coast for 3 months. Found by the Dawnwatch on Day 29. His time alone on the coast awakened a connection to the natural world — the druidic tradition found him, not the other way around.
 
 ---
 *Joined the Dawnwatch: 29th Greenthaw, 1248 AS (Day 29)*

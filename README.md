@@ -80,8 +80,8 @@ Quick version — ask in chat: *"Save the session — update party-state, memory
 | Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 3 | 16 | 24 | Tailor, Weaver |
 | Orindel Ashwick | Wood Elf | Cleric (Life) | 3 | 19 | 23 | Jeweler, Hunter, Hymn Composer |
 | Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 3 | 16 | 14 | Inscriber, Cook, Flutist |
-| Seren Ashvale | Human | Ranger (Hunter) | 3 | 16 | 28 | Herbalist, Navigator, Ward Keeper |
-| Torven Ashwick | Human | Wizard (Abjuration) | 3 | 15 | 16 | Ward Engineer, Scribe, Researcher |
+| Seren Ashvale | Human | Monk (Open Hand) | 3 | 16 | 24 | Herbalist, Navigator, Ward Keeper |
+| Torven Ashwick | Half-Elf | Druid (Land — Coast) | 3 | 14 | 21 | Ward Engineer, Scribe, Researcher |
 
 ## The DMs
 
