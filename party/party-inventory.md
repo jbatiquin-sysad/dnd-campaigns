@@ -80,8 +80,10 @@
 | **Anvil (pack mule)** | With party | Marsh-bred, brown, stocky, opinionated. Carries gear + ore. |
 | Mule tack + panniers | Equipped | For ore/materials |
 | Mule feed | ~40 days remaining | Grain supplement, grazes otherwise |
+| *Stormcape's Promise* (trimaran) | Tidemeet harbor | 28-ft sloop + detachable outriggers. 20 passengers, 5 tons cargo. Platform deck. Pre-Sundering navigation set aboard. |
 | *Tern's Wing* | At anchor, Cape Ashward | Return passage to Aelindra available |
 | Pigeon (Tomas) | With Orindel | Paired to Bram in Duskport |
+| Pigeon (Stormcape) | At homestead | Paired to Arn's Hold |
 
 ---
 
@@ -219,4 +221,4 @@
 
 ---
 
-*Last updated: Day 360, 30th Thawsend, 1247 AS — Dawnwatch Homestead, Fenhollow (Year's End)*
+*Last updated: Day 156, 6th Reaptide, 1248 AS — Dawnwatch Homestead, Fenhollow (Seren + Torven added, trimaran acquired)*

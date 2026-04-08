@@ -197,4 +197,46 @@
 
 ---
 
-*Last updated: Day 360, 30th Thawsend, 1247 AS — Dawnwatch Homestead (Year's End, all weapons enchanted)*
+---
+
+## Seren Ashvale — Monk
+
+**Armor:** None (Unarmored Defense AC 16 — DEX 3 + WIS 3)
+**Weapons:** Unarmed (1d4+3), Drell's iron belt knife (1d4+3), 10 darts
+**Clothing:** Weathered travelling clothes, salt-stained cloak
+
+| Slot | Item | Notes |
+|------|------|-------|
+| Ring (L) | Dawnwatch signet ring (S) — ENCHANTED | Ward-network attuned, resonance pulse |
+| Ring (R) | Iron purpose ring — ENCHANTED | Keeper's Sense: advantage on Perception to detect ward anomalies, 1/day |
+| Neck | Quartz amulet — ENCHANTED | Guidance cantrip (1/day, +1d4 ability check) |
+| Carried | Drell's closed-eye medallion | Memorial — worn under clothing, always |
+| Belt | Drell's iron belt knife | Vigil alloy, rust-proof, monk weapon |
+| Belt | 10 darts | Ranged option |
+| Pack | Herbalism kit | Foraging + medicine |
+| Pack | Navigator's tools | Stormcape navigation |
+| Pack | Drell's turtle carving | 38 years of service |
+| Pocket | Bram's bog oak carving | Stormcape keeper figure |
+
+---
+
+## Torven Ashwick — Druid
+
+**Armor:** Behir scale-leather + wooden shield (AC 16, lightning resistance, non-metal, druid-compatible)
+**Weapons:** Shillelagh quarterstaff (1d8+3 WIS), Produce Flame (1d8), dagger
+**Clothing:** Archive scholar's travelling clothes, salt-stained from 4 months on the coast
+
+| Slot | Item | Notes |
+|------|------|-------|
+| Ring (L) | Dawnwatch signet ring (T) — ENCHANTED | Ward-network attuned, resonance pulse |
+| Ring (R) | Iron purpose ring — ENCHANTED | Scholar's Focus: +1 to Arcana checks |
+| Neck | Quartz amulet — ENCHANTED | Druidcraft cantrip (at will) |
+| Carried | Druidic focus (wooden staff carved with ward symbols) | Doubles as quarterstaff |
+| Belt | Dagger | Backup |
+| Pack | Herbalism kit | Foraging + medicine |
+| Pack | Calligrapher's supplies | Journal, ink, parchment |
+| Pack | Field journal (ongoing) | Documenting everything for Veyra |
+
+---
+
+*Last updated: Day 156, 6th Reaptide, 1248 AS — Dawnwatch Homestead (all weapons + armor enchanted, Seren + Torven added)*

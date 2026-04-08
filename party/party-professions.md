@@ -8,16 +8,18 @@
 
 | Member | Professions | Training Status |
 |--------|------------|-----------------|
-| Zaryth | Alchemist, Tinkerer, Ward Engineer | Alchemy ✔, Tinkering ✔, Ward Engineering 🔄 |
-| Mira | Herbalist, Leatherworker | Herbalist ✔, Leatherworking 🔄 |
+| Zaryth | Alchemist, Tinkerer, Ward Engineer | Alchemy ✔, Tinkering ✔, Ward Engineering ✔ (Journeyman) |
+| Mira | Herbalist, Leatherworker | Both ✔ |
 | Aldric | Mason, Miner | Both ✔ |
-| Sylvara | Enchanter, Glassblower | Enchanter ✔, Glassblowing 🔄 |
-| Bram | Smith, Woodcarver | Smith ✔, Woodcarving 🔄 |
-| Thessaly | Tailor, Weaver | Tailor ✔, Weaving 🔄 |
-| Orindel | Jeweler, Hunter, Hymn Composer | Jeweler ✔, Hunter ✔, Composer ✔ |
-| Pip | Inscriber, Cook, Flutist | Inscriber ✔, Cook ✔, Flutist 🔄 |
+| Sylvara | Enchanter, Glassblower | Both ✔ |
+| Bram | Smith, Woodcarver | Both ✔ |
+| Thessaly | Tailor, Weaver | Both ✔ |
+| Orindel | Jeweler, Hunter, Hymn Composer | All ✔ |
+| Pip | Inscriber, Cook, Flutist | All ✔ |
+| Seren | Herbalist, Navigator, Ward Keeper | All ✔ |
+| Torven | Ward Engineer, Scribe, Researcher | All ✔ |
 
-✔ = trained  🔄 = in training
+✔ = proficient  🔄 = in training
 
 ---
 
@@ -218,3 +220,32 @@
 | Pip | ~~Flute~~ | Orindel | Day 109 | **Day 183 ✔** | Proficient. 5+ melodies, public performance, improvisation, original composition. |
 | Thessaly | ~~Weaving~~ | Self / observation | Day 174 | **Day ~233 ✔** | Proficient. Spinning, full loom, fabric production, pattern work. |
 | Sylvara | ~~Glassblowing~~ | Self / observation | Day 174 | **Day ~233 ✔** | Proficient. Vials, lenses, furnace operation. |
+
+
+---
+
+### Seren Ashvale — Herbalist / Navigator / Ward Keeper
+
+**Herbalist ✔** — 31 years of coastal foraging. Knows every edible, medicinal, and alchemical plant on the Stormcape coast. Storm kelp, salt-moss, cliff-root, sea-grape, samphire. Teaches Mira and Zaryth coastal herbalism.
+
+**Navigator ✔** — Stormcape sea routes, tidal prediction, weather reading, star navigation. Pre-Sundering navigation instruments. Can pilot the trimaran independently.
+
+**Ward Keeper (Stormcape tradition) ✔** — Folk ward-keeping: tide offerings, shell-pattern sympathetic resonance, node maintenance without Vigil theory. 31 years of practical experience. Teaching Asha at Saltspray.
+
+**Income range:** 6–12 gp/day (herbalism, navigation consulting, coastal survival instruction)
+
+---
+
+### Torven Ashwick — Ward Engineer / Scribe / Researcher
+
+**Ward Engineer (Vigil training) ✔** — Trained at Aelindra Archive under Veyra Solund. Theoretical knowledge of all 14 nodes. Field experience limited (4 months solo, ship sunk). Learning practical application from Vaelith and Zaryth.
+
+**Scribe/Calligrapher ✔** — Archive-quality handwriting. Journal documentation. Ink preparation. Has filled 3+ field journals since joining the party. Documenting everything for Veyra's records.
+
+**Researcher ✔** — Archive methodology. Cross-referencing historical documents. Reconstructed Torven's own water-damaged journal + Drell's 40-year keeper's log (with Sylvara).
+
+**Income range:** 6–14 gp/day (Archive consulting, scribe work, research commissions, ward theory instruction)
+
+---
+
+*Last updated: Day 156, 6th Reaptide, 1248 AS — Dawnwatch Homestead (Seren + Torven added)*
