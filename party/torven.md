@@ -17,7 +17,7 @@
 
 ## Combat
 - **HP:** 21/21 (3d8 + 3 CON)
-- **AC:** 14 (hide armor + shield) — target: behir scale upgrade
+- **AC:** 16 (behir scale-leather + wooden shield — Mira crafted from juvenile scales, non-metal, druid-compatible, lightning resistant)
 - **Speed:** 30 ft
 - **Initiative:** +2
 - **Proficiency Bonus:** +2
@@ -28,7 +28,7 @@
 - 2 bonus skill proficiencies
 
 ## Armor
-- Hide armor + wooden shield (AC 12 + 2 shield = 14)
+- Behir scale-leather (AC 12 + DEX max 2 = 14) + wooden shield (+2) = **AC 16**, lightning resistance
 
 ## Weapons
 | Weapon | Attack | Damage | Range | Notes |
