@@ -988,3 +988,54 @@ Revka Sarn (Silver Chain, Veldmere) sent a sealed Vigil iron chest salvaged from
 - Next: South to Node 5 (Stormcape) — reconstruction. And possibly Torven Ashwick.
 
 ---
+
+## S5 Turns (Wildcard 13–22) — Node 5, Node 2, Homestead, Full Refit
+
+**Days 28–125 (28th Greenthaw – 5th Solstice, 1248 AS)**
+
+### Torven Ashwick Found (Day 29)
+Positive event (d100=58). Found alive on the coast 2 miles south of Node 5. Vigil keeper sent by Veyra Solund 4 months ago. Ship sunk by behir at Node 3. Survived, walked south, found Node 5 fallen, built shelter. 3 months alone. Possible Ashwick family connection to Orindel (grandmother Lenna Ashwick). Joined party.
+
+### Node 5 — Stormcape: RECONSTRUCTED 74% (Day 30)
+Neutral event (d100=49). Party entered Dead Zone (Pip failed CON save — 1 level exhaustion). Passed through abandoned Arn's Hold village — charcoal message: "38 alive, went east." Node 5 platform inside Dead Zone. Standing stone intact, copper fully corroded. Replaced with Bram's forge-made coils + Zaryth's hand-made circuit + ward-oil. 6-anchor reconstruction (20 min): Sylvara, Bram, Pip, Aldric, Orindel, Zaryth (Warden's Anchor CHA). Pip faltered min 5 (Orindel sang hymn to stabilize), Aldric failed min 12 (roared through it), Orindel failed min 18 (sang louder). Forge-cut crystal installed. **Node 5: RECONSTRUCTED 74%.** Dead Zone clearing. 4 entities dissolved. Seren came home.
+
+### Stormcape Coast Exploration (Days 31–95)
+- 5 cliff-holds visited: Arn's Hold (26 people, returned), Kell's Reach (18), Venn's Shelf (14, Tide-Speaker Lira), Driftwood Landing (30, Old Marsh), Saltspray (8, Grandmother Wynn)
+- Stormcape reputation: legendary. Pip is a folk hero. Thessaly is "the salt woman."
+- Sloop *Stormcape's Promise* acquired from Old Marsh (trade: iron + teak + a story). Named by party vote (2 rounds). Nameplate: "For Tomas."
+- Behir Scale-Leather armor crafted by Mira (3 sets): Thessaly AC 15→16 + lightning resist, Pip AC 16 + lightning resist, Mira AC 16 + lightning resist
+- Thessaly's Rapier upgraded with behir heart: Silent Storm (+1d6 lightning Sneak Attack) + Nerve Strike (1/day paralysis DC 14)
+- Orindel's bow upgraded: behir sinew string (+1 dmg), scale grip, 8 behir-fang arrows
+- Behir-fang daggers crafted (2): Mira + Thessaly. Obsidian skinning knife + 10 obsidian arrowheads for Orindel.
+- 72 lbs salt accumulated (Stormcape trade currency)
+- Iron tools salvage windfall (d100=81): 40 lbs iron, distributed to cliff-holds + party
+- Pigeon network to Stormcape established
+
+### Node 2 — Drowned Forge: REPAIRED 71% (Day 49)
+Sailed to Ashfire Isle (volcanic island chain). Mira scouted sea cave — 3 chambers, sulfur vents, bioluminescent fungus (the "light" Torven saw). No enemies. Found Warden Drell's remains — Keeper of Node 2, died at her post 40 years ago, sitting upright, hands folded, journal in lap. 38 years of service. Pre-tuned crystal in her maintained cache. Standard 4-anchor repair. Pip failed min 8, self-recovered with flute. **Node 2: REPAIRED 71%.** 7 nodes singing.
+
+### Homestead Refit (Days 101–125)
+Sailed home via Tidemeet. 25 days at homestead. Major crafting:
+- **3x Behir Scale Mail** (Bram): Orindel (AC 19 + lightning resist), Sylvara (AC 16 + lightning resist), Bram (AC 16 + lightning resist)
+- **Ward-circuit ink** (Zaryth): 20 applications, self-conducting, waterproof, works underwater. Major ward engineering upgrade.
+- **All remaining weapons enchanted:**
+  - Zaryth longsword: +1d4 lightning all hits (ward-ink inscription)
+  - Mira Whisper Bolt: +1d4 thunder all hits
+  - Mira hand crossbow: Shadow Bolt (attacks from hidden don't reveal)
+  - Aldric warhammer: +1d4 radiant all hits
+  - Bram staff: +1 spell attack rolls
+  - Pip Spark Edge: +1d4 fire every hit (permanent, was 1/day)
+  - Thessaly hand crossbow: Storm Bolt +1d4 lightning
+- Aldric mined 4 resonance-adjacent basalt chunks from homestead ridge
+- 4x more behir-fang arrowheads (Orindel total: 12)
+- Ship's oak shield for Orindel (durable upgrade)
+- Alchemy fully restocked
+- **Zaryth Ward Engineering: APPRENTICE → JOURNEYMAN** (Vaelith Lesson 52)
+- Seren Lessons 11–14 (tidal prediction, deep-water nav, emergency protocols)
+- Homestead: school walls progressing, garden planted, library 14 books, pigeon to Stormcape
+- Passive income collected: 168 gp. Side hustles: 312 gp.
+- Party gold: ~7,080 gp
+
+**State at Day 125:** Departing homestead for Node 4. 10 days until tidal window. All party full HP/resources. Every weapon enchanted. 6/8 members lightning-resistant armor. 1 node remaining.
+
+---

@@ -225,3 +225,14 @@
 | **Tarn Gully** | — | Fishing boat captain, Salthollow | S5 (barrow circuit) | Ally — Salthollow | Provided coastal transport to the Salt Crypts. |
 | **Seren Ashvale** | Human, late 50s | Keeper of Node 5 (Stormcape), Vigil of the Closed Eye | S5 Wildcard Turn 1 | Allied, at Dawnwatch Homestead. Guiding western arc expedition. | 31 years of solitary vigil at Stormcape. Scar temple-to-jaw. Closed-eye mark on left hand. Walked through frozen marsh on New Year's Eve to find the Dawnwatch. Carries field logs for Nodes 2, 3, 4. "I've been ready for nine months. I just didn't have anyone to give it to." |
 | **Torven Ashwick** | Unknown | Vigil keeper, sent by Veyra Solund | S5 Wildcard Turn 12 (journal found) | Missing — headed south from Node 3 toward Stormcape/Node 5 four months ago. Status unknown. | Dispatched from Aelindra independently by Veyra. Ship sunk by behir at Node 3. Survived, left Vigil chest at tide line. Journal found in behir nest. Last entry: "the western nodes need a full expedition, not a single keeper." Possible Ashwick family connection to Orindel. |
+
+
+### Western Arc / Stormcape Coast NPCs
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Old Marsh** | Human, 70s | Master shipwright, Driftwood Landing | S5 Wildcard Turn 17 | Ally — built *Stormcape's Promise* | 40 years building vessels from salvage. Missing most teeth, sharp as a blade. "I built her for the day someone needed to go south again." |
+| **Tide-Speaker Venn** | Human, 50s | Tide-Speaker, Driftwood Landing | S5 Wildcard Turn 17 | Ally — Stormcape cliff-hold | Broad, voice like a foghorn. Rang the hand bell when the sloop departed. |
+| **Warden Drell** | Unknown, deceased | Former Keeper of Node 2 (Drowned Forge), Vigil of the Closed Eye | S5 Wildcard Turn 19 (remains found) | Deceased — died at her post ~40 years ago | Served 38 years alone in a volcanic sea cave. Found sitting upright, hands folded, journal in lap. Carved a stone turtle for every year of service. Maintained her cache until the end. Medallion taken by Seren. "She stayed until the end." |
+| **Tide-Speaker Lira** | Human, 30s | Tide-Speaker, Venn's Shelf | S5 Wildcard Turn 21 | Ally — Stormcape cliff-hold | Fierce, one eye. Reported a light and structure at Node 4 during last year's low tide. |
+| **Grandmother Wynn** | Human, 70s+ | Elder, Saltspray | S5 Wildcard Turn 21 | Ally — closest cliff-hold to Node 4 | Smallest cliff-hold (8 people). Gave Pip a whale-tooth pendant for his shell crown. "The rock breathes. Once a year, it rises, and the old marks glow." |

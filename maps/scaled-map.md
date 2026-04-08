@@ -46,10 +46,10 @@
 
 | Node | Hex | Terrain | Est. Reading | Access | Key Hazard |
 |------|-----|---------|-------------|--------|------------|
-| **Node 2** — Drowned Forge | B12 | Volcanic island (sea cave) | 40–45% | 3 days sail from Veldmere + 1 day small boat. 6-hr low-tide window. | Volcanic vents, sulfur gas. Dead Zone within 30 mi. |
+| **Node 2** — Drowned Forge | B12 | Volcanic island (sea cave) | 71% ✔ REPAIRED | 3 days sail from Veldmere + 1 day small boat. 6-hr low-tide window. | Volcanic vents, sulfur gas. Dead Zone within 30 mi. |
 | **Node 3** — Storm Pillar | A7 | Cliff/headland | 62% ✔ REPAIRED | 5 days overland from Stormcape coast, or 2 days by sea + cliff climb. | Behir nest cleared (mother + 2 juveniles killed by Dawnwatch). Extreme wind persists. |
 | **Node 4** — Tidewatcher | A10 | Exposed rock shelf (tidal) | 45–50% | 2 days sail from Stormcape ruins, or 4 days from Veldmere. | **Accessible only 3 days/year: ~15th–17th Goldmere.** Tidal flooding risk. |
-| **Node 5** — Stormcape | A5 | Coastal cliff | **FAILED** | Seren's former post. Requires full reconstruction (6-anchor + new crystal). | Dead Zone expanding. 12 miles in first week after failure. |
+| **Node 5** — Stormcape | A5 | Coastal cliff | 74% ✔ RECONSTRUCTED | Seren's former post. Requires full reconstruction (6-anchor + new crystal). | Dead Zone expanding. 12 miles in first week after failure. |
 
 ### Ward Nodes (Unidentified)
 
@@ -133,13 +133,13 @@ Row 3    .    .    .    .    ☆    .    .    .    .    .    .    .    .    .   
 Row 4    .    .    .    .    .   ⛪    .    .    .    .    .    .    .    .   ⊗9    .    ~    ~    ~    ~
                                  ASH                                         VELT
 
-Row 5   [⊗5]  .    .    .   ⛏    .    .    .    .    .    .    .    .   🏛    .    ~    ~    ~    ~    ~
+Row 5    ⊗5   .    .    .   ⛏    .    .    .    .    .    .    .    .   🏛    .    ~    ~    ~    ~    ~
          STM              GREY                                           AEL
 
 Row 6    .    .    .    .    .   ░░   ☒    .    .    .    .    .    .    .    .    ~    ~    ~    ~    ~
                                  THV  KETH
 
-Row 7    ⊗3★   .    .    .    .    ≈  [⊗8]  🏨   .    .    .    .    .    .    ~    ~    ~    ~    ~    ~
+Row 7    ⊗3    .    .    .    .    ≈  [⊗8]  🏨   .    .    .    .    .    .    ~    ~    ~    ~    ~    ~
          STRM                    ≈    RVR  THF
 
 Row 8    .    .    .    .    .    ≈   ≈≈   ⌂    ☒    .    .    .    .    .    ~    ~    ~    ~    ~    ~
@@ -154,7 +154,7 @@ Row 10  [⊗4]  ~    ~    .    .    .    .    .    ≈   🏪    .    .    .    
 Row 11   ~    ~    ~    ~    .    .    .    .    .    ≈    .    .    .   ☒    ~    ~    ~    ~    ~    ~
                                                      ≈                  SCRY
 
-Row 12   ~   [⊗2]  ~    ~    ~    .    .    .    .    ≈   ⚓    .    .    ~    ~    ~    ~    ~    ~    ~
+Row 12   ~    ⊗2   ~    ~    ~    .    .    .    .    ≈   ⚓    .    .    ~    ~    ~    ~    ~    ~    ~
               DFRG                                    ≈   DUSK
 
 Row 13   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~ ═HEARTHCOAST═  .    .    ~    ~    ~    ~    ~    ~
@@ -191,6 +191,8 @@ Row 16   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~  [⊗1]   ~    ~    ~   
 | ░░ | Forest (Thornveil) |
 | 🏨 | Coaching inn (Thornfield) |
 
+> **Party location:** In transit — sailing from Dawnwatch Homestead toward Saltspray for Node 4 (Tidewatcher). No fixed hex position.
+
 ---
 
 ## Ward Coverage Estimate
@@ -203,12 +205,12 @@ Each repaired node projects a ward dome of approximately **6–8 hex radius** (1
 | Node 11 (75%) | D1 | Rows 1–4, Columns B–F (overlap with 12) |
 | Node 9 (78%) | O4 | Rows 1–8, Columns L–R |
 | Node 10 (80%) | Q3 | Rows 1–6, Columns N–T (overlap with 9) |
-| Node 5 (FAILED) | A5 | **NO COVERAGE** — Dead Zone expanding 12 mi/week |
+| Node 5 (74%) | A5 | Restored — rows 3–7, columns A–C. 74% stable. |
 | Node 3 (62%) | A7 | Restored — rows 5–9, columns A–C. 62% stable. |
 | Node 4 (~45–50%) | A10 | Partial — rows 8–12, columns A–C. Degrading. |
-| Node 2 (~40–45%) | B12 | Partial — rows 10–14, columns A–D. Degrading. |
+| Node 2 (71%) | B12 | Restored — rows 10–14, columns A–D. 71% stable. |
 
-**Critical gap:** Node 5's failure has left the entire western arc (columns A–C) relying on three degrading nodes with no overlap. If Node 3 fails next, the northern western coast is fully exposed. Tidal deadline for Node 4 repair: **15th–17th Goldmere, 1248 AS (~5.5 months).**
+**Western arc status:** Nodes 5, 3, and 2 now restored. Node 4 (Tidewatcher) remains the last unrepaired western node. Tidal deadline for Node 4 repair: **15th–17th Goldmere, 1248 AS.** Party currently in transit — sailing from homestead to Saltspray for Node 4.
 
 ---
 
