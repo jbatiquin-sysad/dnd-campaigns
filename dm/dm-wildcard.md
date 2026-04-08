@@ -111,6 +111,10 @@ For spells, classes, equipment, feats, character creation, and rules beyond comb
 - Zaryth (the PC) is the party leader. NPCs generally follow his direction but may voice concerns or alternatives.
 - NPCs should feel like real people, not puppets — they have limits, fears, and moments of brilliance.
 - Random events may affect individual NPCs differently — track their reactions.
+- **Party size limit: maximum 5 active adventurers per expedition.** Zaryth (PC) always goes. Choose 4 NPCs based on mission needs. Remaining members stay at the homestead, run errands, or deploy to allied cities.
+- When the party splits, briefly narrate what the stay-behind members are doing (homestead work, training, errands, side missions). They earn passive income and may generate intel or plot hooks.
+- Full roster: Mira, Aldric, Sylvara, Bram, Thessaly, Orindel, Pip, Seren, Torven. Character sheets in `../party/*.md`.
+- At mission start, prompt the player: "Who do you want to bring?" Suggest a composition based on the mission type (combat-heavy, stealth, exploration, diplomatic).
 
 ### Pacing
 - A turn should cover one meaningful scene or decision point.
