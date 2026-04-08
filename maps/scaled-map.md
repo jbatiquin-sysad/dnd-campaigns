@@ -48,7 +48,7 @@
 |------|-----|---------|-------------|--------|------------|
 | **Node 2** — Drowned Forge | B12 | Volcanic island (sea cave) | 71% ✔ REPAIRED | 3 days sail from Veldmere + 1 day small boat. 6-hr low-tide window. | Volcanic vents, sulfur gas. Dead Zone within 30 mi. |
 | **Node 3** — Storm Pillar | A7 | Cliff/headland | 62% ✔ REPAIRED | 5 days overland from Stormcape coast, or 2 days by sea + cliff climb. | Behir nest cleared (mother + 2 juveniles killed by Dawnwatch). Extreme wind persists. |
-| **Node 4** — Tidewatcher | A10 | Exposed rock shelf (tidal) | 45–50% | 2 days sail from Stormcape ruins, or 4 days from Veldmere. | **Accessible only 3 days/year: ~15th–17th Goldmere.** Tidal flooding risk. |
+| **Node 4** — Tidewatcher | A10 | Exposed rock shelf (tidal) | 76% ✔ INFUSED | 2 days sail from Stormcape ruins, or 4 days from Veldmere. | **Accessible only 3 days/year: ~15th–17th Goldmere.** Tidal flooding risk. |
 | **Node 5** — Stormcape | A5 | Coastal cliff | 74% ✔ RECONSTRUCTED | Seren's former post. Requires full reconstruction (6-anchor + new crystal). | Dead Zone expanding. 12 miles in first week after failure. |
 
 ### Ward Nodes (Unidentified)
@@ -148,7 +148,7 @@ Row 8    .    .    .    .    .    ≈   ≈≈   ⌂    ☒    .    .    .    . 
 Row 9    .    ~    ~    .    .    .    ≈    ≈   ⚓    .    .    .    .   📚    ~    ~    ~    ~    ~    ~
                                            ≈   TDM                     SALT
 
-Row 10  [⊗4]  ~    ~    .    .    .    .    .    ≈   🏪    .    .    .    .    ~    ~    ~    ~    ~    ~
+Row 10  ⊗4   ~    ~    .    .    .    .    .    ≈   🏪    .    .    .    .    ~    ~    ~    ~    ~    ~
          TIDE                                   ≈    HARR
 
 Row 11   ~    ~    ~    ~    .    .    .    .    .    ≈    .    .    .   ☒    ~    ~    ~    ~    ~    ~
@@ -207,7 +207,7 @@ Each repaired node projects a ward dome of approximately **6–8 hex radius** (1
 | Node 10 (80%) | Q3 | Rows 1–6, Columns N–T (overlap with 9) |
 | Node 5 (74%) | A5 | Restored — rows 3–7, columns A–C. 74% stable. |
 | Node 3 (62%) | A7 | Restored — rows 5–9, columns A–C. 62% stable. |
-| Node 4 (~45–50%) | A10 | Partial — rows 8–12, columns A–C. Degrading. |
+| Node 4 (76% ✔) | A10 | Restored — rows 8–12, columns A–C. 76% stable. |
 | Node 2 (71%) | B12 | Restored — rows 10–14, columns A–D. 71% stable. |
 
 **Western arc status:** Nodes 5, 3, and 2 now restored. Node 4 (Tidewatcher) remains the last unrepaired western node. Tidal deadline for Node 4 repair: **15th–17th Goldmere, 1248 AS.** Party currently in transit — sailing from homestead to Saltspray for Node 4.

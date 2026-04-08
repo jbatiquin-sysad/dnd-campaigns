@@ -44,9 +44,12 @@ Volcanic sea cave. Warden Drell found — died at post 40 years ago. Pre-tuned c
 - Stormcape alliance network established (5 cliff-holds)
 
 ## End of Week State
-- **Location:** Departing homestead for Node 4
-- **Party Funds:** ~7,080 gp
-- **Party Level:** 3 | All armor +1 AC | 6/8 lightning resistant | All weapons enchanted
-- **Nodes:** 7/8 active (9:78%, 10:80%, 11:75%, 12:72%, 3:62%, 5:74%, 2:71%). Node 4 remaining.
-- **Calendar:** 5th Solstice, 1248 AS (Day 125)
-- **Next:** Sail west to Saltspray. Node 4 tidal window: 15th–17th Goldmere (~10 days).
+- **Location:** Dawnwatch Homestead, Fenhollow
+- **Party Funds:** ~7,280 gp
+- **Party Level:** 3 | All armor +1 AC + enchanted properties | 6/8 lightning resistant | All weapons enchanted
+- **Party Size:** 10 members (max 5 active per expedition). Seren + Torven formally joined.
+- **Nodes:** ALL 8 ACTIVE — 9 (78%), 10 (80%), 11 (75%), 12 (72%), 3 (62%), 5 (74%), 2 (71%), 4 (76%). First time in 1,248 years.
+- **Trimaran:** *Stormcape's Promise* at Tidemeet harbor. Detachable outriggers, platform deck, 20 passengers, 5 tons cargo.
+- **Zaryth:** Journeyman ward engineer (Lesson 57).
+- **Calendar:** 6th Reaptide, 1248 AS (Day 156)
+- **Next:** The outer ring is complete. Unknown nodes (1, 6, 7, 8, 13, 14) remain to be surveyed. Heartstones (1/7 found). Personal quests. The world is quiet — for now.

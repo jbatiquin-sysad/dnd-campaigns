@@ -1039,3 +1039,40 @@ Sailed home via Tidemeet. 25 days at homestead. Major crafting:
 **State at Day 125:** Departing homestead for Node 4. 10 days until tidal window. All party full HP/resources. Every weapon enchanted. 6/8 members lightning-resistant armor. 1 node remaining.
 
 ---
+
+## S5 Turns (Wildcard 23–25) — Node 4, Trimaran, Home
+
+**Days 125–156 (5th Solstice – 6th Reaptide, 1248 AS)**
+
+### Node 4 — Tidewatcher: INFUSED 76% (Day 135)
+Sailed from homestead to Saltspray (7 days). Grandmother Wynn provided 40-day tide logs. Mira scouted from cliff — intact copper circuit, shell offerings on steps, maintained by unknown keeper. Tidal window: 15th Goldmere, 4-hour working window. Resonance infusion (not full repair — maintained circuit). 4-anchor, 6 minutes. **Zero failures — Pip's first flawless procedure.** Node 4: 48% → 76%. The unknown keeper: **Asha** (~12, Grandmother Wynn's granddaughter), maintaining the node with shell offerings in ward-frequency patterns. Folk ward-keeping tradition alive.
+
+**ALL 8 KNOWN OUTER WARD NODES ACTIVE.** First time in 1,248 years.
+Ward network: Root + 8 outer: 9 (78%), 10 (80%), 11 (75%), 12 (72%), 3 (62%), 5 (74%), 2 (71%), 4 (76%).
+
+### Trimaran Conversion (Days 137–150)
+At Driftwood Landing. Old Marsh + Bram + Aldric + Mira. 14 days. Cost: 30 lbs salt + materials. *Stormcape's Promise* converted to trimaran — detachable outriggers, platform deck, upgraded sail. 20 passengers, 5 tons cargo, handles 8-ft swells. Pre-Sundering navigation set gifted by Old Marsh (+2 Navigation).
+
+### Armor Enchantments (During trimaran build)
+Sylvara enchanted: Zaryth chain mail (Sea Ward — advantage vs environmental saves), Aldric chain mail (Sea Ward), Pip behir scale-leather (Resonance Shell — 1/day absorb 5 elemental damage). 3 ward-ink applications used (17→14 remaining).
+
+### Sail Home (Days 150–156)
+Tailwind (d100=69 positive). 5-day crossing. Arrived homestead Day 156. Passive income: 200 gp collected. Party gold: ~7,280 gp.
+
+### Seren Ashvale + Torven Ashwick — Full Party Members
+Both formally joined the Dawnwatch. Dawnwatch rings forged + enchanted. Character sheets created. Seren: Ranger 3 (Hunter), AC 16, shortbow. Torven: Wizard 3 (Abjuration), Arcane Ward, Shield/Absorb Elements.
+
+**Party roster: 10 members.** New rule: max 5 active adventurers per expedition (Zaryth + 4 NPCs). Rest at homestead or on errands.
+
+**State at Day 156:**
+- Location: Dawnwatch Homestead, Fenhollow
+- Party gold: ~7,280 gp
+- All 8 outer nodes active (first time in 1,248 years)
+- All weapons enchanted. All armor enchanted (+1 AC + properties).
+- 6/8 original members lightning-resistant. Zaryth + Aldric have Sea Ward.
+- Trimaran at Tidemeet harbor.
+- 10 party members (max 5 active per expedition).
+- Zaryth: Journeyman ward engineer.
+- Next: Unknown. The outer ring is complete. What comes next?
+
+---
