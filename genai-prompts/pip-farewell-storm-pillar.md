@@ -19,4 +19,4 @@ A short, bright farewell melody played on a solo wooden flute on a windswept cli
 - This is Pip's second original piece (after "Candleflute Winter"). More confident than the first — he's growing.
 
 ## Generated Output
-- **Song:** `songs/Farewell to the Storm Pillar.mp3`
+- **Song:** `songs/Cliffstone Farewell.mp3`
