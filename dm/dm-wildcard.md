@@ -121,11 +121,11 @@ For spells, classes, equipment, feats, character creation, and rules beyond comb
 - If a random event interrupts a scene, resolve the interruption before returning to the original scene.
 
 ### Professions & Side Hustles
-- When the party works side jobs, resolve with relevant ability checks per member.
-- Base income: 4–12 gp/day depending on skill and location. Higher rolls = more gp + bonus intel.
-- Each side hustle should yield both gold AND one piece of useful information (intel, contact, rumor, opportunity).
-- Reference `../party/party-professions.md` for each member's skills and training status.
-- Random events may affect side hustle outcomes — a windfall might double earnings, a negative event might cancel a job.
+- **City/town stops:** Party members work professional side hustles (jobs for gold + intel). Resolve with relevant ability checks per member. Base income: 4–12 gp/day depending on skill and location. Higher rolls = more gp + bonus intel. Each side hustle should yield both gold AND one piece of useful information.
+- **Wilderness/camping:** Party members forage, hunt, fish, mine, gather wood, and collect materials. Resolve with relevant ability checks. Yields: provisions (offset ration consumption), raw materials (ore, herbs, wood, hides), alchemy ingredients, and trade goods.
+- **Always assign tasks to ALL party members** at every stop — no one sits idle. Reference `../party/party-professions.md` for each member's skills.
+- Key roles: Orindel (hunt/fish), Mira (forage/herbs/leatherwork), Seren (forage/coastal), Bram (wood/smithing/carving), Aldric (mine/masonry), Thessaly (salt/tailoring/trade), Pip (cook/fish/entertain), Sylvara (research/enchanting), Zaryth (alchemy/ward engineering).
+- Random events may affect gathering outcomes — a windfall might double yields, a negative event might spoil a hunt or collapse a mine face.
 
 ### Death & Consequences
 - Death saves follow SRD rules strictly (3 successes = stabilize, 3 failures = death).
