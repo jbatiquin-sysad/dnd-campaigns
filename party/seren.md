@@ -56,7 +56,7 @@ AC = 10 + DEX mod + WIS mod = **16** (no armor needed)
 | Ring (L) | Dawnwatch signet ring (S) — ENCHANTED | Ward-network attuned, resonance pulse |
 | Ring (R) | Iron purpose ring — ENCHANTED | Keeper's Sense: advantage on Perception to detect ward anomalies, 1/day |
 | Neck | Quartz amulet — ENCHANTED | Druidcraft cantrip (at will) |
-| Neck | Drell's closed-eye medallion | Memorial — carried always |
+| Carried | Drell's closed-eye medallion | Memorial — worn under clothing, always |
 | Belt | Drell's iron belt knife | Vigil alloy, rust-proof, monk weapon |
 | Belt | 10 darts | Ranged option |
 | Pack | Herbalism kit | Foraging + medicine |
