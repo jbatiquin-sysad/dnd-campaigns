@@ -75,7 +75,7 @@
 |------|------|-------|
 | Ring (L) | Dawnwatch signet ring (T) — ENCHANTED | Ward-network attuned, resonance pulse |
 | Ring (R) | Iron purpose ring — ENCHANTED | Scholar's Focus: +1 to Arcana checks |
-| Neck | Quartz amulet — ENCHANTED | Guidance cantrip (1/day, +1d4 ability check) |
+| Neck | Quartz amulet — ENCHANTED | Druidcraft cantrip (at will) |
 | Carried | Druidic focus (wooden staff carved with ward symbols) | Doubles as quarterstaff |
 | Belt | Dagger | Backup |
 | Pack | Herbalism kit | Foraging + medicine |
