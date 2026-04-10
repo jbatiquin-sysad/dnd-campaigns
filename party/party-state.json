@@ -1,9 +1,9 @@
 {
   "session": 5,
   "active_dm": "dm-storyteller",
-  "in_game_day": 180,
-  "calendar_date": "30th Reaptide, 1249 AS",
-  "calendar_day_of_week": "Hearthday",
+  "in_game_day": 181,
+  "calendar_date": "1st Ashfall, 1249 AS",
+  "calendar_day_of_week": "Starday",
   "current_week_file": "week-17",
   "week_boundaries": {
     "week-01": { "days": "1-2", "turns": "S1+S2" },
@@ -27,11 +27,11 @@
   "max_active_per_expedition": 5,
   "insignia": "Rising sun (8 rays), broken chain below horizon line, circular border",
   "location": "Dawnwatch Homestead, Fenhollow",
-  "campaign_status": "ARC 1-3 COMPLETE. ALL 14 NODES IDENTIFIED. 8/14 repaired. 3 keeper stations found (Fenhollow 91%, Aelindra 58%, Ashara's unknown). 8 Heartstones seated — full relay active. Deep Road operational (lift + wagon). Vel'quinar rescued (13 members). Fleet: 2 ships + coach + warehouse. Drow thread active. Year 1249 AS, Reaptide.",
+  "campaign_status": "ARC 1-3 COMPLETE. ALL 14 NODES IDENTIFIED. 9/14 repaired (Node 14 Ember Vein now 68%). 3 keeper stations found (Fenhollow 91%, Aelindra 58%, Ashara accessed and relay-reset). 8 Heartstones seated — full relay active. Keeper Remote System active (Fenhollow + Aelindra + Ashara addon). Deep Road operational (lift + wagon). Vel'quinar rescued (13 members). Fleet: 2 ships + coach + warehouse. Drow recon thread active (spider-over-moon signs). Year 1249 AS, Ashfall.",
   "party_gold": {
-    "total": 8429,
+    "total": 8456,
     "carried": 2000,
-    "homestead_reserves": 6429
+    "homestead_reserves": 6456
   },
   "salt_stockpile_lbs": 60,
   "alchemy_stores": {
@@ -71,7 +71,7 @@
       "beehives (3 + second rack)",
       "herb garden (doubled, ghost-nettle shade structure)",
       "Mira's garden (ornamental + vegetable, planted spring 1248)",
-      "school (walls in progress)"
+      "school (operational, 14 students)"
     ],
     "passive_income_weekly": "35-45 gp",
     "delivery_service": "Wynn Dodd (weekly cart, 2 gp/week)",
@@ -91,7 +91,7 @@
   },
   "ward_status": {
     "inner_ward_root": "Active, healthy (renewed by Dawnwatch)",
-    "outer_ward_ring": "ALL 8 KNOWN NODES ACTIVE — first time in 1,248 years",
+    "outer_ward_ring": "9/14 nodes repaired and active in relay (including Node 14 Ember Vein)",
     "node_2": "71% — REPAIRED (Drowned Forge, volcanic island B12)",
     "node_3": "62% — REPAIRED (Storm Pillar, western headland A7)",
     "node_4": "76% — INFUSED (Tidewatcher, tidal shelf A10)",
@@ -101,9 +101,10 @@
     "node_10": "80% — REPAIRED (Cape Ashward)",
     "node_11": "75% — RECONSTRUCTED (Sethrak's Threshold)",
     "node_12": "72% — REPAIRED (Greyveil Pass)",
+    "node_14": "68% — REPAIRED (Ember Vein, via Ashara station)",
     "nodes_tentative": "Node 1 (volcanic island S of Veldmere), Node 8 (upper Mirren River)",
-    "nodes_unknown": "ALL 14 IDENTIFIED. Unrepaired: 1 (Southern Deep), 6 (Thornveil Heart), 7 (Marsh Threshold, 91% active), 8 (River Memory), 13 (Sunken Crown), 14 (Ember Vein)",
-    "heartstones": "1/7 discovered (Ashenmere Catacombs — active, Greymoor garrison posted)"
+    "nodes_unknown": "ALL 14 IDENTIFIED. Unrepaired: 1 (Southern Deep), 6 (Thornveil Heart), 8 (River Memory), 13 (Sunken Crown). Active but not rebuilt: 7 (Marsh Threshold, 91%).",
+    "heartstones": "8/8 forged and seated at Fenhollow relay. Ashenmere cache documented and garrisoned."
   },
   "barrows_sealed": "ALL 7/7",
   "transport": {
@@ -112,7 +113,8 @@
     "terns_wing": "At anchor, Cape Ashward.",
     "priority_river_clearance": "Active — all ports (no expiry)",
     "harbor_priority_passage": "Active — Veldmere, indefinite",
-    "sylvara_archive_access": "Active — Aelindra Level 3, permanent"
+    "sylvara_archive_access": "Active — Aelindra Level 3, permanent",
+    "keeper_remote_system": "Operational profiles: Fenhollow + Aelindra + Ashara addon (outer lock, inner pre-auth, hard-seal)"
   },
   "stormcape_alliance": {
     "cliff_holds": ["Arn's Hold (Tide-Speaker Arn)", "Kell's Reach (Tide-Speaker Kell)", "Venn's Shelf (Tide-Speaker Lira)", "Driftwood Landing (Tide-Speaker Venn, Old Marsh)", "Saltspray (Grandmother Wynn, Asha)"],
@@ -129,7 +131,7 @@
   ],
   "library": {
     "location": "Dawnwatch Tower, Level 4",
-    "books": 14,
+    "books": 28,
     "titles": [
       "Hearthcoast Flora", "The Mason's Companion", "Principles of Metallurgy",
       "A Practical Guide to Enchantment", "The Glassmaker's Art",
@@ -145,7 +147,7 @@
     "edra_voss": "Aelindra city custody"
   },
   "allies_at_homestead": {
-    "vaelith": "Last Warden of the Vigil. Resonance-bonded keeper. Teaching Zaryth (Lesson 57).",
+    "vaelith": "Last Warden of the Vigil. Resonance-bonded keeper. Teaching Zaryth (Lesson 100).",
     "tessa_marsh": "Caretaker (+ Ren 12, Lila 9)"
   },
   "party": {
@@ -161,7 +163,7 @@
       "spell_slots": { "1st": 3 },
       "lay_on_hands": 15,
       "channel_divinity": 1,
-      "special": "Warden's Anchor (CHA), Journeyman Ward Engineer, ward-circuit ink (14 apps), behir-hide bracers",
+      "special": "Warden's Anchor (CHA), Binding Initiate (Lesson 100), keeper remote operator (Fenhollow/Aelindra/Ashara), behir-hide bracers",
       "player": "YOU"
     },
     "mira": {

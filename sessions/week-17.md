@@ -1,6 +1,6 @@
 # Week 17 — The Storyteller's Arc: Deep Road, Vel'quinar, Fleet
 
-**In-Game:** Days 1–180, 1249 AS (1st Greenthaw – 30th Reaptide)
+**In-Game:** Days 1–181, 1249 AS (1st Greenthaw – 1st Ashfall)
 **Session:** S7 (Mara Solenne, The Storyteller)
 **Party Level:** 3
 
@@ -38,12 +38,27 @@ Sinkhole found (G6) — surface entrance to third keeper station. Y Fork right b
 ### Homestead
 35 trees planted (orchard + shade, 4–5× accelerated). Roads improved. Vel'quinar homestead under construction. School: 14 students. Library: 28 books. 4-layer defense installed.
 
+### Ashara Station & Ember Vein (Days 180–181)
+Expedition launched at dusk with Dawnwatch Coach: Zaryth, Mira, Sylvara, Orindel, Bram + Vaelith advisor. Homestead operations remained active under delegated command.
+
+G6 descent successful under lantern discipline. Ashara threshold opened (outer + inner lock authenticated). Service wing and core recovered with partial keeper logs, maintenance tables, and map fragments. Manual relay reset completed.
+
+Ember Vein approach cleared via maintenance bypass. Node 14 interface established and full repair cycle completed without combat interruption:
+
+- **Node 14 (Ember Vein): 68% — REPAIRED**
+
+Recovered at Ember Vein/Ashara: keeper folio tube, 6 resonance crystal slivers, 1 Binding-alloy fastening bar, 2 heatproof oil canisters, alternate service ascent map strip, ~27 gp salvage, spider-over-moon chalk evidence.
+
+At homestead, Zaryth + Sylvara + Vaelith + Bram added **Ashara** as an addon profile to the existing keeper remote system (Fenhollow + Aelindra). Dry-run and live relay confirmation passed.
+
 ## End of Week State
-- **Date:** 30th Reaptide, 1249 AS (Day 180)
-- **Gold:** ~8,429 gp
+- **Date:** 1st Ashfall, 1249 AS (Day 181)
+- **Gold:** ~8,456 gp
 - **Ward-ink:** 45 applications
 - **Fleet:** 2 ships + 1 coach + 1 wagon + warehouse
 - **Monthly income:** 535–755 gp (net 410–630)
 - **Vel'quinar:** 13 members, homestead building, loan active
 - **Tournament record:** 7 golds, 2 silvers (2 cities, 2 years)
-- **Next:** Third keeper station (sinkhole descent). Node 14 (Shaft 9). Southern expansion. Vel'sharen threat.
+- **Ward Network:** 9/14 repaired (Node 14 now functional at 68%). Ashara station accessed and relay-reset.
+- **Keeper Remote System:** Fenhollow + Aelindra + Ashara addon profile active.
+- **Next:** Track spider-over-moon recon pair, secure Ashara approaches, and continue toward remaining unrepaired nodes (1, 6, 8, 13).

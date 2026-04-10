@@ -1287,3 +1287,65 @@ Memory restored. Signet ring: Binding-era, forged by Binders 3,000 years ago.
 Mother alive. House history known. Third keeper station located (sinkhole G6).
 
 ---
+
+## S7 Continuation (Storyteller) — Ashara Station / Ember Vein (Days 180–181)
+
+### Expedition Launch (Day 180, dusk)
+Party selected for sinkhole operation: Zaryth, Mira, Sylvara, Orindel, Bram + Vaelith advisor. Dawnwatch Coach deployed.
+Stay-behind command at homestead: Thessaly (quartermaster/budget), Pip (school + comms), Seren (perimeter + ward checks), Torven (Deep Road research packet), Tessa + Vel'quinar crew (farm/stores/watch cycles).
+
+### G6 Descent & Ashara Entry (Night 180)
+Controlled lantern-discipline descent successful. Side crack investigated and trapped as early warning. Spider-over-moon chalk fragment and recent two-person trail signs found (Drow scout pattern).
+Ashara threshold reached. Outer and inner locks authenticated via Zaryth signet + keeper cadence (Vaelith validated). No hostile contact.
+
+### Ashara Core & Route Recovery
+Archive/service wing swept first: partial keeper logs, maintenance tables, map fragments, and route notes recovered.
+Core interface opened. Manual relay reset completed, improving route clarity and reducing false-noise from damaged channels.
+
+### Ember Vein / Node 14 Operation
+Team advanced via maintenance bypass through unstable segments (rope discipline maintained).
+Node 14 interface established under guard. Full repair cycle completed without combat interruption.
+**Node 14 status: 68% — REPAIRED (functional).**
+
+### Loot & Exfil (Day 181, pre-dawn to sunrise)
+Recovered: sealed keeper cache tube (maintenance folios), 6 refined resonance crystal slivers, 1 Binding-alloy fastening bar, 2 heatproof oil canisters, 1 alternate service ascent map strip, salvage value ~27 gp, spider-over-moon chalk evidence.
+Exfil successful. Side-crack trap remained untriggered. Team returned safely to homestead by coach.
+
+### Ashara Remote Addon (Day 181)
+At homestead tower workshop, Zaryth + Sylvara + Vaelith + Bram configured and validated **Ashara profile** as an addon to the existing keeper remote system.
+Dry-run and live relay confirmation passed.
+
+---
+
+## CAMPAIGN STATUS — Session 7 (Storyteller) — YEAR 1249 (UPDATED)
+
+**Date:** 1st Ashfall, 1249 AS (Day 181)
+**DM:** Mara Solenne, The Storyteller
+**Location:** Dawnwatch Homestead, Fenhollow
+**Party Level:** 3 | **Party Gold:** ~8,456 gp | **Party Size:** 10 + 13 Vel'quinar
+
+### Ward Network
+- **Root:** Active. **Node 7:** 91% (Fenhollow, full relay, 8 Heartstones seated).
+- **Aelindra Station:** 58% (repaired). **Ashara's Station:** Accessed and relay-reset (core responsive).
+- **Outer Network:** **9/14 repaired** (Node 14 Ember Vein now at 68%).
+- **Source:** Responded "finally" when Heartstones seated; relay chain now cleaner through Ashara.
+
+### Keeper Remote System
+- Existing profiles: Fenhollow, Aelindra.
+- New addon profile: **Ashara** (outer lock control, inner-lock pre-auth handshake, emergency hard-seal command).
+
+### Active Intel
+- Spider-over-moon trail signs confirmed in Ashara/Ember Vein routes.
+- Probable two-person Drow recon element remains at large.
+
+### House Vel'quinar (13 members)
+Ilyana (Matron), Kael, Sera, Nalia, Dren, Vel, Thorn, Vex, Ryn, Pim, Ash, Lyriel, Nhilara.
+Homestead under construction. Loan: 175 gp, 15 gp/month. Income: ~75 gp/month (rising).
+Defense: ward perimeter, night sentries, counter-intel active.
+
+### Zaryth
+Binding Initiate (Lesson 100). Keeper's Cloak. Door trigger. 8 Heartstones forged.
+Memory restored. Signet ring: Binding-era, forged by Binders 3,000 years ago.
+Mother alive. House history known. Ashara station entered. Node 14 repaired.
+
+---

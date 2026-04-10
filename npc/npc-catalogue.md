@@ -224,7 +224,7 @@
 | **Donal Wick** | — | River boatman, Harrowgate | S5 (barrow circuit) | Ally — Harrowgate | Provided river transport during the barrow sealing circuit. |
 | **Tarn Gully** | — | Fishing boat captain, Salthollow | S5 (barrow circuit) | Ally — Salthollow | Provided coastal transport to the Salt Crypts. |
 | **Seren Ashvale** | Human, late 50s | Keeper of Node 5 (Stormcape), Vigil of the Closed Eye | S5 Wildcard Turn 1 | Allied, at Dawnwatch Homestead. Guiding western arc expedition. | 31 years of solitary vigil at Stormcape. Scar temple-to-jaw. Closed-eye mark on left hand. Walked through frozen marsh on New Year's Eve to find the Dawnwatch. Carries field logs for Nodes 2, 3, 4. "I've been ready for nine months. I just didn't have anyone to give it to." |
-| **Torven Ashwick** | Unknown | Vigil keeper, sent by Veyra Solund | S5 Wildcard Turn 12 (journal found) | Missing — headed south from Node 3 toward Stormcape/Node 5 four months ago. Status unknown. | Dispatched from Aelindra independently by Veyra. Ship sunk by behir at Node 3. Survived, left Vigil chest at tide line. Journal found in behir nest. Last entry: "the western nodes need a full expedition, not a single keeper." Possible Ashwick family connection to Orindel. |
+| **Torven Ashwick** | Half-Elf, early 30s | Druid (Land-Coast), Vigil-trained researcher | S5 Wildcard Turn 12 (journal found), recovered S5 Wildcard Day 29 | Allied — full Dawnwatch member, active at homestead and Deep Road operations | Dispatched from Aelindra by Veyra. Ship sunk by behir at Node 3; survived alone for months. Recovered by Dawnwatch during the western arc. Ashwick cousin to Orindel. Now a core Deep Road cartographer/research lead. |
 
 
 ### Western Arc / Stormcape Coast NPCs
@@ -298,4 +298,12 @@
 | **Kord Venn** | Human, large | Fighter, Veldmere Grand Melee champion (former) | S7 Turn 19 | Contact | "You hit like a cave-in, Drow." Lost to Zaryth. Good sport. |
 | **Vex** | Drow | Warrior, carriage driver | S7 Turn 9 | Active — Vel'quinar homestead, Dawnwatch Coach driver | Quiet. Competent. First Vel'quinar to operate Dawnwatch technology. |
 
-*Last updated: Day 180, 30th Reaptide, 1249 AS*
+### Session 7 Continuation — Ashara / Ember Vein (Day 181)
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Vaelith** | Unknown, 1,000+ | Last Warden, keeper protocol authority | S5 Day 108 | Active ally — led Ashara cadence validation and Node 14 relay alignment | Accompanied the Ashara station descent team. Validated keeper lock cadence and stabilized Node 14 interface sequencing. |
+| **Nhilara Vel'quinar** | Half-Elf, 34 | Counter-intel liaison | S7 Turn 17 | Active — monitoring spider-over-moon trail signs | Chalk/route sign pattern recovered in Ashara descent matches known Drow scout trail conventions. Counter-intel thread elevated. |
+| **Unidentified Drow Recon Pair** | Unknown | Probable scout team (spider-over-moon trail marks) | Day 181 (Ashara descent evidence) | At large | Two-person trail signs and recent movement detected around G6/Ashara side routes and Ember Vein service paths. No direct contact. |
+
+*Last updated: Day 181, 1st Ashfall, 1249 AS*
