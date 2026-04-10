@@ -1,7 +1,7 @@
 # Scaled Hex Map — The Known World
 
 > **Scale:** 1 hex = 24 miles (~1 day overland travel on roads, 1.5 days through difficult terrain)
-> **Grid:** 20 columns (A–T) × 16 rows (1–16). Origin A1 = far northwest. Column = east-west, Row = north-south.
+> **Grid:** 20 columns (A–T) × 22 rows (1–22). Origin A1 = far northwest. Column = east-west, Row = north-south. Rows 17–22 = southern waters (beyond original 16-row grid).
 > **Orientation:** Flat-top hexes. Even columns offset down.
 
 ---
@@ -13,6 +13,7 @@
 | Location | Hex | Terrain | Pop. | Key Contact | Travel from Homestead |
 |----------|-----|---------|------|-------------|----------------------|
 | **Dawnwatch Homestead** ★ | **H8** | Marsh/cleared | — | Tessa Marsh | — |
+| **Vel'quinar Homestead** | **H8** | Marsh/cleared | 12 | Ilyana Vel'quinar | Adjacent to Dawnwatch (same hex) |
 | Fenhollow | H8 | Marsh | ~3,000 | Capt. Brenn | 20 min walk (same hex) |
 | Tidemeet | I9 | Coast | ~500 | Soren Blackwater | 2 hrs by cart (adjacent) |
 | Thornfield Dispatch | H7 | Plains | ~50 | Harlen Grubb | Half-day (same hex) |
@@ -25,6 +26,9 @@
 | Greymoor | E5 | Mountain valley | ~7,000 | Judge Kess | 5 days (5 hexes) |
 | Ashenmere | F4 | Hills/forest | ~0 (ruined) | Cole (garrison) | 8 days (8 hexes) |
 | Cape Ashward | Q3 | Coast/headland | ~200 | Corran Ashward | 6 days by sea via Aelindra |
+| **Ashport** | J18 | Coast (warm) | ~6,000 | Unknown | 4 days sail S of Veldmere |
+| **Coral Haven** | L20 | Island/reef | ~3,000 | Revka has 1 contact | 7 days sail S of Veldmere |
+| **Sunmere** | K22 | Coast (warm, major) | ~10,000+ | Nhilara (former base) | 10 days sail S of Veldmere. Drow trade nexus. |
 
 ### Ward Nodes (Known)
 
@@ -35,12 +39,12 @@
 | **Node 11** — Sethrak's Threshold | D1 | Wasteland/dead zone | **75% ✔** | Cascade origin. Reconstructed. Recovering. |
 | **Node 12** — Greyveil Pass | E2 | Mountain pass | **72% ✔** | Vaelith's vigil site. Ward dome stable. |
 
-### Ward Nodes (Tentatively Identified)
+### Ward Nodes (Previously Tentative — Now Confirmed by Vaelen's Map, Day 185)
 
 | Node | Hex (est.) | Terrain (est.) | Confidence | Field Manual Description |
 |------|-----------|----------------|------------|--------------------------|
-| **Node 1** | L16 | Volcanic island | Medium | "Anchor of the Southern Deep" — 3 days sail S of Veldmere |
-| **Node 8** | G7 | River/submerged | Medium | "River's Memory" — upper Mirren, visible at low water |
+| **Node 1** | L16 | Volcanic island | Confirmed | "Anchor of the Southern Deep" — 3 days sail S of Veldmere |
+| **Node 8** | G7 | River/submerged | Confirmed | "River's Memory" — upper Mirren, visible at low water |
 
 ### Ward Nodes (Western Arc — Seren Ashvale's Field Logs)
 
@@ -51,11 +55,16 @@
 | **Node 4** — Tidewatcher | A10 | Exposed rock shelf (tidal) | 76% ✔ INFUSED | 2 days sail from Stormcape ruins, or 4 days from Veldmere. | **Accessible only 3 days/year: ~15th–17th Goldmere.** Tidal flooding risk. |
 | **Node 5** — Stormcape | A5 | Coastal cliff | 74% ✔ RECONSTRUCTED | Seren's former post. Requires full reconstruction (6-anchor + new crystal). | Dead Zone expanding. 12 miles in first week after failure. |
 
-### Ward Nodes (Unidentified)
+### Ward Nodes (Newly Identified — Vaelen's Map, Day 185)
 
-| Nodes | Hex | Notes |
-|-------|-----|-------|
-| 6, 7, 13, 14 | Unknown | Require Field Manual cross-reference + cartographic research |
+| Node | Binding Name | Hex | Terrain | Status | Notes |
+|------|-------------|-----|---------|--------|-------|
+| **Node 1** | The Anchor of the Southern Deep | L16 | Volcanic island | Unknown — unvisited | 3 days sail S of Veldmere |
+| **Node 6** | The Thornveil Heart | F7 | Dense forest | Unknown — unvisited | Deep Thornveil interior, near scouted sinkholes |
+| **Node 7** | The Marsh Threshold | G8 | Marsh/underground | Identified — keeper station accessed | Resonance anchor may BE Node 7. Half-day from homestead. |
+| **Node 8** | The River's Memory | G7 | River/submerged | Unknown — unvisited | Upper Mirren, seasonal access (low water) |
+| **Node 13** | The Sunken Crown | M10 | Underwater reef | Unknown — unvisited | Submerged, open Hearthcoast Sea. Ship + diving required. |
+| **Node 14** | The Ember Vein | E4 | Underground/mountain | Unknown — unvisited | Beneath Greypeaks. Greymoor Shaft 9 access (sealed door 600 ft). Confirmed via Y Fork right branch survey (Day 141, 1249 AS). Shaft 9 sealed door found from below. |
 
 ### Barrows (All Sealed)
 
@@ -83,6 +92,7 @@
 | Shattered Stair | A6 | Collapsed cliff path | Marks edge of Stormcape territory. Half-collapsed Vigil switchbacks, 400-ft descent. |
 | Tide Pools of Arn | A8 | Freshwater springs | Sheltered camp, wind-blocked rock overhang. Wild gillwort. Seren's 31-year base. |
 | Stormcape Harbor Ruins | A5 | Ruined harbor | Near Node 5. Former Stormcape settlement. Sea approach to western coast. |
+| Sinkhole (Ashara's Staircase) | G6 | Underdark entrance | Surface access to third keeper station. Old oak. Found Day 138, 1249 AS. |
 
 ---
 
@@ -166,8 +176,25 @@ Row 14   ~    ~    ~    ~    ~    ~    ~    ~    ~    .   ⚓    .    ~    ~    
 Row 15   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    .    ~    ~    ~    ~    ~    ~    ~    ~    ~
 
 Row 16   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~  [⊗1]   ~    ~    ~    ~    ~    ~    ~    ~    ~
-                                                         VOLC                                   SOUTH
-                                                                                                    ↓
+                                                         VOLC
+
+Row 17   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+
+Row 18   ~    ~    ~    ~    ~    ~    ~    ~    ~    ⚓    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+                                                     ASHP
+                                                     (4d S of Veld)
+
+Row 19   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+
+Row 20   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ⚓    ~    ~    ~    ~    ~    ~    ~    ~
+                                                               CORL
+                                                               (7d S of Veld)
+
+Row 21   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+
+Row 22   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ⚓    ~    ~    ~    ~    ~    ~    ~    ~    ~
+                                                         SUNM                                   SOUTH
+                                                         (10d S of Veld)                            ↓
 ```
 
 ### Grid Legend
@@ -191,7 +218,7 @@ Row 16   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~  [⊗1]   ~    ~    ~   
 | ░░ | Forest (Thornveil) |
 | 🏨 | Coaching inn (Thornfield) |
 
-> **Party location:** In transit — sailing from Dawnwatch Homestead toward Saltspray for Node 4 (Tidewatcher). No fixed hex position.
+> **Party location:** Dawnwatch Homestead (H8), Fenhollow.
 
 ---
 
@@ -210,9 +237,28 @@ Each repaired node projects a ward dome of approximately **6–8 hex radius** (1
 | Node 4 (76% ✔) | A10 | Restored — rows 8–12, columns A–C. 76% stable. |
 | Node 2 (71%) | B12 | Restored — rows 10–14, columns A–D. 71% stable. |
 
-**Western arc status:** Nodes 5, 3, and 2 now restored. Node 4 (Tidewatcher) remains the last unrepaired western node. Tidal deadline for Node 4 repair: **15th–17th Goldmere, 1248 AS.** Party currently in transit — sailing from homestead to Saltspray for Node 4.
+**Western arc status:** Nodes 5, 3, 2, and 4 are all restored/infused. Western arc complete and stable.
+
+### Cascade Status
+
+**CASCADE ENDED.** All 8 known outer nodes are active: 2, 3, 4, 5, 9, 10, 11, 12.  
+All 14 nodes are now identified (Vaelen's map, Day 185). Remaining unrepaired nodes: 1, 6, 7, 8, 13, 14.
+
+### Underdark Entrance Summary (Mapped)
+
+| ID | Location | Hex | Status |
+|----|----------|-----|--------|
+| U1 | Undercroft (Duskport) | K12 | Confirmed — partially explored |
+| U2 | Greymoor Deep Shafts (Shaft 9) | E5 | Confirmed — sealed door at 600 ft |
+| U3 | Ashenmere Lower Vault | F4 | Confirmed — sealed, garrison posted |
+| U4 | Greypeak Pass Caverns | E3 | Suspected |
+| U5 | Thornveil Sinkholes | F6–G7 | Suspected — 2 sinkholes scouted |
+| U6 | Three Sealed Ruins (Marshes) | G8 | Scouted — sealed door found |
+| U7 | Warden's Forge Tunnels | D1 | Suspected — sealed by Vigil |
+| U8+ | Various | Various | See `maps/underdark-map.md` |
 
 ---
 
-*Last updated: 1st Frostmere, 1248 AS — Dawnwatch Homestead*
-*Pending: Seren Ashvale's field logs for Nodes 2, 3, 4. Western arc to be mapped.*
+*Last updated: Day 180, 30th Reaptide, 1249 AS*
+*Party location: Dawnwatch Homestead, Fenhollow (H8).*
+*Campaign status: All 8 known outer nodes active. Underdark investigation underway.*

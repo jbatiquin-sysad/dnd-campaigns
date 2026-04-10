@@ -1,10 +1,10 @@
 {
   "session": 5,
-  "active_dm": "dm-wildcard",
-  "in_game_day": 156,
-  "calendar_date": "6th Reaptide, 1248 AS",
-  "calendar_day_of_week": "Fieldday",
-  "current_week_file": "week-15",
+  "active_dm": "dm-storyteller",
+  "in_game_day": 180,
+  "calendar_date": "30th Reaptide, 1249 AS",
+  "calendar_day_of_week": "Hearthday",
+  "current_week_file": "week-17",
   "week_boundaries": {
     "week-01": { "days": "1-2", "turns": "S1+S2" },
     "week-02": { "days": "2-9", "turns": "S3 T1-10" },
@@ -27,13 +27,13 @@
   "max_active_per_expedition": 5,
   "insignia": "Rising sun (8 rays), broken chain below horizon line, circular border",
   "location": "Dawnwatch Homestead, Fenhollow",
-  "campaign_status": "ARC 1 COMPLETE (7/7). ARC 2 COMPLETE (4/4 eastern nodes, 7/7 barrows). ARC 3 COMPLETE (4/4 western nodes). ALL 8 KNOWN OUTER WARD NODES ACTIVE — first time in 1,248 years. DOWNTIME. Next: Zaryth's Underdark / Aelindra deep vaults.",
+  "campaign_status": "ARC 1-3 COMPLETE. ALL 14 NODES IDENTIFIED. 8/14 repaired. 3 keeper stations found (Fenhollow 91%, Aelindra 58%, Ashara's unknown). 8 Heartstones seated — full relay active. Deep Road operational (lift + wagon). Vel'quinar rescued (13 members). Fleet: 2 ships + coach + warehouse. Drow thread active. Year 1249 AS, Reaptide.",
   "party_gold": {
-    "total": 7280,
-    "carried": 1000,
-    "homestead_reserves": 6280
+    "total": 8429,
+    "carried": 2000,
+    "homestead_reserves": 6429
   },
-  "salt_stockpile_lbs": 79,
+  "salt_stockpile_lbs": 60,
   "alchemy_stores": {
     "healing_poultice": 40,
     "alertness_tincture": 14,
@@ -49,7 +49,7 @@
     "lightning_resistance": 4,
     "necrotic_resistance": 6,
     "darkvision": 2,
-    "ward_circuit_ink_applications": 14
+    "ward_circuit_ink_applications": 45
   },
   "property": {
     "name": "Dawnwatch Homestead",
@@ -78,7 +78,7 @@
     "apothecary_contract": "Master Haldren (30 gp/week, full capacity)"
   },
   "professions": {
-    "zaryth": "Alchemist ✔, Tinkerer ✔, Ward Engineer ✔ (Journeyman, Lesson 57)",
+    "zaryth": "Alchemist ✔, Tinkerer ✔, Ward Engineer ✔ (Binding Initiate, Lesson 100)",
     "mira": "Herbalist ✔, Leatherworker ✔",
     "aldric": "Mason ✔, Miner ✔",
     "sylvara": "Enchanter ✔, Glassblower ✔",
@@ -96,12 +96,13 @@
     "node_3": "62% — REPAIRED (Storm Pillar, western headland A7)",
     "node_4": "76% — INFUSED (Tidewatcher, tidal shelf A10)",
     "node_5": "74% — RECONSTRUCTED (Stormcape, western coast A5)",
+    "node_7": "91% — ACTIVE (Marsh Threshold, keeper station, direct Root connection)",
     "node_9": "78% — REPAIRED (Vel Tharis)",
     "node_10": "80% — REPAIRED (Cape Ashward)",
     "node_11": "75% — RECONSTRUCTED (Sethrak's Threshold)",
     "node_12": "72% — REPAIRED (Greyveil Pass)",
     "nodes_tentative": "Node 1 (volcanic island S of Veldmere), Node 8 (upper Mirren River)",
-    "nodes_unknown": "Nodes 6, 7, 13, 14 — unidentified",
+    "nodes_unknown": "ALL 14 IDENTIFIED. Unrepaired: 1 (Southern Deep), 6 (Thornveil Heart), 7 (Marsh Threshold, 91% active), 8 (River Memory), 13 (Sunken Crown), 14 (Ember Vein)",
     "heartstones": "1/7 discovered (Ashenmere Catacombs — active, Greymoor garrison posted)"
   },
   "barrows_sealed": "ALL 7/7",

@@ -54,7 +54,18 @@ Sworn to protect a small village that sheltered him after his exile. Keeps a rui
 "I'll break any law that breaks good people. Leadership means standing where the arrows fall first."
 
 ## Backstory
-Zaryth Vel'quinar was a decorated Drow officer in a surface-world knightly order — rare for his kind, earned through two decades of brutal campaigns. When his commanding lord ordered a massacre of a refugee settlement, Zaryth refused, sounded the retreat, and got his unit out alive. Court-martialed, stripped of rank, exiled. He wandered for a year until a village of farmers hid him from the order's hunters and asked nothing in return. He has been paying that debt ever since.
+Zaryth Vel'quinar was born in the Underdark, raised in House Vel'quinar — a minor Drow noble house whose territory and city he can no longer identify on any surface map. His early life followed the standard Drow male path: warrior academy, blade training, patrol duty. He was good at it. Good enough to be noticed. Good enough to be dangerous.
+
+At some point — Zaryth does not know exactly when — he left the Underdark and reached the surface. **He does not remember how.** The journey from the deep tunnels to the surface should have taken weeks through ascending passages. Zaryth has fragmented memories: running through tunnels, the taste of stone dust, a light that wasn't bioluminescence, the sensation of wind on his face for the first time. But the sequence is broken. Days — possibly weeks — are missing. He woke on the surface, alone, in hill country he didn't recognize, with the clothes on his back, a broken signet ring in his pocket, and no memory of the final passage.
+
+**The memory gap** is not natural. Drow have excellent recall — Fey Ancestry sharpens the mind against enchantment, but something bypassed it. Zaryth has considered three possibilities:
+- **Trauma-induced amnesia** — the escape was violent enough that his mind sealed it away. Possible but incomplete — he remembers *fragments*, not nothing.
+- **Magical suppression** — someone or something deliberately blocked the memory. A ward, a spell, or an entity that didn't want the route remembered. The Underdark has things that can do this.
+- **Faerzress exposure** — prolonged passage through high-faerzress zones can cause memory distortion, hallucination, and temporal confusion. If his escape route passed through a faerzress-saturated region, the radiation may have scrambled his recall.
+
+He does not know which. He does not know if the memories can be recovered. He does not know if he *wants* them recovered — what if the gap is protecting him from something worse than not knowing?
+
+On the surface, he found his way to a knightly order that accepted him despite his race — rare, earned through two decades of brutal campaigns. He became a decorated officer. When his commanding lord ordered a massacre of a refugee settlement, Zaryth refused, sounded the retreat, and got his unit out alive. Court-martialed, stripped of rank, exiled. He wandered for a year until a village of farmers hid him from the order's hunters and asked nothing in return. He has been paying that debt ever since.
 
 He led a party of eight through the unraveling of the Unchained Compact conspiracy — a network spanning seven cities. In Duskport, he exposed House Aldenmere and delivered the Partition Writ. In Aelindra, he held the Tome chamber door for the 14-minute Valis Procedure and offered Thessara Kain redemption — she chose to testify. He told the company: "You are my light."
 

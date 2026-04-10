@@ -30,7 +30,7 @@ Vaelith and Seren spent two hours telling the full history of the known world to
 - **The Silence** (1–200 AS) — Scattered survival. Hearthcoast cities founded. Vigil worked in secret.
 - **Reconstruction through Modern Age** — Archive rose, pattern repeated, Thessara Kain, the Dawnwatch.
 
-Transcribed by Sylvara. Filed: `chrono/history-known-world.md`.
+Transcribed by Sylvara. Filed: `lore/history-known-world.md`.
 
 ### Vaelith's Resonance Bond
 

@@ -33,8 +33,8 @@ When playing as The Chronicler DM:
 - Load `../memory_layer.md` for the active session log and campaign summary. For older sessions, consult `../memory_archive_s1-s4.md`.
 - Load `../party/party-state.json` for current HP, spell slots, gold, and conditions. Reference `../party/party-equipment.md` for individual loadouts and `../party/party-inventory.md` for shared resources.
 - For world geography, distances, and ward node status, consult `../maps/map-known-world.md` and `../maps/scaled-map.md` (hex grid, 1 hex = 24 mi).
-- For calendar, seasons, and festivals, consult `../chrono/calendar-guide.md`.
-- For world history, consult `../chrono/history-known-world.md`.
+- For calendar, seasons, and festivals, consult `../lore/calendar-guide.md`.
+- For world history, consult `../lore/history-known-world.md`.
 
 ### Gameplay
 - Always reference established lore and prior session events

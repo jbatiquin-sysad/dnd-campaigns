@@ -8,9 +8,10 @@
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| **Total** | **~6,530 gp** | |
-| Carried | ~800 gp | Expedition/travel fund |
-| Homestead reserves | ~5,730 gp | Stored at Dawnwatch Homestead |
+| **Total** | **~8,429 gp** | |
+| Carried | ~1,478 gp | Expedition/travel fund |
+| Homestead reserves | ~6,195 gp | Stored at Dawnwatch Homestead |
+| Cargo in transit | ~52 gp (sell value) | Iron tools, lamp oil, rope, salt (Maren's return cargo) |
 
 ---
 
@@ -32,15 +33,22 @@
 
 | Item | Carried | At Homestead |
 |------|---------|-------------|
-| Healing poultice | 36 | 0 |
+| Healing poultice | 40 | 0 |
 | Alertness tincture | 14 | 0 |
 | Stimulant tonic | 9 | 0 |
-| Basic antitoxin | 11 | 0 |
+| Enhanced antitoxin | 6 | 0 |
 | Alchemist's fire | 7 | 0 |
 | Ghost-nettle analgesic | 2 | 0 |
-| Holy water | 6 | 0 |
+| Holy water | 5 | 0 |
 | Oil flasks | 12 | 0 |
 | Healing potions | 2 | 0 |
+| Water breathing (standard) | 4 | 0 |
+| Water breathing (superior) | 6 | 0 |
+| Fire resistance | 3 | 0 |
+| Lightning resistance | 4 | 0 |
+| Necrotic resistance | 6 | 0 |
+| Darkvision | 2 | 0 |
+| Ward-circuit ink (applications) | 10 | 0 |
 | Catalyst compound (research) | 0 | 8 |
 
 **Alchemy field kit (Zaryth carries):** Mortar, pestle, 6 empty vials, binding agents, basic reagents. Can brew 2–3 poultices/tinctures in the field.
@@ -197,9 +205,15 @@
 | Resonance key | Sylvara | Unchained Compact ward-collapse device |
 | Ward-solvent vial | Aldric (inner pocket) | DANGEROUS — dissolves ward-marks |
 | Iron disc (expended) | Zaryth | Serevane's mark, used |
-| Dawnwatch Longsword (enchanted) | Zaryth | Magical, Warding Edge (+2 AC reaction 1/short rest), resonance bond |
-| Yew Quarterstaff (enchanted) | Bram | Magical, arcane focus, ward-glyph shimmer |
-| Yew Shortbow (sinew-backed) | Orindel | Well-made, Bram-crafted |
+| Dawnwatch Longsword (enchanted) | Zaryth | Warding Edge +2 AC reaction, +1d4 lightning, resonance bond |
+| Yew Quarterstaff (enchanted) | Bram | Magical, arcane focus, +1 spell attack rolls |
+| Yew Shortbow (sinew-backed) | Orindel | True Flight, behir sinew +1 dmg, ignore half cover |
+| Champion's Belt | Zaryth | Reaping Fair Grand Melee champion |
+| Master-forged dagger | Mira | +1 to hit, Reaping Fair Blade Dance prize |
+| Reaping Crown (laurel) | Pip | Reaping Fair Bardic Circle champion |
+| Trade Guild endorsement | Thessaly | Preferred rates at guild-affiliated markets |
+| Clay temple lamp (blessed) | Orindel | Gift from Vael Orun, Duskport |
+| Rosemary plant | Mira | From Sera, Duskport — on Room 1 shelf |
 
 ---
 
@@ -211,14 +225,15 @@
 | Size | 4 acres |
 | Caretaker | Tessa Marsh (+ Ren 12, Lila 9) |
 | Monthly cost | 5 gp |
-| Structures | Main house, alchemy shed, forge, smokehouse (NEW), goat pen, chicken coop, beehives (3 + second rack NEW), root cellar (NEW), school (foundation laid) |
-| Herb garden | Doubled (NEW) — medicinal + ghost-nettle test plot at north wall |
-| Passive income | **35–45 gp/week** (projected, once new improvements mature) |
+| Structures | Main house (2nd floor complete — 4 rooms), alchemy shed, forge, smokehouse (NEW), tannery/leatherworking shed, Dawnwatch Tower (4 levels + lookout), stable/toolshed (Anvil), root cellar, goat pen, chicken coop, beehives (3 + second rack), herb garden (doubled), Mira's garden, school (walls ~80%) |
+| Herb garden | Doubled — medicinal + ghost-nettle test plot at north wall |
+| Passive income | **35–45 gp/week** (homestead) + **70–80 gp/triangle run** (trade operation) |
 | Delivery | Wynn Dodd (weekly cart, 2 gp/week) |
-| Apothecary contract | Master Haldren (30 gp/week when doubled garden matures, currently 15 gp/week) |
+| Apothecary contract | Master Haldren (30 gp/week at full capacity) |
 | Game meat sales | ~5 gp/week (Orindel's snares, Ren checking weekly) |
-| Emergency contact | Captain Brenn, Fenhollow. Tomas (pigeon) to Orindel. |
+| Trade operation | *Stormcape's Promise* — Capt. Maren Voss + Corr. Triangle route. 5 gp/week crew cost. |
+| Emergency contact | Captain Brenn, Fenhollow. Tomas (pigeon) to Orindel. Pigeon to Stormcape (Arn's Hold). |
 
 ---
 
-*Last updated: Day 156, 6th Reaptide, 1248 AS — Dawnwatch Homestead, Fenhollow (Seren + Torven added, trimaran acquired)*
+*Last updated: Day 180, 30th Reaptide, 1249 AS — Dawnwatch Homestead, Fenhollow (Seren + Torven gear upgraded, Reaping Fair prizes added, trade operation active, 2nd floor complete)*

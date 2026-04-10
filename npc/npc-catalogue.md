@@ -237,3 +237,65 @@
 | **Tide-Speaker Lira** | Human, 30s | Tide-Speaker, Venn's Shelf | S5 Wildcard Turn 21 | Ally — Stormcape cliff-hold | Fierce, one eye. Reported a light and structure at Node 4 during last year's low tide. |
 | **Grandmother Wynn** | Human, 70s+ | Elder, Saltspray | S5 Wildcard Turn 21 | Ally — closest cliff-hold to Node 4 | Smallest cliff-hold (8 people). Gave Pip a whale-tooth pendant for his shell crown. "The rock breathes. Once a year, it rises, and the old marks glow." |
 | **Asha** | Human, ~12 | Folk ward-keeper of Node 4, Grandmother Wynn's granddaughter | S5 Wildcard Turn 23 | Ally — Saltspray, Stormcape coast | Barefoot, salt-crusted hair, basket of shells. Maintained Node 4's copper circuit with shell offerings arranged in ward-frequency patterns for years. Taught by her grandmother. Doesn't understand the theory — just knows it matters. Seren wants to teach her properly. |
+
+---
+
+## Session 6 NPCs — Chronicler Arc (Duskport, Trade, Underdark)
+
+### Duskport / Trade
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Halla Breck** | Human, 50s | Captain, coastal trader *Salt Penny* | S6 Turn 2 | Ally — Tidemeet/Duskport route | Sun-creased, no patience for small talk. Cousin worked Pier 7. Gave the Dawnwatch free passage. Recommended 3 captain candidates. Sang the second verse of the Stormcape song. |
+| **Corr** | Human, 20s | Deckhand, *Stormcape's Promise* | S6 Turn 2 | Crew — active | Stormcape-born. Arms like anchor chain. Sings. Ex-*Salt Penny*. Hired with Maren. 1.5 gp/week. |
+| **Maren Voss** | Human, 30 | Captain, *Stormcape's Promise* | S6 Turn 4 | Crew — active | Stormcape mother (Kell's Reach). 12 years experience. Fishing sloop captain turned merchant captain. 3.5 gp/week + 10% net bonus. Vetted by Serevane. No relation to Magistrate Voss. |
+| **Dren Sable** | Human, 60 | Veteran captain (unemployed) | S6 Turn 3 | Contact — Duskport | 41 years on the water. Lost ship to Sulwick impound. Triple-recommended (Halla, Voss, Duvash). Not hired but respected. At the Anchor & Tide. |
+| **Jorik Tann** | Human, 40 | Ex-Silver Chain captain | S6 Turn 3 | Contact — Duskport | 22 years experience. Professional, cold, thorough. Reads books in taverns. Not hired. |
+| **Dalla Kern** | Human | Cargo broker, Veldmere | S6 Turn 5 | Trade contact — active | Duvash referral. Fair dealer. Standing herb order (10 bundles/week). |
+| **Sera** | Human, early 30s | Fish market vendor, Duskport | S6 Turn 7 | Mira's person — visited homestead Day 186 | Brown hair, sailcloth tie, hands that smell like brine. The closest Mira came to staying. Rosemary plant. Ghost-nettle cutting. The door is open. |
+
+### Reaping Fair
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Wren Hale** | Human, late 30s | Ranger, Greymoor — archery champion | S6 Turn 6 | Contact | Beat Orindel in the final round. Interested in his behir-sinew bow. |
+| **Sera Kade** | Human, mid-20s | Rapier specialist, Veldmere | S6 Turn 6 | Contact | Blade Dance finalist. Lost to Mira. Bowed with genuine respect. |
+| **Kael Ashford** | Human, 30 | Fighter, defending Grand Melee champion | S6 Turn 6 | Contact | Lost to Zaryth in the final. Good sport. "Next year?" No relation to Commander Ashford. |
+| **Bors Ironhand** | Dwarf | Fighter, Greymoor — Grand Melee semifinalist | S6 Turn 6 | Contact | Built like a forge anvil. "Good fight, drow." |
+| **Greta Ironhammer** | Dwarf | Drummer — started Pip's standing ovation | S6 Turn 6 | Contact | Bardic Circle judge/performer. |
+
+### Homestead / School
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Elara Marsh** | Human, 40s | School teacher, Fenhollow native | S6 Turn 23 | Active — homestead | Tessa's cousin. Taught kids in her kitchen for years. 3 gp/week. The marsh kids come because they know her. |
+| **Dael Ashwick** | Half-Elf, 20s | Assistant teacher, Harrowgate-trained | S6 Turn 23 | Active — Fenhollow | Distant Ashwick relation. Young, eager. 1.5 gp/week. |
+
+### Binding-Era
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Vaelen** | Unknown, deceased (1,248+ years) | Keeper of the Threshold, Binding-era | S6 Turn 14 (journal found) | Deceased — journal recovered | Vaelith's teacher's teacher. Built the keeper station. Wrote the Binding script. Left a 300-page journal for his successor. "I hope they are kind. I hope they are brave." |
+
+---
+
+### Session 7 NPCs — Storyteller Arc (Year 1249)
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Ilyana Vel'quinar** | Drow, 100s+ | Matron of House Vel'quinar, Zaryth's mother | S7 Turn 9 | Allied — Vel'quinar homestead, Fenhollow | Tall, white hair, lavender eyes. Led 12 survivors for 8 years. Eilistraee follower. Broke Zaryth's ring to save him. "The house remembers its son." |
+| **Nhilara Vel'quinar** | Half-Elf, 34 | Outer circle trade liaison, counter-intel | S7 Turn 17 | Active — Tidemeet/Deep Road | Surface-born, raised Drow. 12 years surface trade. No Sunlight Sensitivity. Found at Tidemeet harbor. Counter-intel vs Vel'sharen. |
+| **Kael Vel'quinar** | Drow | Weapons Master, Ilyana's brother | S7 Turn 9 | Allied — Vel'quinar homestead | Injured left leg (house war). Training Fenhollow militia. |
+| **Sera (Vel'quinar)** | Drow | Priestess of Eilistraee | S7 Turn 9 | Allied — Vel'quinar homestead | Divine magic restored by moonlight. Performed Zaryth's memory restoration. |
+| **Nalia** | Drow | Healer/herbalist | S7 Turn 9 | Allied — apothecary, Haldren partnership | Kept 12 people alive with fungal medicine for 8 years. |
+| **Pim** | Drow, 14 | Child, student | S7 Turn 9 | Elara's school | Born underground. First time seeing the sky. Between Ren and Lila at every meal. |
+| **Elder Ash** | Drow, 70s+ | House historian | S7 Turn 9 | Allied — Vel'quinar homestead | Carries oral history of Vel'quinar. Knows the Binding-era connection. |
+| **Ryn** | Drow, young | Apprentice wizard | S7 Turn 9 | Sylvara's student | Raw talent, no spellbook. Learning. |
+| **Elder Garrin** | Svirfneblin, ancient | Village leader, Deephollow | S7 Turn 6 | Allied — Deep Road trade | "My grandmother's grandmother spoke of the Builders." 43 gnomes. |
+| **Elder Brill** | Svirfneblin | Village leader, Crystalvein | S7 Turn 18 (Nhilara report) | Trade contact — sapphires | 60 gnomes. Sapphire miners. Wants medicine + cloth. |
+| **Soren Blackwater** | Human, 40s | Warehouse manager, Tidemeet | S7 Turn 20 | Active — Dawnwatch Trading Company | Former dock foreman. Honest. Wynn Dodd vouches. |
+| **Tam Fenn** | Human, 17 | Shop clerk, Tidemeet | S7 Turn 20 | Active — Dawnwatch Trading Company | Harren Fenn's grandson. Elara's school graduate. |
+| **Kord Venn** | Human, large | Fighter, Veldmere Grand Melee champion (former) | S7 Turn 19 | Contact | "You hit like a cave-in, Drow." Lost to Zaryth. Good sport. |
+| **Vex** | Drow | Warrior, carriage driver | S7 Turn 9 | Active — Vel'quinar homestead, Dawnwatch Coach driver | Quiet. Competent. First Vel'quinar to operate Dawnwatch technology. |
+
+*Last updated: Day 180, 30th Reaptide, 1249 AS*

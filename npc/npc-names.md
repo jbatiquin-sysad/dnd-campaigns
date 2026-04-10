@@ -561,6 +561,77 @@ Extracted from the Xanathar PDF and grouped by race, then gender/subtype.
 - Xistsrith
 - Yaeldrin
 
+## Drow
+
+### Female
+
+- Aluve
+- Briza
+- Dhalmass
+- Elvraema
+- Faeryl
+- Filraen
+- Greyanna
+- Imrae
+- Irae
+- Jhaelryna
+- Liriel
+- Malice
+- Minthara
+- Quenthel
+- Qilue
+- Sabal
+- Shi'nayne
+- Triel
+- Vierna
+- Zesstra
+
+### Male
+
+- Alak
+- Ardulace
+- Dinin
+- Drizzt
+- Gromph
+- Ilmryn
+- Jalynfein
+- Jarlaxle
+- Nathyrra
+- Pharaun
+- Rai-guy
+- Rizzen
+- Ryld
+- Solaufein
+- Tsabrak
+- Veldrin
+- Vhaun
+- Vorn
+- Xullrae
+- Zaknafein
+
+### House
+
+- Aleanrahel
+- Argith
+- Baenre
+- Barrison Del'Armgo
+- Dhuurniv
+- Eilservs
+- Everhate
+- Faen Tlabbar
+- Freth
+- Hune
+- Hunzrin
+- Kilsek
+- Melarn
+- Mizzrym
+- Noquar
+- Oblodra
+- Shobalar
+- Teken'duis
+- Tormtor
+- Xorlarrin
+
 ## Gnome
 
 ### Female

@@ -851,7 +851,7 @@ Hearthcoast Flora, The Mason's Companion, Principles of Metallurgy, A Practical 
 
 **Vaelith and Seren reunion:** Vaelith knelt. "Stormcape." / "They told me you were dead." Two Vigil keepers reunited after decades.
 
-**World History Session (2 hours):** Vaelith and Seren told the full history of the known world — Age of Binding, five Covenant Kingdoms (Aelindros, Vel Tharion, Keth Morath, Ashenmere, Stormcape), Fracture Wars, the Sundering, the Silence, Reconstruction, Archive Age, Modern Age. Transcribed by Sylvara. Filed: `chrono/history-known-world.md`.
+**World History Session (2 hours):** Vaelith and Seren told the full history of the known world — Age of Binding, five Covenant Kingdoms (Aelindros, Vel Tharion, Keth Morath, Ashenmere, Stormcape), Fracture Wars, the Sundering, the Silence, Reconstruction, Archive Age, Modern Age. Transcribed by Sylvara. Filed: `lore/history-known-world.md`.
 
 **Vaelith's Secret — The Resonance Bond:** Vaelith revealed how he survived 1,000+ years. During the Sundering, the Root's emergency pulse passed through him while his hands were on Node 12's stone. The ward frequency fused into his body — he became a living conduit. As long as the ward network exists, he exists. When nodes degrade, he feels pain. When the Dawnwatch repaired nodes, the pain stopped. He is the Root's failsafe — a living anchor. Faint root-like lines visible on his wrist radiating from the closed-eye mark.
 
@@ -1114,5 +1114,176 @@ Both formally joined the Dawnwatch. Dawnwatch rings forged + enchanted. Characte
 
 ### Next Arc — Zaryth's Underdark / Aelindra Deep Vaults
 Zaryth is ready to explore his hometown in the Underdark and investigate connections to what's sealed beneath Aelindra. Research phase needed: cross-reference Vigil Field Manual, Drell's journal, Archive records. Party selection for Underdark expedition (max 5). This is Zaryth's personal quest — the ruined signet ring, the fallen house, finally addressed.
+
+---
+
+---
+
+## S6 Turns (Chronicler 1–23) — Trade, Tournaments, Underdark, Winter
+
+**Days 156–360 (6th Reaptide – 30th Thawsend, 1248 AS)**
+
+### Trade Operation (Days 156–170)
+Sailed to Duskport with Thessaly, Mira, Pip, Orindel. Visited Voss (civic update, Calder trial Day 170), Duvash (foreman now), Vael Orun (clay lamp gift), Serevane (vetting). Interviewed 3 captain candidates: Dren Sable (veteran, triple-recommended), Maren Voss (Stormcape heritage, hungry), Jorik Tann (ex-Silver Chain, professional). Hired Maren Voss (3.5 gp/wk + 10% bonus) + Corr (deckhand, 1.5 gp/wk, Stormcape-born). Trial run Tidemeet→Veldmere: 55 gp net. Standing herb order from Dalla Kern. Full triangle authorized.
+
+### Reaping Fair — Duskport (Day 165)
+Zaryth: Grand Melee champion (200 gp + Champion's Belt). Mira: Blade Dance 1st (100 gp + master-forged dagger +1 to hit). Pip: Bardic Circle 1st (40 gp + Reaping Crown). Thessaly: Merchant's Challenge 1st (50 gp + Trade Guild endorsement). Orindel: Archery 2nd (30 gp, lost to Wren Hale). Total: 420 gp + 4 items.
+
+### Mira & Sera (Day 166)
+Mira visited Sera at Duskport fish market. Rosemary plant. "The offer still stands." Sera visited homestead Day 186 (5 days). Ghost-nettle cutting taken. Personal quest advancing.
+
+### Homestead Construction (Days 157–200)
+2nd floor complete (4 rooms, Day 175). Stable expanded to 3 stalls (Day 200). School walls completed. Seren + Torven gear upgraded: knuckle wraps (+1d4 force, magical), behir-hide arm wraps (lightning resist), staff enchanted (+1d4 radiant), sling. ALL 10 MEMBERS: enchanted weapons.
+
+### Underdark Investigation (Days 169–178)
+Full party intel operation. 14 potential entrances mapped (underdark-map.md created). Three Sealed Ruins scouted — Mira found sealed door (Investigation 20), Torven confirmed 40+ ft subterranean structure (Nature 22), ward compass detected Binding frequency. Old Harren Fenn: 4th submerged ruin is "the real door." Mira scouted 4th ruin underwater — gatehouse, pentagonal resonance keyhole, Binding script. Resonance key forged from homestead basalt (5 days, 1 ward-ink).
+
+### Binding-Era Keeper Station (Day 185)
+Resonance key opened the Fourth Ruin gatehouse. Keeper station: circular chamber 60 ft across, domed, Binding script on all surfaces, self-illuminating. Resonance anchor (octagonal standing stone) = Node 7 (91% — highest reading, self-maintaining, direct Root connection, never failed). 8 empty pedestals = focus stone slots (Heartstones). Stone table: Vaelen's journal (300 pp), Binding-era ward instruments, pure resonance crystal, CARVED MAP OF ALL 14 NODES. Deeper door — palm recognition lock, partially recognized Zaryth (incomplete attunement). Vaelith confirmed: Vaelen was his teacher's teacher.
+
+### The Old Foundation (Day 223)
+Full descent with Vaelith at palm lock (no proxy needed). Party: Zaryth, Sylvara, Seren, Mira, Orindel. Down 200 steps to first cavern. Fungal Gallery (200×80 ft, zurkhwood forest, bioluminescent, underground river, blind fish, cave lizards — sealed ecosystem 1,248 years). The Listening Dark — vast void 300+ ft across, 200+ ft deep. Rope descent 200 ft. Crossed underground river. Old Foundation: 50-ft stone platform, 4 columns, central basin, unknown pre-Binder script. Faerzress present. Source of Binding frequency directly below platform. Zaryth's signet ring reacted to central glyph (faerzress glow). Vaelith: "The Drow were not always underground. The elves were one people. Some were Binders." Ring is pre-Sundering alloy, house sigil carved over older mark.
+
+### Binding Attunement Training (Days 196–216)
+Vaelith trained Zaryth: frequency absorption, resonance holding, integration. Breakthrough Day 212 — ward compass reacted to Zaryth's heartbeat at homestead (half day from station). Zaryth carries Binding frequency autonomically. Ward Engineering: Journeyman → Binding Initiate (Lesson 90).
+
+### Ward Perimeter (Day 192)
+Installed around homestead. Detection + identification circuit. 4 ward-ink applications. Keyed: 10 rings + Tessa + kids + Wynn Dodd + Anvil. Tower alarm integrated.
+
+### Winter (Days 223–360)
+Mushroom cellar operational (exotic, Deep Road bioluminescent spores — first glow detected). School completed + operational: Elara Marsh (teacher), Dael Ashwick (assistant), Brother Callum (volunteer Starday). 11 students. Library: 20 books (Seren memoir, Drell's log annotated, Torven cartography, Sylvara's Cascade, Vaelith's Primer, Orindel's Hymns). Trade: winter route Tidemeet↔Veldmere, ~500 gp total income. Festivals: Ember Night, Last Lantern, Hearthwatch, Longnight Eve Paper Lantern Festival (50 lanterns, 50 people), Thaw Prayer Great Burning, Year's End Fireworks (12 charges, 60 people, Dawnwatch insignia in fire).
+
+### Drow Thread
+Maren reported: Drow merchant at Veldmere docks asking about Dawnwatch goods. Grey cloak. No name. No purchase. Left. Intel requests sent to Serevane + Revka. Replies pending (winter delays).
+
+---
+
+## CAMPAIGN STATUS — Session 6 (Chronicler) — YEAR'S END
+
+**Date:** 30th Thawsend, 1248 AS (Day 360) — Year's End
+**DM:** Aldric Voss, The Chronicler
+**Location:** Dawnwatch Homestead, Fenhollow
+**Party Level:** 3 | **Party Gold:** ~8,175 gp | **Party Size:** 10 (max 5 active per expedition)
+
+### Ward Network
+- **Root:** Active, healthy
+- **Outer Ring (8/8 known):** ALL ACTIVE — 9 (78%), 10 (80%), 11 (75%), 12 (72%), 3 (62%), 5 (74%), 2 (71%), 4 (76%)
+- **Node 7 (Marsh Threshold):** 91% — ACTIVE. Keeper station. Direct Root connection.
+- **ALL 14 NODES IDENTIFIED** (Vaelen's map). 6 unrepaired: 1, 6, 7 (active), 8, 13, 14.
+- **Heartstones:** 1/8 discovered (Ashenmere). 1 likely Vaelith. 6 unknown.
+
+### Party Roster
+
+| Character | Race | Class | Level | AC | HP | Key |
+|-----------|------|-------|-------|----|----|-----|
+| **Zaryth** | Drow | Paladin (Devotion) | 3 | 20 | 28 | Binding Initiate (Lesson 90). Ward-ink (3 apps). Champion's Belt. |
+| Mira | Halfling | Rogue (Thief) | 3 | 16 | 23 | Behir scale-leather. Lightning resist. Master-forged dagger. |
+| Aldric | Dwarf | Cleric (Life) | 3 | 19 | 28 | Sea Ward. +1d4 radiant warhammer. |
+| Sylvara | High Elf | Wizard (Evocation) | 3 | 16 | 14 | Behir scale mail. Lightning resist. The Cascade (Archive-bound). |
+| Bram | Halfling | Wizard (Evocation) | 3 | 16 | 15 | Behir scale mail. +1 spell attacks. School builder. |
+| Thessaly | Dwarf | Rogue (Thief) | 3 | 16 | 24 | Silent Storm rapier. Trade Guild endorsement. |
+| Orindel | Wood Elf | Cleric (Life) | 3 | 19 | 23 | Behir scale mail. True Flight bow. Hymn composer. |
+| Pip | Halfling | Wizard (Evocation) | 3 | 16 | 14 | Resonance Shell. Permanent fire sword. Reaping Crown. |
+| Seren | Human | Monk (Open Hand) | 3 | 16 | 24 | Knuckle wraps (+1d4 force, magical). Lightning resist. |
+| Torven | Half-Elf | Druid (Land-Coast) | 3 | 16 | 21 | Staff +1d4 radiant. Wild Shape. Cartographer. |
+
+### Key Assets
+- **Homestead:** Fully developed. Tower, forge, school (11 students), library (20 books), mushroom cellar (exotic). Ward perimeter. Passive income 35–45 gp/week.
+- **Trade:** *Stormcape's Promise* — Maren Voss + Corr. ~100–150 gp/month net.
+- **Stormcape Alliance:** 5 cliff-holds. Pigeon network.
+- **Inter-City Network:** 7 cities + maritime + Stormcape + Duskport counter-intel.
+- **Deep Road:** Mapped to Old Foundation (540 ft). Rope ladder installed. Route established.
+- **All weapons enchanted. All armor enchanted. 8/10 lightning resistant.**
+
+### Next — Year 1249 AS
+Spring. Resume western trade. Aelindra visit (Sylvara's Cascade to Archive). Drow thread investigation. Deep Road / Old Foundation research. Remaining 6 nodes. Heartstones. Zaryth's fallen house. The deeper door. The breathing thing beneath the Old Foundation.
+
+---
+
+## S7 Turns (Storyteller 1–20) — Year 1249 AS: The Deep Road, The Vel'quinar, The Fleet
+
+**Days 1–180 (1st Greenthaw – 30th Reaptide, 1249 AS)**
+
+### New Year & Letters (Day 1)
+Three letters: Serevane (Drow woman ID'd — female, spider-over-moon sigil, wants to be found), Revka (standing offer), Veyra (second keeper station beneath Aelindra). Zaryth to Revka: "Let her find us."
+
+### Aelindra Trip (Days 5–10)
+Repaired Aelindra keeper station (34% → 58%). Opened 3 corridors: map room (full Deep Road infrastructure — 9 stations connected underground), vault (3 resonance stone blocks, 80 ward-ink apps, 4 Binding alloy ingots, Heartstone folio, Keeper's Cloak, permanent proxy), Deep Road entrance (staircase, "Threshold — 14 days walking"). Enchanted 3 weapons (Mira Frost Edge, Sylvara Ward-Strike, Seren Drell's Light). Delivered The Cascade to Archive permanent collection. Pip gala (50 gp).
+
+### Heartstone Forging (Days 15–45)
+Vaelith taught Binding alloy forging (Lessons 91–100). ALL 8 HEARTSTONES FORGED. Door trigger built (remote open/close). Underdark mushroom research: 3 species (Glowcap, Stonecap, Whisper Moss) → darkvision potions, tremorsense elixirs, stone salve, luminescent ink.
+
+### Heartstone Seating (Day 46)
+All 8 seated in Fenhollow station. Full relay active. Ward boundary doubled. Source responded: "finally." Every repaired node flared.
+
+### Deep Road Survey (Days 47–62)
+30 miles mapped Fenhollow ↔ Aelindra. Discovered: Fungal Gallery, Listening Dark, Long Gallery, Y Fork, Crystal Cavern (resonance stone vein), Deephollow (43 svirfneblin, Elder Garrin). 4 obstacles identified.
+
+### Deep Road Infrastructure (Days 65–120)
+Resonance Lift operational (Day 84, 61 gp). Threshold Runner wagon operational (Day 120, 55 gp). All obstacles cleared (310 gp). Travel time: 14 days → 9 hours. Deephollow trade established.
+
+### Sinkhole Found (Day 138)
+Zaryth's escape route sinkhole found at G6 (Thornveil foothills). Surface entrance to Ashara's keeper station (third station, beneath Vel'arath).
+
+### Y Fork Right Branch Surveyed (Day 141)
+The Crucible (basalt cathedral, 3-way junction). Right tunnel → Greymoor Shaft 9 (sealed door confirmed from below). Node 14 (Ember Vein) nearby. Left tunnel → Vel'arath (30 mi, Drow patrol territory).
+
+### Vel'quinar Rescued (Day 121–122)
+12 Drow survivors evacuated from volcanic enclave. Matron Ilyana Vel'quinar (Zaryth's mother) alive. House followed Eilistraee. Signet ring broken deliberately by Ilyana to protect Zaryth. Memory gap was Eilistraee ritual suppression.
+
+### Memory Restored (Day 135, Full Moon)
+Sera reversed the suppression. Zaryth remembers: the fall of Vel'arath, escape through Ashara's station, faerzress zone (Binder echo forging the ring 3,000 years ago), sinkhole exit. The rings are Binding-era, forged by Binders.
+
+### Lyriel & Nhilara
+Lyriel Vel'sharen: Drow emissary, defected to Vel'quinar. Now captain of Eilistraee's Grace. Nhilara Vel'quinar: outer circle trade liaison, found at Tidemeet (Day 151). 12 years surface experience. Counter-intel active against Vel'sharen agents.
+
+### Defense (Day 131–135)
+4-layer defense: intelligence (Revka, Serevane, Nhilara disinformation), ward perimeter (extended, Drow-specific, silent alarm), physical (wall, ward-locked gates, tower fallback), Deep Road (evacuation, door trigger, lift denial).
+
+### Fleet & Trade
+Stormcape's Promise: operational, western triangle + Veldmere shuttle. Eilistraee's Grace: hybrid trimaran (wind + resonance drive), northern express, Lyriel captain + Dren engineer. Dawnwatch Coach: resonance-assisted carriage, 2 horses. Tidemeet warehouse: Dawnwatch Trading Company, Soren Blackwater manager. Deep Road trade: Deephollow (amethyst) + Crystalvein (sapphires, 60 gnomes, Elder Brill). Monthly income: 535–755 gp.
+
+### Veldmere Reaping Fair (Day 165)
+Zaryth: Grand Melee champion (300 gp + Silver Circlet). Mira: Blade Dance champion (150 gp + Veldmere dueling blade). Orindel: Archery champion (100 gp + Master Bowyer's quiver). Sylvara: Merchant's Tourney 2nd (35 gp). Total: 585 gp + 3 items.
+
+### Homestead Development
+Vel'quinar homestead (3 acres, north of Dawnwatch). 35 trees planted (orchard + shade grid, 4–5× accelerated growth). Roads improved (gravel + causeway, all-weather to Tidemeet). School: 14 students. Library: 20 → 28 books (8 ordered). Mushroom cellar: 3 species producing.
+
+### Nhilara Deep Road Exploration (Days 156–176)
+Found Crystalvein (2nd svirfneblin settlement, 60 gnomes, sapphires). Abandoned duergar outpost. Underground lake (500 ft, algae). Vel'sharen patrol boundary (25 mi S of Deephollow, fresh markers).
+
+---
+
+## CAMPAIGN STATUS — Session 7 (Storyteller) — YEAR 1249
+
+**Date:** 30th Reaptide, 1249 AS (Day 180)
+**DM:** Mara Solenne, The Storyteller
+**Location:** Dawnwatch Homestead, Fenhollow
+**Party Level:** 3 | **Party Gold:** ~8,429 gp | **Party Size:** 10 + 13 Vel'quinar
+
+### Ward Network
+- **Root:** Active. **Node 7:** 91% (Fenhollow, full relay, 8 Heartstones seated).
+- **Aelindra Station:** 58% (repaired). **Ashara's Station:** Unknown (beneath Vel'arath).
+- **Outer Ring:** 8/14 repaired. 6 channels open. ALL 14 IDENTIFIED.
+- **Source:** Responded "finally" when Heartstones seated.
+
+### Fleet & Trade
+- *Stormcape's Promise*: Maren Voss + Corr. Western triangle / Veldmere shuttle.
+- *Eilistraee's Grace*: Lyriel + Dren. Northern express (Aelindra–Salthollow).
+- *Dawnwatch Coach*: Vex driving. Resonance-assisted. 2 horses.
+- *Threshold Runner*: Deep Road wagon. Fenhollow ↔ Aelindra in 9 hours.
+- Tidemeet warehouse: Dawnwatch Trading Company. Soren + Tam.
+- Deep Road trade: Deephollow (amethyst) + Crystalvein (sapphires).
+- Monthly income: 535–755 gp. Net surplus: 410–630 gp/month.
+
+### House Vel'quinar (13 members)
+Ilyana (Matron), Kael, Sera, Nalia, Dren, Vel, Thorn, Vex, Ryn, Pim, Ash, Lyriel, Nhilara.
+Homestead under construction. Loan: 175 gp, 15 gp/month. Income: ~75 gp/month (rising).
+Defense: ward perimeter, night sentries, counter-intel active.
+
+### Zaryth
+Binding Initiate (Lesson 100). Keeper's Cloak. Door trigger. 8 Heartstones forged.
+Memory restored. Signet ring: Binding-era, forged by Binders 3,000 years ago.
+Mother alive. House history known. Third keeper station located (sinkhole G6).
 
 ---

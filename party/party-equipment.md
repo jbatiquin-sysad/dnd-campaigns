@@ -6,10 +6,11 @@
 
 ## Zaryth Vel'quinar — Paladin
 
-**Armor:** Chain mail + steel shield + padded underlayer + iron greaves + studded vambraces (AC 19 — base 16 + shield 2 + Defense 1)
-**Weapon:** Dawnwatch Longsword (enchanted, superior)
+**Armor:** Chain mail +1 + steel shield + Defense style (AC 20) — Sea Ward (advantage vs environmental saves)
+**Weapon:** Dawnwatch Longsword (enchanted — Warding Edge +2 AC reaction, +1d4 lightning all hits, resonance bond)
 **Backup Weapon:** Well-made longsword (old primary)
 **Clothing:** Dark tabard over chain mail
+**Special:** Behir-hide bracers, Champion's Belt (Reaping Fair)
 
 | Slot | Item | Notes |
 |------|------|-------|
@@ -35,8 +36,8 @@
 
 ## Mira Thistlewick — Rogue
 
-**Armor:** Reinforced leather + studded vambraces (AC 15)
-**Weapons:** Short sword (enchanted — Shadow Fang), light crossbow (enchanted — Whisper Bolt), hand crossbow
+**Armor:** Behir scale-leather +1 (AC 16, lightning resistance)
+**Weapons:** Shadow Fang (short sword, crit blinds), Whisper Bolt (light crossbow, silent +1d4 thunder), Shadow Bolt (hand crossbow, hidden attacks don't reveal), behir-fang dagger (+1 magical), master-forged dagger (+1 to hit, Reaping Fair Blade Dance prize), Veldmere dueling blade (+1 to hit, Blade Dance champion)
 **Clothing:** Fitted dark travelling outfit, grey cloak (infiltration)
 
 | Slot | Item | Notes |
@@ -59,8 +60,8 @@
 
 ## Brother Aldric Stonebrow — Cleric
 
-**Armor:** Chain mail + shield + padded underlayer + iron greaves (AC 18)
-**Weapon:** Warhammer (enchanted — Hearthstone)
+**Armor:** Chain mail +1 + shield (AC 19) — Sea Ward (advantage vs environmental saves)
+**Weapon:** Hearthstone warhammer (enchanted — 1/day self-heal 1d4+4, +1d4 radiant all hits)
 **Clothing:** Acolyte underlayer robes
 
 | Slot | Item | Notes |
@@ -82,7 +83,7 @@
 
 ## Sylvara Dawnwhisper — Wizard
 
-**Armor:** Chain shirt + padded underlayer (AC 15)
+**Armor:** Behir scale mail +1 (AC 16, lightning resistance)
 **Weapons:** Dagger
 **Clothing:** Scholar's travelling robes
 
@@ -108,8 +109,9 @@
 
 ## Bram Thistlewick — Wizard
 
-**Armor:** Chain shirt (AC 15)
-**Weapons:** Yew Quarterstaff (enchanted — magical, arcane focus), hand axe, dagger
+**Armor:** Behir scale mail +1 (AC 16, lightning resistance)
+**Weapons:** Yew Quarterstaff (enchanted — magical, arcane focus, +1 spell attack rolls), hand axe, dagger
+**Special:** Sethrak's Forge-Master Tools (+1 enchanting/cutting at Forge)
 **Clothing:** Military-cut travelling coat, resoled boots
 
 | Slot | Item | Notes |
@@ -128,9 +130,10 @@
 
 ## Thessaly Ironveil — Rogue
 
-**Armor:** Studded leather (refurbished, AC 14) + studded vambraces
-**Weapons:** Rapier (enchanted — Veil Pierce), hand crossbow, short sword
+**Armor:** Behir scale-leather +1 (AC 16, lightning resistance)
+**Weapons:** Veil Pierce rapier (enchanted — advantage vs undetected, Silent Storm +1d6 lightning Sneak, Nerve Strike 1/day paralysis DC 14), Storm Bolt hand crossbow (+1d4 lightning), behir-fang dagger (+1 magical), short sword
 **Clothing:** Quality travelling outfit, fine clothes (infiltration set)
+**Special:** Trade Guild endorsement (Reaping Fair — preferred rates at guild markets)
 
 | Slot | Item | Notes |
 |------|------|-------|
@@ -148,8 +151,8 @@
 
 ## Orindel Ashwick — Cleric
 
-**Armor:** Scale mail + wooden shield (AC 18, rim repaired)
-**Weapons:** Mace (enchanted — Shepherd's Strike), Yew Shortbow (enchanted — True Flight, sinew-backed)
+**Armor:** Behir scale mail +1 + ship's oak shield (AC 19, lightning resistance)
+**Weapons:** Shepherd's Strike mace (enchanted — 1/day push 10 ft), True Flight shortbow (enchanted — ignore half cover, behir sinew +1 dmg, 12 behir-fang arrows magical +1), obsidian skinning knife, 10 obsidian arrowheads (+1 first hit), Master Bowyer's quiver (+1 arrow damage, holds 30, Archery champion)
 **Clothing:** Cleric's travelling robe, resoled boots
 
 | Slot | Item | Notes |
@@ -173,9 +176,10 @@
 
 ## Pip Tanglethorn — Wizard
 
-**Armor:** Studded leather (AC 15 — reinforced by Thessaly) + studded vambraces
-**Weapons:** Short sword (enchanted — Spark Edge), driftwood flute
+**Armor:** Behir scale-leather +1 (AC 16, lightning resistance, Resonance Shell 1/day absorb 5 elemental dmg) + behir-hide bracers
+**Weapons:** Spark Edge short sword (enchanted — +1d4 fire every hit, permanent), driftwood flute
 **Clothing:** Full outfit (shirt, trousers, vest, cloak)
+**Special:** Shell crown (Stormcape folk hero) + Reaping Crown (laurel, Bardic Circle champion)
 
 | Slot | Item | Notes |
 |------|------|-------|
@@ -202,7 +206,8 @@
 ## Seren Ashvale — Monk
 
 **Armor:** None (Unarmored Defense AC 16 — DEX 3 + WIS 3)
-**Weapons:** Unarmed (1d4+3), Drell's iron belt knife (1d4+3), 10 darts
+**Weapons:** Unarmed (1d4+3 + knuckle wraps +1d4 force, magical), Drell's iron belt knife (1d4+3), 10 darts
+**Special:** Iron knuckle wraps (enchanted — strikes count as magical), behir-hide arm wraps (lightning resistance)
 **Clothing:** Weathered travelling clothes, salt-stained cloak
 
 | Slot | Item | Notes |
@@ -210,6 +215,8 @@
 | Ring (L) | Dawnwatch signet ring (S) — ENCHANTED | Ward-network attuned, resonance pulse |
 | Ring (R) | Iron purpose ring — ENCHANTED | Keeper's Sense: advantage on Perception to detect ward anomalies, 1/day |
 | Neck | Quartz amulet — ENCHANTED | Guidance cantrip (1/day, +1d4 ability check) |
+| Hands | Iron knuckle wraps — ENCHANTED | +1d4 force on unarmed, strikes count as magical |
+| Arms | Behir-hide arm wraps | Lightning resistance |
 | Carried | Drell's closed-eye medallion | Memorial — worn under clothing, always |
 | Belt | Drell's iron belt knife | Vigil alloy, rust-proof, monk weapon |
 | Belt | 10 darts | Ranged option |
@@ -223,7 +230,7 @@
 ## Torven Ashwick — Druid
 
 **Armor:** Behir scale-leather + wooden shield (AC 16, lightning resistance, non-metal, druid-compatible)
-**Weapons:** Shillelagh quarterstaff (1d8+3 WIS), Produce Flame (1d8), dagger
+**Weapons:** Quarterstaff (enchanted — Shillelagh WIS-based 1d8+3, +1d4 radiant all hits permanent), Produce Flame (1d8), sling + 20 bullets (1d4+2, druid-compatible), dagger
 **Clothing:** Archive scholar's travelling clothes, salt-stained from 4 months on the coast
 
 | Slot | Item | Notes |
@@ -231,7 +238,8 @@
 | Ring (L) | Dawnwatch signet ring (T) — ENCHANTED | Ward-network attuned, resonance pulse |
 | Ring (R) | Iron purpose ring — ENCHANTED | Scholar's Focus: +1 to Arcana checks |
 | Neck | Quartz amulet — ENCHANTED | Druidcraft cantrip (at will) |
-| Carried | Druidic focus (wooden staff carved with ward symbols) | Doubles as quarterstaff |
+| Carried | Druidic focus (wooden staff carved with ward symbols) — ENCHANTED | +1d4 radiant all hits, doubles as quarterstaff |
+| Belt | Sling + 20 bullets | Druid-compatible ranged backup |
 | Belt | Dagger | Backup |
 | Pack | Herbalism kit | Foraging + medicine |
 | Pack | Calligrapher's supplies | Journal, ink, parchment |
@@ -239,4 +247,4 @@
 
 ---
 
-*Last updated: Day 156, 6th Reaptide, 1248 AS — Dawnwatch Homestead (all weapons + armor enchanted, Seren + Torven added)*
+*Last updated: Day 180, 30th Reaptide, 1249 AS — Dawnwatch Homestead. All 10 members: enchanted weapons ✅. Seren: knuckle wraps + lightning resist. Torven: staff enchanted + sling. Mira: master-forged dagger (Reaping Fair). Zaryth: Champion's Belt. Pip: Reaping Crown. Thessaly: Trade Guild endorsement.*

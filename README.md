@@ -6,7 +6,7 @@ A D&D 5e campaign run via [Kiro CLI](https://kiro.dev) using subagents as party 
 
 - **System:** D&D 5e (SRD CC v5.2.1)
 - **Player Character:** Zaryth Vel'quinar — Drow Paladin, exiled knight, Chaotic Good
-- **Party:** 7 NPC adventurers + 1 PC, collectively known as **The Dawnwatch**
+- **Party:** 9 NPC adventurers + 1 PC, collectively known as **The Dawnwatch**
 - **DMs:** Three available — The Chronicler (strict RAW), The Storyteller (narrative-first), The Wildcard (RAW + chaos d100)
 - **Memory:** Every turn auto-logged to `memory_layer.md` (active session + summary). Older sessions archived in `memory_archive_s1-s4.md`.
 - **Timeline:** Organized by in-game weeks in `sessions/`
@@ -105,7 +105,7 @@ duskport-campaign/
 │   ├── party-professions.md     ← skills, training, income ranges
 │   ├── zaryth.md                ← your character
 │   ├── mira.md, aldric.md, sylvara.md, bram.md,
-│   │   thessaly.md, orindel.md, pip.md
+│   │   thessaly.md, orindel.md, pip.md, seren.md, torven.md
 │   └── *.png                    ← character portraits
 ├── npc/
 │   ├── npc-catalogue.md         ← all NPCs catalogued
@@ -116,17 +116,25 @@ duskport-campaign/
 │   └── dm-wildcard.md
 ├── sessions/
 │   ├── README.md                ← save convention
-│   ├── week-01.md through week-13.md
-├── chrono/
+│   ├── week-01.md through week-15.md
+├── lore/
 │   ├── calendar-guide.md        ← 12-month calendar, seasons, festivals, timeline
-│   └── history-known-world.md   ← 3,000-year world history (Vaelith + Seren account)
+│   ├── history-known-world.md   ← 3,000-year world history (Vaelith + Seren account)
+│   └── library-catalogue.md     ← Dawnwatch library: 14 books + 4 in progress
 ├── maps/
-│   ├── map-known-world.md       ← world map, distances, ward nodes
-│   └── scaled-map.md            ← hex grid map (1 hex = 24 mi), terrain, ward coverage
+│   ├── map-known-world.md       ← world map, distances, ward nodes, Underdark entrances
+│   ├── scaled-map.md            ← hex grid map (1 hex = 24 mi), terrain, ward coverage
+│   ├── sea-routes.md            ← trade routes, seasonal cargo, crew, revenue
+│   └── underdark-map.md         ← Underdark entrances (confirmed, suspected, rumored)
 ├── combat/
 │   └── SRD combat rules (full + LLM-optimized)
 ├── monsters/
-│   └── SRD monster rules + A-Z stat blocks
+│   ├── SRD monster rules + A-Z stat blocks
+│   └── underdark-encounters.md  ← zone-based encounter tables + homebrew stat blocks
+├── dnd-reference/
+│   ├── 01–14 SRD reference files (spells, classes, equipment, etc.)
+│   ├── sections/                ← sub-section breakdowns
+│   └── drow/                    ← Drow lore: society, military, magic, stat blocks, Underdark
 ├── genai-prompts/               ← image/song gen AI prompts
 ├── genai-scenes/                ← generated scene images + visual rules
 ├── songs/                       ← generated songs (mp3)
@@ -157,6 +165,8 @@ duskport-campaign/
 |------|------|----------------|-------|----|
 | 14 | 1 | 1st Greenthaw | Seren Ashvale Arrives — Western Arc Mapped | Wildcard |
 | 15 | 1–156 | 1st Greenthaw–6th Reaptide | The Western Arc — Forge, Behir, 4 Nodes, Trimaran, Home | Wildcard |
+| 16 | 156–360 | 6th Reaptide–30th Thawsend | Duskport, Reaping Fair, Trade Op, Underdark Investigation, Old Foundation, Winter | Chronicler |
+| 17 | 1–180 | 1st Greenthaw–30th Reaptide | Deep Road, Heartstones, Vel'quinar Rescue, Fleet Expansion, Veldmere Fair | Storyteller |
 
 ## Campaign Arcs
 
@@ -214,29 +224,29 @@ All 4 western ward nodes repaired. Behir nest cleared. Stormcape alliance built.
 
 Behir heart → Thessaly's rapier (Silent Storm + Nerve Strike). Trimaran *Stormcape's Promise* built with Old Marsh. 5 Stormcape cliff-holds allied. Pigeon network to western coast.
 
-## Current Status — Session 5 (Wildcard) — DOWNTIME
+## Current Status — Session 7 (Storyteller) — YEAR 1249
 
-**Date:** 6th Reaptide, 1248 AS (Day 156) — Late Summer
-**DM:** Corvus Chance, The Wildcard
+**Date:** 30th Reaptide, 1249 AS (Day 180) — Late Summer
+**DM:** Mara Solenne, The Storyteller
 **Location:** Dawnwatch Homestead, Fenhollow
-**Party Level:** 3 | **Party Gold:** ~7,280 gp | **Party Size:** 10 (max 5 active per expedition)
-**Homestead:** Fully developed — tower, forge, smokehouse, tannery, alchemy shed, stable, root cellar, gardens, library (14 books). Passive income 35–45 gp/week. Tessa managing. School walls in progress.
+**Party Level:** 3 | **Party Gold:** ~8,429 gp | **Party Size:** 10 + 13 Vel'quinar
+**Homestead:** Fully developed — stone wall, ward perimeter (4-layer defense), tower, forge, school (14 students, 3 teachers), library (28 books), mushroom cellar (exotic), orchard (17 trees, accelerated), stable (3 stalls, 2 horses + mule). Passive income 35–45 gp/week. Monthly total income: 535–755 gp.
+**Vel'quinar Homestead:** Under construction (3 acres north). 13 Drow residents. Shade trees planted. Loan: 175 gp at 15 gp/month.
 
 **Arc 1:** ✅ COMPLETE. 7/7 Unchained Compact targets.
 **Arc 2:** ✅ COMPLETE. 4/4 eastern nodes repaired. 7/7 barrows sealed.
 **Arc 3:** ✅ COMPLETE. 4/4 western nodes repaired. All 8 outer nodes active.
-**Ward Network:** Root (active) + 8 outer nodes: 9 (78%), 10 (80%), 11 (75%), 12 (72%), 3 (62%), 5 (74%), 2 (71%), 4 (76%).
-**Vigil Heartstone:** 1/7 discovered at Ashenmere. Active. Greymoor garrison posted.
-**Unknown Nodes:** 6 unidentified (1, 6, 7, 8, 13, 14). Field Manual has documentation.
-**All weapons enchanted.** All armor enchanted (+1 AC + properties). 6/8 lightning resistant. Zaryth + Aldric have Sea Ward.
-**Zaryth:** Journeyman ward engineer (Vaelith, Lesson 57). Ward-circuit ink (14 applications).
-**Vaelith:** At homestead. Resonance-bonded keeper. Teaching Zaryth.
-**Seren Ashvale:** Full party member (Ranger 3). At homestead.
-**Torven Ashwick:** Full party member (Wizard 3, Abjuration). At homestead. Orindel's cousin.
-**Trimaran:** *Stormcape's Promise* at Tidemeet harbor. Detachable outriggers, 20 passengers, 5 tons cargo.
-**Stormcape Alliance:** 5 cliff-holds (Arn, Kell, Venn, Driftwood Landing, Saltspray). Pigeon network. Asha (folk ward-keeper, Node 4).
-**Professions:** 19+ total across 10 members. Zaryth: Journeyman ward engineer.
+**Arc 4:** IN PROGRESS. Underdark / Vel'quinar / Deep Road / Third Keeper Station.
+**Ward Network:** Root + 8 outer nodes (amplified via relay). ALL 14 NODES IDENTIFIED. 8 Heartstones seated — full relay active. Ward boundary doubled. Source responded: "finally."
+**Keeper Stations:** Fenhollow (91%, full relay hub), Aelindra (58%, repaired), Ashara's (unknown, beneath Vel'arath — sinkhole access at G6).
+**Deep Road:** Operational. Resonance Lift + Threshold Runner wagon. Fenhollow ↔ Aelindra in 9 hours. Deephollow (43 svirfneblin) + Crystalvein (60 svirfneblin, sapphires) contacted.
+**Fleet:** *Stormcape's Promise* (western triangle), *Eilistraee's Grace* (northern express, hybrid resonance), *Dawnwatch Coach* (carriage), *Threshold Runner* (Deep Road wagon). Tidemeet warehouse: Dawnwatch Trading Company.
+**House Vel'quinar:** 13 members rescued. Matron Ilyana (Zaryth's mother) alive. Eilistraee followers. Nhilara (counter-intel). Defense active. Vel'sharen agents monitored.
+**School:** 14 students. Elara Marsh + Dael Ashwick + Brother Callum. Pim (Drow, 14) enrolled.
+**Library:** 28 books (20 + 8 ordered from Veldmere).
+**Zaryth:** Binding Initiate (Lesson 100). Keeper's Cloak. Door trigger. Memory restored. Signet ring = Binding-era, forged by Binders 3,000 years ago. Mother alive. 8th generation keeper.
+**Tournament Record:** 7 golds, 2 silvers across Duskport (1248) + Veldmere (1249).
+**Festivals:** Ember Night, Last Lantern, Hearthwatch, Longnight Eve Lanterns, Thaw Prayer Burning, Year's End Fireworks, Harvest Eve.
+**Southern Ports:** Ashport, Coral Haven, Sunmere mapped (intel only). Future expansion.
 
-**Next:** Downtime. No urgent objectives. Open threads: unknown nodes (1, 6, 7, 8, 13, 14), Heartstones (6 remaining), Zaryth's fallen house, Bram's school, personal quests, trimaran merchant runs, deep vaults, sealed marsh ruins.
-
-**Inter-City Network:** Voss (Duskport) — Kellan (Harrowgate) — Kess (Greymoor) — Ashworth (Salthollow) — Brenn (Fenhollow) — Fell (Veldmere) — Serevane (Aelindra counter-intel) — Dalla (Aelindra) — Veyra Solund (Archivist-General) — Edric Aldenmere (Archive reform) — Revka/Silver Chain (maritime) — Cole (Greymoor garrison) — Corran Ashward (Cape Ashward) — Tessa Marsh (Homestead) — Sister Venn (Chapel of the Marsh Light) — Arn, Kell, Venn, Wynn (Stormcape cliff-holds) — Old Marsh (Driftwood Landing)
+**Next:** Third keeper station (sinkhole descent). Node 14 via Shaft 9. Remaining 6 nodes. Vel'sharen threat. Southern expansion. The Source. Zaryth's fallen house.

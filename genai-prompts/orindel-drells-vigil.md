@@ -18,4 +18,4 @@ A slow reverent duet between wooden flute and male humming voice. The voice hums
 - Pip's most emotionally mature composition collaboration. Orindel's first co-written piece.
 
 ## Generated Output
-- **Song:** `songs/Drells Vigil.mp3`
+- **Song:** `songs/Stone-Honor Hymn.mp3`

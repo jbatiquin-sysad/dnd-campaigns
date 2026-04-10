@@ -214,7 +214,7 @@
 | Member | Skill | Teacher | Started | Completed | Notes |
 |--------|-------|---------|---------|-----------|-------|
 | Zaryth | ~~Tinkering~~ | Vaelith | Day 110 | **Day 174 ✔** | Proficient. Fieldworthy. |
-| Zaryth | Ward Engineering | Vaelith | Day 118 | Ongoing (~Day 360, ~115 days) | Intermediate. Calibration tables fluent. Instrument-based assessment reliable. Touch-reading still developing. |
+| Zaryth | Ward Engineering | Vaelith | Day 118 | Ongoing (Journeyman, Lesson 100) | Journeyman. Calibration tables fluent. Instrument-based assessment reliable. Touch-reading developing. Resonance key fabrication next. |
 | Mira | ~~Leatherworking~~ | Gren Ashwick / self | Day 119 | **Day 181 ✔** | Proficient. Quivers, pouches, belts, boots, armor fittings. |
 | Bram | ~~Woodcarving~~ | Old Seff / self | Day 119 | **Day 182 ✔** | Proficient. Furniture, instruments, decorative relief, dovetail joinery. |
 | Pip | ~~Flute~~ | Orindel | Day 109 | **Day 183 ✔** | Proficient. 5+ melodies, public performance, improvisation, original composition. |
@@ -248,4 +248,4 @@
 
 ---
 
-*Last updated: Day 156, 6th Reaptide, 1248 AS — Dawnwatch Homestead (Seren + Torven added)*
+*Last updated: Day 180, 30th Reaptide, 1249 AS — Dawnwatch Homestead. Zaryth: Journeyman ward engineer (Lesson 100). All 10 members professions active.*
