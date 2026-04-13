@@ -240,7 +240,7 @@
 | **Halla Breck** | Human, 50s | Captain, coastal trader *Salt Penny* | S6 Turn 2 | Ally — Tidemeet/Duskport route | Sun-creased, no patience for small talk. Cousin worked Pier 7. Gave the Dawnwatch free passage. Recommended 3 captain candidates. Sang the second verse of the Stormcape song. |
 | **Corr** | Human, 20s | Deckhand, *Stormcape's Promise* | S6 Turn 2 | Crew — active | Stormcape-born. Arms like anchor chain. Sings. Ex-*Salt Penny*. Hired with Maren. 1.5 gp/week. |
 | **Maren Voss** | Human, 30 | Captain, *Stormcape's Promise* | S6 Turn 4 | Crew — active | Stormcape mother (Kell's Reach). 12 years experience. Fishing sloop captain turned merchant captain. 3.5 gp/week + 10% net bonus. Vetted by Serevane. No relation to Magistrate Voss. |
-| **Dren Sable** | Human, 60 | Veteran captain (unemployed) | S6 Turn 3 | Contact — Duskport | 41 years on the water. Lost ship to Sulwick impound. Triple-recommended (Halla, Voss, Duvash). Not hired but respected. At the Anchor & Tide. |
+| **Dren Sable** | Human, 60 | Captain, *Duskholm* (expedition vessel) | S6 Turn 3 (contact), S9 (hired) | **Active — commanding *Duskholm*.** | 41 years on the water. Lost ship to Sulwick impound. Triple-recommended. Hired Day 310, 1250 AS. Oversaw full expedition refit. |
 | **Jorik Tann** | Human, 40 | Ex-Silver Chain captain | S6 Turn 3 | Contact — Duskport | 22 years experience. Professional, cold, thorough. Reads books in taverns. Not hired. |
 | **Dalla Kern** | Human | Cargo broker, Veldmere | S6 Turn 5 | Trade contact — active | Duvash referral. Fair dealer. Standing herb order (10 bundles/week). |
 | **Sera** | Human, early 30s | Fish market vendor, Duskport | S6 Turn 7 | Mira's person — visited homestead Day 186 | Brown hair, sailcloth tie, hands that smell like brine. The closest Mira came to staying. Rosemary plant. Ghost-nettle cutting. The door is open. |
@@ -367,13 +367,47 @@
 
 ---
 
-*Last updated: Day 260, 30th Frostmere, 1249 AS*
-*Campaign status: ARC 1-4 COMPLETE. ARC 5 BEGUN (Vel'thara first contact). ALL 14 NODES ACTIVE. Anchor Point embassy operational.*
+---
+
+## Session 9 NPCs — Chronicler Arc (Crucible Accord, Fleet, Paper Lantern Night)
+
+### Crucible Accord
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Priestess Ydrael** | Drow, 30s | Priestess of Lolth, touched Station Four anchor | S9 Turn 1 (referenced), Turn 8 (met) | Allied (accord terms) — studying at Station Four under Ryn's supervision | Younger than expected. Felt the network for 2 seconds and wept. Genuinely curious. |
+
+### Fleet Expansion (Blacktide Ships)
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Harsk Dunmore** | Human, 50s | Captain, *Blacktide Runner* | S9 Turn 6 | Active — Ashport-Veldmere southern route | Mercenary sailor. Stayed because Thessaly paid. |
+| **Dalla Venn** | Human, 40s | Captain, *Salt Maren* | S9 Turn 6 | Active — Veldmere-Duskport-Tidemeet | Former Coral Haven fishing fleet captain. Sharp. Best of the three sequestered captains. |
+| **Maren Blackshore** | Human, 30s | 1st Mate, *Duskholm* | S9 Turn 6 | Active — under Dren Sable | Honest, competent. Stayed because she had nowhere else to go. |
+| **Jorik** | Human, 30s | 1st Mate, *Salt Maren* | S9 Turn 6 | Active — promoted from Cray's watcher | Knows rotation schedules + Drow boarding location. Wants a clean start. |
+| **Sable** | Human, 50s | Silver Chain operative | S9 Turn 6 | Active — Revka's agent, Blacktide surveillance | The "blind" fortune-teller from Veldmere. Very much not blind. |
+
+### Paper Lantern Night Guests (Vel'sharen)
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Sulara** | Drow, 30s | Weaver, Vel'arath | S9 Turn 14 | Contact — collaborative tapestry with Taelar | Surface wool + spider-silk on the same frame. |
+| **Korvath** | Drow, 40s | Smith, Vel'arath | S9 Turn 14 | Contact — exchanged techniques with Bram | Doesn't speak Common. Speaks metal. |
+| **Vael** | Drow, 9 | Child, Sulara's son | S9 Turn 14 | — | Played with Sylla until they fell asleep under spider-silk blankets. |
+| **Matron Essara** | Drow, 70s | Elder, Vel'arath | S9 Turn 14 | Contact — spoke old tongue with Ilyana | Hadn't seen the sky in 60 years. Watched fireworks and wept. |
+
+### Vel'quinar (New Role)
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Ryn** | Drow, young | Certified keeper, Station Four | S7 (student), S9 (certified) | Active — Station Four rotation | Trained by Ashara + Vaelith. Certified Day 110, 1251 AS. Supervises Ydrael's study sessions. |
+
+---
+
+*Last updated: Day 30, 30th Greenthaw, 1252 AS*
+*Campaign status: ARC 1-4 COMPLETE. ARC 5 IN PROGRESS (Vel'thara Trust 5). Vel'sharen Accord holding. ALL 14 NODES ACTIVE. 5-ship fleet. All Expert professions.*
 *Party name: The Dawnwatch*
 *Party level: 4 (Nhilara: 8)*
-*Party gold: ~11,784 gp*
-*Inter-city network: 9 cities + maritime + Stormcape + Vel'thara embassy*
-*Homestead: Fully developed. Vel'quinar homestead complete (16 residents).*
-*Key allies at Anchor Point: Vaelen (creator), Drell (keeper), The Speaker (Vel'thara)*
-*Key prisoners/probation: Ashara, Edrin Vael, Thessara Vael, Drael, Syvra*
-*Remaining threads: Vel'sharen response to Station Four. Southern expansion. Vel'thara cultural exchange. Ashara's long-term fate. Node 13 improvement.*
+*Party gold: ~16,778 gp*
+*Fleet: 5 ships. Homestead: complete. School: 16. Library: 31.*
+*Remaining threads: The Source. Duskholm expedition. Vel'thara deeper knowledge. Ydriss. Ashara's fate.*
