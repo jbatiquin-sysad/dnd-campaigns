@@ -1402,3 +1402,32 @@ Threshold open. One Speaker at a time. Shared garden. Exchange not extraction. K
 - **Ashara:** Probation. | **Vaelen:** Free, Anchor Point. | **Drell:** Alive, Anchor Point.
 - **Vel'quinar:** 16 residents. Complete. Defense upgraded.
 - **Next:** Vel'sharen response. Southern expansion. Vel'thara exchange. Ashara's fate. The untitled song.
+
+---
+
+## SESSION 9 — The Chronicler (Days 261, 1250 AS – Day 30, 1252 AS)
+
+**DM:** Aldric Voss, The Chronicler
+
+### Station Four Crisis + Mute (Days 261–262)
+Vel'sharen priestess touched Station Four anchor. Lolth communion detected. Mira scouted (Stealth 27): 6-10 garrison, priestess chanting, fortifications. Branch tunnel undetected. Station muted remotely. Lolth communion severed.
+
+### Crucible Accord (Day 270)
+Negotiation with Zhael. 8-term accord: ceasefire, Station Four demilitarized, trade corridor 70/30, Vel'quinar sovereignty, prisoner exchange, boundary Dawnwatch-managed, mutual defense, Sending Stone channel. Bread broken. Monument erected.
+
+### Warden's Plate (Days 275–297)
+AC 22. Dark steel + Binding alloy + behir scale + resonance gem + ward-circuit. Warden's Ward (1d8+2 reduction 3/short rest). Resonance Pulse (redirect 10 ally damage 1/long rest). Forged at Warden's Forge, enchanted at Aelindra.
+
+### Trade Corridor + Paper Lantern Night (Days 291–300)
+Corridor opened. 8 Vel'sharen guests at Paper Lantern Night including Matron Essara (first sky in 60 years). "The Door and the Flower" debuted. Moonpetals sprouted.
+
+### Year 1251 — Expert Training
+All 10 members achieved Expert. Zaryth: Advanced Ward Engineer (Lesson 180). Library: 31 books. Vel'thara Trust: 5. Fleet: 5 ships operational.
+
+### Year 1252 — Crafting Sprint (Days 1–30)
+9 equipment upgrades. 0 gp. 7 ward-ink. All gaps closed.
+
+### State — Day 30, 1252 AS
+- **Level:** 4 | **Gold:** ~16,778 gp | **Ward-ink:** 23
+- **All Expert.** All equipped. Fleet operational. Accords holding.
+- **Next:** The Source. *Duskholm* independent expedition.
