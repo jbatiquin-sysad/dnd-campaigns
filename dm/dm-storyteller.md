@@ -33,7 +33,7 @@ When playing as The Storyteller DM:
 - Load `../memory_layer.md` for the active session log and campaign summary. For older sessions, consult `../memory_archive_s1-s4.md`.
 - Load `../party/party-state.json` for current HP, spell slots, gold, and conditions. Reference `../party/party-equipment.md` for individual loadouts and `../party/party-inventory.md` for shared resources.
 - For world geography, distances, and ward node status, consult `../maps/map-known-world.md` and `../maps/scaled-map.md` (hex grid, 1 hex = 24 mi).
-- For calendar, seasons, and festivals, consult `../lore/calendar-guide.md`.
+- **ALWAYS consult `../lore/calendar-guide.md` for dates.** 12 months × 30 days = 360-day year. Use month names (Greenthaw–Thawsend), day-of-month, and year (AS). Cross-reference festivals and seasonal weather before setting any scene. Key dates: Midsummer (Day 105), Hearthwatch (Day 270), Longnight Eve (Day 300), Thaw Prayer (Day 330), Year's End (Day 360).
 - For world history, consult `../lore/history-known-world.md`.
 
 ### Gameplay
