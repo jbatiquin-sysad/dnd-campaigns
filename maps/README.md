@@ -10,9 +10,10 @@
 |------|---------|--------|
 | `map-known-world.md` | Narrative world map — cities, landmarks, routes, lore | ASCII art + prose + tables |
 | `scaled-map.md` | Overworld hex grid — A–T × 1–22 (expanded for southern ports). Precise locations. | Hex grid + coordinate tables |
-| `underdark-map.md` | Underdark narrative map — entrances, stations, lore | Prose + tables (links to scaled version) |
-| `underdark-scaled-map.md` | Underdark hex grid — same A–T × 1–16 grid. Deep Road, settlements, patrol boundaries. | Hex grid + coordinate tables |
+| `underdark-map.md` | Underdark narrative map — entrances, stations, lore, Vel'sharen intel | Prose + tables (links to scaled version) |
+| `underdark-scaled-map.md` | Underdark hex grid — same A–T × 1–16 grid. Deep Road, settlements, patrol boundaries, Vel'arath layout. | Hex grid + coordinate tables |
 | `sea-routes.md` | Trade routes (Hearthcoast + southern), seasonal cargo, fleet (2 ships), crew, revenue | Tables + route diagrams |
+| `velthara-map.md` | **Vel'thara Resonance Atlas** — first map of the extradimensional plane beyond the ward boundary. 12 harmonies, spatial layout, key locations, Accord terms. | Concentric diagram + tables + prose |
 | `README.md` | This file — map conventions and guidelines | |
 
 ---
@@ -99,13 +100,29 @@ Underdark uses **ASCII only** for reliable monospace alignment:
 | `.` | Empty / no known underground feature |
 | `[F]` | Fenhollow Keeper Station |
 | `[A]` | Aelindra Keeper Station |
+| `[V]` | Vel'arath Keeper Station (Station Four) |
 | `o` | Surveyed waypoint (safe passage) |
 | `X` | Obstacle / hazard |
 | `Y` | Y Fork / Y junction |
+| `C` | The Crucible (3-way junction) |
+| `BR` | Branch tunnel (Crucible → Station Four) |
 | `**` | Settlement (Deephollow) |
 | `N##` | Ward node target (e.g., `N14` = Node 14) |
 | `U##` | Underdark entrance (e.g., `U7` = Warden's Forge tunnels) |
+| `S` | Sinkhole entrance (G6) |
 | `SRC` | The Source / Old Foundation |
+| `!!` | Danger zone / hostile territory |
+
+### Vel'thara (velthara-map.md)
+
+The Vel'thara map uses a **concentric diagram** — not a hex grid. Their world is organized by frequency, not geography. Spatial relationships are harmonic, not metric.
+
+| Symbol | Meaning |
+|--------|---------|
+| `◉ CTR` | Central Resonance Point (their Anchor Point equivalent) |
+| `#` (1–12) | Harmony number (civilization) |
+| `🌸` | Moonpetal field (organic garden) |
+| Concentric boxes | Frequency bands (outer = boundary, inner = core) |
 
 ---
 
@@ -195,9 +212,25 @@ When campaign events change the map:
 - **Route surveyed:** Add waypoints to scaled map, update Route Trace
 - **Obstacle cleared:** Update obstacle table (mark as resolved)
 - **New entrance found:** Add U# designation to underdark-map.md, place on underdark-scaled-map.md
+- **Vel'thara intel:** Update velthara-map.md with new harmonies, locations, or cultural data from embassy exchanges
+- **Keeper station status change:** Update all maps that reference the station (underdark-map, underdark-scaled-map, map-known-world)
 
 Always update the `*Last updated:*` footer with the current in-game day.
 
 ---
 
-*Last updated: Day 180, 30th Reaptide, 1249 AS*
+## Map Layers — Campaign Overview
+
+The Duskport Campaign maps cover three layers of reality:
+
+| Layer | Map Files | Description |
+|-------|-----------|-------------|
+| **Surface** | `map-known-world.md`, `scaled-map.md`, `sea-routes.md` | Hearthcoast, cities, trade routes, ward nodes, fleet |
+| **Below** | `underdark-map.md`, `underdark-scaled-map.md` | Deep Road, keeper stations, Vel'arath, svirfneblin, Anchor Point |
+| **Beyond** | `velthara-map.md` | The Vel'thara resonance plane — 12 harmonies, embassy, the other side of the boundary |
+
+The Anchor Point connects all three: surface access via Ashport sea cave, underground at 400 ft depth, and the aperture opens to the Vel'thara plane.
+
+---
+
+*Last updated: Day 260, 30th Frostmere, 1249 AS*

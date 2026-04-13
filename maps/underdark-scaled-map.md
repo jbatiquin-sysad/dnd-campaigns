@@ -31,9 +31,11 @@ Row 5    .    .    .    .    .    .    .    .    .    .    .    .    o   [A]   .
 
 Row 6    .    .    .    .    .   U5    S    .    .    .    .    .    X    .    .    .    .    .    .    .
                                 THV  SINK                          CASC
+                                     ✅
 
-Row 7    .    .    .    .    .    C    .    .    .    X    o    **   o    .    .    .    .    .    .    .
-                                CRUC                WET  CRYS DEEP GEM
+Row 7    .    .    .    .    .    C ---BR--- [V]  .    X    o    **   o    .    .    .    .    .    .    .
+                                CRUC  BRTUN  VEL                WET  CRYS DEEP GEM
+                                             44%
 
 Row 8    .    .    .    .    .    .    .   [F]   o    Y    .    .    .    .    .    .    .    .    .    .
                                           FNLW LONG FORK
@@ -68,6 +70,8 @@ Row 16   .    .    .    .    .    .    .    .    .    .   U11   .    .    .    .
 |--------|---------|
 | `[F]` | Fenhollow Keeper Station (H8). Node 7, 91%. 8 Heartstones. Relay hub. |
 | `[A]` | Aelindra Keeper Station (N5). 58% repaired. Map room. Vault. |
+| `[V]` | **Vel'arath Keeper Station / Station Four (G7). 44% dormant. Accessed Day 182. Vel'sharen blind spot.** |
+| `BR` | **Branch tunnel (Crucible → Station Four). 2 mi. Intact Binder infrastructure. Binder lock (Zaryth signet).** |
 | `SRC` | Old Foundation / Source (H8, -540 ft). Binding frequency origin. |
 | `**` | Deephollow svirfneblin village (L7, -600 ft). 43 gnomes. Waystation. |
 | `N14` | Node 14 / Ember Vein target (E4, est. -600 ft). Unrepaired. |
@@ -103,9 +107,11 @@ Row 16   .    .    .    .    .    .    .    .    .    .   U11   .    .    .    .
 | VOLC | Southern volcanic island | K16 | deep | — | Node 1 area. U11. |
 | LAKE | Underground lake | H9 | -550 ft est. | — | 500 ft across. Blind fish. Green-gold algae. Fishing + water supply potential. |
 | CRVN | Crystalvein (svirfneblin) | N10 | -620 ft est. | — | 60 gnomes. Elder Brill. Sapphire miners. Trade deal: sapphires for medicine + cloth. |
-| VSHPAT | Vel'sharen patrol boundary | F12 | -600 ft est. | — | !! DANGER. Fresh patrol markers. Vel'sharen territory. Patrols every 2–3 weeks. Do not cross. |
+| VSHPAT | Vel'sharen patrol boundary | F12 | -600 ft est. | — | !! Vel'sharen territory. Patrol routes known (Velyndra/Taelar intel): Southern 15 mi 2×/day, Eastern to Deephollow border daily, Western vent shaft 1×/day. NO northern patrol. Surface network dismantled. |
 | SINK | Sinkhole entrance | G6 | surface (50 ft to passage) | — | Surface entrance to ascending staircase → faerzress zone → Ashara's station. Old oak. |
-| CRUC | The Crucible | F7 | -700 ft | — | Basalt cathedral, 3-way junction. Left→Vel'arath (30 mi). Center→volcanic (unexplored). Right→Shaft 9/Node 14 (15 mi). |
+| CRUC | The Crucible | F7 | -700 ft | — | Basalt cathedral, 3-way junction. Left→Vel'arath (30 mi). Center→volcanic (unexplored). Right→Shaft 9/Node 14 (15 mi). **Branch tunnel to Station Four (2 mi, Binder lock).** |
+| BRTUN | Branch Tunnel (Crucible → Station Four) | F7–G7 | -700 ft | — | 2 mi. Intact Binder stonework. Resonance lamps (auto-lit). Sealed at Crucible end (Binder glyph, Zaryth signet). Discovered Day 182, 1249 AS. |
+| VEL | Station Four / Vel'arath | G7 | -700+ ft | — | 4th keeper station. Beneath Vel'arath old quarter. 44% dormant. 8 empty Heartstone pedestals. Staircase (60 steps) to old quarter "humming wall." Vel'sharen does not know it exists. No northern patrols. Used for Operation Copper Hair. |
 
 ---
 
@@ -148,10 +154,67 @@ Row 16   .    .    .    .    .    .    .    .    .    .   U11   .    .    .    .
 |----------|-------------|-------|--------------------|------|-------|
 | Volcanic transition | I8–H7 | -600 ft | 2 mi | o Waypoint | Limestone → basalt. Temperature rising. |
 | Hot zone | H7–G7 | -650 ft | 5 mi | X Hazard | Lava tubes. Heat DC 12 + sulfur DC 12. |
-| **The Crucible** | F7 | -700 ft | 8 mi | C Junction | Basalt cathedral, 200 ft across. 3-way split. |
+| **The Crucible** | F7 | -700 ft | 8 mi | C Junction | Basalt cathedral, 200 ft across. 3-way split. **Branch tunnel to Station Four (2 mi NE).** |
+| Branch tunnel entrance | F7 | -700 ft | At Crucible | o Sealed | Binder glyph (closed eye). Zaryth signet opens. Intact Binder stonework. Resonance lamps auto-light. |
+| **Station Four (Vel'arath)** | G7 | -700+ ft | 2 mi from Crucible | ★ Station | 44% dormant. Staircase to old quarter. Vel'sharen blind spot. |
 | Right tunnel (toward Shaft 9) | F7–E5 | -650 ft | 8–13 mi from fork | o Waypoint | Basalt → granite. Temperature drops. Mining tunnels. |
 | **Shaft 9 sealed door** | E5 | -600 ft | 13 mi from fork | X Sealed | Dwarven iron door. Locked from mining side. Donal Crewe can open. |
-| Node 14 (Ember Vein) | E4–E5 | -600 ft est. | Near Shaft 9 | Target | Ward compass confirms: close, along right tunnel. |
+| Node 14 (Ember Vein) | E4–E5 | -600 ft est. | Near Shaft 9 | ✅ REPAIRED 68% | Repaired via Ashara route (Day 180). Also accessible from Shaft 9. |
+
+---
+
+## Vel'arath — City Layout (from Velyndra + Taelar + Ilyana, Day 182)
+
+```
+                    ┌─────────────────────┐
+                    │   UPPER TIER        │
+                    │   Temple of Lolth   │
+                    │   Matron's Spire    │
+                    │   (Ydriss + Zhael)  │
+                    ├─────────────────────┤
+                    │   MID TIER          │
+                    │   Barracks (200)    │
+                    │   CRÈCHE ← east    │
+                    │   Markets           │
+                    │   Spider stables    │
+                    ├─────────────────────┤
+                    │   LOWER TIER        │
+                    │   Crafters          │
+                    │   OLD QUARTER ←     │
+                    │    "cursed" zone    │
+                    │   Fungal farms      │
+                    ├─────────────────────┤
+                    │   ░░ HUMMING WALL ░░│ ← Station Four entrance
+                    │   [STATION FOUR]    │   (Binder lock, Zaryth signet)
+                    │   44% dormant       │
+                    │   Branch tunnel     │
+                    │    → Crucible (2mi) │
+                    └─────────────────────┘
+
+EXITS:
+  South — Main gate (heavily guarded, 8+ soldiers)
+  East  — Trade gate (moderate guard, 6 soldiers)
+  West  — Ventilation shaft (narrow, 4 soldiers patrol)
+  North — NONE. Old quarter = "dead ground." NO PATROLS.
+          Station Four is here. Vel'sharen blind spot.
+
+PATROLS:
+  Southern: 15 mi loop, 8 soldiers, 2×/day
+  Eastern:  Trade gate → Deephollow border, 6 soldiers, daily
+  Western:  Vent shaft circuit, 4 soldiers, 1×/day
+  Northern: NONE
+
+MILITARY: ~200 soldiers (40 elite, 80 regular, 80 outer circle)
+          6 priestesses of Lolth. 12 giant spider cavalry.
+          High Priestess: Matron Ydriss Vel'sharen
+          War-leader: Matron Zhael Vel'sharen (daughter)
+
+POPULATION: ~800 (soldiers, crafters, servants, children, priestesses)
+```
+
+### Crèche → Station Four Route (confirmed Day 182)
+
+Crèche (mid tier, east wing) → east corridor → old quarter stairwell → lowest level → humming wall → Station Four. **8 minutes walking, 4 running, 6 with a child.** Old quarter is low-traffic at night. Vel'sharen patrols pass through 2×/night but don't linger (superstition).
 
 ---
 
@@ -190,5 +253,5 @@ Row 16   .    .    .    .    .    .    .    .    .    .   U11   .    .    .    .
 
 ---
 
-*Last updated: Day 180, 30th Reaptide, 1249 AS*
-*Status: FULLY SURVEYED + Nhilara exploration. Crystalvein contact. Vel'sharen boundary mapped.*
+*Last updated: Day 260, 30th Frostmere, 1249 AS*
+*Status: FULLY SURVEYED. 4 keeper stations + Anchor Point. Station Four COMPROMISED (91%, wall cracked). Anchor Point permanently active. Vel'thara embassy operational.*

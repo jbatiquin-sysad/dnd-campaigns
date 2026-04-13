@@ -5,14 +5,14 @@
 - **Class:** Wizard (School of Evocation)
 - **Background:** Criminal
 - **Alignment:** Chaotic Neutral
-- **Level:** 3
+- **Level:** 4
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  8  |  14 |  10 |  15 |  12 |  13 |
 
-**HP:** 14 | **Hit Dice:** 3d6 | **AC:** 14
+**HP:** 19 | **Hit Dice:** 4d6 | **AC:** 16
 
 ## Key Features
 - Spellcasting (INT-based): Spellbook, prepare INT mod + level spells/day. 4x 1st-level, 2x 2nd-level slots.
@@ -54,6 +54,12 @@ His darkest hour: opening the fake spellbook and feeling confirmed as a fool. Hi
 At the Dawnwatch Homestead, assisted with beehives (stung 11 times Day 2, refused to quit). Practiced Fire Bolt — 24 of 30 hits. Ren (12, the caretaker's son) asked him to teach magic. Pip said: "When you're old enough. I promise."
 
 During the node repair arc, Pip served as west anchor in every repair. Failed CON saves at Node 12 (minute 8), Node 11 (minutes 5 and 18), and Node 9 (minute 8) — and self-recovered every single time after the first. At Node 12, Sylvara pulled his quadrant. At Node 11, she reached for him at minute 18 — but he picked up the flute, played his note, and pushed back into the channel himself. She let go. By Node 10, he passed every save clean. Bram carved him a driftwood flute on the road to the Warden's Forge. Orindel taught him to play — scales first, then phrases, then the Ward-Light Hymn. His single held flute note on the chorus became part of every repair's sympathetic resonance. At Cape Ashward, he played the full hymn — every note perfect — while a five-year-old girl named Wren watched from the quay and asked how he made the rock sing. He told her the whole story.
+
+## Defining Moment
+Inscribed a ward-ink circuit underwater at 30 feet depth — Journeyman Inscriber work in conditions that would have been impossible a year ago. Then sat on the floor of the Anchor Point while the Vel'thara sang hello, held his flute, and whispered: "They grew flowers for us." He teaches the three-note Vel'thara greeting to fifteen children at the school.
+
+## Downtime
+Teaches. The school got a new lesson: "The Vel'thara — People Made of Music." Fifteen students played the greeting back on whatever they had. Cooks (still not Journeyman — Seren says he seasons with his heart, not measurements). Builds the new composition with Orindel. Taught Pim fire-dragons.
 
 ## Equipment (Current — S5 Day 120, Cape Ashward)
 - Spellbook (in travel case)

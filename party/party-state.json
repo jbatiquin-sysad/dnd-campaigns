@@ -1,10 +1,10 @@
 {
-  "session": 5,
-  "active_dm": "dm-storyteller",
-  "in_game_day": 181,
-  "calendar_date": "1st Ashfall, 1249 AS",
-  "calendar_day_of_week": "Starday",
-  "current_week_file": "week-17",
+  "session": 8,
+  "active_dm": "dm-wildcard",
+  "in_game_day": 260,
+  "calendar_date": "30th Frostmere, 1249 AS",
+  "calendar_day_of_week": "Lightday",
+  "current_week_file": "week-18",
   "week_boundaries": {
     "week-01": { "days": "1-2", "turns": "S1+S2" },
     "week-02": { "days": "2-9", "turns": "S3 T1-10" },
@@ -20,36 +20,45 @@
     "week-12": { "days": "121-135", "turns": "S5 (Storyteller)" },
     "week-13": { "days": "136-360", "turns": "S5 (Storyteller) — homestead arc + barrow circuit + winter" },
     "week-14": { "days": "1 (1248)", "turns": "S5 (Wildcard) — Seren arrives, western arc mapped" },
-    "week-15": { "days": "1-156 (1248)", "turns": "S5 (Wildcard) — Forge, Behir, 4 nodes, trimaran, home" }
+    "week-15": { "days": "1-156 (1248)", "turns": "S5 (Wildcard) — Forge, Behir, 4 nodes, trimaran, home" },
+    "week-16": { "days": "156-360 (1248)", "turns": "S6 (Chronicler) — Trade, tournaments, Underdark, winter" },
+    "week-17": { "days": "1-181 (1249)", "turns": "S7 (Storyteller) — Deep Road, Vel'quinar, fleet, Ashara station" },
+    "week-18": { "days": "181-260 (1249)", "turns": "S8 (Wildcard) — Scouts, Copper Hair, Ashport, Ashara, Vel'thara first contact" }
   },
   "party_name": "The Dawnwatch",
   "party_size": 10,
+  "party_specialist": "Nhilara Vel'quinar (Level 8, Barbarian 5/Rogue 3, deploys on Drow/espionage/Underdark ops)",
   "max_active_per_expedition": 5,
+  "core_expedition_team": ["Zaryth", "Mira", "Thessaly", "Seren", "Orindel"],
   "insignia": "Rising sun (8 rays), broken chain below horizon line, circular border",
   "location": "Dawnwatch Homestead, Fenhollow",
-  "campaign_status": "ARC 1-3 COMPLETE. ALL 14 NODES IDENTIFIED. 9/14 repaired (Node 14 Ember Vein now 68%). 3 keeper stations found (Fenhollow 91%, Aelindra 58%, Ashara accessed and relay-reset). 8 Heartstones seated — full relay active. Keeper Remote System active (Fenhollow + Aelindra + Ashara addon). Deep Road operational (lift + wagon). Vel'quinar rescued (13 members). Fleet: 2 ships + coach + warehouse. Drow recon thread active (spider-over-moon signs). Year 1249 AS, Ashfall.",
+  "campaign_status": "ARC 1-3 COMPLETE. ARC 4 COMPLETE (Ashara captured, Vaelen freed, all inverted stones secured, Phase Three neutralized). ARC 5 BEGUN — Vel'thara first contact. ALL 14 NODES ACTIVE (13 full + Node 13 at 22%). Anchor Point permanently active — embassy established with the Vel'thara. Accord signed. Aperture open. Garden planted. Ward network complete for the first time in 3,248 years. Year 1249 AS, late Frostmere.",
   "party_gold": {
-    "total": 8456,
-    "carried": 2000,
-    "homestead_reserves": 6456
+    "total": 11784,
+    "carried": 2500,
+    "homestead_reserves": 9284
   },
   "salt_stockpile_lbs": 60,
   "alchemy_stores": {
     "healing_poultice": 40,
     "alertness_tincture": 14,
     "stimulant_tonic": 9,
-    "enhanced_antitoxin": 6,
+    "enhanced_antitoxin": 7,
     "alchemist_fire": 7,
     "ghost_nettle_analgesic": 2,
     "holy_water": 5,
     "oil_flasks": 12,
-    "water_breathing_standard": 5,
+    "water_breathing_standard": 0,
     "water_breathing_superior": 6,
     "fire_resistance": 3,
     "lightning_resistance": 4,
     "necrotic_resistance": 6,
     "darkvision": 2,
-    "ward_circuit_ink_applications": 45
+    "ward_circuit_ink_applications": 27,
+    "inversion_catalyst_vials": 9,
+    "inversion_catalyst_concentrated": 1,
+    "silvered_powder_vials": 4,
+    "ward_oil_vials": 2
   },
   "property": {
     "name": "Dawnwatch Homestead",
@@ -58,10 +67,10 @@
     "caretaker": "Tessa Marsh (+ Ren 12, Lila 9)",
     "monthly_cost": 5,
     "structures": [
-      "main house (loom + tailoring desk, Tessa's loft upgraded)",
+      "main house (loom + tailoring desk, Tessa's loft upgraded, moonpetal display case)",
       "Dawnwatch Tower (4 levels + lookout ring, telescope, ward-glyph alarm)",
       "alchemy shed (tinkerer's workstation + Vaelith's loft)",
-      "forge",
+      "forge (+ Ashara containment room, lead-lined, ward-suppressed)",
       "smokehouse",
       "tannery/leatherworking shed",
       "stable/toolshed (Anvil)",
@@ -69,55 +78,77 @@
       "goat pen (2 goats: Bram, Pip)",
       "chicken coop",
       "beehives (3 + second rack)",
-      "herb garden (doubled, ghost-nettle shade structure)",
-      "Mira's garden (ornamental + vegetable, planted spring 1248)",
-      "school (operational, 14 students)"
+      "herb garden (doubled, ghost-nettle shade structure, moonpetal seeds planted)",
+      "Mira's garden (ornamental + vegetable + medicinal)",
+      "school (operational, 15 students, Vel'thara curriculum added)"
     ],
     "passive_income_weekly": "35-45 gp",
     "delivery_service": "Wynn Dodd (weekly cart, 2 gp/week)",
     "apothecary_contract": "Master Haldren (30 gp/week, full capacity)"
   },
   "professions": {
-    "zaryth": "Alchemist ✔, Tinkerer ✔, Ward Engineer ✔ (Binding Initiate, Lesson 100)",
-    "mira": "Herbalist ✔, Leatherworker ✔",
-    "aldric": "Mason ✔, Miner ✔",
-    "sylvara": "Enchanter ✔, Glassblower ✔",
-    "bram": "Smith ✔, Woodcarver ✔",
-    "thessaly": "Tailor ✔, Weaver ✔",
-    "orindel": "Jeweler ✔, Hunter ✔, Hymn Composer ✔",
-    "pip": "Inscriber ✔, Cook ✔, Flutist ✔",
-    "seren": "Herbalist ✔, Navigator ✔, Ward Keeper ✔",
-    "torven": "Ward Engineer ✔, Scribe ✔, Researcher ✔"
+    "zaryth": "Alchemist ✔, Tinkerer ✔, Ward Engineer ✔ (Binding Initiate, Lesson 110)",
+    "mira": "Herbalist ✔✔ (Journeyman), Leatherworker ✔",
+    "aldric": "Mason ✔✔ (Journeyman), Miner ✔",
+    "sylvara": "Enchanter ✔, Glassblower ✔✔ (Journeyman)",
+    "bram": "Smith ✔✔ (Journeyman), Woodcarver ✔",
+    "thessaly": "Tailor ✔, Weaver ✔✔ (Journeyman)",
+    "orindel": "Jeweler ✔✔ (Journeyman), Hunter ✔, Hymn Composer ✔",
+    "pip": "Inscriber ✔✔ (Journeyman), Cook ✔, Flutist ✔",
+    "seren": "Herbalist ✔✔ (Journeyman), Navigator ✔, Ward Keeper ✔",
+    "torven": "Ward Engineer ✔, Scribe ✔, Researcher ✔✔ (Journeyman)"
   },
   "ward_status": {
-    "inner_ward_root": "Active, healthy (renewed by Dawnwatch)",
-    "outer_ward_ring": "9/14 nodes repaired and active in relay (including Node 14 Ember Vein)",
-    "node_2": "71% — REPAIRED (Drowned Forge, volcanic island B12)",
-    "node_3": "62% — REPAIRED (Storm Pillar, western headland A7)",
-    "node_4": "76% — INFUSED (Tidewatcher, tidal shelf A10)",
-    "node_5": "74% — RECONSTRUCTED (Stormcape, western coast A5)",
-    "node_7": "91% — ACTIVE (Marsh Threshold, keeper station, direct Root connection)",
+    "inner_ward_root": "Active, healthy",
+    "outer_ward_ring": "ALL 14 NODES ACTIVE — first time in 3,248 years",
+    "node_1": "64% — REPAIRED (Southern Deep, remote boost from Anchor Point)",
+    "node_2": "71% — REPAIRED (Drowned Forge)",
+    "node_3": "62% — REPAIRED (Storm Pillar)",
+    "node_4": "76% — INFUSED (Tidewatcher)",
+    "node_5": "74% — RECONSTRUCTED (Stormcape)",
+    "node_6": "69% — REPAIRED (Thornveil Heart, remote boost)",
+    "node_7": "91% — ACTIVE (Marsh Threshold, keeper station)",
+    "node_8": "71% — REPAIRED (River Memory, remote boost)",
     "node_9": "78% — REPAIRED (Vel Tharis)",
     "node_10": "80% — REPAIRED (Cape Ashward)",
     "node_11": "75% — RECONSTRUCTED (Sethrak's Threshold)",
     "node_12": "72% — REPAIRED (Greyveil Pass)",
-    "node_14": "68% — REPAIRED (Ember Vein, via Ashara station)",
-    "nodes_tentative": "Node 1 (volcanic island S of Veldmere), Node 8 (upper Mirren River)",
-    "nodes_unknown": "ALL 14 IDENTIFIED. Unrepaired: 1 (Southern Deep), 6 (Thornveil Heart), 8 (River Memory), 13 (Sunken Crown). Active but not rebuilt: 7 (Marsh Threshold, 91%).",
-    "heartstones": "8/8 forged and seated at Fenhollow relay. Ashenmere cache documented and garrisoned."
+    "node_13": "67% — RECONSTRUCTED (Sunken Crown, underwater physical repair)",
+    "node_14": "68% — REPAIRED (Ember Vein)",
+    "anchor_point": "PERMANENTLY ACTIVE. 7 Heartstones seated. Control interface online. Embassy with Vel'thara. Vaelen + Drell stationed as keepers. Garden planted.",
+    "heartstones": "8 seated at Fenhollow relay + 7 seated at Anchor Point = 15 total. 6 inverted stones contained at forge."
+  },
+  "keeper_stations": {
+    "fenhollow": "91% — full relay hub, 8 Heartstones seated, keeper remote active",
+    "aelindra": "58% — repaired, map room, vault, Deep Road entrance",
+    "ashara": "Relay-reset, addon profile active, fortified (triple-locked, alarmed, remote hard-seal)",
+    "vel_arath": "91% — surged during Anchor Point activation. Humming wall cracked. COMPROMISED — Vel'sharen will investigate. Deep Road sealed from Fenhollow side."
+  },
+  "vel_thara_embassy": {
+    "status": "OPERATIONAL",
+    "location": "Anchor Point, 400 ft beneath Thornback Gulch, Ashport",
+    "aperture": "Open, stable, permanent. 6 ft golden doorway. Zaryth can close at any time.",
+    "keepers": "Vaelen (creator of the ward network) + Warden Drell",
+    "accord": "Signed Day 244. Threshold open. One Speaker at a time. Shared garden. Exchange not extraction. Kill switch with the Warden. Names sacred.",
+    "vel_thara": "12-civilization resonance federation. Beings of crystallized frequency. Non-hostile. Communicated via music. Name: Vel'thara ('those who listen in the light').",
+    "garden": "Moonpetals planted — organic petals on crystal stems. Both worlds tending.",
+    "gifts_received": "Moonpetal flower (crystal stem), resonance map of Vel'thara world, Vel'thara name",
+    "gifts_given": "Ward-Light Hymn (frequency signature), Dawnwatch name"
   },
   "barrows_sealed": "ALL 7/7",
   "transport": {
-    "trimaran_stormcapes_promise": "Tidemeet harbor. 28-ft sloop + detachable outriggers. 20 passengers, 5 tons cargo. Pre-Sundering navigation set aboard.",
+    "trimaran_stormcapes_promise": "Tidemeet harbor. Western triangle + Veldmere shuttle. Maren Voss + Corr.",
+    "trimaran_eilistraees_grace": "Tidemeet harbor. Hybrid resonance drive. Lyriel captain + Dren engineer.",
+    "dawnwatch_coach": "At homestead. Resonance-assisted. 2 horses. Vex driving.",
+    "threshold_runner": "Deep Road wagon. Fenhollow ↔ Aelindra in 9 hours.",
     "anvil_pack_mule": "At homestead stable.",
-    "terns_wing": "At anchor, Cape Ashward.",
     "priority_river_clearance": "Active — all ports (no expiry)",
     "harbor_priority_passage": "Active — Veldmere, indefinite",
     "sylvara_archive_access": "Active — Aelindra Level 3, permanent",
-    "keeper_remote_system": "Operational profiles: Fenhollow + Aelindra + Ashara addon (outer lock, inner pre-auth, hard-seal)"
+    "keeper_remote_system": "Operational profiles: Fenhollow + Aelindra + Ashara addon"
   },
   "stormcape_alliance": {
-    "cliff_holds": ["Arn's Hold (Tide-Speaker Arn)", "Kell's Reach (Tide-Speaker Kell)", "Venn's Shelf (Tide-Speaker Lira)", "Driftwood Landing (Tide-Speaker Venn, Old Marsh)", "Saltspray (Grandmother Wynn, Asha)"],
+    "cliff_holds": ["Arn's Hold", "Kell's Reach", "Venn's Shelf", "Driftwood Landing", "Saltspray"],
     "pigeon_network": "Homestead ↔ Arn's Hold"
   },
   "inter_city_network": [
@@ -127,158 +158,172 @@
     "Veyra Solund (Archivist-General, Aelindra)", "Edric Aldenmere (Archive reform, Aelindra)",
     "Revka/Silver Chain (maritime)", "Corran Ashward (Cape Ashward)",
     "Tessa Marsh (Homestead)", "Sister Venn (Chapel of the Marsh Light, Fenhollow)",
-    "Arn, Kell, Venn, Wynn (Stormcape cliff-holds)", "Old Marsh (Driftwood Landing)"
+    "Arn, Kell, Venn, Wynn (Stormcape cliff-holds)", "Old Marsh (Driftwood Landing)",
+    "Soren Blackwater (Tidemeet warehouse)", "Dalla Cray (Ashport, potential recruit)"
   ],
   "library": {
     "location": "Dawnwatch Tower, Level 4",
-    "books": 28,
-    "titles": [
-      "Hearthcoast Flora", "The Mason's Companion", "Principles of Metallurgy",
-      "A Practical Guide to Enchantment", "The Glassmaker's Art",
-      "Inscriber's Manual: Inks & Scrolls", "Songs of the Hearthcoast",
-      "Field Medicine & Herbcraft", "Pre-Sundering History: A Primer",
-      "The Weaver's Pattern Book", "Bestiary of the Hearthcoast",
-      "Civic Law of the River Basin", "Tidal Patterns of the Western Coast",
-      "Volcanic Mineralogy"
-    ]
+    "books": 29,
+    "notable_additions": "Atlas of the Vel'thara — First Edition (Sylvara + Torven)"
   },
-  "prisoners": {
-    "veradis_kael": "Greymoor garrison (warded cell)",
-    "edra_voss": "Aelindra city custody"
+  "prisoners_and_probation": {
+    "ashara": "Homestead forge containment. Ward-suppressed. Probation. Cooperative. Nhilara shadow, Vaelith overseer. 3,217-year-old Binder. Participated in Anchor Point activation + Vel'thara contact.",
+    "edrin_vael": "Homestead — supervised. Cooperating. Alchemist. High intel value.",
+    "thessara_vael": "Homestead — supervised. Probation. Reunited with Edrin. Archive credentials confiscated.",
+    "drael": "Homestead — Vel'sharen agent. Cooperating.",
+    "syvra": "Homestead — Vel'sharen agent. Provided cipher keys.",
+    "greymoor_agents_x2": "Cole's custody — military tribunal for murder of Corporal Wren Hale."
+  },
+  "defectors": {
+    "velyndra": "Vel'quinar homestead. Glassworker (master Drow technique). Working with Sylvara.",
+    "taelar": "Vel'quinar homestead. Spider-silk weaver. Working with Thessaly.",
+    "sylla": "Vel'quinar homestead. Age 7. School student #15. Calls the moonpetal 'the star flower'."
+  },
+  "vel_quinar_homestead": {
+    "population": 16,
+    "members": "Ilyana (Matron), Kael, Sera, Nalia, Dren, Vel, Thorn, Vex, Ryn, Pim, Ash, Lyriel, Nhilara, Velyndra, Taelar, Sylla",
+    "status": "Complete — underground quarters (5 rooms + common room), surface rooms (3), underground armory (ward-locked), prison cells (2, ward-suppressed). Stone wall. Ward perimeter.",
+    "loan": "175 gp at 15 gp/month",
+    "income": "~75 gp/month (rising)",
+    "trades": "Spider-silk weaving (Taelar + Thessaly), Drow glasswork (Velyndra + Sylvara)",
+    "defense": "8 combat-capable. 4 hand crossbows + 1 heavy crossbow + 4 dark steel spears + 4 reinforced shields + 5 leather sets. Ward perimeter + tower alarm. 3-shift night watch."
   },
   "allies_at_homestead": {
-    "vaelith": "Last Warden of the Vigil. Resonance-bonded keeper. Teaching Zaryth (Lesson 100).",
+    "vaelith": "Last Warden of the Vigil. Resonance-bonded keeper. Teaching Zaryth (Lesson 110). Overseeing Ashara. Containing inverted stones.",
     "tessa_marsh": "Caretaker (+ Ren 12, Lila 9)"
+  },
+  "allies_at_anchor_point": {
+    "vaelen": "Creator of the ward network. Freed Day 234. Physical form. Keeper of the Anchor Point embassy. Tending the garden.",
+    "drell": "Warden Drell, Keeper of Node 2. Woken from 38-year dormancy. Stationed at Anchor Point with Vaelen."
   },
   "party": {
     "zaryth": {
       "full_name": "Zaryth Vel'quinar",
       "race": "Drow (Dark Elf)",
       "class": "Paladin (Oath of Devotion)",
-      "level": 3,
-      "hp": { "current": 28, "max": 28 },
+      "level": 4,
+      "hp": { "current": 36, "max": 36 },
       "ac": 20,
-      "armor": "Chain mail +1 + steel shield + Defense style + Sea Ward (advantage vs environmental saves)",
-      "weapon": "Dawnwatch Longsword (Warding Edge +2 AC reaction, +1d4 lightning all hits, resonance bond)",
       "spell_slots": { "1st": 3 },
-      "lay_on_hands": 15,
+      "spells_prepared": ["Shield of Faith", "Cure Wounds", "Command", "Thunderous Smite"],
+      "lay_on_hands": 20,
       "channel_divinity": 1,
-      "special": "Warden's Anchor (CHA), Binding Initiate (Lesson 100), keeper remote operator (Fenhollow/Aelindra/Ashara), behir-hide bracers",
+      "special": "Warden's Anchor (CHA +2), Binding Initiate (Lesson 110), keeper remote operator, Keeper's Cloak, Ashara's paired ring, moonpetal scent on his hands",
       "player": "YOU"
     },
     "mira": {
       "full_name": "Mira Thistlewick",
       "race": "Lightfoot Halfling",
       "class": "Rogue (Thief)",
-      "level": 3,
-      "hp": { "current": 23, "max": 23 },
-      "ac": 16,
-      "armor": "Behir scale-leather +1 (lightning resistance)",
-      "weapons": "Shadow Fang (short sword, crit blinds), Whisper Bolt (light crossbow, silent +1d4 thunder), Shadow Bolt (hand crossbow, hidden attacks don't reveal), behir-fang dagger (+1 magical)",
+      "level": 4,
+      "hp": { "current": 30, "max": 30 },
+      "ac": 17,
       "sneak_attack": "2d6",
-      "special": "Abjuration amulet (suppresses detection magic)"
+      "special": "2x abjuration amulets, darkfire paste (emergency), 6 sleep-poison bolts, 3 smoke pellets, moonpetal seeds planted"
     },
     "aldric": {
       "full_name": "Brother Aldric Stonebrow",
       "race": "Hill Dwarf",
       "class": "Cleric (Life Domain)",
-      "level": 3,
-      "hp": { "current": 28, "max": 28 },
+      "level": 4,
+      "hp": { "current": 35, "max": 35 },
       "ac": 19,
-      "armor": "Chain mail +1 + shield + Sea Ward (advantage vs environmental saves)",
-      "weapon": "Hearthstone warhammer (1/day self-heal 1d4+4, +1d4 radiant all hits)",
-      "spell_slots": { "1st": 4, "2nd": 2 },
+      "spell_slots": { "1st": 4, "2nd": 3 },
+      "spells_prepared": ["Bless", "Cure Wounds", "Healing Word", "Shield of Faith", "Spiritual Weapon", "Aid", "Lesser Restoration", "Prayer of Healing"],
       "channel_divinity": 1
     },
     "sylvara": {
       "full_name": "Sylvara Dawnwhisper",
       "race": "High Elf",
       "class": "Wizard (Evocation)",
-      "level": 3,
-      "hp": { "current": 14, "max": 14 },
+      "level": 4,
+      "hp": { "current": 19, "max": 19 },
       "ac": 16,
-      "armor": "Behir scale mail +1 (lightning resistance)",
-      "spell_slots": { "1st": 4, "2nd": 2 },
+      "spell_slots": { "1st": 4, "2nd": 3 },
+      "spells_prepared": ["Shield", "Magic Missile", "Detect Magic", "Shatter", "Misty Step", "Scorching Ray", "Mage Armor", "Identify", "Comprehend Languages"],
       "sculpt_spells": true,
-      "special": "Archive Level 3 access, Enchanter, Glassblower"
+      "special": "INT 20, Arcana +7, Atlas of the Vel'thara co-author"
     },
     "bram": {
       "full_name": "Bram Thistlewick",
       "race": "Stout Halfling",
       "class": "Wizard (Evocation)",
-      "level": 3,
-      "hp": { "current": 15, "max": 15 },
+      "level": 4,
+      "hp": { "current": 20, "max": 20 },
       "ac": 16,
-      "armor": "Behir scale mail +1 (lightning resistance)",
-      "weapon": "Yew Quarterstaff (magical focus, +1 spell attack rolls)",
-      "spell_slots": { "1st": 4, "2nd": 2 },
+      "spell_slots": { "1st": 4, "2nd": 3 },
+      "spells_prepared": ["Sleep", "Scorching Ray", "Shatter", "Shield", "Magic Missile", "Detect Magic", "Feather Fall", "Mending"],
       "sculpt_spells": true,
-      "special": "Sethrak's Forge-Master Tools (+1 enchanting/cutting at Forge)"
+      "special": "Journeyman Smith, dark steel mastery, Sethrak's Forge-Master Tools"
     },
     "thessaly": {
       "full_name": "Thessaly Ironveil",
       "race": "Mountain Dwarf",
       "class": "Rogue (Thief)",
-      "level": 3,
-      "hp": { "current": 24, "max": 24 },
-      "ac": 16,
-      "armor": "Behir scale-leather +1 (lightning resistance)",
-      "weapons": "Veil Pierce rapier (advantage vs undetected, Silent Storm +1d6 lightning Sneak, Nerve Strike 1/day paralysis DC 14), Storm Bolt hand crossbow (+1d4 lightning), behir-fang dagger (+1 magical)",
+      "level": 4,
+      "hp": { "current": 31, "max": 31 },
+      "ac": 17,
       "sneak_attack": "2d6",
-      "special": "Position of Privilege"
+      "special": "Trade Guild endorsement, 6 sleep-poison bolts, 3 smoke pellets, spice ledger, Cross-Threshold Commerce proposal"
     },
     "orindel": {
       "full_name": "Orindel Ashwick",
       "race": "Wood Elf",
       "class": "Cleric (Life Domain)",
-      "level": 3,
-      "hp": { "current": 23, "max": 23 },
+      "level": 4,
+      "hp": { "current": 29, "max": 29 },
       "ac": 19,
-      "armor": "Behir scale mail +1 + ship's oak shield (lightning resistance)",
-      "weapons": "Shepherd's Strike mace (1/day push 10 ft), True Flight shortbow (ignore half cover, behir sinew +1 dmg, 12 behir-fang arrows magical +1)",
-      "spell_slots": { "1st": 4, "2nd": 2 },
+      "spell_slots": { "1st": 4, "2nd": 3 },
+      "spells_prepared": ["Bless", "Cure Wounds", "Healing Word", "Guiding Bolt", "Spiritual Weapon", "Prayer of Healing", "Calm Emotions", "Lesser Restoration"],
       "channel_divinity": 1,
-      "special": "Hymn Composer, obsidian skinning knife, 10 obsidian arrowheads (+1 first hit)"
+      "special": "Hymn Composer, True Flight bow (11 behir-fang + 4 dark steel arrows), Mending cantrip, new composition in progress"
     },
     "pip": {
       "full_name": "Pip Tanglethorn",
       "race": "Lightfoot Halfling",
       "class": "Wizard (Evocation)",
-      "level": 3,
-      "hp": { "current": 14, "max": 14 },
+      "level": 4,
+      "hp": { "current": 19, "max": 19 },
       "ac": 16,
-      "armor": "Behir scale-leather +1 (lightning resistance, Resonance Shell 1/day absorb 5 elemental dmg) + behir-hide bracers",
-      "weapons": "Spark Edge short sword (+1d4 fire every hit, permanent), driftwood flute",
-      "spell_slots": { "1st": 4, "2nd": 2 },
+      "spell_slots": { "1st": 4, "2nd": 3 },
+      "spells_prepared": ["Scorching Ray", "Shatter", "Sleep", "Shield", "Magic Missile", "Comprehend Languages", "Detect Magic", "Feather Fall"],
       "sculpt_spells": true,
-      "special": "Shell crown (Stormcape folk hero), river pebble (Sylvara's focus stone)"
+      "special": "Journeyman Inscriber, driftwood flute, Vel'thara curriculum teacher, taught Pim fire-dragons"
     },
     "seren": {
       "full_name": "Seren Ashvale",
       "race": "Human",
       "class": "Monk (Way of the Open Hand)",
-      "level": 3,
-      "hp": { "current": 24, "max": 24 },
-      "ac": 16,
-      "armor": "Unarmored Defense (10 + DEX 3 + WIS 3)",
-      "weapons": "Unarmed (1d4+3), Drell's iron belt knife (1d4+3, Vigil alloy), 10 darts",
-      "ki_points": 3,
+      "level": 4,
+      "hp": { "current": 31, "max": 31 },
+      "ac": 17,
+      "ki_points": 4,
       "speed": 40,
-      "special": "Flurry of Blows + Open Hand knockdown/push, Deflect Missiles, Stormcape Keeper, Drell's medallion"
+      "special": "Slow Fall (reduce 20 dmg), DEX 18, Stormcape Keeper"
     },
     "torven": {
       "full_name": "Torven Ashwick",
       "race": "Half-Elf",
       "class": "Druid (Circle of the Land — Coast)",
-      "level": 3,
-      "hp": { "current": 21, "max": 21 },
+      "level": 4,
+      "hp": { "current": 28, "max": 28 },
       "ac": 16,
-      "armor": "Behir scale-leather + wooden shield (lightning resistance, non-metal, druid-compatible)",
-      "weapons": "Shillelagh quarterstaff (+5 WIS, 1d8+3), Produce Flame (+5, 1d8), dagger",
-      "spell_slots": { "1st": 4, "2nd": 2 },
-      "wild_shape": "2/short rest, CR 1/4 (cat, octopus)",
-      "circle_bonus_spells": "Mirror Image, Misty Step (always prepared)",
-      "special": "Orindel's cousin, Fey Ancestry, Darkvision 60 ft"
+      "spell_slots": { "1st": 4, "2nd": 3 },
+      "wild_shape": "CR 1/2 (crocodile, reef shark, giant wasp)",
+      "circle_bonus_spells": "Mirror Image, Misty Step",
+      "special": "Atlas of the Vel'thara co-author, Journeyman Researcher, unified atlas project"
+    },
+    "nhilara": {
+      "full_name": "Nhilara Vel'quinar",
+      "race": "Drow (Dark Elf)",
+      "class": "Barbarian 5 (Path of the Beast) / Rogue 3 (Scout)",
+      "level": 8,
+      "hp": { "current": 75, "max": 75 },
+      "ac": "19 (breastplate) / 21 (with shield)",
+      "weapons": "Dark steel scimitar +1 (+1d4 force), Silent hand crossbow +1, Beast weapons (rage)",
+      "rage": 3,
+      "sneak_attack": "2d6",
+      "special": "Specialist advisor. Skirmisher. Expertise: Stealth +11, Perception +6, Survival +6. Abjuration bracelet. Ashara's shadow. Released scimitar grip."
     }
   }
 }

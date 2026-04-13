@@ -259,6 +259,6 @@ All 14 nodes are now identified (Vaelen's map, Day 185). Remaining unrepaired no
 
 ---
 
-*Last updated: Day 180, 30th Reaptide, 1249 AS*
-*Party location: Dawnwatch Homestead, Fenhollow (H8).*
-*Campaign status: All 8 known outer nodes active. Underdark investigation underway.*
+*Last updated: Day 260, 30th Frostmere, 1249 AS*
+*Party location: Dawnwatch Homestead, Fenhollow (H8). Anchor Point active (Ashport).*
+*Campaign status: ALL 14 NODES ACTIVE. Anchor Point embassy operational. Vel'thara first contact complete.*

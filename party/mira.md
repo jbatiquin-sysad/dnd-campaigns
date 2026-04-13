@@ -5,14 +5,14 @@
 - **Class:** Rogue (Thief Archetype)
 - **Background:** Criminal
 - **Alignment:** Chaotic Neutral
-- **Level:** 3
+- **Level:** 4
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  8  |  17 |  12 |  13 |  10 |  15 |
 
-**HP:** 23 | **Hit Dice:** 3d8 | **AC:** 15
+**HP:** 30 | **Hit Dice:** 4d8 | **AC:** 17
 
 ## Key Features
 - Sneak Attack: 2d6 extra damage (finesse/ranged, advantage or ally adjacent)
@@ -46,6 +46,12 @@ On the voyage to Aelindra, she told Zaryth about Sera — a woman from the fish 
 At the Dawnwatch Homestead, Mira planted the garden herself — 30 by 40 feet, south-facing, medicinal herbs along the wall, vegetables in the center, flowers along the borders. On Day 5, the first green shoots appeared. Lila (the caretaker's daughter, 9) sat beside her in the herb bed, watering seedlings with a cup. Something inside Mira that had been locked for a very long time opened quietly and stayed open.
 
 During the node repair arc, Mira held perimeter at every site — crossbow up, eyes on the horizon, the last line of defense while the anchors channeled. At Sethrak's Threshold, she and Thessaly held the perimeter alone for 20 minutes against unknown threats. Bram carved her a wooden comb (halfling on a crescent moon) and left it on her pack without a word. She wore it in her hair the next morning. She began learning leatherworking from Gren Ashwick in Aelindra — "Rogue's hands. You'll learn quick." On the cliff at Cape Ashward, after the last node sang, she said: "We did it." Quietly. To no one. To everyone.
+
+## Defining Moment
+At Blacktide Inlet, Mira opened the fight against a 3,000-year-old Binder with a natural 20 critical hit from a cliff she'd been lying on for six hours. Ashara never saw her. Nobody ever sees her. She fired the bolt that brought Ashara to 2 HP — the shot that ended a three-millennium war.
+
+## Downtime
+Works her garden — medicinal herbs, vegetables, and three moonpetal seeds that shouldn't grow in Fenhollow soil. She planted them anyway. Evenings mending things with Thessaly, not talking. Visits Sera in Fenhollow. Brings rosemary.
 
 ## Equipment (Current — S5 Day 120, Cape Ashward)
 - Blade (equipped, sharpened)

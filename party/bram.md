@@ -5,14 +5,14 @@
 - **Class:** Wizard (School of Evocation)
 - **Background:** Soldier
 - **Alignment:** Lawful Neutral
-- **Level:** 3
+- **Level:** 4
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  10 |  14 |  13 |  15 |  12 |   8 |
 
-**HP:** 15 | **Hit Dice:** 3d6 | **AC:** 15
+**HP:** 20 | **Hit Dice:** 4d6 | **AC:** 16
 
 ## Key Features
 - Spellcasting (INT-based): Spellbook, prepare INT mod + level spells/day. 4x 1st-level, 2x 2nd-level slots.
@@ -48,6 +48,12 @@ Smelted seized enemy weapons into steel ingots. Commissioned the 8 Dawnwatch sig
 At the Dawnwatch Homestead, Bram took charge of construction — stripped the rotted roof, shaped beams, built the table for ten. Planning Phase 2: the school. Shares a room with Thessaly. They don't discuss it. It just happened.
 
 During the node repair arc, Bram served as east/northeast anchor in every repair. Never failed a single CON save across all four nodes — the only anchor with a perfect record. Carved a driftwood flute for Pip (pale wood, 6-hole, halfling-sized) and a wooden comb for Mira (halfling on a crescent moon, left on her pack without a word). Worked the Warden's Forge to enchant all 8 Dawnwatch rings — heating each to resonance temperature with a smith's precision. Began learning woodcarving from Old Seff in Aelindra. His drone hum became part of the Ward-Light Hymn's foundation. At Node 10, when asked if they'd actually done it, he looked at his ring and nodded once. Bram.
+
+## Defining Moment
+Put two Shatter spells into Vel'arath's war room guards in 12 seconds, then carried three inverted Heartstones out through a service shaft while the city woke up behind him. Built the moonpetal display case with Velyndra — glass on dark steel, ward-ink cradle — for a flower from another world.
+
+## Downtime
+At the forge. Always at the forge. Smelted Drow dark steel, forged Nhilara's scimitar, reinforced shields for the Vel'quinar sentries. Whittles in the evenings. Currently making something for Mira that he won't talk about.
 
 ## Equipment (Current — S5 Day 120, Cape Ashward)
 - Spellbook

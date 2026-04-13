@@ -4,7 +4,7 @@
 - **Full Name:** Torven Ashwick
 - **Race:** Half-Elf
 - **Class:** Druid (Circle of the Land — Coast)
-- **Level:** 3
+- **Level:** 4
 - **Background:** Sage (Archive-trained)
 - **Alignment:** Neutral Good
 - **Age:** Early 30s
@@ -16,7 +16,7 @@
 | 8 (-1) | 14 (+2) | 12 (+1) | 14 (+2) | 16 (+3) | 10 (+0) |
 
 ## Combat
-- **HP:** 21/21 (3d8 + 3 CON)
+- **HP:** 28/28 (4d8 + 4 CON)
 - **AC:** 16 (behir scale-leather + wooden shield — Mira crafted from juvenile scales, non-metal, druid-compatible, lightning resistant)
 - **Speed:** 30 ft
 - **Initiative:** +2
@@ -69,6 +69,12 @@
 - **Tools:** Herbalism kit, Calligrapher's supplies, Ward engineering (Vigil training)
 - **Saving Throws:** INT +4, WIS +5
 - **Languages:** Common, Elvish, Druidic, Sylvan
+
+## Defining Moment
+Wild Shaped into a cat and scouted the old quarter of a hostile Drow city at 2 AM, detected the survey team that would have blown the operation, and guided Team Beta through a service shaft to steal three Heartstones from a war room. Then co-created the Atlas of the Vel'thara — the first map of another world.
+
+## Downtime
+Maps. The unified atlas project — above, below, and beyond. Three layers of the world, connected. Works with Sylvara daily. Fills journals. Currently on volume 5. Monitors the Deep Road from the homestead. His cartography is becoming something permanent.
 
 ## Equipment
 | Slot | Item | Notes |

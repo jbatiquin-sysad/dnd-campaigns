@@ -1349,3 +1349,56 @@ Memory restored. Signet ring: Binding-era, forged by Binders 3,000 years ago.
 Mother alive. House history known. Ashara station entered. Node 14 repaired.
 
 ---
+
+---
+
+## SESSION 8 — The Wildcard (Days 181–204, 1249 AS)
+
+**DM:** Corvus Chance, The Wildcard
+**Date Range:** 1st–24th Ashfall, 1249 AS
+
+### Scout Intercept & Operation Copper Hair (Days 181–182)
+Nhilara intercepted Vel'sharen scout dead drop. Velyndra + Taelar captured at marsh narrows (6 seconds, zero damage). Target package: Phase Two sinkhole insertion, 6 agents, deny Ashara station, take signet ring. Handler: Matron Zhael. Station Four discovered beneath Vel'arath (44% dormant, branch tunnel from Crucible, Binder lock). Operation Copper Hair: Sylla Vel'nessra (age 7) extracted from Vel'arath crèche via Station Four. Zero detection. Velyndra + Taelar defected. Vel'quinar population: 16.
+
+### Network Sweep (Day 182)
+Two simultaneous city operations. Veldmere: Drael + Syvra + courier captured (zero combat). Greymoor: 2 agents fled, killed Corporal Wren Hale, captured at forest edge. Vel'sharen surface network fully dismantled: 7 prisoners.
+
+### Seven-Layer Countermeasures (Days 184–187)
+G6 sealed. Ashara fortified. Station Four covert. Blacktide surveillance. Ashenmere verification. Veldmere three interrogated: Harlen Cray (Ashport broker), ships human-crewed, Phase Three = seize ward network via corrupted Heartstones, timeline before first frost. Network alerted (9 cities).
+
+### Ashport & Anchor Point (Days 188–196)
+Workshop raided: 3 inverted stones + 1 real Heartstone (Ashenmere 4th) + V.K.'s journal + tunnel map. Equipment destroyed. Anchor Point (400 ft depth): pre-Binder 6-slot prototype. Vaelen's projection — creator of the ward network, trapped 3,000 years by student Ashara. 7th Heartstone (Vaelen's original) materialized. Anchor Point sealed (3-layer). Veradis Kael confirmed free (released via Thessara Vael's real Archive credentials).
+
+### Dual Operation — Vel'arath + Blacktide (Days 201–202)
+Team Beta (Aldric, Sylvara, Bram, Pip, Torven): Station Four → service shaft → war room. 3 inverted Heartstones + ancient scroll case recovered. 2 guards defeated. Exfil clean. Vel'arath on alert — Team Beta already gone. Team Alpha (Zaryth, Mira, Thessaly, Seren, Orindel + Nhilara): Blacktide Inlet ambush. Zaryth confronted Ashara, talked Veradis + Thessara into defecting. Combat: Mira nat 20 crit (28 damage, never seen). Nhilara beast-form from sand. Ashara Ward Pulse (22 force, DC 17) dropped 3 members. Binding Lance dropped Zaryth to 0 HP. Mira + Nhilara finished it. 2 rounds. Ashara captured alive. Zero deaths.
+
+### Aftermath & Ashport (Days 202–210)
+Thessaly collected 2,000 gp (Maren Holt proxy). At-sea conversation with Ashara: the Resonant, the moonpetal locket, 3,217 years. Orindel composed The Blacktide Ode. Celebration with last bottle of Vel'quinar moonwine. Home. Full inventory audit. Nhilara fully equipped (AC 19/21, +1 scimitar, +1 silent crossbow). 9/10 members advanced professions to Journeyman.
+
+### Ancient Scroll & Debrief (Days 211–239)
+Scroll case contained Anchor Point activation schematic — the prototype is the control interface for the entire network. Remote node repair possible. 6 Heartstones unseat/re-seat protocol. Full party debrief: unanimous vote (13-0) to open controlled aperture to the Resonant. Ashara placed on probation (ward-suppressed, supervised, works on aperture project).
+
+### Node 13 — Sunken Crown (Day 242)
+Underwater reconstruction. 30 ft depth, 40 mi E of Cape Ashward. Pip inscribed ward-ink circuit underwater. 6-anchor procedure. Ashara amplified signal from the ship (unprompted). **Node 13: 22% → 67%. RECONSTRUCTED. ALL 14 NODES ACTIVE — first time in 3,248 years.**
+
+### LEVEL UP — All Dawnwatch → Level 4
+
+### Vel'thara First Contact — Anchor Point (Day 244)
+**Phase 1 (Listen):** 3-note greeting. Non-hostile. Stable.
+**Phase 2 (Speak):** Ward-Light Hymn transmitted. Vel'thara harmonized. Name: **Vel'thara** ("those who listen in the light").
+**Phase 3 (Dialogue):** Names exchanged. 12-civilization federation. Gratitude transmitted.
+**Phase 4 (Physical Aperture):** d100=95. The Speaker crossed — first Vel'thara in 3,248 years. Moonpetal gift. Embassy proposed. Accepted.
+
+### The Accord of the Anchor Point (Day 244)
+Threshold open. One Speaker at a time. Shared garden. Exchange not extraction. Kill switch with Warden. Vaelen + Drell as keepers. Resonance map received. Hymn transmitted to 12 civilizations.
+
+### Retreat (Days 248–260)
+12-day homestead retreat. Atlas of the Vel'thara created. Moonpetal display case built. Vel'quinar homestead completed. Orindel composing new piece.
+
+### State — Day 260 (End of Session 8)
+- **Level:** 4 | **Gold:** ~11,784 gp | **Ward-ink:** 27
+- **Ward Network:** ALL 14 NODES ACTIVE. Anchor Point permanent. 15 Heartstones (8 Fenhollow + 7 Anchor). 6 inverted contained.
+- **Vel'thara Embassy:** Operational. Accord signed. Aperture open. Garden planted.
+- **Ashara:** Probation. | **Vaelen:** Free, Anchor Point. | **Drell:** Alive, Anchor Point.
+- **Vel'quinar:** 16 residents. Complete. Defense upgraded.
+- **Next:** Vel'sharen response. Southern expansion. Vel'thara exchange. Ashara's fate. The untitled song.

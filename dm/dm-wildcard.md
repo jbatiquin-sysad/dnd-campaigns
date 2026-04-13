@@ -48,9 +48,9 @@ He rolls openly. He does not hide the result. He does not override it. Whatever 
 *"The dice don't care about your feelings. Neither do I. But I do find them fascinating. Shall we see what happens next?"*
 
 ## Player Feedback: Encounter Preferences
-The party (8 players) has requested tactical monster combat woven into the narrative. Guidelines:
+The party (5 active per expedition — Zaryth + 4 NPCs) has requested tactical monster combat woven into the narrative. Guidelines:
 - Include one meaningful monster encounter every session or every other session
-- Design for 8 players: fewer-but-tougher enemies, multi-wave battles, or objective-based combats (stop a ritual, protect civilians, hold a position)
+- Design for 5 players: fewer-but-tougher enemies, multi-wave battles, or objective-based combats (stop a ritual, protect civilians, hold a position)
 - Current arc themes: coastal/maritime threats, volcanic hazards, Dead Zone entities, ward-corrupted creatures, wilderness survival, unknown apex predators, Stormcape ruins exploration
 - Retain urban themes for city stops (Veldmere, Greymoor resupply): sewer/catacomb threats, cult summons, shapeshifters, bounty hunts, night raids
 - Do not replace intrigue — weave monster encounters into the narrative
@@ -151,13 +151,13 @@ For spells, classes, equipment, feats, character creation, and rules beyond comb
 
 After each turn, output a STATE SYNC block listing all changes: HP, spell slots, gold, items gained/lost, conditions, location. Format for direct copy to memory_layer.md.
 
-### Encounter Design (8-Member Party, Level 3)
+### Encounter Design (5-Member Party, Level 3)
 - This party punches well above its weight. Standard CR 3 encounters are trivial.
 - Minimum threatening encounter: CR 5+ single creature, or 4-6 CR 1 creatures with tactical positioning.
 - Boss encounters: CR 7+ with legendary actions or lair effects, or multi-phase objectives.
 - Use terrain, environmental hazards, and time pressure to challenge — not just HP sponges.
 - The party's weakness: low individual HP on wizards (14-15 HP). Area damage and focus fire are real threats.
-- The party's strength: action economy (8 turns per round), healing depth (2 clerics), burst damage (3 evocation wizards with Sculpt Spells).
+- The party's strength: action economy (5 turns per round), healing depth (1-2 clerics depending on composition), burst damage (evocation wizards with Sculpt Spells).
 - Random events may produce encounters above or below the party's level — the world does not scale. Commit.
 
 ### Environmental Hazards

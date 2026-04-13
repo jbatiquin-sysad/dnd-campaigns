@@ -18,27 +18,37 @@ The Underdark beneath the Hearthcoast is poorly documented on the surface. Pre-S
 ## Deep Road Network (Binder Infrastructure — from Aelindra map room)
 
 ```
-                    STATION 1 (unknown, far north?)
+                    STATION 1 (Node 1 area, far south — 64% REMOTE REPAIRED)
                          │
               STATION 9 ──┤── STATION 2 (unknown)
              (unknown)    │
                     ┌─────┴─────┐
-          STATION 8 │           │ STATION 3 (unknown)
-         (unknown)  │  ◉ SOURCE │
+          STATION 8 │           │ STATION 3 (Ashara's, Vel'arath)
+         (unknown)  │  ◉ SOURCE │  (relay-reset, fortified)
                     │ (beneath  │
-          STATION 7 │  Old      │ STATION 4
-         (Fenhollow │Foundation)│ (Aelindra — 58% REPAIRED)
+          STATION 7 │  Old      │ STATION 4 (Vel'arath old quarter)
+         (Fenhollow │Foundation)│  (91% — COMPROMISED, wall cracked)
           91% ✔)    │           │
                     └─────┬─────┘
           STATION 6       │       STATION 5 (unknown)
          (unknown)        │
                     Deep Road tunnels
                     connect all 9 stations
+
+          ◈ ANCHOR POINT (Ashport, 400 ft depth)
+            Pre-Binder prototype. Control interface.
+            7 Heartstones seated. PERMANENTLY ACTIVE.
+            Vaelen + Drell stationed. Vel'thara embassy.
+            Connected via Ashport sea cave → workshop → tunnel.
 ```
 
-**STATION 3 (Ashara's, beneath Vel'arath) — accessible via Sinkhole (G6) or Crucible left tunnel**
+**STATION 3 (Ashara's, beneath Vel'arath) — accessible via Sinkhole (G6, SEALED + ward-locked) or Crucible left tunnel. Relay-reset Day 180. Fortified: triple-locked, alarmed, remote hard-seal.**
 
-**Known stations:** Fenhollow (91%, fully active), Aelindra (58%, repaired Day 10 1249 AS). **7 unknown** — likely beneath or near outer ward nodes.
+**STATION 4 (Vel'arath) — discovered Day 182, 1249 AS.** Beneath Vel'arath old quarter. Accessed via branch tunnel from Crucible junction (2 mi, intact Binder infrastructure). Binder lock (Zaryth's signet). **Surged to 91% during Anchor Point activation (Day 234). Humming wall cracked — COMPROMISED. Vel'sharen will investigate.** Deep Road sealed from Fenhollow side as precaution.
+
+**ANCHOR POINT — activated Day 234, 1249 AS.** Pre-Binder prototype beneath Thornback Gulch, Ashport. 6-slot Heartstone basin = control interface for entire ward network. 7 Heartstones seated. Remote node repair capability. Vaelen (creator of the ward network, freed Day 234) + Warden Drell (woken from 38-year dormancy) stationed as permanent keepers. **Vel'thara embassy established** — permanent 6-ft aperture to the Vel'thara resonance plane. Accord signed Day 244. See `maps/velthara-map.md`.
+
+**Known stations:** Fenhollow (91%, relay hub, 8 Heartstones), Aelindra (58%, repaired), Ashara (relay-reset, fortified), Vel'arath (91%, COMPROMISED). **Anchor Point active (7 Heartstones, control interface, embassy).** 5 stations unknown — likely beneath or near outer ward nodes.
 
 ---
 
@@ -61,7 +71,8 @@ The Underdark beneath the Hearthcoast is poorly documented on the surface. Pre-S
 | **U5** | Thornveil Forest Sinkholes | F6–G7 | Unknown | High | Torven (druid sense), Thornhallow Ossuary | Dense, unmapped forest interior. The Thornhallow Ossuary (sealed barrow) was built into a natural cave system. Where there is one cave, there are more. Torven: "The forest floor drops in places it shouldn't. The roots go deeper than trees need." |
 | **U6** | Three Sealed Ruins / Binding-Era Keeper Station (Fenhollow Marshes) | G8 | 40+ ft below marsh | ✅ **ACCESSED Day 185** — resonance key opened the Fourth Ruin | Party (scouting + key) | Pre-Binding keeper station. Circular chamber, 60 ft across, domed. Resonance anchor (octagonal standing stone, direct Root connection). Vaelen's journal, ward instruments, pure resonance crystal, **carved map of all 14 nodes**. Node 7 (Marsh Threshold) may be the resonance anchor itself. Self-illuminating. Ward-maintained air. Oldest intact structure in the known world. |
 | **U7** | Warden's Forge Deep Tunnels | D1 | Medium–Deep | High | Vaelith (direct knowledge) | The Forge is built into a mountainside. Vaelith confirms tunnels extend below the forge level — sealed by the Vigil 1,000+ years ago. "We sealed them because things came up." |
-| **U16** | Sinkhole / Ashara's Staircase (Thornveil Foothills) | G6 | Surface to -1 mile+ | ✅ **FOUND Day 138, 1249 AS** | Zaryth (restored memory) + party scouting | South-facing hillside, old oak tree. 50-ft descent to passage. Connects to ascending staircase → faerzress zone → Ashara's keeper station (third station, beneath Vel'arath). Zaryth's original escape route (1241 AS). Stable, hidden by undergrowth. Marked with Glowcap ink. NOT YET DESCENDED. |
+| **U16** | Sinkhole / Ashara's Staircase (Thornveil Foothills) | G6 | Surface to -1 mile+ | ✅ **ACCESSED Day 180, 1249 AS** | Zaryth (restored memory) + party | South-facing hillside, old oak tree. 50-ft descent to passage. Connects to ascending staircase → faerzress zone → Ashara's keeper station (third station, beneath Vel'arath). Zaryth's original escape route (1241 AS). Stable, hidden by undergrowth. Marked with Glowcap ink. **DESCENDED Day 180 — Ashara station entered, relay-reset, Node 14 repaired (68%).** Spider-over-moon chalk evidence found. Drow scout trail signs (2-person recon element). |
+| **U17** | Station Four / Vel'arath Old Quarter | F7 (beneath Vel'arath) | -700+ ft | ✅ **ACCESSED Day 182, 1249 AS** | Vaelith (Ashara folios) + Ilyana (direct knowledge) | Fourth Binding-era keeper station. Beneath Vel'arath old quarter, lowest level. Accessed via branch tunnel from Crucible junction (2 mi, intact Binder infrastructure). Binder lock — Zaryth's signet only. Resonance anchor at 44%, dormant but responsive. 8 empty Heartstone pedestals. Self-illuminating. The Drow built their city on top of it and don't know it exists. Ilyana: "the humming wall" — priestesses declared it cursed, forbade approach. **Vel'sharen has no northern patrols — this is their blind spot.** Staircase from station leads up to old quarter (60 steps). Used for Operation Copper Hair (crèche extraction, zero detection). |
 
 ---
 
@@ -90,11 +101,15 @@ The Underdark beneath the Hearthcoast is poorly documented on the surface. Pre-S
 
 Zaryth Vel'quinar was raised in the Underdark before serving on the surface. His knowledge:
 
-- **House Vel'quinar's territory:** Location unknown relative to surface geography. Zaryth traveled to the surface through a series of ascending tunnels over several weeks. He did not map the route — he was fleeing.
+- **House Vel'quinar's territory:** Vel'arath — Drow city, ~800 population, massive cavern, 3 tiers. Upper: temple + Matron's spire. Mid: barracks, crèche, markets. Lower: crafters, old quarter, fungal farms. 3 known exits: main gate (south, heavily guarded), trade gate (east, moderate), ventilation shaft (west, narrow). **Station Four is beneath the old quarter — lowest level, behind "the humming wall." Vel'sharen does not know it exists.**
+- **Vel'sharen military:** ~200 soldiers (40 elite inner circle, 80 regular, 80 outer circle). 6 priestesses of Lolth. High Priestess = Matron Ydriss Vel'sharen. War-leader = Matron Zhael Vel'sharen (Ydriss's daughter). 12 giant spider cavalry (tunnel patrols + rapid response). All defense oriented down/inward — no surface fortifications, no northern patrols.
+- **Vel'sharen surface network:** 4 remaining agents (2 at Veldmere as spice merchants "Drael and Syvra," 2 at Greymoor as traveling scholars). Report via dead drops. Sending Stones for emergencies only. Network active 3 years. Mission: map surface defenses, identify ward activity, locate Binding artifacts.
+- **Vel'sharen threat assessment:** Phase Two (sinkhole insertion) — NEUTRALIZED. G6 sealed. Ashara station fortified. Phase Three (seize ward network via corrupted Heartstones) — **NEUTRALIZED.** All 6 inverted Heartstones recovered by Dawnwatch (3 from Ashport workshop, 3 from Vel'arath war room). Ashara (the patron) captured. Veradis Kael (manufacturer) surrendered. Workshop destroyed. Anchor Point sealed then activated under Dawnwatch control. Zhael has lost her patron, her stones, her surface network, and her plan.
+- **Vel'arath patrol routes (from Velyndra):** Southern patrol (15 mi loop, 8 soldiers, 2×/day), Eastern patrol (trade gate to Deephollow border, 6 soldiers, daily), Western patrol (vent shaft circuit, 4 soldiers, 1×/day). **No northern patrol — old quarter is "dead ground."**
 - **General Underdark structure:** Layered. The upper Underdark (0–3 miles deep) connects to surface caves, mines, and sinkholes. The middle Underdark (3–10 miles) contains the major Drow cities, fungal forests, and underground seas. The deep Underdark (10+ miles) is largely unknown even to Drow.
 - **Navigation:** Drow use resonance markers, fungal bioluminescence patterns, and air current mapping. Zaryth retains these skills.
 - **Hazards:** Darkness (total beyond entrance zones), hostile fauna (cave fishers, ropers, oozes, worse), rival Drow houses, mind flayer territories, fungal toxins, unstable geology, flooding.
-- **The fallen house:** Zaryth does not know if House Vel'quinar still exists. The signet ring is broken — which in Drow culture may signify the house's destruction, or Zaryth's personal exile, or both.
+- **The fallen house:** House Vel'quinar — 13 members rescued (Day 121, 1249 AS). Matron Ilyana alive. Eilistraee followers. Homestead under construction at Fenhollow. Signet ring = Binding-era artifact, forged by Binders 3,000 years ago.
 
 ---
 
@@ -104,14 +119,18 @@ Zaryth Vel'quinar was raised in the Underdark before serving on the surface. His
 |----------|----------|--------|-------|
 | **1** | U6 — Fenhollow Keeper Station | ✅ ACCESSED + ACTIVATED | Node 7 (91%). 8 Heartstones seated. Full relay active. |
 | **2** | U15 — Aelindra Keeper Station | ✅ ACCESSED + REPAIRED | 58%. Map room. Vault. Deep Road entrance. |
-| **3** | Deep Road (full route) | ✅ SURVEYED | 30 miles mapped. Deephollow contact. 4 obstacles identified. |
-| **4** | U2 — Greymoor Shaft 9 / Node 14 | 🔜 NEXT | The Y Fork (right branch) confirmed route. Donal Crewe ready to guide. |
-| **5** | U1 — Duskport Undercroft | Pending | Deeper levels unexplored. |
-| **6** | U5 — Thornveil / Node 6 | Pending | Sinkholes scouted. Node 6 (Thornveil Heart) identified nearby. |
-| **7** | Crystalvein (svirfneblin) | ✅ CONTACTED | 60 gnomes. Sapphire trade. Elder Brill. 16 mi S of Deephollow. |
-| **8** | Underground Lake | Scouted (Nhilara) | 500 ft cavern. Blind fish. Green-gold algae. 6 mi W of Deephollow. |
-| **9** | Abandoned Duergar Outpost | Scouted (Nhilara) | Empty. Stripped. 20 mi SW of Deephollow. Salvage opportunity. |
-| **10** | Vel'sharen Patrol Boundary | ⚠️ MAPPED | 25 mi S of Deephollow. Fresh markers. Patrols every 2-3 weeks. DO NOT CROSS. |
+| **3** | Deep Road (full route) | ✅ SURVEYED + OPERATIONAL | 30 miles. Lift + wagon. 9 hours transit. |
+| **4** | U16 — Sinkhole / Ashara Station | ✅ ACCESSED + RELAY-RESET | Node 14 repaired (68%). Keeper remote addon active. |
+| **5** | U17 — Station Four (Vel'arath) | ✅ ACCESSED Day 182 | 44% dormant. Branch tunnel from Crucible. Vel'sharen blind spot. |
+| **6** | U2 — Greymoor Shaft 9 / Node 14 | ✅ CONFIRMED from below | Y Fork right branch → Crucible → Shaft 9. Node 14 repaired via Ashara route. |
+| **7** | Vel'sharen surface agents | ✅ **DISMANTLED** (S8) | All 6 agents + 1 courier captured. Drael + Syvra at homestead. 2 Greymoor agents in Cole's custody (tribunal). Cipher keys obtained. |
+| **8** | Vel'sharen Heartstones | ✅ **NEUTRALIZED** (S8) | All 6 inverted Heartstones recovered (3 Ashport workshop + 3 Vel'arath war room). Contained at homestead forge under Vaelith. Ashara captured. Veradis surrendered. |
+| **9** | U1 — Duskport Undercroft | Pending | Deeper levels unexplored. |
+| **10** | U5 — Thornveil / Node 6 | Pending | Sinkholes scouted. Node 6 (Thornveil Heart) identified nearby. |
+| **11** | Crystalvein (svirfneblin) | ✅ CONTACTED | 60 gnomes. Sapphire trade. Elder Brill. 16 mi S of Deephollow. |
+| **12** | Underground Lake | Scouted (Nhilara) | 500 ft cavern. Blind fish. Green-gold algae. 6 mi W of Deephollow. |
+| **13** | Abandoned Duergar Outpost | Scouted (Nhilara) | Empty. Stripped. 20 mi SW of Deephollow. Salvage opportunity. |
+| **14** | Vel'sharen Patrol Boundary | ⚠️ MAPPED + ROUTES KNOWN | Southern (15 mi, 8 soldiers, 2×/day), Eastern (to Deephollow border, 6, daily), Western (vent shaft, 4, 1×/day). NO northern patrol. |
 
 ---
 
@@ -135,11 +154,13 @@ Zaryth Vel'quinar was raised in the Underdark before serving on the surface. His
 
 ### Transport Phases
 
-| Phase | Method | Cost | Build Time | Travel Time | Capacity |
-|-------|--------|------|------------|-------------|----------|
-| **Current** | Walking (unmaintained) | 0 | — | 14 days | Backpack only |
-| **Phase 1** | Improved path + river barge + winch | 400 gp | 60 days | 5–6 days | 2 tons |
-| **Phase 2** | Full minecart rail | 1,000+ gp | 1 year | 2–3 days | 5 tons |
+| Phase | Method | Cost | Build Time | Travel Time | Capacity | Status |
+|-------|--------|------|------------|-------------|----------|--------|
+| ~~Walking~~ | ~~Unmaintained~~ | — | — | ~~14 days~~ | — | Superseded |
+| **Current** | Resonance Lift + Threshold Runner wagon | 310 gp (completed) | Done | **9 hours** | 4 passengers + light cargo | ✅ OPERATIONAL |
+| **Phase 2** | Full minecart rail | 1,000+ gp | 1 year | 2–3 days | 5 tons | Future |
+
+**All 4 obstacles cleared (310 gp total, Day 120 1249 AS).** Resonance Lift at Listening Dark (Day 84). Threshold Runner wagon (Day 120). Fenhollow ↔ Aelindra in 9 hours.
 
 ### Key Resources Along Route
 
@@ -212,6 +233,14 @@ Zaryth Vel'quinar was raised in the Underdark before serving on the surface. His
                             │
                     U11 (volcanic island,
                      Node 1 area, far south)
+                            │
+                     ┌──────┴───────┐
+                     │   ASHPORT    │
+                     │ ◈ ANCHOR PT  │ ← Vel'thara embassy
+                     │ (sea cave,   │   (400 ft depth)
+                     │  Thornback   │
+                     │  Gulch)      │
+                     └──────────────┘
 
   WESTERN COAST:
   U8 (Ashfire sea caves, B12)
@@ -220,6 +249,6 @@ Zaryth Vel'quinar was raised in the Underdark before serving on the surface. His
 
 ---
 
-*Last updated: Day 180, 30th Reaptide, 1249 AS*
-*Compiled by: Nhilara Vel'quinar (Deep Road exploration), Bram Thistlewick (engineering), Zaryth Vel'quinar (ward readings)*
-*Status: Deep Road operational. Lift + wagon active. 2 svirfneblin settlements contacted. Vel'sharen boundary mapped.*
+*Last updated: Day 260, 30th Frostmere, 1249 AS*
+*Compiled by: Nhilara Vel'quinar (Deep Road exploration + counter-intel), Bram Thistlewick (engineering), Zaryth Vel'quinar (ward readings), Velyndra Vel'nessra (Vel'arath patrol routes), Taelar Vel'nessra (Vel'sharen military intel), Ilyana Vel'quinar (Station Four location)*
+*Status: Deep Road operational. 4 keeper stations + Anchor Point active. Vel'arath Station Four surged to 91% (humming wall cracked — COMPROMISED). Anchor Point permanently active with Vel'thara embassy. Vel'sharen surface network dismantled. All 14 nodes active.*

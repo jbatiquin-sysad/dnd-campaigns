@@ -5,14 +5,14 @@
 - **Class:** Cleric (Life Domain)
 - **Background:** Criminal
 - **Alignment:** Neutral Good
-- **Level:** 3
+- **Level:** 4
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  10 |  14 |  12 |  13 |  15 |   8 |
 
-**HP:** 23 | **Hit Dice:** 3d8 | **AC:** 18
+**HP:** 29 | **Hit Dice:** 4d8 | **AC:** 19
 
 ## Key Features
 - Spellcasting (WIS-based): Prepare WIS mod + level spells/day. 4x 1st-level, 2x 2nd-level slots.
@@ -49,6 +49,12 @@ His darkest hour: a boy named Tomas, age nine, third name on his list. Found him
 At the Dawnwatch Homestead, Orindel established 3 beehives, planted the garden with Mira, and placed the carved Marsh Light icon from Sister Venn on the mantelpiece above Aldric's hearth. "For the house." Nobody objected. It looked right.
 
 Composed the Ward-Light Hymn at Greyveil Pass — three verses and a chorus, inspired by the Node 12 repair and Vaelith's 114-year vigil. The hymn became integral to every subsequent repair, providing sympathetic resonance that stabilized the anchors and reduced feedback. Taught Pip to play the flute — "You don't force the sound out. You offer it." At Sethrak's Threshold, when his spell slots were spent and his anchor was failing, he sang the hymn to hold the channel — channeling the ward's frequency through music alone. It worked. It wasn't in the manual. Coached Pip through five-note scales, connected phrases, and the full melody. By Node 10, Pip played every note perfect. Orindel heard the ward singing through the stone road, harmonized with it by campfire, and tuned a resonance crystal by ear at the Warden's Forge. His voice isn't trained. It doesn't matter.
+
+## Defining Moment
+Sang the Ward-Light Hymn through the Anchor Point aperture and the Vel'thara — an entire civilization of beings made of crystallized sound — harmonized with him in real time. Then composed The Blacktide Ode on the deck of a ship, four voices, no instruments, about the battle and the choice to show mercy. His hymn is now being sung across twelve civilizations on the other side of the boundary.
+
+## Downtime
+Composes. A new piece, untitled, built with Pip — about a door, a flower, and three thousand years of silence. Tends Wren Hale's memorial stone in the garden every morning. Teaches at the school. His palm still has a faint burn scar from ring-humming underwater at Node 13.
 
 ## Equipment (Current — S5 Day 120, Cape Ashward)
 - Mace (equipped, oiled)

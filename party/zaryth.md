@@ -5,17 +5,17 @@
 - **Class:** Paladin (Fallen Knight / Personal Code)
 - **Background:** Failed Knight (Exiled Officer)
 - **Alignment:** Chaotic Good
-- **Level:** 3
+- **Level:** 4
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  15 |  14 |  13 |  10 |  12 |  16 |
 
-**HP:** 28 | **Hit Dice:** 3d10 | **AC:** 19
+**HP:** 36 | **Hit Dice:** 4d10 | **AC:** 19
 
 ## Key Features
-- Lay on Hands: Pool of 15 HP to heal or cure disease/poison (Level 3: Paladin level × 5)
+- Lay on Hands: Pool of 20 HP to heal or cure disease/poison (Level 4: Paladin level × 5)
 - Divine Smite: Expend spell slot on hit for 2d8 radiant damage (+1d8 per slot level above 1st)
 - Fighting Style: Defense (+1 AC while wearing armor)
 - Sacred Oath: Oath of Devotion — Channel Divinity (Sacred Weapon, Turn the Unholy)
@@ -78,6 +78,12 @@ At the Root seal beneath the Archive, he placed his ring hand on the 12-foot sto
 He built the Dawnwatch Homestead in Fenhollow — thatched the roof himself. Mira planted the garden. Aldric built the hearth. The ruined signet ring stays in his pocket beside the Dawnwatch ring on his finger. The old and the new. The fallen and the rising.
 
 In Session 5, Zaryth led the Dawnwatch north to repair the outer ward network — four nodes, from Greyveil Pass to Cape Ashward. At Node 12, he spoke to the entities on the ridgeline and they yielded. At Sethrak's Threshold, he walked alone toward 14 ward-wraiths and talked them into standing down — zero combat. He served as the Warden's Anchor during the Node 11 reconstruction, channeling the ward through conviction rather than magic (CHA checks: 22, 19, 16 — all passed). Vaelith named the Dawnwatch as wardens of the Vigil and began teaching Zaryth ward engineering — the first apprentice in over a thousand years. Zaryth crafted his first field tool (a copper resonance probe) and detected a node's outer radius by hand. Four nodes repaired. The outer ring holds. The cascade is over.
+
+## Defining Moment
+At Blacktide Inlet, Zaryth stepped out of the fog to face Ashara — a 3,000-year-old Binder — alone on a pier. He talked her operatives into defecting, took a Binding Lance that dropped him to zero, and his team finished the fight in 18 seconds. He chose to take her alive. Then he opened a door between worlds and the Vel'thara sang his name back to him.
+
+## Downtime
+Mornings at the forge studying the Vel'thara resonance map with Vaelith. Afternoons in the garden with Ilyana. Evenings on the tower roof, alone, feeling fourteen nodes sing through his ring. He writes letters to Vaelen via the network frequency.
 
 ## Equipment (Current — S5 Day 120, Cape Ashward)
 - Well-made longsword (equipped, oiled+sharpened)

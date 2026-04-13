@@ -5,20 +5,20 @@
 - **Class:** Cleric (Life Domain)
 - **Background:** Acolyte
 - **Alignment:** Lawful Good
-- **Level:** 3
+- **Level:** 4
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  12 |   8 |  16 |  10 |  16 |  13 |
 
-**HP:** 28 | **Hit Dice:** 3d8
+**HP:** 35 | **Hit Dice:** 4d8
 
 ## Key Features
 - Spellcasting (WIS-based): Prepare WIS mod + level spells/day. 4x 1st-level, 2x 2nd-level slots.
 - 2nd-level spells: Spiritual Weapon, Aid, Lesser Restoration
 - Life Domain: Heavy armor proficiency, Disciple of Life (+2+spell level healing)
-- Channel Divinity (1/rest): Turn Undead or Preserve Life (restore up to 15 HP split among creatures within 30ft)
+- Channel Divinity (1/rest): Turn Undead or Preserve Life (restore up to 20 HP split among creatures within 30ft)
 - Dwarven Resilience: Advantage vs. poison, resistance to poison damage
 - Dwarven Combat Training: Battleaxe, handaxe, light hammer, warhammer
 - Stonecunning: Double proficiency on stonework History checks
@@ -46,6 +46,12 @@ His darkest hour: holding a mountain pass for three days with a broken shield ar
 At the Dawnwatch Homestead, Aldric built the hearth himself — river stones, fitted without mortar by dwarven technique, iron grate forged from one of the party's steel ingots. He lit the first fire at sunset. Sat in front of it for ten minutes without moving. He carries the ward-solvent vial in his inner pocket — triple-wrapped, the most dangerous object in the party's possession — because he is steady, 18 AC, and won't drop it.
 
 Served as south anchor in all four node repairs. Failed his CON save at Node 12 (minute 4) and Node 11 (minute 12) — stabilized by Orindel both times. Passed every other save. Revealed a bass singing voice during the Ward-Light Hymn — dwarven mining and temple tradition. His bass line became the foundation of every subsequent repair, the bedrock under Orindel's melody. At Node 10, he passed all saves clean. "The stone remembers," he said. He meant himself.
+
+## Defining Moment
+Led Team Beta into Vel'arath — the heart of a hostile Drow city — through a service shaft in chain mail, fought two elite guards in a war room, and walked out with three inverted Heartstones that would have destroyed the ward network. Then attended Wren Hale's funeral, sat with his mother, and said: "If you ever need anything, send word to Fenhollow."
+
+## Downtime
+Finishes stonework. Currently completing the Vel'quinar underground quarters — dwarven joints, no mortar, a closed eye carved above each doorframe. Makes tea for the party every morning. Visits the forge to check Vaelith's containment work. Prays at dawn.
 
 ## Equipment (Current — S5 Day 120, Cape Ashward)
 - Warhammer (equipped, oiled nightly)

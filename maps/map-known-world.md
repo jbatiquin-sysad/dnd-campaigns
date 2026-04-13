@@ -265,26 +265,26 @@ Ancient pre-Sundering road running north from Greypeak Pass along the highland r
 ### Dawnwatch Homestead (Fenhollow) ⌂
 Four-acre homestead on an inland rise, 20 min from Fenhollow village. Stone perimeter wall (6 ft, limestone, completed Day 68 1249 AS) with main gate (south, oak, iron-banded, ward-locked) and postern gate (north, marsh access, ward-locked). Ward perimeter (invisible): extended 500 ft detection, Drow-specific signature, silent alarm, tower-linked.
 
-**Structures:** Main house (2 stories, 4 bedrooms + Tessa's loft), Dawnwatch Tower (4 levels + lookout ring, telescope, ward-glyph alarm, library L4), alchemy shed (Vaelith's loft), forge, smokehouse, tannery/leatherworking shed, stable (3 stalls, hay loft), root cellar, mushroom cellar (exotic — 3 Underdark species producing, bioluminescent), school (operational — Elara Marsh + Dael Ashwick + Brother Callum, 14 students), goat pen (2 goats), chicken coop, beehives (3 + second rack).
+**Structures:** Main house (2 stories, 4 bedrooms + Tessa's loft, moonpetal display case), Dawnwatch Tower (4 levels + lookout ring, telescope, ward-glyph alarm, library L4), alchemy shed (Vaelith's loft), forge (+ Ashara containment room, lead-lined, ward-suppressed), smokehouse, tannery/leatherworking shed, stable (3 stalls, hay loft), root cellar, mushroom cellar (exotic — 3 Underdark species producing, bioluminescent), school (operational — Elara Marsh + Dael Ashwick + Brother Callum, 15 students, Vel'thara curriculum), goat pen (2 goats), chicken coop, beehives (3 + second rack).
 
-**Gardens:** Herb garden (doubled, ghost-nettle shade structure), Mira's garden (ornamental + vegetable, rosemary by the gate).
+**Gardens:** Herb garden (doubled, ghost-nettle shade structure), Mira's garden (ornamental + vegetable + medicinal, moonpetal seeds planted).
 
-**Library:** 20 books (14 acquired + 6 authored by Dawnwatch).
-**Residents:** 10 Dawnwatch + Vaelith + Tessa + Ren (12) + Lila (9).
+**Library:** 29 books (14 acquired + 6 authored + 8 ordered + Atlas of the Vel'thara).
+**Residents:** 10 Dawnwatch + Vaelith + Tessa + Ren (12) + Lila (9) + Ashara (prisoner, containment) + Edrin Vael (prisoner) + Thessara Vael (probation) + Drael + Syvra (prisoners).
 **Passive income:** 35–45 gp/week. Apothecary contract: Master Haldren. Delivery: Wynn Dodd.
 **Defenses:** Stone wall, ward perimeter (4 layers), tower fallback, Deep Road evacuation route.
 **Roads:** All-weather gravel road to Fenhollow (10 min by carriage). Raised causeway to Tidemeet (1 hr by carriage). Carriage: *Dawnwatch Coach* (resonance-assisted, ward-dampened, 2 horses).
 
-### Vel'quinar Homestead (Fenhollow) — Under Construction
-Three-acre parcel north of the Dawnwatch Homestead. Settlement writ issued by Captain Brenn (Day 131, 1249 AS). Sponsored by the Dawnwatch. Home to the 12 survivors of House Vel'quinar.
+### Vel'quinar Homestead (Fenhollow) — COMPLETE
+Three-acre parcel north of the Dawnwatch Homestead. Settlement writ issued by Captain Brenn (Day 131, 1249 AS). Sponsored by the Dawnwatch. Home to 16 members of House Vel'quinar.
 
-**Structures (planned/building):** Main house (single story, 6 rooms, shade-designed for Drow Sunlight Sensitivity — deep eaves, covered porches, north-facing windows), forge/workshop (shared access with Dawnwatch forge), shade garden (covered herb beds — Nalia's apothecary).
+**Structures:** Main house (single story, 6 rooms, shade-designed for Drow), underground quarters (5 rooms + common room, bioluminescent lichen lighting), underground armory (ward-locked), 2 prison cells (ward-suppressed), forge/workshop (shared with Dawnwatch), shade garden (Nalia's apothecary).
 
-**Residents:** Matron Ilyana Vel'quinar, Kael (Weapons Master), Sera (Priestess of Eilistraee), Nalia (healer), Dren (smith — currently crewing *Eilistraee's Grace*), Vel (scout), Thorn + Vex (warriors/sentries), Ryn (apprentice wizard), Pim (14, student), Ash (elder historian), Lyriel (captain — currently crewing *Eilistraee's Grace*).
+**Residents (16):** Matron Ilyana Vel'quinar, Kael (Weapons Master), Sera (Priestess of Eilistraee), Nalia (healer), Dren (smith — crewing *Eilistraee's Grace*), Vel (scout), Thorn + Vex (warriors/sentries), Ryn (apprentice wizard), Pim (14, student), Ash (elder historian), Lyriel (captain — crewing *Eilistraee's Grace*), Nhilara (Dawnwatch specialist), Velyndra Vel'nessra (glassworker, defected S8), Taelar Vel'nessra (weaver, defected S8), Sylla Vel'nessra (age 7, student #15, defected S8).
 
-**Defenses:** Ward perimeter (same design as Dawnwatch, installed by Zaryth). Night sentries: Kael, Thorn, Vex.
-**Income (projected):** Nalia apothecary 30–50 gp/month, Dren forge 20–30 gp/month, Vel hunting 15–20 gp/month, Kael militia training 10 gp/month, Lyriel + Dren ship crew wages 22 gp/month.
-**Construction cost:** 175 gp (Dawnwatch funded). Est. completion: ~Day 156.
+**Defenses:** Stone wall. Ward perimeter (Drow-specific, tower-linked). Underground armory (4 hand crossbows, 1 heavy crossbow, 4 dark steel spears, 4 reinforced shields, 5 leather sets). 8 combat-capable. 3-shift night watch. Underground fallback position.
+**Income:** ~75 gp/month (rising). Loan: 175 gp at 15 gp/month.
+**New trades:** Spider-silk weaving (Taelar + Thessaly), Drow glasswork (Velyndra + Sylvara).
 
 ### Tidemeet ⚓
 River mouth where the Fenhollow river meets the Hearthcoast Sea. Sandy beach on the south bank, rocky tide pools on the north. Half-day walk south of Fenhollow (2 hours by cart). Coastal vessels dock here — sea route to Aelindra (3–4 days).
@@ -372,33 +372,40 @@ The continental ward system has two layers:
 | **Node 11** | Sethrak's Threshold, northern wastes (D1) | **75% ✔ RECONSTRUCTED** | Cascade origin. 6-anchor, Zaryth as Warden's Anchor. 14 ward-wraiths freed peacefully. Zero combat. |
 | **Node 12** | Greyveil Pass (E2) | **72% ✔ REPAIRED** | Vaelith's vigil site. Ward dome stable. Entities withdrew voluntarily. |
 
-**ALL 8 KNOWN OUTER WARD NODES ACTIVE — first time in 1,248 years.**
-Ward network: Root (active) + 8 outer: 9 (78%), 10 (80%), 11 (75%), 12 (72%), 3 (62%), 5 (74%), 2 (71%), 4 (76%).
+**ALL 14 OUTER WARD NODES ACTIVE — first time in 3,248 years.**
 
-### Tentatively Identified Nodes (Now Confirmed — Vaelen's Map)
+Ward network: Root (active) + 14 outer nodes + Anchor Point (permanent hub).
 
-| Node | Binding Name | Tentative Location | Hex (est.) | Confidence | Notes |
-|------|-------------|-------------------|------------|------------|-------|
-| **Node 1** | The Anchor of the Southern Deep | Volcanic island S of Port Veldmere | L16 | **Confirmed** | 3 days sail S of Veldmere. Revka/Silver Chain may have local knowledge. 🕳 Possible Underdark entrance (U11). |
+| Node | Name | Location | Reading | Method |
+|------|------|----------|---------|--------|
+| 1 | Southern Deep | Volcanic island S of Veldmere (L16) | **64%** | Remote boost from Anchor Point |
+| 2 | Drowned Forge | Ashfire Isle (B12) | **71%** | Physical repair |
+| 3 | Storm Pillar | Western headland (A7) | **62%** | Physical repair + behir combat |
+| 4 | Tidewatcher | Tidal shelf (A10) | **76%** | Physical infusion |
+| 5 | Stormcape | Western coast (A5) | **74%** | Physical reconstruction |
+| 6 | Thornveil Heart | Deep Thornveil Forest (F7) | **69%** | Remote boost from Anchor Point |
+| 7 | Marsh Threshold | Fenhollow keeper station (G8) | **91%** | Self-maintaining |
+| 8 | River Memory | Upper Mirren River (G7) | **71%** | Remote boost from Anchor Point |
+| 9 | Vel Tharis | Coastal cliffs N of Aelindra (O4) | **78%** | Physical repair |
+| 10 | Cape Ashward | NE headland (Q3) | **80%** | Physical repair |
+| 11 | Sethrak's Threshold | Northern wastes (D1) | **75%** | Physical reconstruction |
+| 12 | Greyveil Pass | (E2) | **72%** | Physical repair |
+| 13 | Sunken Crown | Submerged reef, 40 mi E of Cape Ashward | **67%** | Underwater physical reconstruction (S8) |
+| 14 | Ember Vein | Beneath Greypeaks (E4) | **68%** | Physical repair via Ashara station (S7) |
 
-### Unknown Nodes (Newly Identified — Vaelen's Map, Day 185)
+### Anchor Point (Pre-Binder Prototype)
+400 ft beneath Thornback Gulch, Ashport. Control interface for the entire network. **PERMANENTLY ACTIVE** — 7 Heartstones seated. Vaelen + Warden Drell stationed as keepers. **Vel'thara embassy** — permanent aperture to the Vel'thara resonance plane. Accord signed Day 244. See `maps/velthara-map.md`.
 
-| Node | Binding Name | Location | Hex (est.) | Access | Notes |
-|------|-------------|----------|------------|--------|-------|
-| **Node 6** | The Thornveil Heart | Deep Thornveil Forest, central interior | F7 | Overland — 2–3 days N of homestead into unmapped forest | Near Torven's scouted sinkholes. Dense canopy. No trails. |
-| **Node 7** | The Marsh Threshold | Fenhollow Marshes, at/near Binding-era keeper station | G8 | Keeper station (U6) — already accessed | Resonance anchor in keeper station may BE Node 7. Half-day from homestead. |
-| **Node 8** | The River's Memory | Upper Mirren River, submerged bend upstream of Harrowgate | G7 | Seasonal — low water late summer/autumn | Previously tentatively identified. Now confirmed. |
-| **Node 13** | The Sunken Crown | Submerged reef, deep Hearthcoast Sea between Duskport and Salthollow | M10 | Ship + diving. Open water. | Fully underwater. Requires Water Breathing + vessel. |
-| **Node 14** | The Ember Vein | Deep beneath Greypeak Mountains | E4 | Mine shafts — Greymoor Shaft 9 (sealed door at 600 ft) | Donal Crewe's "singing from the ground." Underground access only. |
+### Keeper Stations
+| Station | Location | Reading | Status |
+|---------|----------|---------|--------|
+| Fenhollow | Marshes (G8) | 91% | Full relay hub. 8 Heartstones. |
+| Aelindra | Sub-level 3 (N5) | 58% | Repaired. Map room. Vault. |
+| Ashara | Beneath Vel'arath (G6 access) | Relay-reset | Fortified. Remote hard-seal. |
+| Vel'arath (Station Four) | Old quarter (F7) | 91% | **COMPROMISED** — wall cracked during activation. |
 
-### Unknown Nodes (Unidentified)
-
-| Nodes | Status |
-|-------|--------|
-| ~~6, 7, 13, 14~~ | **ALL IDENTIFIED** — Vaelen's carved map, Binding-era keeper station (Day 185) |
-
-### Cascade Model
-**CASCADE ENDED.** ALL 8 KNOWN OUTER NODES REPAIRED. First time in 1,248 years. **ALL 14 NODES NOW IDENTIFIED** — Vaelen's carved map discovered in Binding-era keeper station (Day 185). 6 unrepaired nodes remain: 1 (volcanic island), 6 (Thornveil), 7 (marsh/keeper station), 8 (Mirren River), 13 (underwater reef), 14 (Greypeak mines).
+### Cascade Status
+**CASCADE ENDED.** All 14 nodes active. Anchor Point provides remote monitoring + boost.
 
 ### Barrow Sites (from Edra Voss's research)
 
@@ -485,7 +492,7 @@ Ward network: Root (active) + 8 outer: 9 (78%), 10 (80%), 11 (75%), 12 (72%), 3 
 | **Crew** | Corr (deckhand) | Dren (engineer/deckhand) |
 | **Route** | Triangle: Tidemeet → Veldmere → Stormcape (summer). Tidemeet ↔ Veldmere (winter). | Northern Express: Tidemeet → Aelindra → Salthollow → Tidemeet |
 | **Revenue** | 100–150 gp/month | 120–180 gp/month (est.) |
-| **Status** | Operational (Day 163, 1248 AS) | Under construction (~Day 173, 1249 AS) |
+| **Status** | Operational (Day 163, 1248 AS) | **Operational** (Day 173, 1249 AS). Also serves as expedition vessel. |
 | **Home port** | Tidemeet | Tidemeet |
 | **Trade Guild** | Thessaly's endorsement — 5–10% savings | Same (fleet-wide) |
 | **Details** | See `maps/sea-routes.md` | See `maps/sea-routes.md` |
@@ -515,9 +522,12 @@ See `maps/underdark-map.md` for full details. Summary:
 | U3 | Ashenmere Lower Vault | F4 | Confirmed — sealed, garrison posted | High |
 | U4 | Greypeak Pass Caverns | E3 | Suspected | High |
 | U5 | Thornveil Sinkholes | F6–G7 | Suspected — 2 sinkholes scouted | High |
-| U6 | Three Sealed Ruins (Marshes) | G8 | **SCOUTED** — sealed door found, Binding frequency | High |
+| U6 | Three Sealed Ruins (Marshes) | G8 | **ACCESSED** — keeper station active (Node 7, 91%) | High |
 | U7 | Warden's Forge Tunnels | D1 | Suspected — Vaelith confirms sealed | High |
 | U8–U14 | Various (see underdark-map.md) | Various | Suspected/Rumor | Medium–Low |
+| U15 | Aelindra Keeper Station | N5 | **ACCESSED** — 58% repaired | High |
+| U16 | Sinkhole / Ashara Station | G6 | **ACCESSED + SEALED** — ward-locked, alarmed | High |
+| U17 | Station Four (Vel'arath) | F7 | **ACCESSED** — 91%, **COMPROMISED** (wall cracked) | High |
 
 ---
 
@@ -546,9 +556,12 @@ See `maps/underdark-map.md` for full details. Summary:
 | Tidemeet | Soren Blackwater (warehouse manager) | Dawnwatch Trading Company |
 | Deephollow (Underdark) | Elder Garrin | Svirfneblin trade (amethyst, mushrooms) |
 | Crystalvein (Underdark) | Elder Brill | Svirfneblin trade (sapphires) |
+| Ashport | Dalla Cray (potential recruit) | Southern port contact |
+| Anchor Point | Vaelen + Warden Drell | Vel'thara embassy keepers |
+| Vel'thara (beyond boundary) | The Speaker (Song Bridges harmony) | Extradimensional ambassador |
 
 ---
 
-*Last updated: Day 180, 30th Reaptide, 1249 AS*
-*Party location: Dawnwatch Homestead, Fenhollow*
-*Campaign status: ARC 1-3 ✅ — ALL 14 NODES IDENTIFIED. 3 keeper stations found (2 active). Deep Road operational. Vel'quinar rescued (13 members). Fleet: 2 ships + 1 coach. Warehouse operational. Drow thread active. Southern ports mapped.*
+*Last updated: Day 260, 30th Frostmere, 1249 AS*
+*Party location: Dawnwatch Homestead, Fenhollow. Anchor Point embassy active (Ashport).*
+*Campaign status: ARC 1-4 COMPLETE. ARC 5 BEGUN (Vel'thara). ALL 14 NODES ACTIVE. 4 keeper stations + Anchor Point. Vel'thara embassy operational. Ashara captured. Party Level 4.*

@@ -157,7 +157,7 @@
 
 | NPC | Race/Age | Role | Status | Quick Description |
 |-----|----------|------|--------|-------------------|
-| **Veradis Kael** | Human, 30s | Necromancer, "The Pale Quill" | Prisoner — Greymoor garrison | Former scholar-initiate, Order of the Ashen Veil. Destroyed the Temple of Quiet Passage (17 dead). Designed the delayed-activation catalyst. Captured by the Dawnwatch at Barrowfen. Confessed. Does not apologize. |
+| **Veradis Kael** | Human, 30s | Necromancer / alchemist, "The Pale Quill" | S5 (captured), S8 (surrendered) | **Surrendered — Dawnwatch homestead. Rehabilitation candidate.** | Former scholar-initiate. Destroyed the Temple of Quiet Passage (17 dead). Released from Greymoor by Thessara Vael (forged credentials). Worked for Ashara manufacturing inverted Heartstones. Surrendered voluntarily at Blacktide Inlet. Brilliant researcher — knows inversion theory, can build countermeasures. |
 | **Edra Voss** | Human, 30s | Broker, Watcher's operative | Prisoner — Aelindra city custody | Seren Voss's sister. Operated under 3 aliases (Edra Voss, Maren Holt, Lenna Marsh). Managed logistics for the necromantic operation from inside the Archive. Forged credentials. Cooperated fully during interrogation. |
 | **Unnamed Mercenary** | Human, late 30s | Hired operative, Vel Tharis | Prisoner — Aelindra city custody | Scar from temple to jaw. Carried a pre-made catalyst kit. Hired in Duskport. Didn't know what was in the vials. Sword-for-hire, not a necromancer. |
 
@@ -204,16 +204,7 @@
 
 ---
 
-*Last updated: Session 5 (Storyteller), Day 120 (Cape Ashward, Node 10)*
-*Campaign status: OUTER WARD RING COMPLETE. 4/4 known nodes repaired. Cascade ended. 2/7 barrows sealed.*
-*Party name: The Dawnwatch*
-*Party level: 3*
-*Party gold: ~4,644 gp*
-*Inter-city network: Voss–Kellan–Kess–Ashworth–Brenn–Fell (6 cities) + Serevane + Revka/Silver Chain + Veyra Solund + Dalla + Cole + Corran Ashward*
-*Homestead: Operational, self-sustaining, passive income 16–22 gp/week. Tessa managing.*
-*Remaining threads: 5 unsecured barrows, Nodes 1–8/13/14 (unknown), Archivist Seren Voss (missing)*
-*Vaelith: Travelling with party. Archive consulting position offered.*
-*Seren Ashvale: At homestead. Guiding western arc expedition.*
+*Section updated through Session 5 (Storyteller), Day 120. See Session 6–8 sections below for later NPCs.*
 
 ### Late Arc 2 / Homestead Arc NPCs
 
@@ -233,7 +224,7 @@
 |-----|----------|------|----------------|----------------|-------------------|
 | **Old Marsh** | Human, 70s | Master shipwright, Driftwood Landing | S5 Wildcard Turn 17 | Ally — built *Stormcape's Promise* | 40 years building vessels from salvage. Missing most teeth, sharp as a blade. "I built her for the day someone needed to go south again." |
 | **Tide-Speaker Venn** | Human, 50s | Tide-Speaker, Driftwood Landing | S5 Wildcard Turn 17 | Ally — Stormcape cliff-hold | Broad, voice like a foghorn. Rang the hand bell when the sloop departed. |
-| **Warden Drell** | Unknown, deceased | Former Keeper of Node 2 (Drowned Forge), Vigil of the Closed Eye | S5 Wildcard Turn 19 (remains found) | Deceased — died at her post ~40 years ago | Served 38 years alone in a volcanic sea cave. Found sitting upright, hands folded, journal in lap. Carved a stone turtle for every year of service. Maintained her cache until the end. Medallion taken by Seren. "She stayed until the end." |
+| **Warden Drell** | Unknown, 70s+ | Former Keeper of Node 2 (Drowned Forge), Vigil of the Closed Eye | S5 Wildcard Turn 19 (remains found), S8 Turn 33 (found alive) | **ALIVE — woken from 38-year dormancy by Anchor Point seal pulse. Stationed at Anchor Point with Vaelen.** | Served 38 years alone in a volcanic sea cave. Found sitting upright — not dead, dormant. Woke when the Anchor Point was sealed. Followed the singing. "I woke up in the dark three weeks ago and the stones were singing." |
 | **Tide-Speaker Lira** | Human, 30s | Tide-Speaker, Venn's Shelf | S5 Wildcard Turn 21 | Ally — Stormcape cliff-hold | Fierce, one eye. Reported a light and structure at Node 4 during last year's low tide. |
 | **Grandmother Wynn** | Human, 70s+ | Elder, Saltspray | S5 Wildcard Turn 21 | Ally — closest cliff-hold to Node 4 | Smallest cliff-hold (8 people). Gave Pip a whale-tooth pendant for his shell crown. "The rock breathes. Once a year, it rises, and the old marks glow." |
 | **Asha** | Human, ~12 | Folk ward-keeper of Node 4, Grandmother Wynn's granddaughter | S5 Wildcard Turn 23 | Ally — Saltspray, Stormcape coast | Barefoot, salt-crusted hair, basket of shells. Maintained Node 4's copper circuit with shell offerings arranged in ward-frequency patterns for years. Taught by her grandmother. Doesn't understand the theory — just knows it matters. Seren wants to teach her properly. |
@@ -258,7 +249,7 @@
 
 | NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
 |-----|----------|------|----------------|----------------|-------------------|
-| **Wren Hale** | Human, late 30s | Ranger, Greymoor — archery champion | S6 Turn 6 | Contact | Beat Orindel in the final round. Interested in his behir-sinew bow. |
+| **Wren Hale** | Human, 23 | Corporal, Greymoor garrison scout / archery champion | S6 Turn 6 | **DECEASED** — killed by fleeing Vel'sharen agents, Day 182 (S8) | Beat Orindel in archery at Duskport Reaping Fair. Killed in the line of duty watching a Vel'sharen dead drop. Funeral attended by Dawnwatch. Orindel laid his bow on the casket. 200 gp to his mother Hanna. |
 | **Sera Kade** | Human, mid-20s | Rapier specialist, Veldmere | S6 Turn 6 | Contact | Blade Dance finalist. Lost to Mira. Bowed with genuine respect. |
 | **Kael Ashford** | Human, 30 | Fighter, defending Grand Melee champion | S6 Turn 6 | Contact | Lost to Zaryth in the final. Good sport. "Next year?" No relation to Commander Ashford. |
 | **Bors Ironhand** | Dwarf | Fighter, Greymoor — Grand Melee semifinalist | S6 Turn 6 | Contact | Built like a forge anvil. "Good fight, drow." |
@@ -275,7 +266,7 @@
 
 | NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
 |-----|----------|------|----------------|----------------|-------------------|
-| **Vaelen** | Unknown, deceased (1,248+ years) | Keeper of the Threshold, Binding-era | S6 Turn 14 (journal found) | Deceased — journal recovered | Vaelith's teacher's teacher. Built the keeper station. Wrote the Binding script. Left a 300-page journal for his successor. "I hope they are kind. I hope they are brave." |
+| **Vaelen** | Pre-Binder, 3,200+ years | Creator of the ward network, Anchor Point keeper | S6 Turn 14 (journal), S8 Turn 34 (freed) | **ALIVE — freed Day 234. Physical form. Stationed at Anchor Point embassy with Drell.** | Built the ward network. Trapped by her student Ashara for 3,000 years. Projection contacted Zaryth at the Anchor Point. Freed when 6 Heartstones activated the control interface. Tending the moonpetal garden. "You came back." |
 
 ---
 
@@ -284,7 +275,7 @@
 | NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
 |-----|----------|------|----------------|----------------|-------------------|
 | **Ilyana Vel'quinar** | Drow, 100s+ | Matron of House Vel'quinar, Zaryth's mother | S7 Turn 9 | Allied — Vel'quinar homestead, Fenhollow | Tall, white hair, lavender eyes. Led 12 survivors for 8 years. Eilistraee follower. Broke Zaryth's ring to save him. "The house remembers its son." |
-| **Nhilara Vel'quinar** | Half-Elf, 34 | Outer circle trade liaison, counter-intel | S7 Turn 17 | Active — Tidemeet/Deep Road | Surface-born, raised Drow. 12 years surface trade. No Sunlight Sensitivity. Found at Tidemeet harbor. Counter-intel vs Vel'sharen. |
+| **Nhilara Vel'quinar** | Drow, 30s | Outer circle trade liaison, counter-intel | S7 Turn 17 | **Dawnwatch specialist (Level 8).** Counter-intel lead. Ashara's shadow. | Surface-experienced, 12 years undercover in Vel'sharen trade network. Found at Tidemeet harbor. Led Operation Copper Hair. Delivered killing blow on Ashara (non-lethal). |
 | **Kael Vel'quinar** | Drow | Weapons Master, Ilyana's brother | S7 Turn 9 | Allied — Vel'quinar homestead | Injured left leg (house war). Training Fenhollow militia. |
 | **Sera (Vel'quinar)** | Drow | Priestess of Eilistraee | S7 Turn 9 | Allied — Vel'quinar homestead | Divine magic restored by moonlight. Performed Zaryth's memory restoration. |
 | **Nalia** | Drow | Healer/herbalist | S7 Turn 9 | Allied — apothecary, Haldren partnership | Kept 12 people alive with fungal medicine for 8 years. |
@@ -302,8 +293,87 @@
 
 | NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
 |-----|----------|------|----------------|----------------|-------------------|
-| **Vaelith** | Unknown, 1,000+ | Last Warden, keeper protocol authority | S5 Day 108 | Active ally — led Ashara cadence validation and Node 14 relay alignment | Accompanied the Ashara station descent team. Validated keeper lock cadence and stabilized Node 14 interface sequencing. |
-| **Nhilara Vel'quinar** | Half-Elf, 34 | Counter-intel liaison | S7 Turn 17 | Active — monitoring spider-over-moon trail signs | Chalk/route sign pattern recovered in Ashara descent matches known Drow scout trail conventions. Counter-intel thread elevated. |
-| **Unidentified Drow Recon Pair** | Unknown | Probable scout team (spider-over-moon trail marks) | Day 181 (Ashara descent evidence) | At large | Two-person trail signs and recent movement detected around G6/Ashara side routes and Ember Vein service paths. No direct contact. |
+| **Vaelith** | Unknown, 1,000+ | Last Warden, keeper protocol authority | S5 Day 108 | Active ally — homestead. Overseeing Ashara. Containing inverted stones. Teaching Zaryth (Lesson 110). | Accompanied the Ashara station descent team. Validated keeper lock cadence and stabilized Node 14 interface sequencing. |
+| **Nhilara Vel'quinar** | Drow, 30s | Counter-intel liaison | S7 Turn 17 | **See S7 main entry — now Dawnwatch specialist** | Chalk/route sign pattern recovered in Ashara descent matches known Drow scout trail conventions. |
+| **Unidentified Drow Recon Pair** | Drow | Vel'sharen scouts (spider-over-moon trail marks) | Day 181 (Ashara descent evidence) | **IDENTIFIED — Velyndra + Taelar Vel'nessra. Captured Day 181. Defected. See Session 8 NPCs below.** | Trail signs and movement detected around G6/Ashara routes. Intercepted at marsh narrows. |
 
-*Last updated: Day 181, 1st Ashfall, 1249 AS*
+*Last updated: Day 260, 30th Frostmere, 1249 AS*
+
+---
+
+## Session 8 NPCs — Wildcard Arc (Scouts, Ashport, Ashara, Vel'thara)
+
+### Defectors (Vel'quinar Homestead)
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Velyndra Vel'nessra** | Drow, 60s | Former Vel'sharen scout, master glassworker | S8 Turn 3 (captured) | Defected — Vel'quinar homestead. Working with Sylvara. | Vel'nessra (absorbed minor house, artisans). 40 years outer circle. Provided Vel'arath patrol routes. "I was a glassworker. Before." |
+| **Taelar Vel'nessra** | Drow, 40s | Former Vel'sharen scout, spider-silk weaver | S8 Turn 3 (captured) | Defected — Vel'quinar homestead. Working with Thessaly. | Vel'nessra weaver. Bioluminescent thread technique. Defected for her daughter. |
+| **Sylla Vel'nessra** | Drow, 7 | Taelar's daughter | S8 Turn 7 (rescued) | Vel'quinar homestead. School student #15. | Rescued from Vel'arath crèche (Operation Copper Hair). Calls the moonpetal "the star flower." Likes fire-dragons. |
+
+### Prisoners / Probation (Dawnwatch Homestead)
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Ashara** | Pre-Binder, 3,217 | Binder, Vaelen's former student | S8 Turn 15 (workshop journal), Turn 23 (captured) | **Probation — homestead containment. Ward-suppressed. Cooperative.** Nhilara shadow, Vaelith overseer. | Built the Anchor Point with Vaelen. Trapped her teacher for 3,000 years. Funded necromancy + Zhael's fleet + inverted Heartstones. Captured at Blacktide Inlet. Participated in Anchor Point activation + Vel'thara contact. Reconciled with Vaelen. Kept a moonpetal locket for 3,000 years. |
+| **Edrin Vael** | Human, mid-20s | Alchemist, Ashara's assistant | S8 Turn 16 (captured) | Prisoner — homestead. Cooperating. High intel value. | Failed Archive student. Recruited by his sister Thessara. Knows inversion catalyst process. Terrified. In over his head. |
+| **Thessara Vael** | Human, 30 | Archivist-Liaison, Ashara's surface operative | S8 Turn 23 (surrendered) | Probation — homestead. Supervised. Archive credentials confiscated. | Edrin's sister. Real Archive credentials (not forged). Ran Ashara's entire surface logistics for 3 years. Maren Holt accounts, Cray contracts, Veradis release. Surrendered at Blacktide. Disillusioned. |
+| **Drael** | Drow | Vel'sharen agent (Veldmere cell) | S8 Turn 10 (captured) | Prisoner — homestead. Cooperating. | 11 years on the surface. Spice merchant cover. Pragmatic, not loyal. Provided ship intel + Harlen Cray identification. |
+| **Syvra** | Drow | Vel'sharen agent (Veldmere cell) | S8 Turn 10 (captured) | Prisoner — homestead. Provided cipher keys. | Handled dead drop communications. Gave current + next month cipher keys. |
+
+### Greymoor (Cole's Custody)
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **2x Unnamed Greymoor Agents** | Drow | Vel'sharen agents (scholar cover) | S8 Turn 10 (captured) | Cole's custody — military tribunal for murder of Corporal Wren Hale. | Fled, killed Wren Hale, captured at Thornveil forest edge. |
+
+### Ashport
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Harlen Cray** | Human, 50s | Ship broker, chandlery owner, Ashport | S8 Turn 12 (identified) | At large — low priority. | Cray & Sons, harbor front. Chartered 3 ships for Ashara via Ashward Maritime. Doesn't ask questions, charges double. |
+| **Dalla Cray** | Human, 19 | Courier, Harlen's daughter | S8 Turn 12 (captured) | Released — Ashport. Potential Dawnwatch Trading Company recruit. | Guided the team through Ashport. Knows her father's client list. Scared but cooperative. Didn't know she was working for Drow. |
+| **Bessa** | Human, 60s | Net-mender, Dalla's aunt, Ashport | S8 Turn 14 | Safehouse contact | North Ashport cottage. Asks no questions. Makes porridge. |
+| **Gull Tanner** | Human | Harbormaster / town authority, Ashport | S8 Turn 14 (mentioned) | Neutral — unaware of operations | ~30 part-time militia. Only authority in town. |
+| **Harsk** | Human, 40s | Mercenary guard, Thornback Gulch | S8 Turn 17 (captured) | Released — walked away. | Hired sword. Didn't know what he was guarding. Released by Zaryth. |
+
+### Vel'sharen (Intel from Interrogations)
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Matron Ydriss Vel'sharen** | Drow | High Priestess of Lolth, Vel'arath | S8 Turn 5 (named by Taelar) | At large — Vel'arath | Matron of House Vel'sharen. ~200 soldiers, 6 priestesses, 12 spider cavalry. |
+| **Matron Zhael Vel'sharen** | Drow | War-leader, Ydriss's daughter | S8 Turn 2 (named in target package) | At large — Vel'arath. Surface network dismantled. Inverted stones taken. | Ran the entire surface operation. Phase Two + Three architect. Lost all 6 inverted stones, all surface agents, and her patron. |
+| **Hanna Hale** | Human, 50s | Baker, Wren Hale's mother | S8 Turn 11 | Greymoor | 200 gp provided by Zaryth. "He was so proud." |
+
+### Vel'thara (Extradimensional)
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **The Speaker** | Vel'thara, 3,000+ | Ambassador, Vel'thara federation | S8 Turn 42 (crossed threshold) | Active — Anchor Point embassy. Returns via aperture. | Same individual who greeted Ashara 3,200 years ago. First Vel'thara to cross the boundary in 3,248 years. Gave Zaryth a living moonpetal (organic petals on crystal stem). Proposed the embassy. "Will you tend the flowers with us?" |
+
+### Anchor Point
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Vaelen** | Pre-Binder, 3,200+ | Creator of the ward network | S6 (journal), S8 Turn 34 (freed) | **ALIVE — Anchor Point keeper. Tending the garden.** | See Binding-Era section above (updated). |
+| **Warden Drell** | Unknown, 70s+ | Keeper of Node 2 | S5 (found), S8 Turn 33 (alive) | **ALIVE — Anchor Point keeper with Vaelen.** | See Western Arc section above (updated). |
+
+### Ship Crew
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Lyriel Vel'sharen** | Drow | Captain, *Eilistraee's Grace* | S7 Turn 12 | Active — northern express | Vel'sharen defector. Drow emissary turned Vel'quinar. Hybrid trimaran captain. Produced the last bottle of Vel'quinar moonwine. |
+| **Dren** | Drow | Engineer, *Eilistraee's Grace* | S7 Turn 12 | Active — resonance drive specialist | Quiet. Keeps the hybrid engine tuned. "The name is perfect." |
+
+---
+
+*Last updated: Day 260, 30th Frostmere, 1249 AS*
+*Campaign status: ARC 1-4 COMPLETE. ARC 5 BEGUN (Vel'thara first contact). ALL 14 NODES ACTIVE. Anchor Point embassy operational.*
+*Party name: The Dawnwatch*
+*Party level: 4 (Nhilara: 8)*
+*Party gold: ~11,784 gp*
+*Inter-city network: 9 cities + maritime + Stormcape + Vel'thara embassy*
+*Homestead: Fully developed. Vel'quinar homestead complete (16 residents).*
+*Key allies at Anchor Point: Vaelen (creator), Drell (keeper), The Speaker (Vel'thara)*
+*Key prisoners/probation: Ashara, Edrin Vael, Thessara Vael, Drael, Syvra*
+*Remaining threads: Vel'sharen response to Station Four. Southern expansion. Vel'thara cultural exchange. Ashara's long-term fate. Node 13 improvement.*

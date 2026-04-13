@@ -92,7 +92,17 @@
 | Ashport | Coral Haven | 3 days | Island hop. |
 | Coral Haven | Sunmere | 4 days | Open water. |
 
-**Status:** Intel only (Revka + Nhilara). No Dawnwatch vessels currently running southern routes. Future expansion target (Year 3+). *Eilistraee's Grace* resonance drive could handle the doldrums on the southern crossing.
+**Status:** Intel only (Revka + Nhilara). No Dawnwatch vessels currently running southern routes. *Eilistraee's Grace* has sailed to Ashport twice (S8 operations). Harlen Cray's chandlery (Ashport) identified as Ashara's ship broker — 3 chartered vessels now leaderless. Dalla Cray (Ashport) is a potential Dawnwatch Trading Company recruit. Future expansion target.
+
+### Ashport Route (Established — S8)
+
+| From | To | Time | Notes |
+|------|----|------|-------|
+| Tidemeet | Veldmere | 1.5 days | Standard leg |
+| Veldmere | Ashport | 3 days | Warm waters. Calm. |
+| **Tidemeet → Ashport** | | **4.5 days** | Via Veldmere. *Eilistraee's Grace* ran this twice in S8. |
+| Ashport | Blacktide Inlet | 0.5 days | Short coastal hop north. Hidden cove. |
+| Ashport | Cape Ashward | 1.5 days | Northeast. Corran Ashward's village. |
 
 ---
 
@@ -117,8 +127,10 @@ Homestead → (20 min walk) → Fenhollow → (Wynn Dodd cart, 2 hrs) → Tideme
 | Sea storms | Open Hearthcoast | Greymist onward | High — suspend western leg |
 | Tidal currents | Stormcape headlands | Year-round | Moderate — local knowledge required |
 | Fog | Tidemeet river mouth | Greymist–Frostmere | Low — delays, not danger |
+| Fog | Blacktide Inlet | Ashfall–Frostmere | Low — actually useful for ambushes |
 | Ice | Northern routes (Aelindra) | Deepwinter–Longnight | High — avoid |
-| Piracy | Southern routes (Veldmere) | Year-round | Low — Silver Chain patrols active |
+| Piracy | Southern routes (Veldmere–Ashport) | Year-round | Low — Silver Chain patrols active |
+| Blacktide Inlet | South of Salthollow | Year-round | ⚠️ Former Ashara staging point. 3 chartered ships (*Blacktide Runner*, *Salt Maren*, *Duskholm*) now leaderless. Revka shadowing. |
 
 ---
 
@@ -140,7 +152,7 @@ Homestead → (20 min walk) → Fenhollow → (Wynn Dodd cart, 2 hrs) → Tideme
 | Captain | Maren Voss | 3.5 gp/week + 10% net | Stormcape heritage. Vetted by Serevane. |
 | Deckhand | Corr | 1.5 gp/week | Stormcape-born. Ex-*Salt Penny*. |
 
-### Ship 2 — *Eilistraee's Grace* (under construction)
+### Ship 2 — *Eilistraee's Grace*
 
 | Spec | Detail |
 |------|--------|
@@ -149,24 +161,43 @@ Homestead → (20 min walk) → Fenhollow → (Wynn Dodd cart, 2 hrs) → Tideme
 | **Propulsion** | Wind + resonance drive (ward-inscribed, ambient Binding frequency). 2–3 knots in dead calm. |
 | **Special** | Hull Mending enchantment (self-repairing minor damage). Resonance drive also functions on Deep Road river sections (4–5 knots). |
 | **Home port** | Tidemeet harbor |
-| **Route** | Northern Express: Tidemeet → Aelindra → Salthollow → Tidemeet |
-| **Revenue (est.)** | ~120–180 gp/month |
-| **Build** | 170 gp + 4 ward-ink. 30 days at Tidemeet. Operational ~Day 173. |
+| **Route** | Northern Express: Tidemeet → Aelindra → Salthollow → Tidemeet. Also: expedition vessel (Ashport, Blacktide, Cape Ashward). |
+| **Revenue (est.)** | ~120–180 gp/month (trade runs) |
+| **Status** | **OPERATIONAL** — commissioned Day 173, 1249 AS |
 
 | Role | Name | Wage | Notes |
 |------|------|------|-------|
-| Captain | Lyriel Vel'sharen | 3.5 gp/week + 10% net | Drow. House Vel'quinar emissary. Surface-experienced. |
-| Engineer/Deckhand | Dren | 2 gp/week | Drow smith. Maintains resonance drive. |
+| Captain | Lyriel Vel'sharen | 3.5 gp/week + 10% net | Drow. House Vel'quinar. Surface-experienced. Produced the last bottle of Vel'quinar moonwine. |
+| Engineer/Deckhand | Dren | 2 gp/week | Drow smith. Maintains resonance drive. "The name is perfect." |
+
+### Land & Deep Road Transport
+
+| Vehicle | Route | Time | Capacity | Notes |
+|---------|-------|------|----------|-------|
+| **Dawnwatch Coach** | Homestead ↔ Tidemeet ↔ Fenhollow | 20 min – 2 hrs | 6 passengers + cargo | Resonance-assisted. 2 horses. Vex driving. |
+| **Threshold Runner** | Fenhollow ↔ Aelindra (Deep Road) | 9 hours | 4 passengers + light cargo | Underground wagon. Resonance lift at Listening Dark. |
+
+### Tidemeet Warehouse — Dawnwatch Trading Company
+
+| Detail | Info |
+|--------|------|
+| **Manager** | Soren Blackwater |
+| **Assistant** | Tam Fenn |
+| **Location** | Tidemeet harbor, berth 14 |
+| **Function** | Cargo staging, fleet coordination, trade broker |
+| **Revenue** | ~2 gp/day commission on through-traffic |
 
 ### Fleet Summary
 
 | Ship | Route | Crew Cost/Month | Est. Revenue/Month | Net/Month |
 |------|-------|----------------|-------------------|----------|
 | *Stormcape's Promise* | Western triangle / Veldmere shuttle | 20 gp | 100–150 gp | 80–130 gp |
-| *Eilistraee's Grace* | Northern express | 22 gp | 120–180 gp | 98–158 gp |
-| **Total** | | **42 gp** | **220–330 gp** | **178–288 gp** |
+| *Eilistraee's Grace* | Northern express / expedition | 22 gp | 120–180 gp | 98–158 gp |
+| **Total fleet** | | **42 gp** | **220–330 gp** | **178–288 gp** |
+
+**Combined monthly income (fleet + warehouse + coach):** ~240–350 gp
 
 ---
 
-*Last updated: Day 180, 30th Reaptide, 1249 AS*
-*Fleet: 2 ships (both operational). Tidemeet warehouse active. Southern routes mapped (intel only).*
+*Last updated: Day 260, 30th Frostmere, 1249 AS*
+*Fleet: 2 ships (both operational). Tidemeet warehouse active. Dawnwatch Coach operational. Threshold Runner operational. Southern routes established (Ashport). Blacktide Inlet under Silver Chain surveillance.*

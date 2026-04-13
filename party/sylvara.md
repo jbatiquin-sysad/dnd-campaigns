@@ -5,14 +5,14 @@
 - **Class:** Wizard (School of Evocation)
 - **Background:** Sage
 - **Alignment:** Neutral Good
-- **Level:** 3
+- **Level:** 4
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  8  |  14 |  10 |  16 |  12 |  13 |
 
-**HP:** 14 | **Hit Dice:** 3d6 | **AC:** 15
+**HP:** 19 | **Hit Dice:** 4d6 | **AC:** 16
 
 ## Key Features
 - Spellcasting (INT-based): Spellbook with 6+ spells, prepare INT mod + level/day. 4x 1st-level, 2x 2nd-level slots.
@@ -48,6 +48,12 @@ Discovered the full covenant text: "When the watchers number eight and the chain
 Her darkest hour: leaving Aelindra knowing she may have given Thessara permission by arguing to preserve the Tome. Her light: being needed by good people for something that wasn't theoretical.
 
 At the Dawnwatch Homestead, she restored the orchard with Thessaly. Bram built her a writing desk — east window, morning light. She wrote one line about each party member and read them aloud. Pip cried.
+
+## Defining Moment
+Read the Anchor Point activation schematic — a 3,000-year-old Binder engineering document — and understood it. Co-created the Atlas of the Vel'thara with Torven: the first cartographic rendering of another world, translated from frequency to visual. Twelve civilizations mapped in a notebook on a stone floor.
+
+## Downtime
+Transcribes. The Atlas consumed a week of 10-hour days. Studies Edrin's spellbook for non-dangerous spells. Teaches glassblowing with Velyndra — learning Drow bioluminescent technique. Her notebook is now volume 4.
 
 ## Equipment (Current — S5 Day 120, Cape Ashward)
 - Spellbook (in travel case)

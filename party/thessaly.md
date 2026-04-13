@@ -5,14 +5,14 @@
 - **Class:** Rogue (Thief Archetype)
 - **Background:** Noble
 - **Alignment:** Chaotic Neutral
-- **Level:** 3
+- **Level:** 4
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  13 |  15 |  14 |  12 |   8 |  10 |
 
-**HP:** 24 | **Hit Dice:** 3d8 | **AC:** 14
+**HP:** 31 | **Hit Dice:** 4d8 | **AC:** 17
 
 ## Key Features
 - Sneak Attack: 2d6 extra damage
@@ -55,6 +55,12 @@ She drew the seventh line at the Inkwell, over Dalla's wine, with eight rings on
 At the Dawnwatch Homestead, she pruned the orchard with Sylvara and handles the budget. Shares a room with Bram. Planning the school together — he teaches resilience, she teaches contracts. "Ask me again after Aelindra," she'd said on the ship. He asked. She said yes.
 
 Held perimeter with Mira at every node repair — two rogues, two crossbows, twenty minutes at Sethrak's Threshold with unknown entities on the horizon. Tapped the rhythm of the Ward-Light Hymn on her knee — precise, metronomic, the heartbeat of the song. Earned a standing tailoring commission from Madame Voss in Aelindra. At Cape Ashward, she stood beside Mira on the cliff edge after the last node sang. "One to go," Mira said. "One to go," Thessaly answered. Then there were none.
+
+## Defining Moment
+Walked into a Veldmere bank as "Maren Holt," collected 2,000 gold from the account that funded a continental conspiracy, and walked out. In the same week, took a Ward Pulse from a 3,000-year-old Binder that dropped her to 2 HP — got up, mended her jacket, and said "I'm adding that to the invoice."
+
+## Downtime
+Reviews the Dawnwatch Trading Company books. Wrote a 6-page proposal titled "Preliminary Assessment: Cross-Threshold Commerce." Mends every torn garment in the homestead. Works the loom with Taelar, learning spider-silk technique. The spice ledger from the Veldmere cell is surprisingly profitable.
 
 ## Equipment (Current — S5 Day 120, Cape Ashward)
 - Rapier (equipped, sharpened)

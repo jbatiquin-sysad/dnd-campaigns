@@ -4,7 +4,7 @@
 - **Full Name:** Seren Ashvale
 - **Race:** Human
 - **Class:** Monk (Way of the Open Hand)
-- **Level:** 3
+- **Level:** 4
 - **Background:** Hermit (31 years of solitary vigil)
 - **Alignment:** Neutral Good
 - **Age:** Late 50s
@@ -16,15 +16,15 @@
 | 10 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 16 (+3) | 10 (+0) |
 
 ## Combat
-- **HP:** 24/24 (3d8 + 6 CON)
-- **AC:** 16 (Unarmored Defense: 10 + DEX 3 + WIS 3)
+- **HP:** 31/31 (4d8 + 8 CON)
+- **AC:** 17 (Unarmored Defense: 10 + DEX 3 + WIS 4)
 - **Speed:** 40 ft (Unarmored Movement +10 at Monk 3)
 - **Initiative:** +3
 - **Proficiency Bonus:** +2
 - **Ki Points:** 3 (recharge on short rest)
 
 ## Unarmored Defense
-AC = 10 + DEX mod + WIS mod = **16** (no armor needed)
+AC = 10 + DEX mod + WIS mod = **17** (no armor needed)
 
 ## Weapons
 | Weapon | Attack | Damage | Range | Notes |
@@ -49,6 +49,12 @@ AC = 10 + DEX mod + WIS mod = **16** (no armor needed)
 - **Tools:** Herbalism kit, Navigator's tools
 - **Saving Throws:** STR +2, DEX +5
 - **Languages:** Common, Stormcape dialect
+
+## Defining Moment
+Punched two guards unconscious at dawn to clear Blacktide Inlet, held the cove mouth alone, took a Ward Pulse that nearly killed her, pulled herself out of the ocean, and kept fighting. Then meditated for three days and said: "I kept a node alive for thirty-one years because I thought I was alone. I wasn't. They were singing on the other side the whole time."
+
+## Downtime
+Meditates. Stood in the marsh until sunset on the fourth day. Teaches coastal herb identification to Mira. Runs the ward perimeter checks — old habit from 31 years of solitary vigil. Reads the sky every 10 minutes. Some things don't change.
 
 ## Equipment
 | Slot | Item | Notes |
@@ -77,7 +83,7 @@ AC = 10 + DEX mod + WIS mod = **16** (no armor needed)
 - **Relationship:** Deep bond with Vaelith (shared Vigil duty). Growing trust with the party. Protective of Pip (he reminds her of the cliff-hold children).
 
 ## Combat Role
-Mobile striker + controller. 40 ft speed lets her reach any target. Flurry of Blows = 3 attacks per round with Open Hand knockdown/push. Patient Defense when tanking. Deflect Missiles vs ranged. No armor needed — AC 16 matches the rogues. She fights like the coast taught her: fast, efficient, no wasted movement.
+Mobile striker + controller. 40 ft speed lets her reach any target. Flurry of Blows = 3 attacks per round with Open Hand knockdown/push. Patient Defense when tanking. Deflect Missiles vs ranged. No armor needed — AC 17 matches the rogues. She fights like the coast taught her: fast, efficient, no wasted movement.
 
 ## Backstory
 31 years as Keeper of Node 5 (Stormcape). The solitary vigil was her monastery — decades of daily discipline, physical conditioning, meditation, and survival on the most exposed coast on the continent. She didn't train as a monk in any tradition. The coast made her one. Node fell 9 months before meeting the Dawnwatch. Walked through frozen marsh on New Year's Eve to find the people who made the stones sing again. Guided the western arc expedition. Came home.
