@@ -106,6 +106,7 @@ duskport-campaign/
 │   ├── zaryth.md                ← your character
 │   ├── mira.md, aldric.md, sylvara.md, bram.md,
 │   │   thessaly.md, orindel.md, pip.md, seren.md, torven.md
+│   ├── nhilara.md               ← specialist (Level 8, Drow Barbarian/Rogue)
 │   └── *.png                    ← character portraits
 ├── npc/
 │   ├── npc-catalogue.md         ← all NPCs catalogued
@@ -116,16 +117,18 @@ duskport-campaign/
 │   └── dm-wildcard.md
 ├── sessions/
 │   ├── README.md                ← save convention
-│   ├── week-01.md through week-15.md
+│   ├── week-01.md through week-18.md
 ├── lore/
 │   ├── calendar-guide.md        ← 12-month calendar, seasons, festivals, timeline
 │   ├── history-known-world.md   ← 3,000-year world history (Vaelith + Seren account)
-│   └── library-catalogue.md     ← Dawnwatch library: 14 books + 4 in progress
+│   └── library-catalogue.md     ← Dawnwatch library: 29 books
 ├── maps/
 │   ├── map-known-world.md       ← world map, distances, ward nodes, Underdark entrances
 │   ├── scaled-map.md            ← hex grid map (1 hex = 24 mi), terrain, ward coverage
 │   ├── sea-routes.md            ← trade routes, seasonal cargo, crew, revenue
-│   └── underdark-map.md         ← Underdark entrances (confirmed, suspected, rumored)
+│   ├── underdark-map.md         ← Underdark entrances (confirmed, suspected, rumored)
+│   ├── underdark-scaled-map.md  ← Underdark hex grid, Deep Road, Vel'arath layout
+│   └── velthara-map.md          ← Vel'thara Resonance Atlas (extradimensional, 12 harmonies)
 ├── combat/
 │   └── SRD combat rules (full + LLM-optimized)
 ├── monsters/
@@ -167,6 +170,7 @@ duskport-campaign/
 | 15 | 1–156 | 1st Greenthaw–6th Reaptide | The Western Arc — Forge, Behir, 4 Nodes, Trimaran, Home | Wildcard |
 | 16 | 156–360 | 6th Reaptide–30th Thawsend | Duskport, Reaping Fair, Trade Op, Underdark Investigation, Old Foundation, Winter | Chronicler |
 | 17 | 1–180 | 1st Greenthaw–30th Reaptide | Deep Road, Heartstones, Vel'quinar Rescue, Fleet Expansion, Veldmere Fair | Storyteller |
+| 18 | 181–260 | 1st Ashfall–30th Frostmere | Scouts, Copper Hair, Ashport, Ashara Captured, Vel'thara First Contact | Wildcard |
 
 ## Campaign Arcs
 
@@ -186,28 +190,21 @@ Dismantled a seven-city conspiracy. All 7 targets handled. Zero combat casualtie
 
 Root awakened. Continental ward covenant renewed.
 
-### Arc 2: The Ward Cascade (Session 5) — OUTER RING COMPLETE
+### Arc 2: The Ward Cascade (Session 5) ✅ COMPLETE
 
-The outer ward network's known nodes have been repaired. The cascade is ended.
+All outer ward nodes repaired. All barrows sealed. Cascade ended.
 
 | Thread | Status |
 |--------|--------|
-| Veradis Kael (necromancer) | Captured — Greymoor |
+| Veradis Kael (necromancer) | Surrendered — Dawnwatch homestead (S8). Rehabilitation candidate. |
 | Edra Voss (broker) | Captured — Aelindra |
-| Barrow of Keth-Varos | 🔒 Sealed (1/7) |
-| Barrow of Vel Tharis | 🔒 Sealed (2/7) |
-| 5 remaining barrows | 🔒 ALL SEALED (7/7) |
-| Node 9 (Vel Tharis) | ✔ **78% — REPAIRED** |
-| Node 10 (Cape Ashward) | ✔ **80% — REPAIRED** (highest reading) |
-| Node 11 (Sethrak's Threshold) | ✔ **75% — RECONSTRUCTED** (cascade origin sealed) |
-| Node 12 (Greyveil Pass) | ✔ **72% — REPAIRED** |
-| Nodes 1–8, 13–14 | Unknown — Field Manual has documentation |
-| Vaelith (Last Warden) | At homestead. Teaching Zaryth ward engineering. |
-| Ward repair ritual | Complete — used at all 4 nodes |
-| Vigil Field Manual | Acquired — complete documentation for all 14 nodes |
-| Dawnwatch Rings | 8x enchanted — ward-network attuned, resonance pulse |
-| Warden's Forge | Discovered — operational, 2.5 blocks raw resonance stone |
-| Ward-Light Hymn | Composed by Orindel — used as sympathetic resonance in all repairs |
+| All 7 barrows | 🔒 ALL SEALED (7/7) |
+| Nodes 9, 10, 11, 12 | ✔ All REPAIRED |
+| Vaelith (Last Warden) | At homestead. Teaching Zaryth (Lesson 110). |
+| Vigil Field Manual | Acquired |
+| Dawnwatch Rings | 10x enchanted |
+| Warden's Forge | Operational, 2.0 blocks raw resonance stone |
+| Ward-Light Hymn | Composed by Orindel — transmitted to the Vel'thara |
 
 ### Arc 3: The Western Arc (Session 5 — Wildcard) ✅ COMPLETE
 
@@ -224,29 +221,65 @@ All 4 western ward nodes repaired. Behir nest cleared. Stormcape alliance built.
 
 Behir heart → Thessaly's rapier (Silent Storm + Nerve Strike). Trimaran *Stormcape's Promise* built with Old Marsh. 5 Stormcape cliff-holds allied. Pigeon network to western coast.
 
-## Current Status — Session 7 (Storyteller) — YEAR 1249
+### Arc 4: The Underdark / Ashara Conspiracy (Sessions 6–8) ✅ COMPLETE
 
-**Date:** 30th Reaptide, 1249 AS (Day 180) — Late Summer
-**DM:** Mara Solenne, The Storyteller
+Underdark investigation → Vel'quinar rescue → Ashara conspiracy dismantled → Vel'thara first contact.
+
+| Thread | Status |
+|--------|--------|
+| Deep Road | ✅ Operational. Lift + wagon. 9 hours Fenhollow ↔ Aelindra. |
+| Keeper Stations | ✅ 4 accessed (Fenhollow, Aelindra, Ashara, Vel'arath) + Anchor Point |
+| House Vel'quinar | ✅ 16 members. Homestead complete. Ilyana (Matron) alive. |
+| Vel'sharen surface network | ✅ DISMANTLED. All 6 agents + 1 courier captured. |
+| Ashara (3,000-year-old Binder) | ✅ CAPTURED at Blacktide Inlet. Probation at homestead. |
+| Inverted Heartstones (6) | ✅ ALL RECOVERED. Contained at forge. |
+| Vaelen (ward network creator) | ✅ FREED. Physical form. Stationed at Anchor Point. |
+| Warden Drell | ✅ ALIVE. Woken from 38-year dormancy. At Anchor Point. |
+| Anchor Point (pre-Binder prototype) | ✅ PERMANENTLY ACTIVE. 7 Heartstones. Control interface. |
+| ALL 14 NODES | ✅ ACTIVE. 3 remote-boosted from Anchor Point. First time in 3,248 years. |
+| Node 13 (Sunken Crown) | ✅ Underwater reconstruction. 67%. |
+| Vel'thara first contact | ✅ Phases 1–4 complete. Embassy established. Accord signed. |
+
+### Arc 5: The Vel'thara Accord (Session 8+) — IN PROGRESS
+
+First contact with the Vel'thara — a 12-civilization resonance federation beyond the ward boundary.
+
+| Thread | Status |
+|--------|--------|
+| Vel'thara Embassy | ✅ Operational. Anchor Point. Permanent aperture. Shared garden. |
+| The Accord | ✅ Signed Day 244. Threshold open. One Speaker at a time. Kill switch with Warden. |
+| The Speaker | Crossed the threshold. Gave moonpetal gift. Returns via aperture. |
+| Ward-Light Hymn | Transmitted to 12 Vel'thara civilizations. |
+| Atlas of the Vel'thara | Created by Sylvara + Torven. Book #29. |
+| Cultural exchange | IN PROGRESS. Phased approach. |
+| Vel'sharen response | PENDING. Station Four compromised (wall cracked). |
+| Southern expansion | PENDING. Ashport route established. |
+
+## Current Status — Session 8 (Wildcard) — YEAR 1249
+
+**Date:** 30th Frostmere, 1249 AS (Day 260) — Late Autumn
+**DM:** Corvus Chance, The Wildcard
 **Location:** Dawnwatch Homestead, Fenhollow
-**Party Level:** 3 | **Party Gold:** ~8,429 gp | **Party Size:** 10 + 13 Vel'quinar
-**Homestead:** Fully developed — stone wall, ward perimeter (4-layer defense), tower, forge, school (14 students, 3 teachers), library (28 books), mushroom cellar (exotic), orchard (17 trees, accelerated), stable (3 stalls, 2 horses + mule). Passive income 35–45 gp/week. Monthly total income: 535–755 gp.
-**Vel'quinar Homestead:** Under construction (3 acres north). 13 Drow residents. Shade trees planted. Loan: 175 gp at 15 gp/month.
+**Party Level:** 4 | **Party Gold:** ~11,784 gp | **Party Size:** 10 + Nhilara (Level 8 specialist) + 16 Vel'quinar
+**Homestead:** Fully developed — stone wall, ward perimeter (4-layer defense), tower, forge (+ Ashara containment), school (15 students, Vel'thara curriculum), library (29 books incl. Atlas of the Vel'thara), mushroom cellar, orchard, stable. Passive income 35–45 gp/week. Monthly total income: 535–755 gp.
+**Vel'quinar Homestead:** COMPLETE (3 acres north). 16 Drow residents. Underground quarters, armory, prison cells. Defense upgraded. New trades: spider-silk weaving, Drow glasswork.
 
 **Arc 1:** ✅ COMPLETE. 7/7 Unchained Compact targets.
 **Arc 2:** ✅ COMPLETE. 4/4 eastern nodes repaired. 7/7 barrows sealed.
-**Arc 3:** ✅ COMPLETE. 4/4 western nodes repaired. All 8 outer nodes active.
-**Arc 4:** IN PROGRESS. Underdark / Vel'quinar / Deep Road / Third Keeper Station.
-**Ward Network:** Root + 8 outer nodes (amplified via relay). ALL 14 NODES IDENTIFIED. 8 Heartstones seated — full relay active. Ward boundary doubled. Source responded: "finally."
-**Keeper Stations:** Fenhollow (91%, full relay hub), Aelindra (58%, repaired), Ashara's (unknown, beneath Vel'arath — sinkhole access at G6).
-**Deep Road:** Operational. Resonance Lift + Threshold Runner wagon. Fenhollow ↔ Aelindra in 9 hours. Deephollow (43 svirfneblin) + Crystalvein (60 svirfneblin, sapphires) contacted.
-**Fleet:** *Stormcape's Promise* (western triangle), *Eilistraee's Grace* (northern express, hybrid resonance), *Dawnwatch Coach* (carriage), *Threshold Runner* (Deep Road wagon). Tidemeet warehouse: Dawnwatch Trading Company.
-**House Vel'quinar:** 13 members rescued. Matron Ilyana (Zaryth's mother) alive. Eilistraee followers. Nhilara (counter-intel). Defense active. Vel'sharen agents monitored.
-**School:** 14 students. Elara Marsh + Dael Ashwick + Brother Callum. Pim (Drow, 14) enrolled.
-**Library:** 28 books (20 + 8 ordered from Veldmere).
-**Zaryth:** Binding Initiate (Lesson 100). Keeper's Cloak. Door trigger. Memory restored. Signet ring = Binding-era, forged by Binders 3,000 years ago. Mother alive. 8th generation keeper.
+**Arc 3:** ✅ COMPLETE. 4/4 western nodes repaired.
+**Arc 4:** ✅ COMPLETE. Ashara captured. Vaelen freed. All inverted stones recovered. Vel'sharen network dismantled.
+**Arc 5:** IN PROGRESS. Vel'thara embassy operational. Cultural exchange begun.
+**Ward Network:** ALL 14 NODES ACTIVE — first time in 3,248 years. Anchor Point permanently active (7 Heartstones, control interface). 15 total Heartstones in Dawnwatch possession. 6 inverted stones contained.
+**Keeper Stations:** Fenhollow (91%, 8 Heartstones), Aelindra (58%), Ashara (fortified), Vel'arath (91%, COMPROMISED — wall cracked).
+**Anchor Point:** Pre-Binder prototype. Control interface. Vel'thara embassy. Vaelen + Drell stationed. Moonpetal garden.
+**Deep Road:** Operational. Threshold Runner. 9 hours Fenhollow ↔ Aelindra. Deephollow + Crystalvein contacted.
+**Fleet:** *Stormcape's Promise* (western triangle), *Eilistraee's Grace* (northern express + expedition), *Dawnwatch Coach*, *Threshold Runner*. Tidemeet warehouse: Dawnwatch Trading Company.
+**House Vel'quinar:** 16 members. Homestead complete. Nhilara (Level 8 specialist). Velyndra (glassworker) + Taelar (weaver) + Sylla (student) defected from Vel'sharen.
+**Prisoners/Probation:** Ashara (Binder, probation), Edrin Vael (alchemist), Thessara Vael (Archive operative), Drael + Syvra (Vel'sharen agents). Veradis Kael (surrendered, rehabilitation).
+**School:** 15 students. Vel'thara curriculum added.
+**Library:** 29 books (incl. Atlas of the Vel'thara — first map of another world).
+**Zaryth:** Binding Initiate (Lesson 110). Keeper's Cloak. Ashara's paired ring. Memory restored. 8th generation keeper. Opened the door.
 **Tournament Record:** 7 golds, 2 silvers across Duskport (1248) + Veldmere (1249).
-**Festivals:** Ember Night, Last Lantern, Hearthwatch, Longnight Eve Lanterns, Thaw Prayer Burning, Year's End Fireworks, Harvest Eve.
-**Southern Ports:** Ashport, Coral Haven, Sunmere mapped (intel only). Future expansion.
+**Vel'thara:** 12-civilization resonance federation. The Speaker crossed the threshold. Moonpetal gift. Names exchanged. Accord signed. The Ward-Light Hymn is being sung across twelve civilizations on the other side of the boundary.
 
-**Next:** Third keeper station (sinkhole descent). Node 14 via Shaft 9. Remaining 6 nodes. Vel'sharen threat. Southern expansion. The Source. Zaryth's fallen house.
+**Next:** Vel'sharen response to Station Four. Southern expansion. Vel'thara cultural exchange. Ashara's long-term fate. Remaining node improvements. The untitled song. Mira's moonpetals. Whatever the dice bring next.
