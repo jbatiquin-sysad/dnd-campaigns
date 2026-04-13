@@ -72,16 +72,18 @@ Quick version — ask in chat: *"Save the session — update party-state, memory
 
 | Character | Race | Class | Level | AC | HP | Professions |
 |-----------|------|-------|-------|----|----|-------------|
-| **Zaryth Vel'quinar** | Drow | Paladin (Devotion) | 3 | 20 | 28 | Alchemist, Tinkerer, Ward Engineer (Journeyman) — *you* |
-| Mira Thistlewick | Lightfoot Halfling | Rogue (Thief) | 3 | 16 | 23 | Herbalist, Leatherworker |
-| Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | 3 | 19 | 28 | Mason, Miner |
-| Sylvara Dawnwhisper | High Elf | Wizard (Evocation) | 3 | 16 | 14 | Enchanter, Glassblower |
-| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 3 | 16 | 15 | Smith, Woodcarver |
-| Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 3 | 16 | 24 | Tailor, Weaver |
-| Orindel Ashwick | Wood Elf | Cleric (Life) | 3 | 19 | 23 | Jeweler, Hunter, Hymn Composer |
-| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 3 | 16 | 14 | Inscriber, Cook, Flutist |
-| Seren Ashvale | Human | Monk (Open Hand) | 3 | 16 | 24 | Herbalist, Navigator, Ward Keeper |
-| Torven Ashwick | Half-Elf | Druid (Land — Coast) | 3 | 16 | 21 | Ward Engineer, Scribe, Researcher |
+| **Zaryth Vel'quinar** | Drow | Paladin (Devotion) | 4 | 20 | 36 | Alchemist, Tinkerer, Ward Engineer (Binding Initiate, Lesson 110) — *you* |
+| Mira Thistlewick | Lightfoot Halfling | Rogue (Thief) | 4 | 17 | 30 | Herbalist (Journeyman), Leatherworker |
+| Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | 4 | 19 | 35 | Mason (Journeyman), Miner |
+| Sylvara Dawnwhisper | High Elf | Wizard (Evocation) | 4 | 16 | 19 | Enchanter, Glassblower (Journeyman) |
+| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 4 | 16 | 20 | Smith (Journeyman), Woodcarver |
+| Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 4 | 17 | 31 | Tailor, Weaver (Journeyman) |
+| Orindel Ashwick | Wood Elf | Cleric (Life) | 4 | 19 | 29 | Jeweler (Journeyman), Hunter, Hymn Composer |
+| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 4 | 16 | 19 | Inscriber (Journeyman), Cook, Flutist |
+| Seren Ashvale | Human | Monk (Open Hand) | 4 | 17 | 31 | Herbalist (Journeyman), Navigator, Ward Keeper |
+| Torven Ashwick | Half-Elf | Druid (Land — Coast) | 4 | 16 | 28 | Ward Engineer, Scribe, Researcher (Journeyman) |
+
+**Specialist:** Nhilara Vel'quinar — Drow, Barbarian 5 / Rogue (Scout) 3, Level 8, AC 19/21, HP 75. Counter-intel lead. Deploys on Drow/espionage/Underdark missions. See `party/nhilara.md`.
 
 ## The DMs
 
