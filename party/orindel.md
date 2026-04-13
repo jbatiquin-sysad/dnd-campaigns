@@ -56,9 +56,15 @@ Sang the Ward-Light Hymn through the Anchor Point aperture and the Vel'thara —
 ## Downtime
 Composes. A new piece, untitled, built with Pip — about a door, a flower, and three thousand years of silence. Tends Wren Hale's memorial stone in the garden every morning. Teaches at the school. His palm still has a faint burn scar from ring-humming underwater at Node 13.
 
-## Equipment (Current — S5 Day 120, Cape Ashward)
-- Mace (equipped, oiled)
-- Scale mail + wooden shield (equipped, AC 18, rim repaired)
+## Equipment (Current — 1252 AS)
+- Shepherd's Strike mace (enchanted — 1/day push 10 ft on hit)
+- Behir scale mail +1 + ship's oak shield (AC 19, lightning resistance)
+- True Flight shortbow (enchanted — ignore half cover, behir sinew +1 dmg)
+- 12x behir-fang arrows (+1 magical)
+- 4x dark steel arrowheads (+1 magical)
+- Master Bowyer's quiver (+1 arrow damage, holds 30, Archery champion prize)
+- Obsidian skinning knife
+- 10x obsidian arrowheads (+1 first hit)
 - Holy symbol
 - Crowbar
 - Healer's Kit

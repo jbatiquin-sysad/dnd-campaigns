@@ -17,7 +17,7 @@
 
 ## Combat
 - **HP:** 28/28 (4d8 + 4 CON)
-- **AC:** 16 (behir scale-leather + wooden shield — Mira crafted from juvenile scales, non-metal, druid-compatible, lightning resistant)
+- **AC:** 17 (behir scale-leather + ironwood shield with ward-circuit — zurkhwood, druid-compatible, lightning resistant)
 - **Speed:** 30 ft
 - **Initiative:** +2
 - **Proficiency Bonus:** +2
@@ -28,7 +28,7 @@
 - 2 bonus skill proficiencies
 
 ## Armor
-- Behir scale-leather (AC 12 + DEX max 2 = 14) + wooden shield (+2) = **AC 16**, lightning resistance
+- Behir scale-leather (AC 12 + DEX max 2 = 14) + ironwood shield with ward-circuit (+2 shield, +1 ward-circuit) = **AC 17**, lightning resistance
 
 ## Weapons
 | Weapon | Attack | Damage | Range | Notes |
@@ -83,6 +83,7 @@ Maps. The unified atlas project — above, below, and beyond. Three layers of th
 | Ring (R) | Iron purpose ring — ENCHANTED | Scholar's Focus: +1 to Arcana checks |
 | Neck | Quartz amulet — ENCHANTED | Druidcraft cantrip (at will) |
 | Carried | Druidic focus (wooden staff carved with ward symbols) | Doubles as quarterstaff |
+| Off-hand | Ironwood shield (zurkhwood, ward-circuit) — ENCHANTED | Druid-compatible, advantage on CON saves for concentration 1/day |
 | Belt | Dagger | Backup |
 | Pack | Herbalism kit | Foraging + medicine |
 | Pack | Calligrapher's supplies | Journal, ink, parchment |

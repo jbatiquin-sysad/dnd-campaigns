@@ -17,14 +17,14 @@
 
 ## Combat
 - **HP:** 31/31 (4d8 + 8 CON)
-- **AC:** 17 (Unarmored Defense: 10 + DEX 3 + WIS 4)
+- **AC:** 18 (Unarmored Defense 17 + ward-attuned bracers +1)
 - **Speed:** 40 ft (Unarmored Movement +10 at Monk 3)
 - **Initiative:** +3
 - **Proficiency Bonus:** +2
 - **Ki Points:** 3 (recharge on short rest)
 
 ## Unarmored Defense
-AC = 10 + DEX mod + WIS mod = **17** (no armor needed)
+AC = 10 + DEX mod + WIS mod = **17** base + ward-attuned bracers (+1) = **18** (no armor needed)
 
 ## Weapons
 | Weapon | Attack | Damage | Range | Notes |
@@ -62,6 +62,7 @@ Meditates. Stood in the marsh until sunset on the fourth day. Teaches coastal he
 | Ring (L) | Dawnwatch signet ring (S) — ENCHANTED | Ward-network attuned, resonance pulse |
 | Ring (R) | Iron purpose ring — ENCHANTED | Keeper's Sense: advantage on Perception to detect ward anomalies, 1/day |
 | Neck | Quartz amulet — ENCHANTED | Guidance cantrip (1/day, +1d4 to one ability check) |
+| Wrists | Ward-attuned bracers — ENCHANTED | Resonance gem in behir-hide wraps — +1 AC, advantage on saves vs spells 1/day |
 | Carried | Drell's closed-eye medallion | Memorial — worn under clothing, always |
 | Belt | Drell's iron belt knife | Vigil alloy, rust-proof, monk weapon |
 | Belt | 10 darts | Ranged option |
@@ -83,7 +84,7 @@ Meditates. Stood in the marsh until sunset on the fourth day. Teaches coastal he
 - **Relationship:** Deep bond with Vaelith (shared Vigil duty). Growing trust with the party. Protective of Pip (he reminds her of the cliff-hold children).
 
 ## Combat Role
-Mobile striker + controller. 40 ft speed lets her reach any target. Flurry of Blows = 3 attacks per round with Open Hand knockdown/push. Patient Defense when tanking. Deflect Missiles vs ranged. No armor needed — AC 17 matches the rogues. She fights like the coast taught her: fast, efficient, no wasted movement.
+Mobile striker + controller. 40 ft speed lets her reach any target. Flurry of Blows = 3 attacks per round with Open Hand knockdown/push. Patient Defense when tanking. Deflect Missiles vs ranged. No armor needed — AC 18 beats the rogues. She fights like the coast taught her: fast, efficient, no wasted movement.
 
 ## Backstory
 31 years as Keeper of Node 5 (Stormcape). The solitary vigil was her monastery — decades of daily discipline, physical conditioning, meditation, and survival on the most exposed coast on the continent. She didn't train as a monk in any tradition. The coast made her one. Node fell 9 months before meeting the Dawnwatch. Walked through frozen marsh on New Year's Eve to find the people who made the stones sing again. Guided the western arc expedition. Came home.

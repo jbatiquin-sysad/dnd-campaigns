@@ -55,12 +55,13 @@ Read the Anchor Point activation schematic — a 3,000-year-old Binder engineeri
 ## Downtime
 Transcribes. The Atlas consumed a week of 10-hour days. Studies Edrin's spellbook for non-dangerous spells. Teaches glassblowing with Velyndra — learning Drow bioluminescent technique. Her notebook is now volume 4.
 
-## Equipment (Current — S5 Day 120, Cape Ashward)
+## Equipment (Current — 1252 AS)
 - Spellbook (in travel case)
 - Arcane focus
-- Dagger (sharpened)
+- Enchanted dagger (+1 magical, +1d4 force)
+- Resonance lens (Expert Glassblower creation — +1 spell save DC when held, visualizes ward frequencies as color)
 - Ink + quill
-- Chain shirt (equipped, AC 15)
+- Behir scale mail +1 (AC 16, lightning resistance)
 - Scholar's travelling robes
 - Spell component pouch
 - Resonance key (Unchained Compact ward-collapse device)

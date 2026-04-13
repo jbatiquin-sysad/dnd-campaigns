@@ -12,7 +12,7 @@
 |-----|-----|-----|-----|-----|-----|
 |  8  |  17 |  12 |  13 |  10 |  15 |
 
-**HP:** 30 | **Hit Dice:** 4d8 | **AC:** 17
+**HP:** 30 | **Hit Dice:** 4d8 | **AC:** 18
 
 ## Key Features
 - Sneak Attack: 2d6 extra damage (finesse/ranged, advantage or ally adjacent)
@@ -53,12 +53,17 @@ At Blacktide Inlet, Mira opened the fight against a 3,000-year-old Binder with a
 ## Downtime
 Works her garden — medicinal herbs, vegetables, and three moonpetal seeds that shouldn't grow in Fenhollow soil. She planted them anyway. Evenings mending things with Thessaly, not talking. Visits Sera in Fenhollow. Brings rosemary.
 
-## Equipment (Current — S5 Day 120, Cape Ashward)
+## Equipment (Current — 1252 AS)
 - Blade (equipped, sharpened)
 - Short sword (off-hand, sharpened)
 - Light crossbow (upgraded+restrung, equipped)
 - Hand crossbow + 28 bolts (cleaned+oiled)
-- Reinforced leather armor (equipped, AC 15, oiled)
+- Behir scale-leather +2 (AC 18, lightning resistance, ward-circuit absorb 1d4 damage 2/short rest)
+- 6x sleep-poison bolts (DC 13, unconscious 1 hr)
+- 3x smoke pellets
+- Darkfire paste (1 use, emergency — 2d6 necrotic, resists healing 1 hr)
+- 2x abjuration amulets (detection suppression)
+- Drow thieves' tools (backup, fine quality)
 - Abjuration amulet (attuned) — suppresses detection magic
 - Healing Potion (1x)
 - Thieves' tools

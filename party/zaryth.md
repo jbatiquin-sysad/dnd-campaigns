@@ -12,7 +12,7 @@
 |-----|-----|-----|-----|-----|-----|
 |  15 |  14 |  13 |  10 |  12 |  16 |
 
-**HP:** 36 | **Hit Dice:** 4d10 | **AC:** 19
+**HP:** 36 | **Hit Dice:** 4d10 | **AC:** 22
 
 ## Key Features
 - Lay on Hands: Pool of 20 HP to heal or cure disease/poison (Level 4: Paladin level × 5)
@@ -85,9 +85,12 @@ At Blacktide Inlet, Zaryth stepped out of the fog to face Ashara — a 3,000-yea
 ## Downtime
 Mornings at the forge studying the Vel'thara resonance map with Vaelith. Afternoons in the garden with Ilyana. Evenings on the tower roof, alone, feeling fourteen nodes sing through his ring. He writes letters to Vaelen via the network frequency.
 
-## Equipment (Current — S5 Day 120, Cape Ashward)
-- Well-made longsword (equipped, oiled+sharpened)
-- Chain mail + steel shield (equipped, AC 19 — base 16 + shield +2 + Defense +1)
+## Equipment (Current — 1252 AS)
+- Dawnwatch Longsword (enchanted — Warding Edge +2 AC reaction, +1d4 lightning all hits, resonance bond)
+- Warden's Plate (dark steel + Binding alloy + behir scale + resonance gem + ward-circuit, AC 22 with Warden's Shield) — Warden's Ward (1d8+2 reduction 3/short rest), Resonance Pulse (redirect 10 ally damage 1/long rest), CHA +1, CON save advantage, lightning resistance, cannot be removed against will
+- Warden's Shield (dark steel + resonance stone boss + ward-circuit rim — Warding Edge +2 AC reaction, Resonance Pulse 1/long rest)
+- Ashara's paired ring (Binding-era, Vaelen-forged)
+- Keeper's Cloak (suppresses magical detection)
 - Dark tabard over chain mail
 - Ruined signet ring (pocket) — from his fallen house, carried always
 - Dawnwatch signet ring (Z) — steel, broken chain insignia

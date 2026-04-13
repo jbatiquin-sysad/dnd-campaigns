@@ -12,7 +12,7 @@
 |-----|-----|-----|-----|-----|-----|
 |  10 |  14 |  13 |  15 |  12 |   8 |
 
-**HP:** 20 | **Hit Dice:** 4d6 | **AC:** 16
+**HP:** 20 | **Hit Dice:** 4d6 | **AC:** 17
 
 ## Key Features
 - Spellcasting (INT-based): Spellbook, prepare INT mod + level spells/day. 4x 1st-level, 2x 2nd-level slots.
@@ -55,14 +55,14 @@ Put two Shatter spells into Vel'arath's war room guards in 12 seconds, then carr
 ## Downtime
 At the forge. Always at the forge. Smelted Drow dark steel, forged Nhilara's scimitar, reinforced shields for the Vel'quinar sentries. Whittles in the evenings. Currently making something for Mira that he won't talk about.
 
-## Equipment (Current — S5 Day 120, Cape Ashward)
+## Equipment (Current — 1252 AS)
 - Spellbook
-- Quarterstaff (equipped, oiled)
+- Yew Quarterstaff (enchanted — magical, arcane focus, +1 spell attack rolls)
 - Hand axe (sharpened)
 - Dagger (sharpened)
 - Military insignia
 - Spell component pouch
-- Chain shirt (equipped, AC 15)
+- Behir scale mail +1 (AC 16, lightning resistance) + dark steel vambraces (+1 AC = AC 17)
 - Military-cut travelling coat
 - Boots (resoled)
 - 3 steel ingots

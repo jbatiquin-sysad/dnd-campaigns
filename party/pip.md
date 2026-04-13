@@ -61,12 +61,12 @@ Inscribed a ward-ink circuit underwater at 30 feet depth — Journeyman Inscribe
 ## Downtime
 Teaches. The school got a new lesson: "The Vel'thara — People Made of Music." Fifteen students played the greeting back on whatever they had. Cooks (still not Journeyman — Seren says he seasons with his heart, not measurements). Builds the new composition with Orindel. Taught Pim fire-dragons.
 
-## Equipment (Current — S5 Day 120, Cape Ashward)
+## Equipment (Current — 1252 AS)
 - Spellbook (in travel case)
-- Quality short sword (equipped, Ashdale's Thornwatch-issue)
+- Spark Edge short sword (enchanted — +1d4 fire every hit, permanent)
 - Dagger (backup, sharpened)
 - Full outfit — shirt, trousers, vest, cloak
-- Studded leather armor (equipped, AC 15 — reinforced by Thessaly)
+- Behir scale-leather +1 (AC 16, lightning resistance, Resonance Shell — absorb 10 any damage type 1/short rest) + behir-hide bracers
 - Focus stone (Sylvara's river pebble, 40 years old)
 - Healing Potion (1x)
 - Grey cloak (infiltration)

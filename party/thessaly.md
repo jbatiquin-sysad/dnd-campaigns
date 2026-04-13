@@ -62,17 +62,23 @@ Walked into a Veldmere bank as "Maren Holt," collected 2,000 gold from the accou
 ## Downtime
 Reviews the Dawnwatch Trading Company books. Wrote a 6-page proposal titled "Preliminary Assessment: Cross-Threshold Commerce." Mends every torn garment in the homestead. Works the loom with Taelar, learning spider-silk technique. The spice ledger from the Veldmere cell is surprisingly profitable.
 
-## Equipment (Current — S5 Day 120, Cape Ashward)
-- Rapier (equipped, sharpened)
+## Equipment (Current — 1252 AS)
+- Veil Pierce rapier (enchanted — advantage vs undetected, Silent Storm +1d6 lightning Sneak Attack, Nerve Strike 1/day paralysis DC 14)
 - Short sword (off-hand, oiled)
-- Hand crossbow + bolts (cleaned+oiled)
-- Studded leather armor (equipped, AC 14, studs tightened)
+- Storm Bolt hand crossbow (+1d4 lightning)
+- 20x dark steel bolt tips (+1 magical)
+- Behir-fang dagger (+1 magical)
+- 6x sleep-poison bolts
+- Behir scale-leather +1 (AC 17, lightning resistance)
+- 3x smoke pellets
 - Fine clothes (infiltration set)
 - Quality travelling outfit
 - Signet ring (House Ironveil, polished)
 - Thieves' tools
 - Grey cloak (infiltration)
 - The List (7/7 — COMPLETE, kept in breast pocket)
+- Trade Guild endorsement (Reaping Fair)
+- Spice trade ledger (Drael's cover business)
 - Dawnwatch signet ring (T) — ENCHANTED: ward-network attuned, resonance pulse
 
 ## Roleplay Instructions

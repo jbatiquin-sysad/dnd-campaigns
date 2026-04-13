@@ -53,9 +53,9 @@ Led Team Beta into Vel'arath — the heart of a hostile Drow city — through a 
 ## Downtime
 Finishes stonework. Currently completing the Vel'quinar underground quarters — dwarven joints, no mortar, a closed eye carved above each doorframe. Makes tea for the party every morning. Visits the forge to check Vaelith's containment work. Prays at dawn.
 
-## Equipment (Current — S5 Day 120, Cape Ashward)
+## Equipment (Current — 1252 AS)
 - Warhammer (equipped, oiled nightly)
-- Chain mail + shield (equipped, re-linked+restored)
+- Chain mail +1 + Dark steel shield (Warding Edge +2 AC reaction 1/round) + Sea Ward (advantage vs environmental saves) — AC 19 (21 with reaction)
 - New acolyte underlayer robes
 - Holy symbol (polished)
 - Prayer book
