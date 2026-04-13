@@ -8,10 +8,9 @@
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| **Total** | **~8,429 gp** | |
-| Carried | ~1,478 gp | Expedition/travel fund |
-| Homestead reserves | ~6,195 gp | Stored at Dawnwatch Homestead |
-| Cargo in transit | ~52 gp (sell value) | Iron tools, lamp oil, rope, salt (Maren's return cargo) |
+| **Total** | **~16,778 gp** | |
+| Carried | ~3,000 gp | Expedition/travel fund |
+| Homestead reserves | ~13,778 gp | Stored at Dawnwatch Homestead |
 
 ---
 
@@ -48,8 +47,11 @@
 | Lightning resistance | 4 | 0 |
 | Necrotic resistance | 6 | 0 |
 | Darkvision | 2 | 0 |
-| Ward-circuit ink (applications) | 10 | 0 |
+| Ward-circuit ink (applications) | 23 | 0 |
 | Catalyst compound (research) | 0 | 8 |
+| Inversion catalyst vials | 0 | 9 (contained at forge) |
+| Concentrated catalyst | 0 | 1 (contained at forge) |
+| Inverted Heartstones | 0 | 6 (contained at forge under Vaelith) |
 
 **Alchemy field kit (Zaryth carries):** Mortar, pestle, 6 empty vials, binding agents, basic reagents. Can brew 2–3 poultices/tinctures in the field.
 
@@ -88,8 +90,13 @@
 | **Anvil (pack mule)** | With party | Marsh-bred, brown, stocky, opinionated. Carries gear + ore. |
 | Mule tack + panniers | Equipped | For ore/materials |
 | Mule feed | ~40 days remaining | Grain supplement, grazes otherwise |
-| *Stormcape's Promise* (trimaran) | Tidemeet harbor | 28-ft sloop + detachable outriggers. 20 passengers, 5 tons cargo. Platform deck. Pre-Sundering navigation set aboard. |
-| *Tern's Wing* | At anchor, Cape Ashward | Return passage to Aelindra available |
+| *Stormcape's Promise* (trimaran) | Tidemeet harbor | Capt. Maren Voss. Western triangle route. 28-ft sloop + outriggers. 20 passengers, 5 tons cargo. |
+| *Eilistraee's Grace* | Active | Capt. Lyriel. Northern express + expedition. |
+| *Salt Maren* | Active | Capt. Dalla Venn. Veldmere–Duskport–Tidemeet route. |
+| *Blacktide Runner* | Active | Capt. Harsk Dunmore. Ashport–Veldmere southern route. |
+| *Duskholm* | Active | Capt. Dren Sable. Expedition-ready. |
+| *Dawnwatch Coach* | Operational | Vex. Resonance-assisted overland transport. |
+| *Threshold Runner* | Operational | Deep Road wagon. 9 hours Fenhollow ↔ Aelindra. |
 | Pigeon (Tomas) | With Orindel | Paired to Bram in Duskport |
 | Pigeon (Stormcape) | At homestead | Paired to Arn's Hold |
 
@@ -169,6 +176,9 @@
 | Marsh passage writ | Fenhollow, 30 days | ❌ EXPIRED (~Day 62) — renew at Brenn |
 | Harbor priority passage | Veldmere, indefinite | Active |
 | Sylvara Archive Level 3 access | Aelindra, permanent | Active |
+| Vel'sharen Accord | Crucible, trade corridor access | Active |
+| Sending Stone (diplomatic) | Channel to Zhael | Active |
+| Vel'thara Accord | Anchor Point embassy | Active |
 
 ---
 
@@ -236,4 +246,4 @@
 
 ---
 
-*Last updated: Day 180, 30th Reaptide, 1249 AS — Dawnwatch Homestead, Fenhollow (Seren + Torven gear upgraded, Reaping Fair prizes added, trade operation active, 2nd floor complete)*
+*Last updated: Day 30, 30th Greenthaw, 1252 AS — Dawnwatch Homestead. 5-ship fleet. Trade corridor operational. ~16,778 gp. 23 ward-ink. Vel'sharen + Vel'thara accords active.*

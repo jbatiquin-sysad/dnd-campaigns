@@ -6,7 +6,7 @@
 
 ## Zaryth Vel'quinar — Paladin
 
-**Armor:** Chain mail +1 + steel shield + Defense style (AC 20) — Sea Ward (advantage vs environmental saves)
+**Armor:** Warden's Plate (dark steel + Binding alloy + behir scale + resonance gem + ward-circuit) + Warden's Shield — AC 22. Warden's Ward (1d8+2 reduction 3/short rest). Resonance Pulse (redirect 10 ally damage 1/long rest). CHA +1. CON save advantage. Lightning resistance. Cannot be removed against will.
 **Weapon:** Dawnwatch Longsword (enchanted — Warding Edge +2 AC reaction, +1d4 lightning all hits, resonance bond)
 **Backup Weapon:** Well-made longsword (old primary)
 **Clothing:** Dark tabard over chain mail
@@ -31,12 +31,15 @@
 | Pack | Antitoxin vial | |
 | Pack | Healing Potion (1x) | |
 | Pack | Eddan's harbor seal | Personal gift |
+| Chest | Resonance gem (C-sharp, Zaryth's frequency) | Ward network awareness through armor |
+| Carried | Keeper's Cloak | Suppresses magical detection |
+| Carried | Ashara's paired ring (Binding-era) | Paired to signet. Vaelen forged both. |
 
 ---
 
 ## Mira Thistlewick — Rogue
 
-**Armor:** Behir scale-leather +1 (AC 16, lightning resistance)
+**Armor:** Behir scale-leather +2 (AC 18, lightning resistance, ward-circuit absorb 1d4 damage 2/short rest)
 **Weapons:** Shadow Fang (short sword, crit blinds), Whisper Bolt (light crossbow, silent +1d4 thunder), Shadow Bolt (hand crossbow, hidden attacks don't reveal), behir-fang dagger (+1 magical), master-forged dagger (+1 to hit, Reaping Fair Blade Dance prize), Veldmere dueling blade (+1 to hit, Blade Dance champion)
 **Clothing:** Fitted dark travelling outfit, grey cloak (infiltration)
 
@@ -55,12 +58,16 @@
 | Pack | Healer's Kit | |
 | Pack | Healing Potion (1x) | |
 | Pack | Crossbow bolts | Full (restocked Aelindra) |
+| Pack | 6x sleep-poison bolts | DC 13 CON, unconscious 1 hr |
+| Pack | 3x smoke pellets | |
+| Pack | Darkfire paste (1 use) | 2d6 necrotic, resists healing 1 hr |
+| Belt | Drow thieves' tools (backup) | Fine quality |
 
 ---
 
 ## Brother Aldric Stonebrow — Cleric
 
-**Armor:** Chain mail +1 + shield (AC 19) — Sea Ward (advantage vs environmental saves)
+**Armor:** Chain mail +1 + dark steel shield (Warding Edge +2 AC reaction 1/round) + Sea Ward — AC 19 (21 with reaction)
 **Weapon:** Hearthstone warhammer (enchanted — 1/day self-heal 1d4+4, +1d4 radiant all hits)
 **Clothing:** Acolyte underlayer robes
 
@@ -84,7 +91,7 @@
 ## Sylvara Dawnwhisper — Wizard
 
 **Armor:** Behir scale mail +1 (AC 16, lightning resistance)
-**Weapons:** Dagger
+**Weapons:** Enchanted dagger (+1 magical, +1d4 force), resonance lens (+1 spell save DC when held)
 **Clothing:** Scholar's travelling robes
 
 | Slot | Item | Notes |
@@ -109,7 +116,7 @@
 
 ## Bram Thistlewick — Wizard
 
-**Armor:** Behir scale mail +1 (AC 16, lightning resistance)
+**Armor:** Behir scale mail +1 (AC 16, lightning resistance) + dark steel vambraces (+1 AC = AC 17)
 **Weapons:** Yew Quarterstaff (enchanted — magical, arcane focus, +1 spell attack rolls), hand axe, dagger
 **Special:** Sethrak's Forge-Master Tools (+1 enchanting/cutting at Forge)
 **Clothing:** Military-cut travelling coat, resoled boots
@@ -130,8 +137,8 @@
 
 ## Thessaly Ironveil — Rogue
 
-**Armor:** Behir scale-leather +1 (AC 16, lightning resistance)
-**Weapons:** Veil Pierce rapier (enchanted — advantage vs undetected, Silent Storm +1d6 lightning Sneak, Nerve Strike 1/day paralysis DC 14), Storm Bolt hand crossbow (+1d4 lightning), behir-fang dagger (+1 magical), short sword
+**Armor:** Behir scale-leather +1 (AC 17, lightning resistance)
+**Weapons:** Veil Pierce rapier (Silent Storm +1d6 lightning Sneak, Nerve Strike 1/day DC 14), Storm Bolt hand crossbow (+1d4 lightning), behir-fang dagger (+1), 20x dark steel bolt tips (+1 magical)
 **Clothing:** Quality travelling outfit, fine clothes (infiltration set)
 **Special:** Trade Guild endorsement (Reaping Fair — preferred rates at guild markets)
 
@@ -145,6 +152,10 @@
 | Belt | Thieves' tools | |
 | Pack | Grey cloak (infiltration) | |
 | Pack | Crossbow bolts | Full (restocked Aelindra) |
+| Pack | 6x sleep-poison bolts | DC 13 CON, unconscious 1 hr |
+| Pack | 3x smoke pellets | |
+| Pack | Trade Guild endorsement | Preferred rates at guild markets |
+| Pack | Spice trade ledger | |
 | Breast pocket | The List (7/7 — COMPLETE) | All names crossed off |
 
 ---
@@ -152,7 +163,7 @@
 ## Orindel Ashwick — Cleric
 
 **Armor:** Behir scale mail +1 + ship's oak shield (AC 19, lightning resistance)
-**Weapons:** Shepherd's Strike mace (enchanted — 1/day push 10 ft), True Flight shortbow (enchanted — ignore half cover, behir sinew +1 dmg, 12 behir-fang arrows magical +1), obsidian skinning knife, 10 obsidian arrowheads (+1 first hit), Master Bowyer's quiver (+1 arrow damage, holds 30, Archery champion)
+**Weapons:** Shepherd's Strike mace (1/day push 10 ft), True Flight shortbow (ignore half cover, +1 dmg), 12x behir-fang arrows (+1), 4x dark steel arrowheads (+1), Master Bowyer's quiver, obsidian skinning knife
 **Clothing:** Cleric's travelling robe, resoled boots
 
 | Slot | Item | Notes |
@@ -176,8 +187,8 @@
 
 ## Pip Tanglethorn — Wizard
 
-**Armor:** Behir scale-leather +1 (AC 16, lightning resistance, Resonance Shell 1/day absorb 5 elemental dmg) + behir-hide bracers
-**Weapons:** Spark Edge short sword (enchanted — +1d4 fire every hit, permanent), driftwood flute
+**Armor:** Behir scale-leather +1 (AC 16, lightning resistance, Resonance Shell — absorb 10 any damage 1/short rest) + behir-hide bracers
+**Weapons:** Spark Edge short sword (+1d4 fire every hit, permanent), driftwood flute
 **Clothing:** Full outfit (shirt, trousers, vest, cloak)
 **Special:** Shell crown (Stormcape folk hero) + Reaping Crown (laurel, Bardic Circle champion)
 
@@ -205,7 +216,7 @@
 
 ## Seren Ashvale — Monk
 
-**Armor:** None (Unarmored Defense AC 16 — DEX 3 + WIS 3)
+**Armor:** None (Unarmored Defense AC 17) + ward-attuned bracers (+1 AC = AC 18, advantage on saves vs spells 1/day)
 **Weapons:** Unarmed (1d4+3 + knuckle wraps +1d4 force, magical), Drell's iron belt knife (1d4+3), 10 darts
 **Special:** Iron knuckle wraps (enchanted — strikes count as magical), behir-hide arm wraps (lightning resistance)
 **Clothing:** Weathered travelling clothes, salt-stained cloak
@@ -229,7 +240,7 @@
 
 ## Torven Ashwick — Druid
 
-**Armor:** Behir scale-leather + wooden shield (AC 16, lightning resistance, non-metal, druid-compatible)
+**Armor:** Behir scale-leather + ironwood shield (AC 17, lightning resistance, ward-circuit — advantage on CON saves for concentration 1/day, druid-compatible)
 **Weapons:** Quarterstaff (enchanted — Shillelagh WIS-based 1d8+3, +1d4 radiant all hits permanent), Produce Flame (1d8), sling + 20 bullets (1d4+2, druid-compatible), dagger
 **Clothing:** Archive scholar's travelling clothes, salt-stained from 4 months on the coast
 
@@ -247,4 +258,4 @@
 
 ---
 
-*Last updated: Day 180, 30th Reaptide, 1249 AS — Dawnwatch Homestead. All 10 members: enchanted weapons ✅. Seren: knuckle wraps + lightning resist. Torven: staff enchanted + sling. Mira: master-forged dagger (Reaping Fair). Zaryth: Champion's Belt. Pip: Reaping Crown. Thessaly: Trade Guild endorsement.*
+*Last updated: Day 30, 30th Greenthaw, 1252 AS — All members fully equipped. Warden's Plate (AC 22). All armor enchanted. All weapons enchanted. Crafting sprint complete (9 upgrades, 0 gp, 7 ward-ink).*
