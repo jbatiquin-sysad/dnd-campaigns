@@ -1431,3 +1431,105 @@ All 10 members achieved Expert. Zaryth: Advanced Ward Engineer (Lesson 180). Lib
 - **Level:** 4 | **Gold:** ~16,778 gp | **Ward-ink:** 23
 - **All Expert.** All equipped. Fleet operational. Accords holding.
 - **Next:** The Source. *Duskholm* independent expedition.
+
+## SESSION 10 — The Storyteller (Days 30–360, 1252 AS → Day 1, 1253 AS)
+
+**DM:** Mara Solenne, The Storyteller
+
+### The Jawbone's Bride (Days 30–70)
+Dalla Venn's letter: glowing wreck at the Jawbone shoals, 18 mi SSE of Ashport. Woman with raw resonance crystal (Edda Solvane, Tidemouth, Southern Shelf). Duskholm expedition: Zaryth, Torven, Seren, Mira, Orindel. Met Edda at the Salted Keel. She sailed 19 days to find the keeper. Seven villages on the Southern Shelf, seven hearthstones, grandmother's knowledge.
+
+Jawbone vessel: 80-ft Binder-era seed vault. Pre-Binder construction. Keeper's mark opened side hatch. Archive chamber: 213 unforged Heartstone seed crystals grown over 3,000 years. Mother crystal (head-sized sphere, source of all resonance). Heart chamber: 40-ft dome (spatially anomalous), spiral inscriptions (pre-Binder language).
+
+Four seed crystals placed in cardinal recesses. The Gardener activated — pre-Binder resonance intelligence. Planted the original resonance in the world's stone. The Binders built on its roots. The Vel'thara are gardeners of the same kind (different worlds). Other seed vessels exist. 213 seeds ready. Zaryth accepted the mandate: "Yes. We will tend the garden."
+
+Gardener's gifts: Zaryth (Seed-Planting Attunement), Seren (planting knowledge via ki), Torven (planting site compass — 213 sites), Orindel (spiral notation as music — the original song), Mira (seed crystal sensing — each distinct).
+
+### Southern Shelf Pilgrimage (Days 33–56)
+All 7 villages visited. 7 keepers honored: Maren Duskwater (Saltbrine), Yara Tidecrest (Driftward), Old Brenn (Kelpmere), Edda Solvane (Tidemouth), Lira Pearlhand (Shellhaven), Tormund Stormborn (Wavebreak), Asha Farlight (Farlight). All allied. Southern Shelf Cooperative established (3 boats, 12 crew, 80/20 split). Mira's moonpetal growing in Tidemouth.
+
+### LEVEL UP — All Dawnwatch → Level 5
+Orindel reclassed: Cleric (Life) 3 / Bard 2 (CHA adjusted to 13 via Gardener's gift, WIS 12, INT 12). Driftwood lute (Bram-crafted). Pip reclassed: Wizard (Evocation) 3 / Bard 2 (CHA 13, already qualified). Driftwood flute as Bard focus.
+
+### First Planting — "The Keeper's Faith" (Day 70, Saltbrine H20)
+Seed crystal seated in granite at dawn. Named by Zaryth. 1-mile initial dome. Maren Duskwater's hearthstone synchronized. Orindel played. 212 seeds remaining.
+
+### Ashara Translation (Day 67)
+Ashara brought to Jawbone. 6 hours in heart chamber. Planting sequence exists (spiral outward from Root). Naming protocol (purpose-name shapes growth). Growth: 1 mi/day 1, ~1 mi/month year 1, full coverage 10 years. Lower chamber: root-anchor + 3D map interface. Limit: 3 plantings/month (7-day nursing). Binder annotations: the Gardener predates the Binders.
+
+### Second Planting — "The Stone's Memory" (Day 92, The Anvil D2)
+Named by Aldric Stonebrow. Greypeak granite, 4,000 ft. 3-mile initial dome (deep bedrock amplification). Overlaps Node 12. Mentor Heartstone protocol confirmed. Stonehearth village (63 pop, Halla Ironbrow) as tenders.
+
+### Third Planting — "The Windkeeper's Watch" (Day 205, Stormcape Cliff A6)
+Named by Zaryth. Basalt cliff. 2-mile dome. Overlaps Node 3. Orindel played Vel'thara coastal planting song (first use). Wild moonpetals found near Node 3.
+
+### Dark Steel Refit (Days 106–120)
+85 lbs mined from Greypeak deposit. All 9 members upgraded: dark steel frames/wire + ward-circuits + 23 resonance gems (Orindel). Sylvara AC 16→17 (resonance lens integrated). Pip Resonance Shell 10→15. Party is a walking ward mesh.
+
+### Operation Thunderscale (Day 175)
+Full 11-member deployment (10 + Nhilara). Adult behir, Stormcape headlands. Killed in 1 round. 267 damage dealt, 0 taken. Seren Stunning Strike landed (CON 14 vs DC 14). 3 Fireballs on stunned target. Torven tried Call Lightning on a lightning-immune creature. Harvest: 320 sq ft hide, heart, lightning gland, bone, fangs, blood. ~1,015 gp materials.
+
+### Hall of the Dawnwatch (Days 178–240)
+Built on East Hill. Greypeak granite, dark steel beams, behir-scale roof. Vel'quinar labor (loan paid off — debt-free). Round table (10 chairs + 6 advisor). South wall sculpture: "The Reconstruction of Sethrak's Threshold" (Aldric carved). Trophy gallery (14 golds, 5 silvers). Memorial alcove (Wren Hale, Tomas, Warden Drell). Keystone: "We watch for the dawn." Ward-circuit integrated. Cost: 715 gp.
+
+### Harrowgate Smithing Guild Contract
+Exclusive dark steel supply. 6-12 pieces/quarter. 75-125 gp/month. Master Artisan's Seal for Bram.
+
+### Harvest Eve (Day 150)
+50+ guests. Vel'sharen delegation (Zhael, Ydrael, 2 guards — 3 hours, longest surface visit). Vel'thara harmonic. Kael debuted on harp. Vel'thara Trust → 6.
+
+### Reaping Fair — Harrowgate (Day 165)
+7 golds, 3 silvers. All-time record: 14 golds, 5 silvers. Zaryth (Grand Melee), Mira (Blade Dance), Pip+Orindel (Bardic Circle), Thessaly (Merchant's), Seren+Torven (River Race), Bram (Craft Fair Smith), Pip (Cook-Off). 925 gp prizes.
+
+### Dawnwatch Ensemble (Formed Winter 1252)
+6 members: Orindel (lute/horn), Pip (flute/chimes), Kael (harp), Sylla (chimes/drum), Pim (drums), Ren (horn). 7 repertoire pieces. 3 performances (Hearthwatch, Longnight, Year's End). Ward-resonant.
+
+### Homestead Developments
+- Southern crops on Vel'quinar plots (gillwort, driftwood sage, resonance moss, stonecap mushrooms, red seaweed)
+- Ashara moonpetal research: Book #33. 5 properties identified. Living ward-indicators.
+- Storm glass (14 lbs) — Sylvara prototype ward-lens (+30% relay signal)
+- Pip's music school: 15-student choir + 6 instrumentalists. Kael Vel'quinar (harp prodigy, ★★★★★).
+- Behir heart + lightning gland in storage (enchantment pending)
+
+### Vaelen Consultation
+Planting protocol confirmed. Mentor crystal protocol. Name shapes growth. Recommends nearest-first spiral. Ashara translation critical.
+
+### Vel'thara Notification
+They offer 12 planting songs (terrain-specific). Orindel learned 9/12. Their vessel woke 11,000 years ago. "The garden grows on both sides of the boundary now."
+
+---
+
+## CAMPAIGN STATUS — Session 10 (Storyteller) — YEAR 1253 (Day 1)
+
+**Date:** 1st Greenthaw, 1253 AS
+**DM:** Mara Solenne, The Storyteller
+**Location:** Hall of the Dawnwatch, Fenhollow
+**Party Level:** 5 | **Party Gold:** ~19,832 gp | **Ward-ink:** 25 | **Monthly Surplus:** ~586 gp
+
+### Ward Network
+- **ALL 14 NODES ACTIVE** + **3 SEED PLANTINGS** (Keeper's Faith, Stone's Memory, Windkeeper's Watch)
+- Anchor Point permanent. 15 Heartstones. 6 inverted contained.
+- 209 seeds in Jawbone archive. 1 in homestead vault. 210 total remaining.
+- Planting limit: 3/month.
+
+### Alliances
+- Vel'thara Trust: 6. Embassy operational. 12 planting songs (9 learned).
+- Vel'sharen Accord: Holding. Trade corridor profitable. Zhael cooperative.
+- Southern Shelf: 7 villages allied. Cooperative operational. Edda Solvane liaison.
+- Stonehearth: Allied. Halla Ironbrow. Anvil tenders.
+- Harrowgate Smithing Guild: Contract active.
+
+### Fleet
+5 ships + Shelf Cooperative (3 boats). Combined monthly: ~900 gp revenue.
+
+### Hall of the Dawnwatch
+Complete. Round table. Trophy gallery (14 golds, 5 silvers). Memorial alcove. Sculpture. Ward-circuit. Keystone: "We watch for the dawn."
+
+### Dawnwatch Ensemble
+6 members. 7 pieces. Ward-resonant. Kael Vel'quinar (harp prodigy).
+
+### Zaryth
+Level 5. AC 22. Extra Attack. Seed-Planting Attunement. Advanced Ward Engineer (Lesson 180). Gardener's Mandate accepted. 3 seeds planted. 210 remaining.
+
+### Next
+Spring planting season. Tidemouth (Edda's village) ready. Jawbone collection run needed. Orindel learning remaining 3 Vel'thara songs. Kael's training. Behir heart enchantment pending. The spiral continues.

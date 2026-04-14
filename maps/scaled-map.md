@@ -1,7 +1,7 @@
 # Scaled Hex Map — The Known World
 
 > **Scale:** 1 hex = 24 miles (~1 day overland travel on roads, 1.5 days through difficult terrain)
-> **Grid:** 20 columns (A–T) × 22 rows (1–22). Origin A1 = far northwest. Column = east-west, Row = north-south. Rows 17–22 = southern waters (beyond original 16-row grid).
+> **Grid:** 20 columns (A–T) × 30 rows (1–30). Origin A1 = far northwest. Column = east-west, Row = north-south. Rows 17–30 = southern waters and the Southern Shelf (beyond original 16-row grid).
 > **Orientation:** Flat-top hexes. Even columns offset down.
 
 ---
@@ -13,7 +13,7 @@
 | Location | Hex | Terrain | Pop. | Key Contact | Travel from Homestead |
 |----------|-----|---------|------|-------------|----------------------|
 | **Dawnwatch Homestead** ★ | **H8** | Marsh/cleared | — | Tessa Marsh | — |
-| **Vel'quinar Homestead** | **H8** | Marsh/cleared | 12 | Ilyana Vel'quinar | Adjacent to Dawnwatch (same hex) |
+| **Vel'quinar Homestead** | **H8** | Marsh/cleared | 16 | Ilyana Vel'quinar | Adjacent to Dawnwatch (same hex) |
 | Fenhollow | H8 | Marsh | ~3,000 | Capt. Brenn | 20 min walk (same hex) |
 | Tidemeet | I9 | Coast | ~500 | Soren Blackwater | 2 hrs by cart (adjacent) |
 | Thornfield Dispatch | H7 | Plains | ~50 | Harlen Grubb | Half-day (same hex) |
@@ -26,9 +26,21 @@
 | Greymoor | E5 | Mountain valley | ~7,000 | Judge Kess | 5 days (5 hexes) |
 | Ashenmere | F4 | Hills/forest | ~0 (ruined) | Cole (garrison) | 8 days (8 hexes) |
 | Cape Ashward | Q3 | Coast/headland | ~200 | Corran Ashward | 6 days by sea via Aelindra |
-| **Ashport** | J18 | Coast (warm) | ~6,000 | Unknown | 4 days sail S of Veldmere |
+| **Ashport** | J18 | Coast (warm) | ~6,000 | Harsk Dunmore (warehouse), Dalla Venn (*Blacktide Runner*) | 4 days sail S of Veldmere |
 | **Coral Haven** | L20 | Island/reef | ~3,000 | Revka has 1 contact | 7 days sail S of Veldmere |
 | **Sunmere** | K22 | Coast (warm, major) | ~10,000+ | Nhilara (former base) | 10 days sail S of Veldmere. Drow trade nexus. |
+
+### Southern Shelf Villages (Edda Solvane's Map, Day 32, 1252 AS)
+
+| Location | Hex | Terrain | Pop. | Key Contact | Travel from Ashport |
+|----------|-----|---------|------|-------------|---------------------|
+| **Saltbrine** | H20 | Coast (rocky) | ~300 | Unknown | 2 days sail S |
+| **Driftward** | G22 | Coast (sheltered bay) | ~300 | Unknown | 5 days sail SW |
+| **Kelpmere** | F24 | Coast (tidal flats) | ~300 | Unknown | 8 days sail SW |
+| **Tidemouth** ★ | E26 | Coast (river mouth) | ~300 | Edda Solvane | 12 days sail SW — Edda's village |
+| **Shellhaven** | D27 | Coast (cove) | ~300 | Unknown | 14 days sail SW |
+| **Wavebreak** | C28 | Coast (headland) | ~300 | Unknown | 16 days sail SW |
+| **Farlight** | B30 | Coast (remote) | ~300 | Unknown | 19 days sail SW — southernmost known settlement |
 
 ### Ward Nodes (Known)
 
@@ -55,16 +67,16 @@
 | **Node 4** — Tidewatcher | A10 | Exposed rock shelf (tidal) | 76% ✔ INFUSED | 2 days sail from Stormcape ruins, or 4 days from Veldmere. | **Accessible only 3 days/year: ~15th–17th Goldmere.** Tidal flooding risk. |
 | **Node 5** — Stormcape | A5 | Coastal cliff | 74% ✔ RECONSTRUCTED | Seren's former post. Requires full reconstruction (6-anchor + new crystal). | Dead Zone expanding. 12 miles in first week after failure. |
 
-### Ward Nodes (Newly Identified — Vaelen's Map, Day 185)
+### Ward Nodes (Newly Identified — Vaelen's Map, Day 185 / Updated Day 260+)
 
 | Node | Binding Name | Hex | Terrain | Status | Notes |
 |------|-------------|-----|---------|--------|-------|
-| **Node 1** | The Anchor of the Southern Deep | L16 | Volcanic island | Unknown — unvisited | 3 days sail S of Veldmere |
-| **Node 6** | The Thornveil Heart | F7 | Dense forest | Unknown — unvisited | Deep Thornveil interior, near scouted sinkholes |
-| **Node 7** | The Marsh Threshold | G8 | Marsh/underground | Identified — keeper station accessed | Resonance anchor may BE Node 7. Half-day from homestead. |
-| **Node 8** | The River's Memory | G7 | River/submerged | Unknown — unvisited | Upper Mirren, seasonal access (low water) |
-| **Node 13** | The Sunken Crown | M10 | Underwater reef | Unknown — unvisited | Submerged, open Hearthcoast Sea. Ship + diving required. |
-| **Node 14** | The Ember Vein | E4 | Underground/mountain | Unknown — unvisited | Beneath Greypeaks. Greymoor Shaft 9 access (sealed door 600 ft). Confirmed via Y Fork right branch survey (Day 141, 1249 AS). Shaft 9 sealed door found from below. |
+| **Node 1** | The Anchor of the Southern Deep | L16 | Volcanic island | **✔ ACTIVE** (remote-boosted from Anchor Point) | 3 days sail S of Veldmere |
+| **Node 6** | The Thornveil Heart | F7 | Dense forest | **✔ ACTIVE** (remote-boosted from Anchor Point) | Deep Thornveil interior, near scouted sinkholes |
+| **Node 7** | The Marsh Threshold | G8 | Marsh/underground | **91% ✔ ACTIVE** — Fenhollow keeper station, 8 Heartstones | Resonance anchor IS Node 7. Half-day from homestead. |
+| **Node 8** | The River's Memory | G7 | River/submerged | **✔ ACTIVE** (remote-boosted from Anchor Point) | Upper Mirren, seasonal access (low water) |
+| **Node 13** | The Sunken Crown | M10 | Underwater reef | **67% ✔ RECONSTRUCTED** | Underwater 6-anchor procedure. Ashara amplified. Day 242, 1249 AS. |
+| **Node 14** | The Ember Vein | E4 | Underground/mountain | **68% ✔ REPAIRED** | Ashara Station expedition. Day 181, 1249 AS. |
 
 ### Barrows (All Sealed)
 
@@ -84,6 +96,9 @@
 |----------|-----|------|-------|
 | Warden's Forge | D1 | Vigil site | 2 days N of Greyveil. 2.5 blocks resonance stone. |
 | Greypeak Pass | E3 | Mountain pass | Only reliable crossing. Reavers (10–15). |
+| **Dark Steel Deposit** | D2–D3 | Mountain cliff face | Surface pocket, ~20 lbs extracted Day 89 1252 AS. High-purity ore. Bram estimates 200+ lbs remaining in the vein. Future expedition target. |
+| **Stonehearth** | D2 | Mountain village | ~63 pop (dwarven). Halla Ironbrow (elder). Tenders of "The Stone's Memory" planting site. Aldric's homeland. |
+| **The Anvil** | D2 | Mountain shelf (4,000 ft) | Flat granite, 50 paces. Planting site: "The Stone's Memory." 3-mile initial dome. Overlaps Node 12. |
 | Thornveil Forest | F6–G7 | Dense forest | Unmapped interior. Orindel hunts southern edge. |
 | Three Sealed Ruins | G8 | Marsh/tidal | Pre-Sundering. Purpose unknown. |
 | The Undercroft | K12 | Underground | Beneath Duskport. Hollow Court origin. |
@@ -93,6 +108,8 @@
 | Tide Pools of Arn | A8 | Freshwater springs | Sheltered camp, wind-blocked rock overhang. Wild gillwort. Seren's 31-year base. |
 | Stormcape Harbor Ruins | A5 | Ruined harbor | Near Node 5. Former Stormcape settlement. Sea approach to western coast. |
 | Sinkhole (Ashara's Staircase) | G6 | Underdark entrance | Surface access to third keeper station. Old oak. Found Day 138, 1249 AS. |
+| **The Jawbone** | J19 | Shoals/reef | Shallow shoals 18 mi SSE of Ashport. Glowing wreck reported (3-masted, old construction). Water glows at night. Investigated Day 33, 1252 AS. |
+| **Salted Keel Tavern** | J18 | Tavern (Ashport) | Ashport harbor-front tavern. Mystery woman with raw resonance crystal waiting here. |
 
 ---
 
@@ -121,6 +138,20 @@
 | Cape Ashward | ~12 | 5–6 | North via Aelindra + 2 days NE |
 | Port Veldmere | ~8 | 3 | South via Duskport + across sea |
 | Node 1 (est.) | ~14 | 5–6 | South past Veldmere, open water |
+| Ashport | ~10 | 4 | South past Veldmere, coastal |
+| The Jawbone | ~11 | 4.5 | Via Ashport + 18 mi SSE |
+
+### Sea Travel — Southern Shelf (from Ashport, hex J18)
+
+| Destination | Days | Route |
+|-------------|------|-------|
+| Saltbrine | 2 | South along coast |
+| Driftward | 5 | SW, coast curves west |
+| Kelpmere | 8 | SW, tidal flats |
+| Tidemouth (Edda's village) | 12 | SW, river mouth |
+| Shellhaven | 14 | SW, sheltered cove |
+| Wavebreak | 16 | SW, headland |
+| Farlight | 19 | SW, southernmost known settlement |
 
 ---
 
@@ -140,26 +171,26 @@ Row 2    .    .    .    .   ⊗12   .    .    .    .    .    .    .    .    .   
 Row 3    .    .    .    .    ☆    .    .    .    .    .    .    .    .    .    .    .   ⊗10   ~    ~    ~
                              GPAS                                                     CAPE
 
-Row 4    .    .    .    .    .   ⛪    .    .    .    .    .    .    .    .   ⊗9    .    ~    ~    ~    ~
-                                 ASH                                         VELT
+Row 4    .    .    .    .   ⊗14  ⛪    .    .    .    .    .    .    .    .   ⊗9    .    ~    ~    ~    ~
+                            EMBR  ASH                                        VELT
 
 Row 5    ⊗5   .    .    .   ⛏    .    .    .    .    .    .    .    .   🏛    .    ~    ~    ~    ~    ~
          STM              GREY                                           AEL
 
 Row 6    .    .    .    .    .   ░░   ☒    .    .    .    .    .    .    .    .    ~    ~    ~    ~    ~
-                                 THV  KETH
+                                 THV  SINK  BRWF
 
-Row 7    ⊗3    .    .    .    .    ≈  [⊗8]  🏨   .    .    .    .    .    .    ~    ~    ~    ~    ~    ~
-         STRM                    ≈    RVR  THF
+Row 7    ⊗3   .    .    .    .   ⊗6   ⊗8   🏨   .    .    .    .    .    .    ~    ~    ~    ~    ~    ~
+         STRM                    THRN  RVR  THF
 
-Row 8    .    .    .    .    .    ≈   ≈≈   ⌂    ☒    .    .    .    .    .    ~    ~    ~    ~    ~    ~
-                                 ≈   DRN  HOME  MRR
+Row 8    .    .    .    .    .    ≈   ⊗7    ⌂    ☒    .    .    .    .    .    ~    ~    ~    ~    ~    ~
+                                 ≈   MRSH  HOME  MRR
 
 Row 9    .    ~    ~    .    .    .    ≈    ≈   ⚓    .    .    .    .   📚    ~    ~    ~    ~    ~    ~
                                            ≈   TDM                     SALT
 
-Row 10  ⊗4   ~    ~    .    .    .    .    .    ≈   🏪    .    .    .    .    ~    ~    ~    ~    ~    ~
-         TIDE                                   ≈    HARR
+Row 10  ⊗4   ~    ~    .    .    .    .    .    ≈   🏪    .    .   ⊗13   .    ~    ~    ~    ~    ~    ~
+         TIDE                                   ≈    HARR              SUNK
 
 Row 11   ~    ~    ~    ~    .    .    .    .    .    ≈    .    .    .   ☒    ~    ~    ~    ~    ~    ~
                                                      ≈                  SCRY
@@ -175,26 +206,51 @@ Row 14   ~    ~    ~    ~    ~    ~    ~    ~    ~    .   ⚓    .    ~    ~    
 
 Row 15   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    .    ~    ~    ~    ~    ~    ~    ~    ~    ~
 
-Row 16   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~  [⊗1]   ~    ~    ~    ~    ~    ~    ~    ~    ~
-                                                         VOLC
+Row 16   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~   ⊗1    ~    ~    ~    ~    ~    ~    ~    ~
+                                                              VOLC
 
-Row 17   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+Row 17   ~    ~    ~    ~    ~    ~    ~    ~    .    .    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
 
-Row 18   ~    ~    ~    ~    ~    ~    ~    ~    ~    ⚓    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+Row 18   ~    ~    ~    ~    ~    ~    ~    ~    .    ⚓    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
                                                      ASHP
                                                      (4d S of Veld)
 
-Row 19   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+Row 19   ~    ~    ~    ~    ~    ~    ~    ~    .    ~   ⚠    ~    ~    ~    ~    ~    ~    ~    ~    ~
+                                                         JAWB
+                                                         (18mi SSE Ashport)
 
-Row 20   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ⚓    ~    ~    ~    ~    ~    ~    ~    ~
-                                                               CORL
-                                                               (7d S of Veld)
+Row 20   ~    ~    ~    ~    ~    ~    ~    ◈    ~    ~    ~    ⚓    ~    ~    ~    ~    ~    ~    ~    ~
+                                            SALT              CORL
+                                            BRNE              (7d S of Veld)
 
-Row 21   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+Row 21   ~    ~    ~    ~    ~    ~    ~    .    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
 
-Row 22   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ⚓    ~    ~    ~    ~    ~    ~    ~    ~    ~
-                                                         SUNM                                   SOUTH
-                                                         (10d S of Veld)                            ↓
+Row 22   ~    ~    ~    ~    ~    ~    ◈    .    ~    ~    ⚓    ~    ~    ~    ~    ~    ~    ~    ~    ~
+                                      DRFT              SUNM
+                                                        (10d S of Veld)
+
+Row 23   ~    ~    ~    ~    ~    ~    .    .    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+
+Row 24   ~    ~    ~    ~    ~    .    ◈    .    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+                                      KELP
+
+Row 25   ~    ~    ~    ~    .    .    .    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+
+Row 26   ~    ~    ~    ~    .   ◈★   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+                                 TIDE
+                                 (Edda)
+
+Row 27   ~    ~    ~    .    ◈    .    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+                             SHEL
+
+Row 28   ~    ~    .    ◈    .    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+                        WAVE
+
+Row 29   ~    .    .    .    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+
+Row 30   ~    ◈    .    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+              FARL                                                                              SOUTH
+              (19d SW)                                                                              ↓
 ```
 
 ### Grid Legend
@@ -203,9 +259,8 @@ Row 22   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ⚓    ~    ~    ~   
 | `~` | Ocean / open water |
 | `.` | Land (interior) |
 | `≈` | River / marsh / wetland |
-| ⊗ | Ward Node (repaired) |
-| [⊗] | Ward Node (failed/unrepaired) |
-| ⌂★ | Dawnwatch Homestead (party location) |
+| ⊗ | Ward Node (all 14 active) |
+| ⌂ | Dawnwatch Homestead |
 | ⛏ | Mining city (Greymoor) |
 | 🏛 | Archive city (Aelindra) |
 | 📚 | University town (Salthollow) |
@@ -217,8 +272,10 @@ Row 22   ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ⚓    ~    ~    ~   
 | ☒ | Sealed barrow / investigated site |
 | ░░ | Forest (Thornveil) |
 | 🏨 | Coaching inn (Thornfield) |
+| ⚠ | Hazard / point of investigation |
+| ◈ | Southern Shelf village (hearthstone keeper) |
 
-> **Party location:** Dawnwatch Homestead (H8), Fenhollow.
+> **Party location:** Hall of the Dawnwatch, Fenhollow (H8).
 
 ---
 
@@ -236,13 +293,20 @@ Each repaired node projects a ward dome of approximately **6–8 hex radius** (1
 | Node 3 (62%) | A7 | Restored — rows 5–9, columns A–C. 62% stable. |
 | Node 4 (76% ✔) | A10 | Restored — rows 8–12, columns A–C. 76% stable. |
 | Node 2 (71%) | B12 | Restored — rows 10–14, columns A–D. 71% stable. |
+| Node 1 (active) | L16 | Rows 13–19, columns I–O. Remote-boosted from Anchor Point. |
+| Node 6 (active) | F7 | Rows 4–10, columns D–H. Remote-boosted from Anchor Point. |
+| Node 7 (91%) | G8 | Rows 5–11, columns E–I. Fenhollow keeper station. 8 Heartstones. |
+| Node 8 (active) | G7 | Rows 4–10, columns E–I (overlap with 6, 7). Remote-boosted. |
+| Node 13 (67%) | M10 | Rows 7–13, columns J–P. Underwater. Reconstructed. |
+| Node 14 (68%) | E4 | Rows 1–7, columns C–G (overlap with 11, 12). Underground. |
 
 **Western arc status:** Nodes 5, 3, 2, and 4 are all restored/infused. Western arc complete and stable.
 
 ### Cascade Status
 
-**CASCADE ENDED.** All 8 known outer nodes are active: 2, 3, 4, 5, 9, 10, 11, 12.  
-All 14 nodes are now identified (Vaelen's map, Day 185). Remaining unrepaired nodes: 1, 6, 7, 8, 13, 14.
+**CASCADE ENDED.** ALL 14 NODES ACTIVE — first time in 3,248 years (since Day 242, 1249 AS).
+Anchor Point permanently active (7 Heartstones, control interface). Nodes 1, 6, 8 remote-boosted from Anchor Point.
+Fenhollow Station (Node 7): 91%, 8 Heartstones. Aelindra Station: 58%. Ashara Station: fortified. Vel'arath Station: 91%, demilitarized.
 
 ### Underdark Entrance Summary (Mapped)
 
@@ -259,6 +323,6 @@ All 14 nodes are now identified (Vaelen's map, Day 185). Remaining unrepaired no
 
 ---
 
-*Last updated: Day 260, 30th Frostmere, 1249 AS*
-*Party location: Dawnwatch Homestead, Fenhollow (H8). Anchor Point active (Ashport).*
-*Campaign status: ALL 14 NODES ACTIVE. Anchor Point embassy operational. Vel'thara first contact complete.*
+*Last updated: Day 1, 1st Greenthaw, 1253 AS*
+*Party location: Hall of the Dawnwatch, Fenhollow (H8).*
+*Campaign status: ALL 14 NODES ACTIVE + 3 SEED PLANTINGS. Gardener's Mandate. 210 seeds remaining. Southern Shelf allied. The spiral continues.*

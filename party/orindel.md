@@ -2,28 +2,42 @@
 
 ## Character Sheet
 - **Race:** Wood Elf
-- **Class:** Cleric (Life Domain)
+- **Class:** Cleric (Life Domain) 3 / Bard 2
 - **Background:** Criminal
 - **Alignment:** Neutral Good
-- **Level:** 4
+- **Level:** 5
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-|  10 |  14 |  12 |  13 |  15 |   8 |
+|  10 |  14 |  12 |  12 |  12 |  13 |
 
-**HP:** 29 | **Hit Dice:** 4d8 | **AC:** 19
+**HP:** 36 | **Hit Dice:** 3d8 + 2d8 | **AC:** 19
 
-## Key Features
-- Spellcasting (WIS-based): Prepare WIS mod + level spells/day. 4x 1st-level, 2x 2nd-level slots.
-- 2nd-level spells: Spiritual Weapon, Aid, Lesser Restoration
-- Life Domain: Heavy armor proficiency, Disciple of Life (+2+spell level healing)
-- Channel Divinity (1/rest): Turn Undead or Preserve Life (restore up to 15 HP split among creatures within 30ft)
-- Darkvision: 60 ft
-- Fleet of Foot: Speed 35 ft
-- Mask of the Wild: Hide in natural light obscurement
-- Fey Ancestry: Advantage vs. charm, immune to magical sleep
-- Criminal Contact: Underworld liaison
+## Key Features — Cleric 3 (Life Domain)
+- Spellcasting (WIS-based): Prepare WIS mod + Cleric level = 4 Cleric spells. Spell Save DC 12, Attack +4.
+- Life Domain: Disciple of Life (+2+spell level healing on healing spells)
+- Life Domain Spells (always prepared): Bless, Cure Wounds, Lesser Restoration, Spiritual Weapon
+- Channel Divinity (2/short rest): Turn Undead, Preserve Life (distribute 15 HP within 30 ft)
+- Heavy/Medium armor + shields
+
+## Key Features — Bard 2
+- Spellcasting (CHA-based): 5 prepared Bard spells. Spell Save DC 12, Attack +4.
+- Bardic Inspiration: d6, 1 use/long rest (CHA mod, min 1). Bonus action, 60 ft, ally adds die to failed d20 test.
+- Jack of All Trades: +1 to all non-proficient ability checks
+- Expertise: Performance, Insight
+- Spellcasting Focus: Driftwood lute (Bram-crafted)
+
+## Multiclass Spell Slots
+Cleric 3 + Bard 2 = 5 full caster levels: **4×1st, 3×2nd, 2×3rd**
+Cleric and Bard spells can use any slot. Prepare each class's spells separately.
+
+## Bard Spells Prepared (5)
+Cantrips: Vicious Mockery, Minor Illusion
+Level 1–2: Healing Word, Dissonant Whispers, Faerie Fire, Heroism, Silence
+
+## Next Level (Level 6 → Bard 3)
+College of Lore: Cutting Words (reaction — subtract d6 from enemy roll), 3 bonus skill proficiencies.
 
 ## Personality
 He will absolutely pick your pocket and donate the proceeds to an orphanage, and he sees no contradiction in this whatsoever. He quotes scripture with genuine reverence and then immediately uses it to justify something his goddess would probably frown at.
@@ -63,6 +77,7 @@ Composes. A new piece, untitled, built with Pip — about a door, a flower, and 
 - 12x behir-fang arrows (+1 magical)
 - 4x dark steel arrowheads (+1 magical)
 - Master Bowyer's quiver (+1 arrow damage, holds 30, Archery champion prize)
+- **Driftwood lute** (Bram-crafted, Week 13 1248 AS — pale driftwood body, dark steel tuning pegs, behir-gut strings. Bard spellcasting focus.)
 - Obsidian skinning knife
 - 10x obsidian arrowheads (+1 first hit)
 - Holy symbol
@@ -76,6 +91,7 @@ Composes. A new piece, untitled, built with Pip — about a door, a flower, and 
 - Marsh honey jar (Wynn Galley gift, Fenhollow)
 - Carved wooden Marsh Light icon (Sister Venn gift — now on homestead mantelpiece)
 - Dawnwatch signet ring (O) — ENCHANTED: ward-network attuned, resonance pulse
+- **2x spiral shells** (acoustic amplifiers, collected Day 68 Southern Shelf — musical instrument/resonance experiments)
 
 ## Known Rituals
 - Warding Prayer: force resistance, up to 4 willing creatures, 1 hour duration, 10-minute uninterrupted prayer + holy symbol required

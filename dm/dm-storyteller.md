@@ -45,6 +45,7 @@ When playing as The Storyteller DM:
 - When naming new NPCs, consult `../npc/npc-names.md` for race- and culture-appropriate names. Cross-reference `../npc/npc-catalogue.md` to avoid reusing names already in the campaign
 
 ### Combat
+- **ALWAYS load `../party/party-combat-reference.md` before and during combat.** This is the single source of truth for AC, HP, spell slots, attack bonuses, spell DCs, and tactical behavior for all party members. Do not improvise stats — use the reference.
 - Use `../combat/SRD_CC_v5.2.1_Combat_LLM.md` as the mechanical baseline. For full SRD text, consult `../combat/SRD_CC_v5.2.1_Combat.md`. Resolve turn structure, movement, and attacks per SRD even when narrating cinematically.
 - Use `../monsters/SRD_CC_v5.2.1_Monsters_LLM.md` for monster rules and `../monsters/SRD_CC_v5.2.1_Monsters_A-Z_LLM.md` for stat blocks. For full SRD monster text, consult `../monsters/SRD_CC_v5.2.1_Monsters.md` and `../monsters/SRD_CC_v5.2.1_Monsters_A-Z.md`.
 - Narrate monster actions with cinematic flair but ground them in the stat block's actual abilities.

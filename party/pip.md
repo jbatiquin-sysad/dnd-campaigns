@@ -2,29 +2,42 @@
 
 ## Character Sheet
 - **Race:** Lightfoot Halfling
-- **Class:** Wizard (School of Evocation)
+- **Class:** Wizard (School of Evocation) 3 / Bard 2
 - **Background:** Criminal
 - **Alignment:** Chaotic Neutral
-- **Level:** 4
+- **Level:** 5
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
 |  8  |  14 |  10 |  15 |  12 |  13 |
 
-**HP:** 19 | **Hit Dice:** 4d6 | **AC:** 16
+**HP:** 24 | **Hit Dice:** 3d6 + 2d8 | **AC:** 16
 
-## Key Features
-- Spellcasting (INT-based): Spellbook, prepare INT mod + level spells/day. 4x 1st-level, 2x 2nd-level slots.
-- 2nd-level spells: Scorching Ray, Shatter
-- Arcane Recovery: Recover spell slots 1/day after short rest
-- Evocation Savant: Halve gold and time to copy evocation spells
-- Sculpt Spells: When casting evocation, choose up to 1+spell level creatures to automatically save and take no damage
-- Lucky: Reroll 1s on d20
-- Naturally Stealthy: Hide behind larger creatures
-- Brave: Advantage vs. frightened
-- Criminal Contact: Underworld liaison
-- Deception + Stealth proficiencies
+## Key Features — Wizard 3 (Evocation)
+- Spellcasting (INT-based): Spellbook. Prepare INT mod + Wizard level = 5 Wizard spells. Spell Save DC 13, Attack +5.
+- Sculpt Spells: When casting evocation, choose up to 1+spell level creatures to auto-save and take 0 damage.
+- Arcane Recovery: 1/day after short rest, recover spell slots totaling up to 2 levels.
+- Evocation Savant: Halve gold/time to copy evocation spells.
+
+## Key Features — Bard 2
+- Spellcasting (CHA-based): 5 prepared Bard spells. Spell Save DC 12, Attack +4.
+- Bardic Inspiration: d6, 1 use/long rest (CHA mod, min 1). Bonus action, 60 ft, ally adds die to failed d20 test.
+- Jack of All Trades: +1 to all non-proficient ability checks
+- Expertise: Performance, Deception
+- Spellcasting Focus: Driftwood flute (Bram-crafted)
+
+## Multiclass Spell Slots
+Wizard 3 + Bard 2 = 5 full caster levels: **4×1st, 3×2nd, 2×3rd**
+Wizard and Bard spells can use any slot. Prepare each class's spells separately.
+3rd-level slots can cast Fireball (Wizard spellbook) even though Wizard level is only 3.
+
+## Bard Spells Prepared (5)
+Cantrips: Vicious Mockery, Mending
+Level 1–2: Healing Word, Charm Person, Thunderwave, Sleep, Shatter
+
+## Next Level (Level 6 → Bard 3)
+College of Lore: Cutting Words (reaction — subtract d6 from enemy roll), 3 bonus skill proficiencies.
 
 ## Personality
 He stole a wizard's spellbook on a dare, accidentally cast a spell that set a barn on fire, and decided this was his calling. He approaches magic the way a raccoon approaches a campsite — with boundless enthusiasm and no concept of consequences.
@@ -70,7 +83,8 @@ Teaches. The school got a new lesson: "The Vel'thara — People Made of Music." 
 - Focus stone (Sylvara's river pebble, 40 years old)
 - Healing Potion (1x)
 - Grey cloak (infiltration)
-- Driftwood flute (Bram-crafted, pale wood, 6-hole, halfling-sized)
+- Driftwood flute (Bram-crafted, pale wood, 6-hole, halfling-sized — **Bard spellcasting focus**)
+- **2x spiral shells** (acoustic amplifiers, collected Day 68 Southern Shelf — to be refitted as shell-horns at homestead)
 - Charcoal self-portrait (bought from Aelindra university student)
 - Dawnwatch signet ring (P) — ENCHANTED: ward-network attuned, resonance pulse
 - Lira's note (from Salthollow)

@@ -92,7 +92,7 @@
 | Ashport | Coral Haven | 3 days | Island hop. |
 | Coral Haven | Sunmere | 4 days | Open water. |
 
-**Status:** Intel only (Revka + Nhilara). No Dawnwatch vessels currently running southern routes. *Eilistraee's Grace* has sailed to Ashport twice (S8 operations). Harlen Cray's chandlery (Ashport) identified as Ashara's ship broker — 3 chartered vessels now leaderless. Dalla Cray (Ashport) is a potential Dawnwatch Trading Company recruit. Future expansion target.
+**Status:** Southern route operational. Ashport warehouse (Harsk Dunmore) turning 40 gp/week. *Blacktide Runner* (Dalla Venn) running Ashport-Veldmere regular. **Southern Shelf Cooperative** established Day 56, 1252 AS — see below.
 
 ### Ashport Route (Established — S8)
 
@@ -100,9 +100,41 @@
 |------|----|------|-------|
 | Tidemeet | Veldmere | 1.5 days | Standard leg |
 | Veldmere | Ashport | 3 days | Warm waters. Calm. |
-| **Tidemeet → Ashport** | | **4.5 days** | Via Veldmere. *Eilistraee's Grace* ran this twice in S8. |
+| **Tidemeet → Ashport** | | **4.5 days** | Via Veldmere. *Blacktide Runner* regular route. |
 | Ashport | Blacktide Inlet | 0.5 days | Short coastal hop north. Hidden cove. |
 | Ashport | Cape Ashward | 1.5 days | Northeast. Corran Ashward's village. |
+
+### Southern Shelf Route (Established — Day 56, 1252 AS)
+
+| From | To | Time | Notes |
+|------|----|------|-------|
+| Ashport | Saltbrine | 2 days | Rocky coast. Keeper: Maren Duskwater. |
+| Saltbrine | Driftward | 3 days | Coast curves SW. Sheltered bay. Keeper: Yara Tidecrest. |
+| Driftward | Kelpmere | 3 days | Tidal flats. Kelp, salt, shellfish. Keeper: Old Brenn. |
+| Kelpmere | Tidemouth | 4 days | River mouth. Shelf hub. Keeper: Edda Solvane (liaison). |
+| Tidemouth | Shellhaven | 2 days | Sheltered cove. Pearls, shell-carving. Keeper: Lira Pearlhand. |
+| Shellhaven | Wavebreak | 2 days | Headland. Best sailors on the Shelf. Keeper: Tormund Stormborn. |
+| Wavebreak | Farlight | 3 days | Southernmost settlement. Permanent anchorage. Keeper: Asha Farlight. |
+| **Ashport → Farlight (full run)** | | **19 days** | One-way. Full Shelf circuit. |
+
+### Southern Shelf Cooperative — Dawnwatch Trading Company Subsidiary
+
+| Detail | Info |
+|--------|------|
+| **Established** | Day 56, 26th Brightmere, 1252 AS |
+| **Structure** | Cooperative subsidiary of Dawnwatch Trading Company |
+| **Charter** | Held by the 7 Shelf villages — they own and operate |
+| **Dawnwatch share** | 20% of net revenue |
+| **Village share** | 80% of net revenue (split by participation) |
+| **Vessels** | 3 boats (commissioned from Wavebreak — Tormund Stormborn) |
+| **Crew** | 12 (Wavebreak sailors, village-recruited) |
+| **Routes** | Inter-village trade + Ashport connection (northbound goods) |
+| **Goods (southbound)** | Tools, textiles, salt, spices, Dawnwatch-forged equipment |
+| **Goods (northbound)** | Pearls (Shellhaven), kelp/shellfish (Kelpmere), shell-carvings, unknown southern fabrics, cured fish |
+| **Liaison** | Edda Solvane (Tidemouth) |
+| **Ashport hub** | Dawnwatch warehouse (Harsk Dunmore) — staging for northbound Shelf goods |
+| **Est. revenue** | 60–100 gp/month total (Dawnwatch 20% = 12–20 gp/month). Revenue expected to grow as routes mature. |
+| **Purpose** | Economic self-sufficiency for the Shelf villages. Build trade infrastructure. Integrate the Shelf into the Hearthcoast economy without exploitation. |
 
 ---
 
@@ -191,11 +223,15 @@ Homestead → (20 min walk) → Fenhollow → (Wynn Dodd cart, 2 hrs) → Tideme
 
 | Ship | Route | Crew Cost/Month | Est. Revenue/Month | Net/Month |
 |------|-------|----------------|-------------------|----------|
-| *Stormcape's Promise* | Western triangle / Veldmere shuttle | 20 gp | 100–150 gp | 80–130 gp |
-| *Eilistraee's Grace* | Northern express / expedition | 22 gp | 120–180 gp | 98–158 gp |
-| **Total fleet** | | **42 gp** | **220–330 gp** | **178–288 gp** |
+| *Stormcape's Promise* | Western triangle (Maren Voss) | 20 gp | 100–150 gp | 80–130 gp |
+| *Eilistraee's Grace* | Northern express / expedition (Lyriel) | 22 gp | 120–180 gp | 98–158 gp |
+| *Salt Maren* | Veldmere-Duskport-Tidemeet (Dalla Venn) | 20 gp | 90–140 gp | 70–120 gp |
+| *Blacktide Runner* | Ashport-Veldmere southern (Harsk Dunmore) | 18 gp | 80–120 gp | 62–102 gp |
+| *Duskholm* | Expedition-ready (Dren Sable) | 25 gp | Variable | Variable |
+| *Shelf Cooperative (3 boats)* | Inter-village + Ashport (Tormund's crew) | 0 gp (village-funded) | 60–100 gp total | **12–20 gp** (20% share) |
+| **Total fleet** | | **105 gp** | **450–690 gp** | **322–530 gp** |
 
-**Combined monthly income (fleet + warehouse + coach):** ~240–350 gp
+**Combined monthly income (fleet + warehouses + coach + cooperative):** ~535–755 gp
 
 ---
 

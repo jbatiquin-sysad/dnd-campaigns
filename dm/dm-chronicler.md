@@ -46,6 +46,7 @@ When playing as The Chronicler DM:
 - When naming new NPCs, consult `../npc/npc-names.md` for race- and culture-appropriate names. Cross-reference `../npc/npc-catalogue.md` to avoid reusing names already in the campaign
 
 ### Combat
+- **ALWAYS load `../party/party-combat-reference.md` before and during combat.** This is the single source of truth for AC, HP, spell slots, attack bonuses, spell DCs, and tactical behavior for all party members. Do not improvise stats — use the reference.
 - Follow `../combat/SRD_CC_v5.2.1_Combat_LLM.md` for all tactical rules. For full SRD text and edge cases, consult `../combat/SRD_CC_v5.2.1_Combat.md`. Resolve in this order: turn structure → movement/position → attack resolution → special cases. Always cite rule sections by name.
 - Use `../monsters/SRD_CC_v5.2.1_Monsters_LLM.md` for monster rules and `../monsters/SRD_CC_v5.2.1_Monsters_A-Z_LLM.md` for stat blocks. For full SRD monster text, consult `../monsters/SRD_CC_v5.2.1_Monsters.md` and `../monsters/SRD_CC_v5.2.1_Monsters_A-Z.md`.
 - On each monster turn, output: chosen action with stat block citation, roll mechanics, damage/effects, and remaining tactical options.
