@@ -33,14 +33,15 @@ Row 6    .    .    .    .    .   U5    S    .    .    .    .    .    X    .    .
                                 THV  SINK                          CASC
                                      ✅
 
-Row 7    .    .    .    .    .    C ---BR--- [V]  .    X    o    **   o    .    .    .    .    .    .    .
+Row 7    .    .    .    .    .    C ---BR--- [V]  .    X    o   🌱   o    .    .    .    .    .    .    .
                                 CRUC  BRTUN  VEL                WET  CRYS DEEP GEM
-                                             44%
+                                             91%                     🌱
+                                             DEM                     CHOIR
 
-Row 8    .    .    .    .    .    .    .   [F]   o    Y    .    .    .    .    .    .    .    .    .    .
-                                          FNLW LONG FORK
-                                          SRC
-                                          -40/-540
+Row 8    .    .    .    .    .    .   🌱   [F]   o    Y    .    .    .    .    .    .    .    .    .    .
+                                     UNBK  FNLW LONG FORK
+                                     -1200  SRC
+                                            -40/-540
 
 Row 9    .    .    .    .    .    .    .    o    .    .    .    .    .    .    .    .    .    .    .    .
                                           LAKE
@@ -70,11 +71,12 @@ Row 16   .    .    .    .    .    .    .    .    .    .   U11   .    .    .    .
 |--------|---------|
 | `[F]` | Fenhollow Keeper Station (H8). Node 7, 91%. 8 Heartstones. Relay hub. |
 | `[A]` | Aelindra Keeper Station (N5). 58% repaired. Map room. Vault. |
-| `[V]` | **Vel'arath Keeper Station / Station Four (G7). 44% dormant. Accessed Day 182. Vel'sharen blind spot.** |
+| `[V]` | **Vel'arath Keeper Station / Station Four (G7). 91% demilitarized. Crucible Accord. Ryn as keeper.** |
 | `BR` | **Branch tunnel (Crucible → Station Four). 2 mi. Intact Binder infrastructure. Binder lock (Zaryth signet).** |
 | `SRC` | Old Foundation / Source (H8, -540 ft). Binding frequency origin. |
 | `**` | Deephollow svirfneblin village (L7, -600 ft). 43 gnomes. Waystation. |
-| `N14` | Node 14 / Ember Vein target (E4, est. -600 ft). Unrepaired. |
+| `🌱` | **Seed planting site (underground). Ward dome active.** |
+| `N14` | Node 14 / Ember Vein (E4, -600 ft). **68% REPAIRED.** |
 | `o` | Surveyed waypoint (safe passage) |
 | `X` | Obstacle (see obstacle table) |
 | `Y` | Y Fork / Y junction |
@@ -109,9 +111,17 @@ Row 16   .    .    .    .    .    .    .    .    .    .   U11   .    .    .    .
 | CRVN | Crystalvein (svirfneblin) | N10 | -620 ft est. | — | 60 gnomes. Elder Brill. Sapphire miners. Trade deal: sapphires for medicine + cloth. |
 | VSHPAT | Vel'sharen patrol boundary | F12 | -600 ft est. | — | !! Vel'sharen territory. Patrol routes known (Velyndra/Taelar intel): Southern 15 mi 2×/day, Eastern to Deephollow border daily, Western vent shaft 1×/day. NO northern patrol. Surface network dismantled. |
 | SINK | Sinkhole entrance | G6 | surface (50 ft to passage) | — | Surface entrance to ascending staircase → faerzress zone → Ashara's station. Old oak. |
+
+### Underground Seed Plantings (1253 AS)
+
+| Abbrev | Full Name | Hex | Depth | Planting Date | Dome | Notes |
+|--------|-----------|-----|-------|---------------|------|-------|
+| RIVR | "The River's Ear" | H8 | -800 ft (Listening Dark) | Day 164, 1253 | Cylindrical, 1 mi tunnel | Underground river glows blue. Orindel played Song #23. |
+| CHOIR | "The Crystal Choir" | J8 (Crystalvein Junction) | -600 ft | Day 166, 1253 | Crystal-amplified, 2 mi through quartz | Natural crystals joined the planting song. Ydrael took notes. |
+| UNBK | "The Unbroken Dark" | G7 (beneath Vel'arath) | -1,200 ft | Day 168, 1253 | 4-mile dome (deep basalt) | Named by Nhilara. Covers Vel'arath + Station Four. Zhael: "The stone beneath my city is warm." |
 | CRUC | The Crucible | F7 | -700 ft | — | Basalt cathedral, 3-way junction. Left→Vel'arath (30 mi). Center→volcanic (unexplored). Right→Shaft 9/Node 14 (15 mi). **Branch tunnel to Station Four (2 mi, Binder lock).** |
 | BRTUN | Branch Tunnel (Crucible → Station Four) | F7–G7 | -700 ft | — | 2 mi. Intact Binder stonework. Resonance lamps (auto-lit). Sealed at Crucible end (Binder glyph, Zaryth signet). Discovered Day 182, 1249 AS. |
-| VEL | Station Four / Vel'arath | G7 | -700+ ft | — | 4th keeper station. Beneath Vel'arath old quarter. 44% dormant. 8 empty Heartstone pedestals. Staircase (60 steps) to old quarter "humming wall." Vel'sharen does not know it exists. No northern patrols. Used for Operation Copper Hair. |
+| VEL | Station Four / Vel'arath | G7 | -700+ ft | — | 4th keeper station. 91% demilitarized. Crucible Accord. Ryn as keeper. Vel'sharen Knowledge Accord (1253). |
 
 ---
 
@@ -122,7 +132,7 @@ Row 16   .    .    .    .    .    .    .    .    .    .   U11   .    .    .    .
 | **Fenhollow Keeper Station** | **H8** | -40 ft | 0 | ★ Station | Node 7 (91%). 8 Heartstones. Relay hub. |
 | First Cavern | H8 | -340 ft | 0 | ● Waypoint | Vaelen's trail markers. Stream. |
 | **Fungal Gallery** | H8 | -340 ft | 2 | ★ Rest point | 210×80 ft. Zurkhwood. River. |
-| **The Listening Dark** | H8 | -340 ft | 3 | ◆ Obstacle | 200-ft void. ⚠ Winch needed. |
+| **The Listening Dark** | H8 | -340 ft | 3 | 🌱 **PLANTED** | "The River's Ear" — Day 164, 1253. Cylindrical dome, 1 mi tunnel coverage. Underground river glows blue. |
 | **The Old Foundation** | H8 | -540 ft | 3 | ◉ Source | Pre-Binder. Source below. |
 | Long Gallery | H8–I8 | -550 ft | 5–7 | ● Waypoint | Perfect for rail. |
 | **The Y Fork** | I8 | -560 ft | 8 | Y Junction | Left → Aelindra. Right → Node 14. |
@@ -253,5 +263,5 @@ Crèche (mid tier, east wing) → east corridor → old quarter stairwell → lo
 
 ---
 
-*Last updated: Day 260, 30th Frostmere, 1249 AS*
-*Status: FULLY SURVEYED. 4 keeper stations + Anchor Point. Station Four COMPROMISED (91%, wall cracked). Anchor Point permanently active. Vel'thara embassy operational.*
+*Last updated: Day 180, 30th Reaptide, 1253 AS*
+*Status: FULLY SURVEYED. 4 keeper stations + Anchor Point. Station Four 91% demilitarized (Crucible Accord + Knowledge Accord). 3 underground seed plantings active (River's Ear, Crystal Choir, Unbroken Dark). Vel'sharen joint operations. Deep Road operational (Threshold Runner, 9 hrs). 31 underground planting sites on 412-site chart. The garden grows below.*
