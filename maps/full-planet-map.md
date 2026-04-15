@@ -13,8 +13,8 @@
 
 | Region | Hex Range | Size (est.) | Pop. (est.) | Magic Type | Notes |
 |--------|-----------|-------------|-------------|------------|-------|
-| **The Known Continent** | N3–R10 | ~1,200 × 800 mi | ~500,000 | Resonance (Gardener-structured) | Home. Ward network. 14 nodes + 7 plantings. |
-| **The Western Landmass** | C3–H12 | ~2,400 × 1,200 mi | ~300,000 | Raw geometric (World's ley lines) | 5 races. No wards. Living-stone cities. 23 planting sites. |
+| **The Known Continent** | L3–R10 | ~1,200 × 800 mi | ~500,000 | Resonance (Gardener-structured) | Home. Ward network. 14 nodes + 7 plantings. See `scaled-map.md` for detail. |
+| **The Western Landmass** | (off-grid W)–H12 | ~2,400 × 1,200 mi | ~300,000 | Raw geometric (World's ley lines) | 5 races. No wards. Living-stone cities. 23 planting sites. Eastern portion shown on grid; extends far west off-grid. |
 | **The Southern Archipelago** | K14–R18 | ~1,000 × 500 mi (scattered) | ~50,000 | Mixed (raw + Fey) | Hundreds of islands. Sailing culture. |
 | **The Volcanic South** | H18–L20 | ~600 × 400 mi | ~20,000 | Elemental (volcanic) | Active volcanoes. Obsidian/coral builders. |
 | **The Northern Ice** | J1–T2 | ~1,500 × 300 mi | ~5,000 | Dormant (compressed geometry) | Ice shelf. Nomadic. Dense World-geometry under ice. |
@@ -23,15 +23,15 @@
 
 | Location | Hex | Type | Notes |
 |----------|-----|------|-------|
-| **Dawnwatch Homestead** ★ | P6 | Home base | H8 on continental map. Convergence point. |
-| **Seedhome** | P7 | Ancient vessel | Anchored Tidemeet. Gardener's flagship. |
-| **Jawbone** | P7 | Ancient vessel | Anchored Tidemeet. Seed nursery. |
-| **Anchor Point** | P8 | Vel'thara embassy | Ashport region. Permanent aperture. |
-| **The Root** | Q5 | Network heart | Beneath Aelindra. Crystal tree. Root system spans continent. |
+| **Dawnwatch Homestead** ★ | P6 | Home base | H8 on continental map. Convergence point. Tidemeet harbor adjacent (same hex at this scale). |
+| **Seedhome + Jawbone** | P6 | Ancient vessels | Anchored Tidemeet (same hex as homestead at planetary scale). |
+| **Anchor Point** | O9 | Vel'thara embassy | Near Ashport. Permanent aperture. ~480 mi south of homestead. |
+| **The Root** | Q5 | Network heart | Beneath Aelindra. Crystal tree. Root system spans continent + ocean floor to western landmass. |
 | **The Deep Cavern** | Q5 | World Intelligence | 4,200 ft beneath the Root. The World's focus point. |
 | **Farlight** | N12 | Southernmost known settlement | Southern Shelf tip. Asha Farlight. |
 | **Seedhome origin point** | O13 | Second vault site | 400 mi S of Farlight. Where Seedhome rested. |
-| **Stormcape** | L5 | Western coast | Node 5. Behir territory. |
+| **Stormcape** | L5 | Western coast | Node 5. Western edge of Known Continent. |
+| **Vel'arath** | P6 (underground) | Drow city | ~800 pop. Underdark. Vel'sharen Accord. Not visible on surface map. |
 
 ### Western Landmass — Known Features
 
@@ -83,31 +83,32 @@ R1    ~   ~   ~   ~   ~   ~   ~   ~   ~  ░░░░░░░░░░░░░
 R2    ~   ~   ~   ~   ~   ~   ~   ~   ~  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ~   ~   ~   ~
                                           ═══════════════════════════
 
-R3    ~   ~   .   .   .   .   .   .   ~   ~   ~   ~   ~   .   .   .   .   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
-              ├── WESTERN ──┤                              ├ KNOWN ─┤
+R3    ~   .   .   .   .   .   .   .   ~   ~   ~   .   .   .   .   .   .   .   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
+          ├──── WESTERN LANDMASS ───┤             ├──── KNOWN CONTINENT ────┤
 
-R4    ~   ~   .   ♣   ♣   ♣   .   .   ~   ~   ~   ~   .   .   .   .   .   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
-              .  FRST FRST FRST .                         .   .   .   .   .
+R4    ~   .   .   ♣   ♣   ♣   ♣   .   ~   ~   ~   .   .   .   .   .   .   .   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
+              .  FRST FRST FRST FRST                   .   .   .   .   .
 
-R5    ~   ~   .   ♣   ♣   ▓   ▓   .   ~   ~   ~   ~   ⊗   .   .  ★⌂  ⊗   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
-              .  FRST FRST PLNS PLNS                   STM       HOME  AEL
+R5    ~   .   ▲   ♣   ♣   ▓   ▓   .   ~   ~   ~   ⊗   .   .   .  ★⌂  .   ⊗   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
+          .  MTN FRST FRST PLNS PLNS               STM            HOME     AEL
 
-R6    ~   ~   .   ♣   ♣   ▓   .   .   ~   ~   ~   ~   ~   .   .   .   .   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
-              .  FRST FRST PLNS                                   .
+R6    ~   .   ▲   ♣   ♣   ▓   .   .   ~   ~   ~   ~   .   .   .   .   .   .   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
+          .  MTN FRST FRST PLNS                            .   .   .
 
-R7    ~   ~   .   .   ▲   ▓   ≈   .   ~   ~   ~   ~   ~   ~   .  ⚓⚓  .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
-                      MTN  PLNS RIVR                          TIDE+VESSELS
+R7    ~   .   ▲   .   .   ▓   ≈   .   ~   ~   ~   ~   ~   .   .   .   .   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
+          .  MTN          PLNS RIVR                        .   .   .
 
-R8    ~   ~   .   .   ▲   .   ≈   ≈   ~   ~   ~   ~   ~   ~   .   ◈   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
-                      MTN      RIVR RIVR                       ASHP
+R8    ~   .   ▲   .   .   .   ≈   ≈   ~   ~   ~   ~   ~   .   .   .   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
+          .  MTN              RIVR RIVR                    .   .
 
-R9    ~   ~   .   .   ▲   .   ≈   .   ~   ~   ~   ~   ~   ~   ~   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
-                      MTN      RIVR
+R9    ~   .   ▲   .   .   .   ≈   .   ~   ~   ~   ~   ~   ~   .   ◈   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
+          .  MTN              RIVR                             ASHP+AP
 
-R10   ~   ~   .   .   .   .   ≈   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
-                              DELTA
+R10   ~   .   .   .   .   .   ≈   .   ~   ~   ~   ~   ~   ~   ~   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
+                              DELTA                            SHELF
 
-R11   ~   ~   .   .   .   .   .   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
+R11   ~   .   .   .   .   .   .   .   ~   ~   ~   ~   ~   ~   ~   .   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
+          ├── W. LAND (cont.) ──┤                              .
 
 R12   ~   ~   .   .   .   .   .   .   ~   ~   ~   ~   ~   ◈   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
                                                           FARL
@@ -118,10 +119,9 @@ R13   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ⚑   ~   ~   ~   
 
 R14   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ⊙   ⊙   ~   ⊙   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
                                               ISL  ISL      ISL
-                                              ├─ SOUTHERN ARCHIPELAGO
+                                              ├─ SOUTHERN ARCHIPELAGO ─┤
 
 R15   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ⊙   ⊙   ⊙   ⊙   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
-                                                  ISL  ISL  ISL  ISL
 
 R16   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ⊙   ~   ⊙   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~   ~
 
@@ -138,6 +138,8 @@ R20   ~   ~   ~   ~   ~   ~   ~   ~   ▼   ▼   ▼   ~   ~   ~   ~   ~   ~   
                                       VOLC VOLC VOLC                                                                SOUTH
                                                                                                                       v
 ```
+
+> **Note:** The Western Landmass extends further west beyond column A (off-grid). The World describes it as larger than the Known Continent. Only the eastern portion is shown. Full western mapping requires expedition.
 
 ### Grid Legend
 
