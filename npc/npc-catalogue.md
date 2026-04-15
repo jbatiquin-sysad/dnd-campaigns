@@ -404,10 +404,69 @@
 
 ---
 
-*Last updated: Day 30, 30th Greenthaw, 1252 AS*
-*Campaign status: ARC 1-4 COMPLETE. ARC 5 IN PROGRESS (Vel'thara Trust 5). Vel'sharen Accord holding. ALL 14 NODES ACTIVE. 5-ship fleet. All Expert professions.*
+### Session 10 — New NPCs
+
+#### Southern Shelf Keepers
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Edda Solvane** | Human, 50s | Hearthstone keeper, Tidemouth. Shelf liaison to Dawnwatch. | S10 (Ashport) | Active — wintered at homestead, Shelf liaison | Sailed 19 days to find the keeper. Raw resonance crystal on a cord. Grandmother told her to wait. "My grandmother said you'd say something like that." |
+| **Maren Duskwater** | Human, 50s | Hearthstone keeper, Saltbrine. | S10 (Saltbrine) | Active — tending "The Keeper's Faith" planting | Broad-shouldered, hands like rope. Hearthstone on her wrist. "My mother said this day would come." |
+| **Yara Tidecrest** | Human, 20 | Hearthstone keeper, Driftward. | S10 (Driftward) | Active — keeper | Young, inherited stone 6 months ago. Terrified of the responsibility. Seren mentored her. |
+| **Old Brenn** | Human, 80 | Hearthstone keeper, Kelpmere. | S10 (Kelpmere) | Active — keeper | Nearly blind. Carried his stone for 60 years. Heard the First Song when he was seven. Asked that his stone be returned to the Jawbone when he dies. |
+| **Lira Pearlhand** | Human, 35 | Hearthstone keeper, Shellhaven. Pearl-diver. | S10 (Shellhaven) | Active — keeper, offered to dive Jawbone lower level | Quiet, watchful. Carved a shell case for Orindel's journal. "She's the Mira of the Shelf." |
+| **Tormund Stormborn** | Human, 50s | Hearthstone keeper, Wavebreak. | S10 (Wavebreak) | Active — keeper, Shelf Cooperative fleet (3 boats, 12 crew) | Giant of a man. Hearthstone braided into his beard. "Took you long enough." |
+| **Asha Farlight** | Human, 60 | Hearthstone keeper, Farlight. | S10 (Farlight) | Active — keeper, permanent anchorage offered | Silver-haired. Carries stone in a moss-lined box. "My grandmother said there were other gardens." |
+| **Sola** | Human, 92 | Eldest council member, Tidemouth. | S10 (Tidemouth) | Active — elder | Edda's grandmother's contemporary. "We have waited because we were told to wait." |
+
+#### Seedhome / Tidecaller
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Captain Revelle Ashcroft** | Human, 40s | Captain, *Tidecaller*. Deep-water salvage. | S10 (Ashport, Day 4) | Active — 6th Dawnwatch fleet vessel, equal partner (60/40) | Six feet tall, jaw like a ship's prow. 22 years deep-water salvage. Grandmother's resonance compass. "I want to work with you — not for you." |
+| **Corwin Hale** | Human, 55 | Navigator, *Tidecaller*. Resonance-sensitive. | S10 (Ashport, Day 4) | Active — recovered, training with Torven | Dreamed of Seedhome for 3 weeks. Drew a map under compulsion. Navigation crystal calmed him. "The voice isn't afraid anymore. It's happy." |
+| **Fen Blackwater** | Human, 40s | Merchant, Coral Haven trader | S10 (Ashport, Day 4) | Contact — sold the stone chest | Nervous. Sold the Gardener's chest for 250 gp. Underpriced it. |
+
+#### Homestead — New Residents/Roles
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Kael Vel'quinar** | Drow, 14 | Harp prodigy. Dawnwatch Ensemble. Gardener's chosen song-inheritor. | S10 (homestead, Pip's music school) | Active — Ensemble member, training under Orindel | Ilyana's nephew. Extracted from Vel'arath crèche age 7. When he plays, the ward perimeter responds. The Gardener: "This one carries the song forward." ★★★★★ |
+| **Sylla Vel'nessra** | Drow, 8 | Shell-chimes/percussion. Dawnwatch Ensemble. | S10 (music school) | Active — Ensemble member | Extracted from Vel'arath crèche. Perfect rhythm. Terrifyingly talented. ★★★★ |
+| **Pim** | Drow, 11 | Drums. Dawnwatch Ensemble. | S10 (music school) | Active — Ensemble member | Learned fire-dragons from Pip. Natural percussionist. ★★★ |
+| **Ren** | Human, 13 | Shell-horn. Dawnwatch Ensemble. Caretaker's son. | S10 (music school) | Active — Ensemble member | Strong lungs. Pip promised to teach him magic. ★★★ |
+| **Wren** | Halfling, 9 | Shell-flute. Music student. | S10 (music school) | Active — student | Named after the fallen corporal. Shy but persistent. ★★ |
+| **Tomas** | Human, 12 | Lute student. | S10 (music school) | Active — student, Orindel mentoring | Farmer's kid. Big hands. Has an ear. ★★★ |
+| **Nalia** | Drow | Herbalist, Vel'quinar. Lead gardener (underground nursery). | S10 (agricultural expansion) | Active — Vel'quinar compound | Manages gillwort, resonance moss, underground crops. |
+| **Vel** | Drow | Tunnel-farmer, Vel'quinar. Lead gardener (underground). | S10 (agricultural expansion) | Active — Vel'quinar compound | Former Vel'arath tunnel-farmer. Underground cultivation expertise. |
+
+#### Harrowgate Reaping Fair 1252
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Faelen** | Wood Elf | Blade dancer, Harrowgate | S10 (Reaping Fair) | Contact | Two-dagger fighter. Lost to Mira in the final. Fast as smoke. |
+| **Thessa Vane** | Human | Ranger, archer | S10 (Reaping Fair) | Contact | Beat Orindel in archery by 2 points. No relation to Salthollow Vane. |
+| **Dorn Kettleblack** | Human, 50s | Master smith, Harrowgate Smithing Guild | S10 (Reaping Fair) | Active — Harrowgate contract partner | Head judge. Never seen dark steel before. "Where did you learn to do this?" |
+| **Brek** | Goliath | Strongman, Harrowgate | S10 (Reaping Fair) | Contact | Outthrew Aldric. Got pinned by Aldric. |
+
+#### Stonehearth
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **Halla Ironbrow** | Dwarf, 70 | Village elder, Stonehearth (D2). Aldric's second cousin. | S10 (Greypeak expedition) | Active — Anvil planting site tender | Arms like oak branches. Voice that could split granite. "Aye. We'll tend your rock, Aldric." |
+
+#### The Gardener
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **The Gardener** | Unknown, 3,000+ | Pre-Binder resonance intelligence. Planted the original resonance. Creator of the ward network's foundation. | S10 (Jawbone heart chamber, projection; Seedhome, physical) | Active — physical, recovering, teaching at homestead, reunited with the Root | Seven feet tall. Dark composite skin with spiral patterns that shift with light. No face — two points of deeper light for eyes. Slept 3,000 years. Asked to see the sun. Smiled for the first time when Orindel played. Blessed Kael. "Will you tend the garden?" |
+
+---
+
+*Last updated: Day 180, 30th Reaptide, 1253 AS*
+*Campaign status: ARC 1-4 COMPLETE. ARC 5 (Vel'thara Trust 6). ARC 6: THE GARDEN (7/412 planted). ARC 7: THE SOURCE (Root explored, Gardener reunited). Vel'sharen Knowledge Accord. ALL 14 NODES + 7 PLANTINGS. Level 6. All Master professions.*
 *Party name: The Dawnwatch*
-*Party level: 4 (Nhilara: 8)*
-*Party gold: ~16,778 gp*
-*Fleet: 5 ships. Homestead: complete. School: 16. Library: 31.*
-*Remaining threads: The Source. Duskholm expedition. Vel'thara deeper knowledge. Ydriss. Ashara's fate.*
+*Party level: 6 (Nhilara: 8)*
+*Party gold: ~25,275 gp*
+*Fleet: 6 ships + Cooperative + Jawbone + Seedhome. Homestead: Hall complete. School: 16 + Ensemble. Library: 33+.*
+*Remaining threads: Marble-sphere. Third container. Western landmass. Deep ocean. Memory tree (spring 1254). Ashara's fate. The garden grows.*
