@@ -73,7 +73,7 @@ Composes. A new piece, untitled, built with Pip — about a door, a flower, and 
 ## Equipment (Current — 1252 AS)
 - Shepherd's Strike mace (enchanted — 1/day push 10 ft on hit)
 - Behir scale mail +1 + ship's oak shield (AC 19, lightning resistance)
-- True Flight shortbow (enchanted — ignore half cover, behir sinew +1 dmg)
+- **Stormflight** shortbow +2 (ashwood + dark steel wire + storm glass lens + 2 resonance gems + adult behir sinew. +8 to hit, 1d6+6 piercing. Archer's Grace: +2 DEX while drawn. Ignore ¾ cover. Arrow Guidance: reroll 1 miss/short rest. Ward-circuit linked. Grip gem = holy symbol focus. Collaborative build: Bram/Sylvara/Orindel/Zaryth.)
 - 12x behir-fang arrows (+1 magical)
 - 4x dark steel arrowheads (+1 magical)
 - Master Bowyer's quiver (+1 arrow damage, holds 30, Archery champion prize)

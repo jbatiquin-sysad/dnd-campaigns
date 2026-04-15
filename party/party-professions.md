@@ -8,16 +8,16 @@
 
 | Member | Professions | Training Status |
 |--------|------------|----------------|
-| **Zaryth** | Alchemist, Tinkerer, Ward Engineer | All ✔ Expert. Ward Engineer: **Advanced (Lesson 180)** — independent node tuning, no interface needed. |
-| **Mira** | Herbalist, Leatherworker | Herbalist ✔✔ **Expert** (dual-tradition compound medicine). Leatherworker ✔. |
-| **Aldric** | Mason, Miner | Mason ✔✔ **Expert** (ward-compatible construction). Miner ✔. |
-| **Sylvara** | Enchanter, Glassblower | Glassblower ✔✔ **Expert** (resonance lens, bioluminescent technique). Enchanter ✔. |
-| **Bram** | Smith, Woodcarver | Smith ✔✔ **Expert** (dark steel + Binding alloy master). Woodcarver ✔. |
-| **Thessaly** | Tailor, Weaver | Weaver ✔✔ **Expert** (spider-silk tapestry, bioluminescent thread). Tailor ✔. |
-| **Orindel** | Jeweler, Hunter, Hymn Composer | Jeweler ✔✔ **Expert** (ward-attuned gem setting). Hunter ✔. Hymn Composer ✔. |
-| **Pip** | Inscriber, Cook, Flutist | Inscriber ✔✔ **Expert** (independent ward-circuit inscription). Cook ✔. Flutist ✔. |
-| **Seren** | Herbalist, Navigator, Ward Keeper | Herbalist ✔✔ **Expert** (complete pharmacopoeia, Book #30). Navigator ✔. Ward Keeper ✔. |
-| **Torven** | Ward Engineer, Scribe, Researcher | Researcher ✔✔ **Expert** (Unified Atlas, Book #31). Ward Engineer ✔. Scribe ✔. |
+| **Zaryth** | Ward Architect, Alchemist, Tinkerer | All ✔✔✔ **MASTER**. Ward Architect (Gardener-level template design). Master Alchemist (silver sage elixirs). Master Tinkerer (Seedhome tool maintenance). |
+| **Mira** | Resonance Cultivator, Leatherworker | All ✔✔✔ **MASTER**. Resonance Cultivator (cultivar propagation, hybrid design). Master Leatherworker (behir/voidmaw hide mastery). |
+| **Aldric** | Resonance Mason, Miner | All ✔✔✔ **MASTER**. Resonance Mason (ward-integrated construction). Master Miner (resonance-vein detection, dark steel assessment). |
+| **Sylvara** | Resonance Enchanter, Glassblower | All ✔✔✔ **MASTER**. Resonance Enchanter (Gardener-level enchantment). Master Glassblower (storm glass mastery, resonance vessels). |
+| **Bram** | Resonance Smith, Woodcarver | All ✔✔✔ **MASTER**. Resonance Smith (Crucible-certified, Heartstone forging). Master Woodcarver (resonance wood, instruments). |
+| **Thessaly** | Resonance Weaver, Tailor | All ✔✔✔ **MASTER**. Resonance Weaver (ward-conductive fabric). Master Tailor (resonance garment construction). |
+| **Orindel** | Resonance Song-Keeper, Jeweler, Hunter | All ✔✔✔ **MASTER**. Song-Keeper (15/47 songs, First Song, Gardener's blessing). Master Jeweler (song-crystal creation). Master Hunter (resonance-ecosystem tracking). |
+| **Pip** | Ward Inscriber, Cook, Flutist | All ✔✔✔ **MASTER**. Ward Inscriber (Gardener-level circuits). Master Cook (resonance-ingredient cuisine). Master Flutist (planting song performance). |
+| **Seren** | Master Ward Keeper, Navigator, Herbalist | All ✔✔✔ **MASTER**. Master Ward Keeper (full 412-site network maintenance). Master Navigator (resonance-compass, deep-ocean charting). Master Herbalist (complete cultivar pharmacopoeia). |
+| **Torven** | Planting Director, Ward Engineer, Scribe | All ✔✔✔ **MASTER**. Planting Director (412-site operational planning). Master Ward Engineer (Gardener-level circuit work). Master Scribe (Gardener notation transcription). |
 
 ✔ = proficient  ✔✔ = expert  🔄 = in training
 

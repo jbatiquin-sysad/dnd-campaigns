@@ -1,100 +1,114 @@
 {
   "session": 10,
-  "active_dm": "dm-storyteller",
-  "in_game_day": 1,
+  "active_dm": "dm-wildcard",
+  "in_game_day": 180,
   "in_game_year": 1253,
-  "calendar_date": "1st Greenthaw, 1253 AS",
+  "calendar_date": "30th Reaptide, 1253 AS",
   "current_week_file": "week-20",
   "party_name": "The Dawnwatch",
   "party_size": 10,
-  "party_level": 5,
+  "party_level": 6,
   "party_specialist": "Nhilara Vel'quinar (Level 8, Barbarian 5/Rogue 3)",
   "core_expedition_team": ["Zaryth", "Torven", "Seren", "Mira", "Orindel"],
-  "location": "Hall of the Dawnwatch, Fenhollow",
-  "campaign_status": "ARC 1-4 COMPLETE. ARC 5 IN PROGRESS (Vel'thara, Trust 6). ARC 6: THE GARDEN (3/213 seeds planted). Vel'sharen Accord holding. ALL 14 NODES ACTIVE + 3 SEED PLANTINGS. Anchor Point permanent. Gardener's Mandate accepted. Trade corridor operational. 5-ship fleet + Shelf Cooperative. Harrowgate Smithing Guild contract. Dawnwatch Ensemble formed. Hall of the Dawnwatch complete. Year 1253 AS.",
+  "location": "Aelindra (returning to homestead)",
+  "campaign_status": "ARC 1-4 COMPLETE. ARC 5 (Vel'thara, Trust 6). ARC 6: THE GARDEN (7/412 seeds planted, 4 surface + 3 underground). ARC 7: THE SOURCE — Root explored, Gardener reunited with Root. Vel'sharen Knowledge Accord. ALL 14 NODES + 7 PLANTINGS ACTIVE. Seedhome + Jawbone at Tidemeet. Gardener physical, recovering. All Master professions. Dawnsedge forged. Warden's Diadem. Root's Heart-Fruit. Memory tree seed. Year 1253 AS.",
   "party_gold": {
-    "total": 19832,
+    "total": 25275,
     "carried": 3000,
-    "homestead_reserves": 16832
+    "homestead_reserves": 22275
   },
-  "ward_ink": 25,
-  "monthly_income": 900,
+  "ward_ink": 9,
+  "monthly_income": 1091,
   "monthly_expenses": 314,
-  "monthly_surplus": 586,
+  "monthly_surplus": 777,
   "ward_status": {
-    "network": "ALL 14 NODES ACTIVE + 3 SEED PLANTINGS (Keeper's Faith/Saltbrine, Stone's Memory/Anvil, Windkeeper's Watch/Stormcape). Anchor Point permanent hub. 15 Heartstones (8 Fenhollow + 7 Anchor Point). 6 inverted contained at forge. 209 seed crystals in Jawbone archive, 1 in homestead vault.",
-    "stations": "Fenhollow (91%), Aelindra (58%), Ashara (fortified), Vel'arath (91%, demilitarized, Ryn as keeper)",
+    "network": "ALL 14 NODES + 7 PLANTINGS ACTIVE. Agricultural ward (Template #3) on Node 7. Root explored — root system spans entire continent. Natural Heartstone deposits growing in bedrock. 412 planting sites identified (Root-prepared).",
+    "stations": "Fenhollow (91%, 8 Heartstones, agricultural ward), Aelindra (58%), Ashara (fortified), Vel'arath (91%, demilitarized, Ryn as keeper)",
     "plantings": {
-      "keepers_faith": "Saltbrine (H20). Day 70, 1252. 1-mile initial dome, expanding. Maren Duskwater tending.",
-      "stones_memory": "The Anvil (D2). Day 92, 1252. 3-mile initial dome (deep bedrock). Overlaps Node 12. Stonehearth tending (Halla Ironbrow).",
-      "windkeepers_watch": "Stormcape Cliff (A6). Day 205, 1252. 2-mile initial dome. Overlaps Node 3. Vel'thara coastal song used."
+      "keepers_faith": "Saltbrine (H20). Day 70, 1252. Maren Duskwater tending.",
+      "stones_memory": "The Anvil (D2). Day 92, 1252. 3-mile dome. Stonehearth tending.",
+      "windkeepers_watch": "Stormcape Cliff (A6). Day 205, 1252. Overlaps Node 3.",
+      "grandmothers_promise": "Tidemouth (E26). Day 8, 1253. All 7 Shelf hearthstones synchronized.",
+      "rivers_ear": "Listening Dark (underground, 800 ft). Day 164, 1253. Cylindrical dome, 1 mi tunnel coverage.",
+      "crystal_choir": "Crystalvein Junction (underground, 600 ft). Day 166, 1253. Crystal-amplified, 2 mi through quartz.",
+      "unbroken_dark": "Beneath Vel'arath (underground, 1200 ft). Day 168, 1253. 4-mile dome. Named by Nhilara."
     }
   },
   "gardener": {
-    "status": "Mandate accepted. Jawbone vessel awake. Mother crystal active.",
-    "seeds_planted": 3,
-    "seeds_remaining": 210,
+    "status": "Physical. Recovering. Teaching daily. Reunited with the Root (Day 180). Silver tree greenhouse at homestead. Heartbeat 25 sec (stabilizing).",
+    "seeds_planted": 7,
     "seeds_in_vault": 1,
-    "seeds_in_jawbone": 209,
+    "seeds_in_jawbone": 204,
+    "seeds_in_seedhome": "Hundreds (uncounted — older, stronger than Jawbone seeds)",
+    "natural_heartstone_deposits": "Dozens in bedrock, Root-grown. Unmapped. Self-sustaining seed source.",
+    "planting_sites_total": 412,
     "planting_limit": "3 per month (7-day nursing period each)",
     "gifts": {
-      "zaryth": "Seed-Planting Attunement",
+      "zaryth": "Seed-Planting Attunement, Warden's Diadem (412-site awareness), Root's Heart-Fruit (direct Root communication), Silver Leaf (master key both vessels)",
       "seren": "Planting knowledge (ki-filtered)",
-      "torven": "Planting site compass sense (213 sites)",
-      "orindel": "Spiral notation reading (music). 9/12 Vel'thara planting songs learned.",
-      "mira": "Seed crystal sensing (each distinct)"
+      "torven": "Planting site compass (412 sites)",
+      "orindel": "Spiral notation reading, 15/47 planting songs, Firstsong (legendary lute), Gardener's blessing",
+      "mira": "Seed crystal sensing, Memory tree seed (plant 1st Greenthaw 1254)"
     }
   },
+  "the_root": {
+    "status": "Alive. Crystal tree, 20 ft. Green light. Can speak. Sense of humor. Root system spans continent. Growing natural Heartstones.",
+    "heart_fruit": "With Zaryth. Direct communication + Network Pulse + Root Sense.",
+    "memory_tree_seed": "With Mira. Plant 1st Greenthaw 1254. Gardener's homeworld species."
+  },
   "vel_thara_accord_trust": 6,
-  "vel_sharen_accord": "HOLDING. Trade corridor profitable (peak in winter). Zhael attended Harvest Eve dinner. Ydrael visited school. Cooperative.",
+  "vel_sharen_accord": "HOLDING + KNOWLEDGE ACCORD (Day 150, 1253). Full resonance research exchange. Joint underground planting. Shared lab. Ydrael permanent liaison. Kael annual Vel'arath study. Mutual defense of plantings.",
   "fleet": {
     "stormcapes_promise": "Maren Voss. Western triangle. Operational.",
     "eilistraees_grace": "Lyriel. Northern express + expedition. Operational.",
     "salt_maren": "Dalla Venn. Veldmere-Duskport-Tidemeet. Operational.",
     "blacktide_runner": "Harsk Dunmore. Ashport-Veldmere southern. Operational.",
     "duskholm": "Dren Sable. Expedition-ready.",
-    "shelf_cooperative": "3 boats, 12 crew (Tormund Stormborn/Wavebreak). 80/20 split. Inter-village + Ashport. Edda Solvane liaison."
+    "tidecaller": "Revelle Ashcroft. Deep-water exploration + salvage. 60/40 split. Corwin Hale navigator.",
+    "shelf_cooperative": "3 boats, 12 crew (Tormund). 80/20 split. Edda liaison.",
+    "jawbone": "Anchored Tidemeet. Autonomous. 204 seed crystals.",
+    "seedhome": "Anchored Tidemeet. Gardener's flagship. Root Seed, forge (100%), archive (412 charts, 61 templates, 47 songs, 47 tools)."
   },
   "homestead": {
-    "hall": "Hall of the Dawnwatch — COMPLETE. East Hill. Round table (10+6). Trophy gallery. Memorial alcove. Sculpture: Sethrak's Threshold. Ward-circuit integrated.",
-    "school": "16 students. Music curriculum (choir + 6 instrumentalists). Vel'thara curriculum.",
-    "library": "33 books (incl. Moonpetal Properties, Atlas of the Vel'thara)",
-    "passive_income_weekly": "35-45 gp",
-    "apothecary": "Master Haldren, 30 gp/week",
-    "ensemble": "Dawnwatch Ensemble — 6 members (Orindel, Pip, Kael, Sylla, Pim, Ren). 7 repertoire pieces. Ward-resonant.",
-    "forge_contracts": "Harrowgate Smithing Guild — 75-125 gp/month"
+    "hall": "Hall of the Dawnwatch — COMPLETE. Round table (10+6). Trophy gallery. Memorial alcove. Sculpture. Ward-circuit.",
+    "school": "16 students. Music + Vel'thara curriculum. Dawnwatch Ensemble (6 members).",
+    "library": "33+ books.",
+    "agricultural_ward": "Template #3 active on Node 7. Double crop growth, blight elimination, frost protection. Covers H8 hex.",
+    "agricultural_charter": "10 acres east. Mira's research garden, expanded pasture, experimental fields, apothecary garden.",
+    "dairy": "8 goats, cheese cave, butter/yogurt production. 30 gp/month.",
+    "apothecary": "Master Haldren + enhanced herb supply. 180 gp/month.",
+    "alchemy_line": "Greater Healing Potions, elixirs, Moonpetal Salve, Stormfire Flasks. ~250 gp/month.",
+    "glassware": "Storm glass vessels (Sylvara). ~75 gp/month.",
+    "forge_contracts": "Harrowgate Smithing Guild. 90-125 gp/month.",
+    "ensemble": "Dawnwatch Ensemble — 6 members. 7+ repertoire. Ward-resonant. Kael (Gardener's chosen).",
+    "gardener_greenhouse": "Silver tree transplanted from Seedhome. Gardener rests here.",
+    "new_species": "Silver sage (moonpetal-sage hybrid). Resonance-cultivar. Unique."
   },
   "vel_quinar": {
     "population": 16,
-    "status": "Complete. DEBT-FREE. Underground quarters, armory, prison cells. Defense upgraded. Bioluminescent resonance moss lighting. Southern crops (gillwort, driftwood sage, red seaweed, stonecap mushrooms). Spider-silk weaving, Drow glasswork.",
+    "status": "DEBT-FREE. Underground quarters, armory, nursery, resonance moss lighting. Southern crops thriving. Spider-silk industry (resonance fabric with Thessaly).",
     "keeper_trainee": "Ryn — certified, Station Four rotation",
-    "prodigy": "Kael Vel'quinar — harp, age 13, Dawnwatch Ensemble member"
-  },
-  "prisoners_probation": {
-    "ashara": "Probation. Translating Gardener inscriptions (60% complete). Moonpetal research (Book #33). Ward-suppressed. Cooperative. Trending redemption.",
-    "veradis_kael": "Probation. Alchemy research (inversion countermeasures, stonecap crystallization).",
-    "thessara_vael": "Probation. Trading Company logistics.",
-    "edrin_vael": "Probation. Assisting Veradis."
+    "prodigy": "Kael Vel'quinar — harp, age 14, Ensemble member, Gardener's chosen song-inheritor"
   },
   "southern_shelf": {
     "villages": 7,
     "keepers": ["Maren Duskwater (Saltbrine)", "Yara Tidecrest (Driftward)", "Old Brenn (Kelpmere)", "Edda Solvane (Tidemouth)", "Lira Pearlhand (Shellhaven)", "Tormund Stormborn (Wavebreak)", "Asha Farlight (Farlight)"],
-    "cooperative": "Operational. 3 boats. 80/20 split.",
-    "liaison": "Edda Solvane (wintered at homestead)"
+    "cooperative": "Operational. 3 boats. 80/20 split. Growing.",
+    "liaison": "Edda Solvane"
   },
-  "tournament_record": "14 golds, 5 silvers (Duskport 1248, Veldmere 1249, Harrowgate 1252)",
-  "professions_all_expert": true,
+  "tournament_record": "14 golds, 5 silvers (Duskport 1248, Veldmere 1249, Harrowgate 1252). Missed 1253 (underground campaign).",
+  "professions_all_master": true,
   "party": {
-    "zaryth": { "level": 5, "class": "Paladin (Devotion) 5", "hp": 44, "ac": 22, "armor": "Warden's Plate (dark steel + Binding alloy + behir scale, ward-circuit, resonance gem) + Warden's Shield", "weapon": "Dawnwatch Longsword (+1d4 lightning)", "ward_engineer": "Advanced (Lesson 180)", "features": "Extra Attack, Faithful Steed, Divine Smite, Lay on Hands 25, Spell Slots 4x1st 2x2nd" },
-    "mira": { "level": 5, "class": "Rogue (Thief) 5", "hp": 37, "ac": 18, "armor": "Behir scale-leather +2, dark steel wire, ward-circuit, 3 resonance gems", "weapons": "Shadow Fang, Whisper Bolt, Shadow Bolt, behir-fang dagger, master dagger, dueling blades (Duskport + Harrowgate)", "features": "Sneak Attack 3d6, Uncanny Dodge, Cunning Strike" },
-    "aldric": { "level": 5, "class": "Cleric (Life) 5", "hp": 43, "ac": "19 (21 reaction)", "armor": "Dark steel chain mail +1 + dark steel shield, ward-circuit, 3 resonance gems, Sea Ward", "weapon": "Hearthstone warhammer (+1d4 radiant)", "features": "Sear Undead, Preserve Life 25, Spell Slots 4x1st 3x2nd 2x3rd" },
-    "sylvara": { "level": 5, "class": "Wizard (Evocation) 5", "hp": 24, "ac": 17, "armor": "Dark steel scale mail +1, behir overlay, resonance lens integrated, ward-circuit, 3 gems", "weapons": "Enchanted dagger (+1, +1d4 force)", "features": "Sculpt Spells, Memorize Spell, Spell Slots 4x1st 3x2nd 2x3rd", "special": "INT 20, Spell DC 16" },
-    "bram": { "level": 5, "class": "Wizard (Evocation) 5", "hp": 25, "ac": 17, "armor": "Dark steel scale mail +1, behir overlay, ward-circuit, forge-attunement, 2 gems", "weapon": "Yew Quarterstaff (+1 spell attacks)", "features": "Sculpt Spells, Memorize Spell", "special": "Expert Smith, Master Artisan's Seal (Harrowgate)" },
-    "thessaly": { "level": 5, "class": "Rogue (Thief) 5", "hp": 38, "ac": 17, "armor": "Behir scale-leather +1, dark steel wire, ward-circuit, rapier feedback loop, 3 gems", "weapons": "Veil Pierce rapier, Storm Bolt crossbow, 20 dark steel bolts", "features": "Sneak Attack 3d6, Uncanny Dodge, Cunning Strike", "special": "Master Trade Endorsement (Harrowgate)" },
-    "orindel": { "level": 5, "class": "Cleric (Life) 3 / Bard 2", "hp": 36, "ac": 19, "armor": "Dark steel scale mail +1, behir overlay, ship's oak shield, ward-circuit, 4 gems (Bardic amplification)", "weapons": "Shepherd's Strike mace, True Flight shortbow, Master Bowyer's quiver", "features": "Life Domain, Bardic Inspiration d6, Jack of All Trades, Expertise", "special": "Driftwood lute (Bard focus), 2 shell-horns, Dawnwatch Ensemble director, 9/12 Vel'thara songs", "stats": "WIS 12, CHA 13" },
-    "pip": { "level": 5, "class": "Wizard (Evocation) 3 / Bard 2", "hp": 24, "ac": 16, "armor": "Behir scale-leather +1, dark steel wire, ward-circuit, 1 gem, Resonance Shell absorb 15", "weapon": "Spark Edge (+1d4 fire permanent)", "features": "Sculpt Spells, Arcane Recovery, Bardic Inspiration d6, Jack of All Trades", "special": "Driftwood flute (Bard focus), 2 shell-flutes, shell-chimes, Dawnwatch Ensemble co-lead", "stats": "INT 15, CHA 13" },
-    "seren": { "level": 5, "class": "Monk (Open Hand) 5", "hp": 38, "ac": 18, "armor": "Unarmored Defense + dark steel ward bracers +1, ward-circuit, network awareness, 2 gems", "weapons": "Unarmed (1d8+4 force magical), Drell's knife", "features": "Extra Attack, Stunning Strike, Focus Points 5, Martial Arts d8", "special": "Expert Navigator, River Champion (Harrowgate)" },
-    "torven": { "level": 5, "class": "Druid (Land — Coast) 5", "hp": 34, "ac": 17, "armor": "Behir scale-leather, dark steel wire, ironwood shield, ward-circuit, enhanced concentration, 2 gems", "weapons": "Shillelagh staff (+1d4 radiant), Produce Flame", "features": "Wild Resurgence, Natural Recovery, Spell Slots 4x1st 3x2nd 2x3rd", "special": "Expert Researcher, Planting site compass sense, Southern Shelf cartographer" },
-    "nhilara": { "level": 8, "class": "Barbarian 5 / Rogue (Scout) 3", "hp": 75, "ac": "19/21", "armor": "Behir-hide breastplate + dark steel shield (ward-circuit absorb)", "weapons": "Dark steel scimitar +1 (+1d4 force), silent hand crossbow +1", "features": "Rage 3, Extra Attack, Reckless Attack, Sneak Attack 2d6, Cunning Action" }
+    "zaryth": { "level": 6, "class": "Paladin (Devotion) 6", "hp": 52, "ac": 22, "armor": "Warden's Plate + Warden's Shield", "weapon": "Dawnsedge (+3, 1d8+5 + 1d6 lightning + 1d6 radiant, Gardener's Strike, Sunburst)", "features": "Extra Attack, Aura of Protection (+3 saves 10ft), Faithful Steed, Lay on Hands 30, Spell Slots 4x1st 2x2nd", "special": "Warden's Diadem, Root's Heart-Fruit, Silver Leaf, Ward Architect" },
+    "mira": { "level": 6, "class": "Rogue (Thief) 6", "hp": 44, "ac": 18, "armor": "Behir scale-leather +2, dark steel wire, ward-circuit, 3 gems", "weapons": "Shadow Fang, Whisper Bolt, Shadow Bolt, behir-fang dagger, master dagger, dueling blades (3)", "features": "Sneak Attack 3d6, Uncanny Dodge, Cunning Strike, Expertise (4 skills)", "special": "Memory tree seed, Resonance Cultivator" },
+    "aldric": { "level": 6, "class": "Cleric (Life) 6", "hp": 50, "ac": "19 (21 reaction)", "armor": "Dark steel chain mail +1 + dark steel shield, ward-circuit, 3 gems, Sea Ward", "weapon": "Hearthforge warhammer +1 (+6, 1d8+3+1d6 radiant, Hearthpulse, Consecrated Strike)", "features": "Blessed Healer, Sear Undead, Preserve Life 30, Channel Divinity 3/SR, Spell Slots 4x1st 3x2nd 3x3rd", "special": "Resonance Mason" },
+    "sylvara": { "level": 6, "class": "Wizard (Evocation) 6", "hp": 28, "ac": 17, "armor": "Dark steel scale mail +1, behir overlay, resonance lens integrated, ward-circuit, 3 gems", "weapon": "Voidedge dagger (+8, 1d4+5+1d6 force, Spell Echo 1/SR)", "features": "Sculpt Spells (RAW), Memorize Spell, Prepared 10, Spell Slots 4x1st 3x2nd 3x3rd", "special": "INT 20, Spell DC 17, Resonance Enchanter, Master Glassblower" },
+    "bram": { "level": 6, "class": "Wizard (Evocation) 6", "hp": 29, "ac": 17, "armor": "Dark steel scale mail +1, behir overlay, ward-circuit, forge-attunement, 2 gems", "weapon": "Yew Quarterstaff (+1 spell attacks)", "features": "Sculpt Spells (RAW), Memorize Spell, Prepared 10, Spell Slots 4x1st 3x2nd 3x3rd", "special": "Resonance Smith, Master Woodcarver, Master Artisan's Seal, Crucible-certified" },
+    "thessaly": { "level": 6, "class": "Rogue (Thief) 6", "hp": 44, "ac": 17, "armor": "Behir scale-leather +1, dark steel wire, ward-circuit, rapier feedback loop, 3 gems", "weapons": "Veil Pierce rapier, Storm Bolt crossbow, 20 dark steel bolts", "features": "Sneak Attack 3d6, Uncanny Dodge, Cunning Strike, Expertise (4 skills)", "special": "Resonance Weaver, Master Tailor, Master Trade Endorsement" },
+    "orindel": { "level": 6, "class": "Cleric (Life) 3 / Bard (Lore) 3", "hp": 42, "ac": 19, "armor": "Dark steel scale mail +1, behir overlay, ship's oak shield, ward-circuit, 4 gems", "weapons": "Shepherd's Strike mace, Stormflight shortbow +2 (+8, 1d6+6, ignore 3/4 cover, Arrow Guidance 1/SR, Archer's Grace +2 DEX)", "features": "Life Domain, Bardic Inspiration d6, Cutting Words, Jack of All Trades, Expertise, College of Lore (3 bonus skills)", "special": "Firstsong (legendary lute, BI d8, planting radius x2, First Song 1/LR), Resonance Song-Keeper (15/47 songs), Master Jeweler, Master Hunter" },
+    "pip": { "level": 6, "class": "Wizard (Evocation) 3 / Bard (Lore) 3", "hp": 28, "ac": 16, "armor": "Behir scale-leather +1, dark steel wire, ward-circuit, 1 gem, Resonance Shell absorb 15", "weapon": "Sparkweave quarterstaff (1d6+2+1d4 fire, +1 CON saves, Shield Charge 1d6 1/LR)", "features": "Sculpt Spells (campaign), Arcane Recovery, Bardic Inspiration d6, Cutting Words, College of Lore (3 bonus skills)", "special": "Ward Inscriber, Master Cook, Master Flutist, Dawnwatch Ensemble co-lead" },
+    "seren": { "level": 6, "class": "Monk (Open Hand) 6", "hp": 44, "ac": 18, "armor": "Unarmored Defense + dark steel ward bracers +1, ward-circuit, network awareness, 2 gems", "weapons": "Resonance Fists (1d8+4+1d6 force, Stun DC 15, Deflect 1d10+11)", "features": "Extra Attack, Stunning Strike DC 15, Wholeness of Body (1d8+3 self-heal 3/LR), Empowered Strikes, Focus Points 6", "special": "Master Ward Keeper, Master Navigator, Master Herbalist" },
+    "torven": { "level": 6, "class": "Druid (Land — Coast) 6", "hp": 39, "ac": 17, "armor": "Behir scale-leather, dark steel wire, ironwood shield, ward-circuit, 2 gems", "weapons": "Rootsinger staff (Shillelagh +6, 1d8+3+1d6 radiant, DC 15, conc. adv., Planting Pulse)", "features": "Wild Resurgence, Natural Recovery (free Circle Spell 1/LR, SR slot recovery), Spell Slots 4x1st 3x2nd 3x3rd, Spell DC 15", "special": "Planting Director, Master Ward Engineer, Master Scribe, Corwin Hale apprentice" },
+    "nhilara": { "level": 8, "class": "Barbarian 5 / Rogue (Scout) 3", "hp": 75, "ac": "19/21", "armor": "Behir-hide breastplate + dark steel shield", "weapons": "Dark steel scimitar +1 (+1d4 force), silent hand crossbow +1", "features": "Rage 3, Extra Attack, Reckless Attack, Sneak Attack 2d6, Cunning Action" }
   }
 }

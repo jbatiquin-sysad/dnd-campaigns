@@ -68,7 +68,7 @@
 ## Brother Aldric Stonebrow — Cleric
 
 **Armor:** Dark steel chain mail +1 + dark steel shield (Warding Edge +2 AC reaction 1/round) + Sea Ward — AC 19 (21 with reaction). Ward-circuit, 3 resonance gems.
-**Weapon:** Hearthstone warhammer (enchanted — 1/day self-heal 1d4+4, +1d4 radiant all hits)
+**Weapon:** **Hearthforge** warhammer +1 (dark steel head + storm glass haft + resonance gem. +6 to hit, 1d8+3 bludgeoning + 1d6 radiant. Self-heal 1d4+4 1/day. Hearthpulse: healing spell → 1d4 temp HP to allies within 10 ft 1/LR. Consecrated Strike: undead hit have disadvantage on next attack. Ward-circuit linked.)
 **Clothing:** Acolyte underlayer robes
 
 | Slot | Item | Notes |
@@ -91,7 +91,7 @@
 ## Sylvara Dawnwhisper — Wizard
 
 **Armor:** Dark steel scale mail +1, behir scale overlay (AC 17, lightning resistance, ward-circuit, resonance lens integrated at chest — +1 spell DC hands-free, 3 resonance gems)
-**Weapons:** Enchanted dagger (+1 magical, +1d4 force)
+**Weapons:** **Voidedge** dagger (dark steel + storm glass spine + resonance gem pommel. +8 to hit, 1d4+5 piercing + 1d6 force. Spell Echo: store cantrip → bonus damage on next hit 1/SR. +1 spell DC while held. Ward-circuit linked.)
 **Clothing:** Scholar's travelling robes
 
 | Slot | Item | Notes |
@@ -217,8 +217,7 @@
 ## Seren Ashvale — Monk
 
 **Armor:** None (Unarmored Defense AC 17) + dark steel ward bracers +1 (AC 18, ward-circuit, network awareness, advantage on saves vs spells 1/day, 2 resonance gems)
-**Weapons:** Unarmed (1d4+3 + knuckle wraps +1d4 force, magical), Drell's iron belt knife (1d4+3), 10 darts
-**Special:** Iron knuckle wraps (enchanted — strikes count as magical), behir-hide arm wraps (lightning resistance)
+**Weapons:** Unarmed (1d8+4 force magical) with **Resonance Fists** (dark steel thread + storm glass beads + 2 resonance gems. +1d6 force. Stunning Strike DC 15. Deflect Attacks 1d10+11. Ward-circuit linked.), Drell's iron belt knife (1d4+3)
 **Clothing:** Weathered travelling clothes, salt-stained cloak
 
 | Slot | Item | Notes |
@@ -241,7 +240,7 @@
 ## Torven Ashwick — Druid
 
 **Armor:** Behir scale-leather, dark steel wire reinforcement + ironwood shield (AC 17, lightning resistance, ward-circuit — advantage on CON saves for concentration 1/day, enhanced concentration circuit, 2 resonance gems, druid-compatible)
-**Weapons:** Quarterstaff (enchanted — Shillelagh WIS-based 1d8+3, +1d4 radiant all hits permanent), Produce Flame (1d8), sling + 20 bullets (1d4+2, druid-compatible), dagger
+**Weapons:** **Rootsinger** quarterstaff (ironwood + dark steel spiral wire + storm glass core + resonance gem crown. Shillelagh WIS-based +6 to hit, 1d8+3 bludgeoning + 1d6 radiant permanent. +1 spell DC while held (DC 15). Advantage on concentration saves while held. Planting Pulse: directional light to nearest planting site. Ward-circuit linked. Druid-compatible.), Produce Flame (2d8), sling + 20 bullets, dagger
 **Clothing:** Archive scholar's travelling clothes, salt-stained from 4 months on the coast
 
 | Slot | Item | Notes |
@@ -258,4 +257,4 @@
 
 ---
 
-*Last updated: Day 125, 5th Goldmere, 1252 AS — Dark Steel Refit complete. All 9 members upgraded. Ward-circuit mesh active. Resonance gems set. Pip's Resonance Shell upgraded (15). Sylvara's resonance lens integrated into armor.*
+*Last updated: Day 180, 30th Reaptide, 1253 AS — Level 6. Dawnsedge, Voidedge, Hearthforge, Resonance Fists, Rootsinger, Sparkweave, Stormflight, Firstsong equipped. All dark steel refit + ward-circuit mesh. Resonance fabric wardrobes.*

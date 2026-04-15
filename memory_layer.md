@@ -1533,3 +1533,79 @@ Level 5. AC 22. Extra Attack. Seed-Planting Attunement. Advanced Ward Engineer (
 
 ### Next
 Spring planting season. Tidemouth (Edda's village) ready. Jawbone collection run needed. Orindel learning remaining 3 Vel'thara songs. Kael's training. Behir heart enchantment pending. The spiral continues.
+
+## SESSION 10 CONTINUED — The Wildcard (Days 1–180, 1253 AS)
+
+**DM:** Corvus Chance, The Wildcard
+
+### The Jawbone Collection + Edda's Stone Chest (Days 1–9)
+Southern expedition: Zaryth, Torven, Seren, Mira, Orindel. Dalla Venn's tip: stone chest from ocean floor 60 mi S of Jawbone. Met Edda at Ashport. Bought chest (250 gp) — contained navigation crystal (points to second seed vault "Seedhome" 400 mi S of Farlight), sealed scroll case (Binder manifest), spinning marble-sphere (unexamined). Met Captain Revelle Ashcroft (Tidecaller, salvage vessel) — her navigator Corwin Hale dreaming of Seedhome for 3 weeks. Revelle's compass: resonance-attuned (grandmother's, 3 generations). Alliance formed — equal partners. Collected 5 seeds from Jawbone.
+
+### Fourth Planting — "The Grandmother's Promise" (Day 8, Tidemouth E26)
+Named by Zaryth. River delta. 1.5-mile dome. All 7 Shelf hearthstones synchronized. Orindel played Vel'thara coastal song.
+
+### Seedhome (Days 10–33)
+Sailed south 400 mi. Fought 8 voidmaw resonance parasites at 200 ft depth (3 rounds, 0 deaths). Entered Seedhome — Gardener's flagship, 240 ft. Archive: 412 planting sites (199 new), 61 ward templates, 47 planting tools, 47 planting songs. Forge: original Heartstone crucible (6 pillars, 3 cracked). Root Seed: original mother crystal, source of all Heartstones. Warden's Diadem: crystal crown, 7 gems, network-wide control (412 sites). The Gardener: ALIVE. Physical body. Sleeping 3,000 years in a room of earth beside a silver tree. Asked to see the sun. Zaryth accepted. Silver leaf master key given.
+
+### Jawbone Autopilot + Forge Sprint (Days 17–33)
+Jawbone activated via silver leaf — autopiloted to Tidemeet. Bram + Sylvara arrived Day 24. Repaired 3 pillars (5 days with calibration forks from seabed). Forged Dawnsedge (legendary longsword +3, behir heart, storm glass, Root Seed forge). Seedhome rose Day 33. The Gardener saw the sun for the first time. It smiled.
+
+### Master Rank Training (Days 39–160)
+All 10 members achieved Master rank in ALL professions. Gardener taught daily via archive + Root Seed + Diadem. Orindel completed Song-Keeper Day 160 (nat 20, played the First Song, Gardener sang with him). Firstsong legendary lute created. Driftwood lute transformed by Gardener's blessing.
+
+### Wardrobe + Agricultural Ward + Alchemy (Days 39–65)
+11 spider-silk outfits (resonance-conductive fabric — Thessaly's invention). Agricultural ward Template #3 applied to Node 7 — double crops, blight elimination, frost protection. 10-acre charter. Dairy, cider press, cheese cave. Silver sage hybrid discovered. Storm glass vessels. New alchemy line (Greater Healing Potions, elixirs). Monthly surplus: ~1,091 gp.
+
+### Dark Steel Weapon Upgrades (Day ~5–10, 1253)
+Voidedge (Sylvara), Hearthforge (Aldric), Resonance Fists (Seren), Rootsinger (Torven). All collaborative builds.
+
+### Harvest Eve 1253 (Day 150)
+70 guests. Zhael + 6 scholars. Vel'sharen-Dawnwatch Knowledge Accord signed — full research exchange, joint underground planting, shared lab, mutual defense. Kael performed. Gardener at the table.
+
+### Underground Planting Campaign (Days 162–170)
+Joint Vel'sharen-Dawnwatch operation. 3 underground plantings: "The River's Ear" (Listening Dark, 800 ft), "The Crystal Choir" (Crystalvein, 600 ft), "The Unbroken Dark" (Vel'arath, 1200 ft, named by Nhilara). 4-mile dome beneath Vel'arath.
+
+### Level 6 (Day 170)
+All members. Zaryth: Aura of Protection (+3 saves 10 ft). Orindel + Pip: College of Lore (Cutting Words). Aldric: Blessed Healer. Seren: Wholeness of Body. Mira + Thessaly: Expertise. Revelle/Corwin formalized — Tidecaller = 6th fleet vessel.
+
+### The Source — The Root (Day 180)
+Expedition to Aelindra. The Gardener came. Root chamber beneath Grand Archive. The Root: crystal tree, 20 ft, alive, can speak, has a sense of humor. Gardener and Root reunited — first contact in 3,000 years. Root: "I was never alone." Discoveries: Root's root system spans entire continent (412 sites = where roots reach surface). Natural Heartstone deposits growing in bedrock (self-sustaining). Memory tree seed (Gardener's homeworld, stores memories in leaves — Mira plants 1st Greenthaw 1254). Root's Heart-Fruit (legendary — direct Root communication, Network Pulse, Root Sense).
+
+---
+
+## CAMPAIGN STATUS — Session 10 (Wildcard) — YEAR 1253 (Day 180)
+
+**Date:** 30th Reaptide, 1253 AS (Day 180)
+**DM:** Corvus Chance, The Wildcard
+**Location:** Returning from Aelindra to homestead
+**Party Level:** 6 | **Party Gold:** ~25,275 gp | **Ward-ink:** 9 | **Monthly Surplus:** ~1,091 gp
+
+### Ward Network
+- **ALL 14 NODES + 7 PLANTINGS ACTIVE.** Agricultural ward on Node 7.
+- Root explored. Root system spans continent. Natural Heartstone deposits (self-sustaining).
+- 412 planting sites identified (Root-prepared). 7 planted. 405 remaining.
+- Seedhome + Jawbone at Tidemeet. Forge operational (100%). Archive catalogued.
+
+### The Gardener
+Physical. Recovering. Teaching. Reunited with the Root. Silver tree greenhouse at homestead.
+
+### Alliances
+- Vel'thara Trust: 6. Embassy. 12 planting songs shared.
+- Vel'sharen: Knowledge Accord. Joint underground planting. Shared lab. Ydrael permanent liaison.
+- Southern Shelf: 7 villages allied. Cooperative. 4 keepers visited Harvest Eve.
+- Stonehearth: Allied. Anvil tenders.
+- Revelle/Tidecaller: Formalized. 6th fleet vessel. Corwin Hale training.
+- Harrowgate Smithing Guild: Contract active.
+
+### Fleet
+6 ships + Shelf Cooperative (3 boats) + Jawbone + Seedhome. Monthly fleet revenue: ~500 gp.
+
+### Legendary Items
+- **Dawnsedge** (longsword +3, lightning + radiant, Gardener's Strike, Sunburst)
+- **Warden's Diadem** (412-site awareness, network control)
+- **Root's Heart-Fruit** (direct Root communication, Network Pulse, Root Sense)
+- **Firstsong** (legendary lute, BI d8, planting radius x2, First Song ability)
+- **Silver Leaf** (master key, both vessels)
+
+### Next
+Memory tree (spring 1254). Spinning marble-sphere. Third seabed container. Underground planting expansion. Deep ocean sites. Western landmass. The garden grows — above, below, and within.

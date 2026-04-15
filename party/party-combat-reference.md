@@ -10,14 +10,14 @@
 |--------|----|----|------|----------|-----------|------|------------|
 | **Zaryth** | 22 | 44 | +3 | 14 | +6 STR | +2 DEX | Extra Attack (2×longsword), Divine Smite |
 | **Mira** | 18 | 37 | +3 | — | +7 DEX | +4 DEX | Sneak Attack 3d6, Cunning Strike, Uncanny Dodge |
-| **Aldric** | 19/21 | 43 | +3 | 14 | +5 STR | +0 DEX | Spirit Guardians, Healing Word, Sear Undead |
-| **Sylvara** | 16 | 24 | +3 | 16 | +8 INT | +2 DEX | Fireball, Counterspell, Sculpt Spells |
+| **Aldric** | 19/21 | 43 | +3 | 14 | +6 STR | +0 DEX | Hearthforge (+1, +1d6 radiant, Hearthpulse, Consecrated), Spirit Guardians |
+| **Sylvara** | 17 | 24 | +3 | **17** | +8 INT | +2 DEX | Fireball, Counterspell, Sculpt Spells, Voidedge (Spell Echo 1/SR) |
 | **Bram** | 17 | 25 | +3 | 14 | +6 INT | +1 DEX | Fireball, Lightning Bolt, Sculpt Spells |
 | **Thessaly** | 17 | 38 | +3 | — | +7 DEX | +4 DEX | Sneak Attack 3d6, Cunning Strike, Uncanny Dodge |
 | **Orindel** | 19 | 36 | +3 | 12 (C/B) | +4 WIS/+4 CHA | +1 DEX | Healing Word (Bard), Bardic Inspiration, Preserve Life |
 | **Pip** | 16 | 24 | +3 | 13 (W) / 12 (B) | +5 INT/+4 CHA | +2 DEX | Fireball + Sculpt, Bardic Inspiration, Healing Word (Bard) |
-| **Seren** | 18 | 38 | +3 | 14 | +6 DEX | +3 DEX | Extra Attack, Stunning Strike, Flurry of Blows |
-| **Torven** | 17 | 34 | +3 | 14 | +5 WIS | +1 DEX | Call Lightning, Healing Word, Wild Shape |
+| **Seren** | 18 | 38 | +3 | **15** | +7 DEX | +3 DEX | Extra Attack, Stunning Strike DC 15, Resonance Fists (+1d6 force), Deflect 1d10+11 |
+| **Torven** | 17 | 34 | +3 | **15** | +6 WIS | +1 DEX | Rootsinger (+1d6 radiant, DC 15, conc. adv.), Call Lightning, Wild Shape |
 | **Nhilara** | 19/21 | 75 | +3 | — | +7 STR | +3 DEX | Rage (3/LR), Sneak Attack 2d6, Extra Attack |
 
 ---
@@ -100,7 +100,8 @@
 **WIS** 16 (+3) | **Saves:** WIS +6, CHA +4 | **Spell Save DC:** 14 | **Spell Attack:** +6
 
 **Attacks:**
-- Hearthstone warhammer: +5 to hit, 1d8+2 bludgeoning + 1d4 radiant
+- Hearthforge warhammer +1: +6 to hit, 1d8+3 bludgeoning + 1d6 radiant. Self-heal 1d4+4 1/day. Consecrated Strike: undead hit have disadvantage on next attack.
+- Hearthpulse: when casting healing spell, allies within 10 ft gain 1d4 temp HP (1/long rest).
 
 **Spell Slots:** 4×1st, 3×2nd, 2×3rd
 **Prepared Spells (9 + Domain):**
@@ -121,12 +122,11 @@
 ---
 
 ### Sylvara Dawnwhisper — Wizard (Evocation) 5
-**AC 16** (Behir scale mail +1) | **HP 24** | **Speed 30 ft (elf)**
-**INT** 20 (+5) | **Saves:** INT +8, WIS +4 | **Spell Save DC:** 16 | **Spell Attack:** +8 | Lightning resist
+**AC 17** (Dark steel scale mail +1, behir overlay, resonance lens integrated) | **HP 24** | **Speed 30 ft (elf)**
+**INT** 20 (+5) | **Saves:** INT +8, WIS +4 | **Spell Save DC:** **17** (armor lens + Voidedge) | **Spell Attack:** +8 | Lightning resist
 
 **Attacks:**
-- Enchanted dagger: +8 to hit, 1d4+5 piercing + 1d4 force
-- Resonance lens: +1 spell DC (already included above)
+- Voidedge dagger: +8 to hit, 1d4+5 piercing + 1d6 force. **Spell Echo:** store cantrip → bonus damage on next melee hit, 1/short rest.
 
 **Spell Slots:** 4×1st, 3×2nd, 2×3rd
 **Prepared Spells (9):** Chosen from spellbook. Key combat spells:
@@ -172,7 +172,8 @@
 **Wizard Spell DC:** 13 | **Wizard Attack:** +5 | **Bard Spell DC:** 12 | **Bard Attack:** +4 | Lightning resist
 
 **Attacks:**
-- Spark Edge: +5 to hit, 1d6+2 + 1d4 fire (permanent)
+- Sparkweave quarterstaff: +5 to hit (INT via focus), 1d6+2 bludgeoning + 1d4 fire (1d8+2 versatile)
+- +1 CON saves while held. Shield Charge: absorb 1d6 as reaction, 1/long rest.
 
 **Multiclass Spell Slots:** 4×1st, 3×2nd, 2×3rd (any slot for either class's spells)
 **Can cast Fireball** (in Wizard spellbook) using 3rd-level multiclass slots.
@@ -213,7 +214,7 @@
 
 **Attacks:**
 - Shepherd's Strike mace: +3 to hit, 1d6 bludgeoning (push 10 ft 1/day)
-- True Flight shortbow: +5 to hit, 1d6+2 piercing (80/320, ignore half cover)
+- Stormflight shortbow +2: **+8 to hit**, 1d6+6 piercing (80/320, ignore ¾ cover, Arrow Guidance reroll 1/short rest, +2 DEX while drawn)
 
 **Multiclass Spell Slots:** 4×1st, 3×2nd, 2×3rd (any slot for either class's spells)
 
@@ -249,11 +250,11 @@
 ---
 
 ### Seren Ashvale — Monk (Open Hand) 5
-**AC 18** (Unarmored Defense + ward-attuned bracers +1) | **HP 38** | **Speed 40 ft** (30 base + 10 Unarmored Movement)
-**DEX** 18 (+4) | **WIS** 16 (+3) | **Saves:** STR +3, DEX +7 | **Focus Point DC:** 14
+**AC 18** (Unarmored Defense + dark steel ward bracers +1, network awareness, 2 gems) | **HP 38** | **Speed 40 ft**
+**DEX** 18 (+4) | **WIS** 16 (+3) | **Saves:** STR +3, DEX +7 | **Focus Point DC:** **15** (Resonance Fists +1)
 
 **Attacks (Extra Attack — 2 per turn):**
-- Unarmed Strike: +7 to hit, 1d8+4 force (magical)
+- Resonance Fists: +7 to hit, **1d8+4 + 1d6 force** (magical)
 - Drell's knife: +7 to hit, 1d4+4 piercing
 
 **Bonus Action options:**
@@ -263,30 +264,30 @@
 
 **Focus Points: 5/short rest**
 
-**Stunning Strike:** On hit, spend 1 FP → target CON save DC 14 or **Stunned** until start of your next turn. On success, speed halved and next attack has advantage.
+**Stunning Strike:** On hit, spend 1 FP → target CON save **DC 15** or **Stunned**. On success, speed halved and next attack has advantage.
 
 **Open Hand Technique (free on Flurry):** Each Flurry hit can force one:
 - DEX save or knocked Prone
 - STR save or pushed 15 ft
 - Can't take reactions until start of your next turn
 
-**Deflect Attacks (reaction):** Reduce damage by 1d10+9. If reduced to 0, spend 1 FP to redirect attack.
+**Deflect Attacks (reaction):** Reduce damage by **1d10+11**. If reduced to 0, spend 1 FP to redirect attack.
 
 **Special:**
-- Ward-attuned bracers: spell save advantage 1/day
+- Dark steel ward bracers: spell save advantage 1/day, ward-network awareness
 - Martial Arts die: **1d8**
 - Slow Fall (reaction): reduce fall damage by 25
 
-**Seren's combat role: Striker/Controller. Stun the biggest threat, Flurry to lock down movement, Deflect to survive.**
+**Seren's combat role: Striker/Controller. Stun DC 15 is the party's best lockdown. Flurry for control. Deflect 1d10+11 for survival.**
 
 ---
 
 ### Torven Ashwick — Druid (Land — Coast) 5
-**AC 17** (Behir scale-leather + ironwood shield) | **HP 34** | **Speed 30 ft (half-elf)**
-**WIS** 16 (+3) | **Saves:** INT +3, WIS +6 | **Spell Save DC:** 14 | **Spell Attack:** +6 | Lightning resist
+**AC 17** (Behir scale-leather, dark steel wire + ironwood shield, enhanced concentration, 2 gems) | **HP 34** | **Speed 30 ft (half-elf)**
+**WIS** 16 (+3) | **Saves:** INT +3, WIS +6 | **Spell Save DC:** **15** (Rootsinger +1) | **Spell Attack:** +6 | Lightning resist
 
 **Attacks:**
-- Shillelagh staff: +6 to hit (WIS), 1d8+3 bludgeoning (magical)
+- Rootsinger staff (Shillelagh): +6 to hit (WIS), 1d8+3 bludgeoning + **1d6 radiant** (magical). Planting Pulse (directional light to nearest site).
 - Produce Flame: +6 to hit, 2d8 fire (ranged 60 ft)
 
 **Spell Slots:** 4×1st, 3×2nd, 2×3rd
@@ -298,11 +299,11 @@
 **Wild Resurgence:** Expend spell slot → regain Wild Shape. OR expend Wild Shape → gain 1st-level slot (1/LR).
 
 **Special:**
-- Ironwood shield: concentration advantage 1/day
-- Natural Recovery (Land): regain spell slots on short rest (total ≤ 3 levels, e.g., 1×3rd or 1×2nd+1×1st)
+- Rootsinger: **advantage on concentration saves** (permanent while held). Frees ironwood shield for other use.
+- Natural Recovery (Land): regain spell slots on short rest (total ≤ 3 levels)
 - Half-elf: Darkvision 60 ft, Fey Ancestry
 
-**Torven's combat role: Battlefield control + off-healer. Call Lightning for sustained damage, Entangle/Plant Growth for area denial, Healing Word for emergency pickups.**
+**Torven's combat role: Battlefield control + off-healer. Call Lightning (sustained, DC 15 now). Entangle/Plant Growth for area denial. Concentration advantage = Call Lightning stays up.**
 
 ---
 
@@ -347,4 +348,4 @@
 
 ---
 
-*Last updated: Day 70, 10th Highsun, 1252 AS — Level 5. Orindel reclassed Cleric 3/Bard 2. Pip reclassed Wizard 3/Bard 2.*
+*Last updated: Day 180, 30th Reaptide, 1253 AS — Level 6. All Master professions. Orindel Cleric 3/Bard 3. Pip Wizard 3/Bard 3. Aura of Protection active. Cutting Words x2.*

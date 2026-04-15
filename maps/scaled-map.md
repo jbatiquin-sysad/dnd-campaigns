@@ -323,6 +323,6 @@ Fenhollow Station (Node 7): 91%, 8 Heartstones. Aelindra Station: 58%. Ashara St
 
 ---
 
-*Last updated: Day 1, 1st Greenthaw, 1253 AS*
-*Party location: Hall of the Dawnwatch, Fenhollow (H8).*
-*Campaign status: ALL 14 NODES ACTIVE + 3 SEED PLANTINGS. Gardener's Mandate. 210 seeds remaining. Southern Shelf allied. The spiral continues.*
+*Last updated: Day 180, 30th Reaptide, 1253 AS*
+*Party location: Returning from Aelindra to homestead (H8).*
+*Campaign status: ALL 14 NODES + 7 PLANTINGS. Root explored. Gardener reunited. 412 sites identified. Seedhome + Jawbone at Tidemeet. The garden grows.*

@@ -76,8 +76,8 @@ Teaches. The school got a new lesson: "The Vel'thara — People Made of Music." 
 
 ## Equipment (Current — 1252 AS)
 - Spellbook (in travel case)
-- Spark Edge short sword (enchanted — +1d4 fire every hit, permanent)
-- Dagger (backup, sharpened)
+- **Sparkweave** quarterstaff (ashwood + dark steel accents + storm glass core + resonance gem headpiece. 1d6 bludgeoning/1d8 versatile + 1d4 fire permanent. +1 CON saves while held. Shield Charge: absorb 1d6 reaction 1/long rest. Ward-circuit linked. Arcane focus. Collaborative build: Bram/Sylvara/Orindel/Zaryth.)
+- Driftwood flute (Bram-crafted, pale wood, 6-hole, halfling-sized — **Bard spellcasting focus**)
 - Full outfit — shirt, trousers, vest, cloak
 - Behir scale-leather +1 (AC 16, lightning resistance, Resonance Shell — absorb 10 any damage type 1/short rest) + behir-hide bracers
 - Focus stone (Sylvara's river pebble, 40 years old)
