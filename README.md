@@ -10,7 +10,7 @@ A D&D 5e campaign run via [Kiro CLI](https://kiro.dev) using subagents as party 
 - **DMs:** Three available — The Chronicler (strict RAW), The Storyteller (narrative-first), The Wildcard (RAW + chaos d100)
 - **Memory:** Every turn auto-logged to `memory_layer.md` (active session + summary). Older sessions archived in `memory_archive_s1-s4.md`.
 - **Timeline:** Organized by in-game weeks in `sessions/`
-- **Calendar:** Year 1248 AS (After Sundering). 12 months, 7-day weeks.
+- **Calendar:** Year 1253 AS (After Sundering). 12 months, 7-day weeks.
 
 ## How to Resume a Session
 
@@ -72,16 +72,16 @@ Quick version — ask in chat: *"Save the session — update party-state, memory
 
 | Character | Race | Class | Level | AC | HP | Professions |
 |-----------|------|-------|-------|----|----|-------------|
-| **Zaryth Vel'quinar** | Drow | Paladin (Devotion) | 4 | 20 | 36 | Alchemist, Tinkerer, Ward Engineer (Binding Initiate, Lesson 110) — *you* |
-| Mira Thistlewick | Lightfoot Halfling | Rogue (Thief) | 4 | 17 | 30 | Herbalist (Journeyman), Leatherworker |
-| Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | 4 | 19 | 35 | Mason (Journeyman), Miner |
-| Sylvara Dawnwhisper | High Elf | Wizard (Evocation) | 4 | 16 | 19 | Enchanter, Glassblower (Journeyman) |
-| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 4 | 16 | 20 | Smith (Journeyman), Woodcarver |
-| Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 4 | 17 | 31 | Tailor, Weaver (Journeyman) |
-| Orindel Ashwick | Wood Elf | Cleric (Life) | 4 | 19 | 29 | Jeweler (Journeyman), Hunter, Hymn Composer |
-| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) | 4 | 16 | 19 | Inscriber (Journeyman), Cook, Flutist |
-| Seren Ashvale | Human | Monk (Open Hand) | 4 | 17 | 31 | Herbalist (Journeyman), Navigator, Ward Keeper |
-| Torven Ashwick | Half-Elf | Druid (Land — Coast) | 4 | 16 | 28 | Ward Engineer, Scribe, Researcher (Journeyman) |
+| **Zaryth Vel'quinar** | Drow | Paladin (Devotion) | 6 | 22 | 52 | Ward Architect, Master Alchemist, Master Tinkerer — *you* |
+| Mira Thistlewick | Lightfoot Halfling | Rogue (Thief) | 6 | 18 | 44 | Resonance Cultivator, Master Leatherworker |
+| Brother Aldric Stonebrow | Hill Dwarf | Cleric (Life) | 6 | 19 | 50 | Resonance Mason, Master Miner |
+| Sylvara Dawnwhisper | High Elf | Wizard (Evocation) | 6 | 17 | 28 | Resonance Enchanter, Master Glassblower |
+| Bram Thistlewick | Stout Halfling | Wizard (Evocation) | 6 | 17 | 29 | Resonance Smith, Master Woodcarver |
+| Thessaly Ironveil | Mountain Dwarf | Rogue (Thief) | 6 | 17 | 44 | Resonance Weaver, Master Tailor |
+| Orindel Ashwick | Wood Elf | Cleric (Life) 3 / Bard (Lore) 3 | 6 | 19 | 42 | Resonance Song-Keeper, Master Jeweler, Master Hunter |
+| Pip Tanglethorn | Lightfoot Halfling | Wizard (Evocation) 3 / Bard (Lore) 3 | 6 | 16 | 28 | Ward Inscriber, Master Cook, Master Flutist |
+| Seren Ashvale | Human | Monk (Open Hand) | 6 | 18 | 44 | Master Ward Keeper, Master Navigator, Master Herbalist |
+| Torven Ashwick | Half-Elf | Druid (Land — Coast) | 6 | 17 | 39 | Planting Director, Master Ward Engineer, Master Scribe |
 
 **Specialist:** Nhilara Vel'quinar — Drow, Barbarian 5 / Rogue (Scout) 3, Level 8, AC 19/21, HP 75. Counter-intel lead. Deploys on Drow/espionage/Underdark missions. See `party/nhilara.md`.
 
@@ -105,6 +105,7 @@ duskport-campaign/
 │   ├── party-inventory.md       ← shared gold, provisions, materials, credentials
 │   ├── party-equipment.md       ← individual loadouts, slot-by-slot
 │   ├── party-professions.md     ← skills, training, income ranges
+│   ├── party-combat-reference.md ← combat stats, spell DCs, tactics (hooked into all DMs)
 │   ├── zaryth.md                ← your character
 │   ├── mira.md, aldric.md, sylvara.md, bram.md,
 │   │   thessaly.md, orindel.md, pip.md, seren.md, torven.md
@@ -119,7 +120,7 @@ duskport-campaign/
 │   └── dm-wildcard.md
 ├── sessions/
 │   ├── README.md                ← save convention
-│   ├── week-01.md through week-18.md
+│   ├── week-01.md through week-21.md
 ├── lore/
 │   ├── calendar-guide.md        ← 12-month calendar, seasons, festivals, timeline
 │   ├── history-known-world.md   ← 3,000-year world history (Vaelith + Seren account)
@@ -173,6 +174,19 @@ duskport-campaign/
 | 16 | 156–360 | 6th Reaptide–30th Thawsend | Duskport, Reaping Fair, Trade Op, Underdark Investigation, Old Foundation, Winter | Chronicler |
 | 17 | 1–180 | 1st Greenthaw–30th Reaptide | Deep Road, Heartstones, Vel'quinar Rescue, Fleet Expansion, Veldmere Fair | Storyteller |
 | 18 | 181–260 | 1st Ashfall–30th Frostmere | Scouts, Copper Hair, Ashport, Ashara Captured, Vel'thara First Contact | Wildcard |
+
+### Year 1250–1252 AS
+
+| Week | Days | Date | Title | DM |
+|------|------|------|-------|----|
+| 19 | 261–360 (1250) + 1–30 (1252) | 1st Frostmere 1250–30th Greenthaw 1252 | Station Four, Crucible Accord, Warden's Plate, Trade Corridor, Expert Training, Crafting Sprint | Chronicler |
+
+### Year 1252–1253 AS
+
+| Week | Days | Date | Title | DM |
+|------|------|------|-------|----|
+| 20 | 30–360 (1252) + 1 (1253) | 30th Greenthaw 1252–1st Greenthaw 1253 | The Gardener's Mandate — Jawbone, Southern Shelf, 3 Plantings, Level 5, Hall, Behir, Ensemble | Storyteller |
+| 21 | 1–180 (1253) | 1st Greenthaw–30th Reaptide 1253 | Seedhome Rising — Second Vault, Gardener Alive, Dawnsedge, Root Explored, Level 6, Knowledge Accord | Wildcard |
 
 ## Campaign Arcs
 
@@ -242,46 +256,81 @@ Underdark investigation → Vel'quinar rescue → Ashara conspiracy dismantled �
 | Node 13 (Sunken Crown) | ✅ Underwater reconstruction. 67%. |
 | Vel'thara first contact | ✅ Phases 1–4 complete. Embassy established. Accord signed. |
 
-### Arc 5: The Vel'thara Accord (Session 8+) — IN PROGRESS
+### Arc 5: The Vel'thara Accord (Session 8+) — ACTIVE (Trust 6)
 
 First contact with the Vel'thara — a 12-civilization resonance federation beyond the ward boundary.
 
 | Thread | Status |
 |--------|--------|
 | Vel'thara Embassy | ✅ Operational. Anchor Point. Permanent aperture. Shared garden. |
-| The Accord | ✅ Signed Day 244. Threshold open. One Speaker at a time. Kill switch with Warden. |
-| The Speaker | Crossed the threshold. Gave moonpetal gift. Returns via aperture. |
-| Ward-Light Hymn | Transmitted to 12 Vel'thara civilizations. |
-| Atlas of the Vel'thara | Created by Sylvara + Torven. Book #29. |
-| Cultural exchange | IN PROGRESS. Phased approach. |
-| Vel'sharen response | PENDING. Station Four compromised (wall cracked). |
-| Southern expansion | PENDING. Ashport route established. |
+| The Accord | ✅ Signed Day 244. Threshold open. |
+| Cultural exchange | ✅ Active. 12 planting songs shared. Orindel learning 47 total. |
+| Ward-Light Hymn | ✅ Transmitted to 12 civilizations. |
+| Vel'thara Trust | **6** (up from 5). |
+| Vel'sharen Knowledge Accord | ✅ Signed Day 150, 1253. Joint underground planting. Shared lab. |
 
-## Current Status — Session 8 (Wildcard) — YEAR 1249
+### Arc 6: The Garden (Session 10+) — IN PROGRESS
 
-**Date:** 30th Frostmere, 1249 AS (Day 260) — Late Autumn
+The Gardener's Mandate. Planting seeds across the continent and underground.
+
+| Thread | Status |
+|--------|--------|
+| Jawbone's Bride | ✅ Discovered, activated, autopiloted to Tidemeet. 204 seeds remaining. |
+| Seedhome (flagship) | ✅ Raised from 200 ft depth. Anchored Tidemeet. Forge operational (100%). |
+| The Gardener | ✅ ALIVE. Physical. Recovering. Teaching at homestead. |
+| Warden's Diadem | ✅ Zaryth wears it. 412-site awareness. |
+| Dawnsedge | ✅ Legendary longsword +3. Forged in the Gardener's Crucible. |
+| Firstsong | ✅ Legendary lute. Orindel's. Gardener's blessing. |
+| Seeds planted | **7 of 412** — 4 surface + 3 underground |
+| Southern Shelf | ✅ 7 villages allied. Cooperative (80/20). Edda Solvane liaison. |
+| Dawnwatch Ensemble | ✅ 6 members. 7+ pieces. Ward-resonant. Kael (Gardener's chosen). |
+| Agricultural ward | ✅ Template #3 on Node 7. Double crops. Silver sage hybrid. |
+| Hall of the Dawnwatch | ✅ Complete. Round table. Sculpture. Trophy gallery. |
+| All Master professions | ✅ Every member, every skill. |
+| Revelle/Tidecaller | ✅ 6th fleet vessel. Deep-water exploration. |
+
+### Arc 7: The Source (Session 10) — ✅ COMPLETE
+
+The Root explored. The Gardener reunited with its child.
+
+| Thread | Status |
+|--------|--------|
+| The Root | ✅ Crystal tree, 20 ft, alive, speaks. Root system spans continent. |
+| Gardener + Root reunion | ✅ First contact in 3,000 years. "I was never alone." |
+| Natural Heartstone deposits | ✅ Root growing its own seeds in the bedrock. Self-sustaining. |
+| Root's Heart-Fruit | ✅ Legendary. Direct Root communication. Network Pulse. |
+| Memory tree seed | Mira carries. Plant 1st Greenthaw 1254. |
+| 412 planting sites | Confirmed — Root-prepared. 199 new (offshore, underground, western landmass). |
+
+## Current Status — Session 10 (Wildcard) — YEAR 1253
+
+**Date:** 30th Reaptide, 1253 AS (Day 180) — Early Autumn
 **DM:** Corvus Chance, The Wildcard
 **Location:** Dawnwatch Homestead, Fenhollow
-**Party Level:** 4 | **Party Gold:** ~11,784 gp | **Party Size:** 10 + Nhilara (Level 8 specialist) + 16 Vel'quinar
-**Homestead:** Fully developed — stone wall, ward perimeter (4-layer defense), tower, forge (+ Ashara containment), school (15 students, Vel'thara curriculum), library (29 books incl. Atlas of the Vel'thara), mushroom cellar, orchard, stable. Passive income 35–45 gp/week. Monthly total income: 535–755 gp.
-**Vel'quinar Homestead:** COMPLETE (3 acres north). 16 Drow residents. Underground quarters, armory, prison cells. Defense upgraded. New trades: spider-silk weaving, Drow glasswork.
+**Party Level:** 6 | **Party Gold:** ~25,275 gp | **Party Size:** 10 + Nhilara (Level 8 specialist) + 16 Vel'quinar
+**Homestead:** Hall of the Dawnwatch (East Hill). Agricultural ward active (Template #3, double crops). 10-acre charter. Dairy, cider press, cheese cave. Silver sage hybrid. Gardener's greenhouse (silver tree). Dawnwatch Ensemble (6 members). School (16 students, music + Vel'thara curriculum). Library (33+ books). Monthly surplus: ~1,091 gp.
+**Vel'quinar Homestead:** COMPLETE. DEBT-FREE. 16 Drow residents. Underground quarters with resonance moss lighting. Spider-silk industry (resonance fabric). Southern crops. Kael Vel'quinar (harp prodigy, Gardener's chosen).
 
 **Arc 1:** ✅ COMPLETE. 7/7 Unchained Compact targets.
 **Arc 2:** ✅ COMPLETE. 4/4 eastern nodes repaired. 7/7 barrows sealed.
 **Arc 3:** ✅ COMPLETE. 4/4 western nodes repaired.
 **Arc 4:** ✅ COMPLETE. Ashara captured. Vaelen freed. All inverted stones recovered. Vel'sharen network dismantled.
-**Arc 5:** IN PROGRESS. Vel'thara embassy operational. Cultural exchange begun.
-**Ward Network:** ALL 14 NODES ACTIVE — first time in 3,248 years. Anchor Point permanently active (7 Heartstones, control interface). 15 total Heartstones in Dawnwatch possession. 6 inverted stones contained.
-**Keeper Stations:** Fenhollow (91%, 8 Heartstones), Aelindra (58%), Ashara (fortified), Vel'arath (91%, COMPROMISED — wall cracked).
-**Anchor Point:** Pre-Binder prototype. Control interface. Vel'thara embassy. Vaelen + Drell stationed. Moonpetal garden.
-**Deep Road:** Operational. Threshold Runner. 9 hours Fenhollow ↔ Aelindra. Deephollow + Crystalvein contacted.
-**Fleet:** *Stormcape's Promise* (western triangle), *Eilistraee's Grace* (northern express + expedition), *Dawnwatch Coach*, *Threshold Runner*. Tidemeet warehouse: Dawnwatch Trading Company.
-**House Vel'quinar:** 16 members. Homestead complete. Nhilara (Level 8 specialist). Velyndra (glassworker) + Taelar (weaver) + Sylla (student) defected from Vel'sharen.
-**Prisoners/Probation:** Ashara (Binder, probation), Edrin Vael (alchemist), Thessara Vael (Archive operative), Drael + Syvra (Vel'sharen agents). Veradis Kael (surrendered, rehabilitation).
-**School:** 15 students. Vel'thara curriculum added.
-**Library:** 29 books (incl. Atlas of the Vel'thara — first map of another world).
-**Zaryth:** Binding Initiate (Lesson 110). Keeper's Cloak. Ashara's paired ring. Memory restored. 8th generation keeper. Opened the door.
-**Tournament Record:** 7 golds, 2 silvers across Duskport (1248) + Veldmere (1249).
-**Vel'thara:** 12-civilization resonance federation. The Speaker crossed the threshold. Moonpetal gift. Names exchanged. Accord signed. The Ward-Light Hymn is being sung across twelve civilizations on the other side of the boundary.
+**Arc 5:** ACTIVE. Vel'thara Trust 6. Embassy operational. Vel'sharen Knowledge Accord signed.
+**Arc 6:** IN PROGRESS. 7/412 seeds planted (4 surface + 3 underground). Gardener alive, teaching. Both vessels at Tidemeet.
+**Arc 7:** ✅ COMPLETE. Root explored. Gardener reunited. Natural Heartstones. Memory tree seed.
+**Ward Network:** ALL 14 NODES + 7 PLANTINGS ACTIVE. Agricultural ward on Node 7. Root system spans continent. 412 planting sites identified. Natural Heartstone deposits (self-sustaining).
+**Keeper Stations:** Fenhollow (91%, 8 Heartstones, agricultural ward), Aelindra (58%), Ashara (fortified), Vel'arath (91%, demilitarized, Knowledge Accord).
+**Anchor Point:** Permanent. Vel'thara embassy. Vaelen + Drell stationed.
+**Deep Road:** Operational. Threshold Runner. 9 hours Fenhollow ↔ Aelindra. 3 underground plantings along route.
+**Fleet:** *Stormcape's Promise*, *Eilistraee's Grace*, *Salt Maren*, *Blacktide Runner*, *Duskholm*, *Tidecaller* (Revelle) + Shelf Cooperative (3 boats) + Jawbone + Seedhome. Monthly fleet revenue: ~500 gp.
+**House Vel'quinar:** 16 members. Debt-free. Kael (Gardener's chosen song-inheritor). Resonance fabric industry with Thessaly.
+**Prisoners/Probation:** Ashara (translating Gardener inscriptions, 60%+, trending redemption). Veradis Kael (alchemy research). Thessara Vael (Trading Company). Edrin Vael (assisting Veradis).
+**School:** 16 students. Dawnwatch Ensemble (Orindel, Pip, Kael, Sylla, Pim, Ren). 7+ repertoire pieces. Ward-resonant.
+**Library:** 33+ books (incl. Moonpetal Properties, Atlas of the Vel'thara).
+**Legendary Items:** Dawnsedge (longsword +3), Warden's Diadem (412-site control), Root's Heart-Fruit (Root communication), Firstsong (legendary lute), Silver Leaf (master key).
+**Zaryth:** Ward Architect. Warden's Diadem. Dawnsedge. Root's Heart-Fruit. Aura of Protection (+3 saves). The keeper who said yes.
+**Tournament Record:** 14 golds, 5 silvers across Duskport (1248) + Veldmere (1249) + Harrowgate (1252).
+**The Gardener:** Physical. Recovering. Teaching at homestead. Reunited with the Root. Blessed Kael. "Will you tend the garden?"
+**Vel'thara:** Trust 6. 12 planting songs shared. 47 total in archive. "The garden grows on both sides of the boundary."
 
-**Next:** Vel'sharen response to Station Four. Southern expansion. Vel'thara cultural exchange. Ashara's long-term fate. Remaining node improvements. The untitled song. Mira's moonpetals. Whatever the dice bring next.
+**Next:** Memory tree (spring 1254). Spinning marble-sphere. Deep ocean planting. Western landmass. Underground expansion with Vel'sharen. Ashara's fate. 405 sites remaining. The garden grows.
