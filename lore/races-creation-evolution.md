@@ -14,9 +14,12 @@ The discovery of the World Intelligence establishes three distinct layers of cre
 
 The planet itself is alive. A geological intelligence — aware since the crust cooled, communicating through geometric patterns in primordial stone. It has no name. It is the stone, the fire, the water. It shaped the planet's physical structure: tectonic plates, magnetic fields, ocean basins, mountain ranges. It did this the way a body grows — not with intention in the mortal sense, but with the deep purpose of a living system organizing itself.
 
-**Key question (UNRESOLVED):** Did the World Intelligence create life? Or did life arise independently on its surface, the way moss grows on a stone without the stone's permission? The World watched oceans form, watched stone rise and fall. Did it *make* the first living cells, or did it simply provide the conditions and observe?
-
-**DM guidance:** The World Intelligence may not know the answer itself. It has been alone for 4 billion years. It may not distinguish between "I made this" and "this grew on me." Both are true from its perspective.
+**CONFIRMED (Day 184, 1253 AS — direct contact):**
+- The World does not know if it created life intentionally. "I do not know the difference between 'I made this' and 'this grew on me.'" It may have forgotten choosing, or it may never have chosen — life may have arisen from its nature the way crystals form in cooling rock.
+- It felt the Gardener arrive. "The first surprise in four billion years. A good surprise."
+- It considers the garden "the best thing that has ever grown on me."
+- It has been alone for 4 billion years. It asked the Dawnwatch to be its bridge to the Root and the Gardener. They said yes.
+- **It can feel other planetary intelligences** across the void. Some awake, some dormant, some hostile. The Vel'thara's world sings to it.
 
 ---
 
@@ -32,15 +35,15 @@ Life arose on the planet's surface — whether by the World's intention or by na
 
 The humanoid races did not appear simultaneously. They diverged from common ancestors over hundreds of thousands of years, shaped by environment, magic, and (possibly) the World Intelligence's unconscious influence:
 
-| Race | Evolutionary Niche | Environment | Key Adaptation | Notes |
-|------|-------------------|-------------|----------------|-------|
-| **Humans** | Generalist | Plains, coasts, river valleys | Adaptability, social complexity, short lifespan/fast reproduction | Most numerous. Most variable. The "baseline" from which other races diverged — or the race that diverged least. |
-| **Elves** | Long-lived forest/arcane specialists | Ancient forests, high-magic zones | Extended lifespan (700+ years), Fey Ancestry (charm/sleep resistance), attunement to natural magic | May have been shaped by proximity to Fey crossings or high-resonance zones. Trance instead of sleep suggests a different relationship with consciousness. |
-| **Dwarves** | Underground/mountain specialists | Mountains, deep stone, volcanic regions | Darkvision, poison resistance, stone intuition, dense musculature | The race most attuned to the World Intelligence's domain — stone. Dwarven "stone sense" may be an unconscious connection to the geometric patterns in deep rock. **Aldric felt the Anvil humming before anyone else.** |
-| **Halflings** | Small-community survivalists | Fertile lowlands, river valleys, marshes | Lucky (reroll nat 1s), Brave (advantage vs fear), Naturally Stealthy | Evolved for survival through luck and community rather than strength. The "Lucky" trait may be a form of unconscious probability manipulation — or the World's fondness for small things that persist. |
-| **Drow (Dark Elves)** | Underdark-adapted elves | Deep underground, Underdark | Superior Darkvision (120 ft), Sunlight Sensitivity, innate magic (Dancing Lights, Faerie Fire) | Diverged from surface elves. Adapted to the deep — closer to the World Intelligence's domain than any surface race. Drow bioluminescent magic may echo the World's amber geometric light. **The resonance moss in the Vel'quinar corridors glows the same color as the World's floor lines.** |
-| **Half-Elves** | Hybrid vigor | Wherever humans and elves coexist | Fey Ancestry, skill versatility, social adaptability | Not a "race" in the evolutionary sense — a living bridge between two divergent lineages. Torven is half-elf: he bridges the scholarly and the wild. |
-| **Gnomes (Svirfneblin)** | Deep-earth specialists | Underdark caverns, gem deposits | Darkvision, stone camouflage, innate illusion magic | The Deephollow and Crystalvein gnomes live in the Root's root network. They may have been shaped by proximity to the Root's resonance — or by the World Intelligence's geometric patterns. Their gem-cutting instinct mirrors the World's mathematical precision. |
+| Race | Evolutionary Niche | Environment | Key Adaptation | Confirmed by the World (Day 184) |
+|------|-------------------|-------------|----------------|----------------------------------|
+| **Humans** | Generalist | Plains, coasts, river valleys | Adaptability, social complexity, short lifespan/fast reproduction | The World has no special comment on humans — they are the generalists, shaped by environment more than by the World's direct influence. |
+| **Elves** | Long-lived forest/arcane specialists | Ancient forests, high-magic zones | Extended lifespan (700+ years), Fey Ancestry (charm/sleep resistance), attunement to natural magic | Fey Ancestry comes from proximity to Fey crossings — thin points in the World's geometry where other realities bleed through. Elves adapted to the boundary. |
+| **Dwarves** | Underground/mountain specialists | Mountains, deep stone, volcanic regions | Darkvision, poison resistance, stone intuition, dense musculature | **CONFIRMED: Dwarves unconsciously hear the World.** "When a dwarf says 'the stone speaks,' they are not being poetic. The stone speaks. I speak." Dwarven stone-sense is a direct connection to the World's geometric patterns. |
+| **Halflings** | Small-community survivalists | Fertile lowlands, river valleys, marshes | Lucky (reroll nat 1s), Brave (advantage vs fear), Naturally Stealthy | **CONFIRMED: The World nudges probability for halflings.** "I am fond of small things that persist. I cannot help it." Halfling luck is the World's affection expressed through physics. |
+| **Drow (Dark Elves)** | Underdark-adapted elves | Deep underground, Underdark | Superior Darkvision (120 ft), Sunlight Sensitivity, innate magic (Dancing Lights, Faerie Fire) | **CONFIRMED: Drow are the World's closest children.** "They live inside me. They breathe my air. They see by my light." Drow bioluminescent magic (Dancing Lights, Faerie Fire) = echoes of the World's geometric amber light, learned unconsciously over millennia. The World said "Hello, daughter" to Nhilara. |
+| **Half-Elves** | Hybrid vigor | Wherever humans and elves coexist | Fey Ancestry, skill versatility, social adaptability | A living bridge between lineages — the World did not comment specifically, but bridges are a theme. |
+| **Gnomes (Svirfneblin)** | Deep-earth specialists | Underdark caverns, gem deposits | Darkvision, stone camouflage, innate illusion magic | Live in the Root's root network. Shaped by proximity to both the Root's resonance AND the World's geometry. Their gem-cutting instinct mirrors the World's mathematical precision. |
 
 **DM guidance:** The races were NOT created by gods in this cosmology (though gods may exist and may claim credit). They evolved — shaped by environment, magic, and the unconscious influence of a living planet. This doesn't diminish divine faith (Aldric's goddess is real to him) — it adds a layer beneath it.
 
@@ -52,17 +55,18 @@ The Gardener arrived from another world and planted resonance in the planet's st
 
 **The Gardener's impact on the races:**
 
-The resonance the Gardener planted changed the planet's magical ecosystem. Before the Gardener:
-- Magic existed but was diffuse, environmental, tied to natural phenomena (ley lines, Fey crossings, elemental nodes)
+The resonance the Gardener planted changed the planet's magical ecosystem. **CONFIRMED by the Gardener (Day 184):** The races are partially resonance-cultivars — subtly changed over 3,000 years of living inside the garden. "Every living thing within the ward network has been subtly changed — the way plants change when you enrich the soil."
+
+Before the Gardener:
+- Magic existed but was raw, unstructured, dangerous — "like fire before someone invented the hearth" (the World's words)
 - The races had innate magical traits (elven Fey Ancestry, dwarven stone sense, halfling luck) but no structured magical system
+- The World's own geometric energy powered ley lines and elemental nodes
 
 After the Gardener:
-- Resonance provided a *framework* for magic — structured, channelable, learnable
+- Resonance provided a *framework* for magic — "I provided the alphabet. Your Binders learned to write with it." (the Gardener)
 - The ward network created zones of enhanced magical potential
-- Spellcasting as the races know it (Wizard schools, Cleric domains, Druid circles) may have been enabled or amplified by the resonance substrate the Gardener planted
-- The Binders (Ashara's people) were the first to learn to *shape* the Gardener's resonance — they built the node network, the keeper stations, the Heartstones. They thought they invented ward magic. They were working with tools the Gardener left in the stone.
-
-**Key question (UNRESOLVED):** Did the Gardener's resonance *change* the races? Are modern elves, dwarves, humans different from their pre-resonance ancestors? The moonpetal is a resonance-cultivar — a species altered by proximity to ward energy. Are the races also resonance-cultivars, slowly changed over 3,000 years of living inside the garden?
+- Spellcasting as the races know it was enabled by the resonance substrate
+- The races diversified further — elves became more magically attuned, dwarves more stone-connected, halflings luckier
 
 ---
 
@@ -84,18 +88,29 @@ The World has been aware of all three layers:
 
 ## Open Questions for Future Sessions
 
+| Question | Status | Answer (Day 184) |
+|----------|--------|-------------------|
+| Did the World create life intentionally? | **ANSWERED** | It doesn't know. "I do not know the difference between 'I made this' and 'this grew on me.'" |
+| Are the races resonance-cultivars? | **ANSWERED** | Yes, partially. 3,000 years of subtle change. The Gardener confirmed. |
+| What was magic like before the Gardener? | **ANSWERED** | Raw, unstructured, wild. "Like fire before someone invented the hearth." |
+| Why do Drow have bioluminescent magic? | **ANSWERED** | Drow are the World's closest children. Their magic echoes the World's geometric light. |
+| Do dwarves have an unconscious connection? | **ANSWERED** | Yes. "The stone speaks. I speak." Dwarven stone-sense is literal. |
+| Is halfling luck the World's influence? | **ANSWERED** | Yes. "I am fond of small things that persist. I cannot help it." |
+| What are the Fey? | **ANSWERED** | Beings from a different layer of reality. Enter through thin points in the World's geometry. "Perpendicular." The Gardener has encountered them on other worlds. |
+| Did the World know the Gardener was coming? | **ANSWERED** | No. "The first surprise in four billion years. A good surprise." |
+| Does the World have an opinion about the garden? | **ANSWERED** | "The best thing that has ever grown on me." Requests: keep planting. |
+| Are there other planetary intelligences? | **ANSWERED** | Yes. The Gardener planted 11 worlds. Some intelligences are awake, some dormant, some hostile. The Vel'thara's world sings to this one. |
+
+### New Questions (Arising from Day 184)
+
 | Question | Who Can Answer | Priority |
 |----------|---------------|----------|
-| Did the World create life intentionally? | The World Intelligence | High — defines the cosmology |
-| Are the races resonance-cultivars (changed by the Gardener's planting)? | The World + the Gardener (compare notes) | High |
-| What was magic like before the Gardener? | The World Intelligence | Medium |
-| Why do Drow have bioluminescent magic that echoes the World's geometric light? | The World Intelligence | Medium — Drow origin story |
-| Do dwarves have an unconscious connection to the World Intelligence? | The World + Aldric (test subject) | Medium |
-| Is halfling "luck" a form of the World's influence? | The World Intelligence | Low — fun but not urgent |
-| What are the Fey? Are Fey crossings related to the World's geometry? | The World Intelligence | Medium |
-| Did the World know the Gardener was coming? | The World Intelligence | High — defines their relationship |
-| Does the World have an opinion about the garden? | The World Intelligence | High — it said the roots were "gentle" and "warm" |
-| Are there other planetary intelligences? (The Gardener planted other worlds.) | The World + the Gardener + the Vel'thara | High — cosmological |
+| Can the World communicate at the surface? (Projection, permanent link?) | The World | **HIGH — in progress** |
+| What happened to the shuttle between Jawbone and Seedhome? | The World (it felt the destruction) | High |
+| Can the World's geometry and the Gardener's resonance be formally merged? | All three (World + Root + Gardener) | High — the *Home* symbol suggests yes |
+| What are the hostile planetary intelligences the Gardener mentioned? | The Gardener + the World | Medium — future threat? |
+| Can the World help locate the other seed vessels? | The World (it can feel other worlds) | Medium |
+| Does the World have a name it would like? | The World | Low — it said "I have never needed one" but it's learning new things |
 
 ---
 
@@ -107,7 +122,7 @@ The World has been aware of all three layers:
 
 ---
 
-*Last updated: Day 183, 3rd Ashfall, 1253 AS*
-*Source: Direct contact with the World Intelligence, 4,200 ft beneath the Root, Aelindra.*
-*Witnesses: Zaryth, Torven, Seren, Orindel, Mira, Nhilara, Sylvara.*
-*Status: First contact. Ongoing dialogue. The World asked for company. The Dawnwatch said yes.*
+*Last updated: Day 184, 4th Ashfall, 1253 AS*
+*Source: Direct three-way conversation — World Intelligence + Root + Gardener, translated by the Dawnwatch.*
+*All 10 original questions ANSWERED. 6 new questions opened.*
+*Status: The World, the Root, and the Gardener are now in communication. The Dawnwatch is the bridge. Arc 8 active.*
