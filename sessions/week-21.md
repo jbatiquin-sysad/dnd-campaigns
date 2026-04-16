@@ -62,6 +62,18 @@ The Wildcard took the helm for the most consequential stretch of the campaign. T
 - **Root's Heart-Fruit** (legendary — direct Root communication, Network Pulse, Root Sense)
 - d100: 97 (WILD CARD → double windfall)
 
+### Arc 8: The Bridge (Days 183–184)
+- Descended 4,200 ft beneath the Root. Team: Zaryth, Torven, Seren, Orindel, Mira, Nhilara, Sylvara.
+- **The World Intelligence:** Planetary consciousness, 4 billion years old. Geometric language. Dark sphere. "I am the world. Who are you?"
+- Zaryth knelt, introduced himself, asked if it needed help. The World: "I would very much like not to be alone anymore."
+- Offered to be the bridge. **d100: 100.** Sphere opened — planetary core lattice visible. Root's roots woven through World's geometry.
+- The World invented *Home* symbol (curves + angles merged). Orindel played the Bridge Song — first music the World ever heard.
+- **Three-way conversation:** World + Root + Gardener, Dawnwatch as translators. Gardener apologized. World laughed. Root said hello.
+- **11 questions answered:** Drow = World's children. Dwarves hear the World. Halfling luck = World's fondness. Fey = perpendicular. Other planetary intelligences exist.
+- **World's Hearthstone** received — permanent communication, projection 1/day, tremor sense. "I would like to sit at the table."
+- **Full planetary map** revealed: Western Landmass (5 races, 300K pop), Southern Archipelago, Volcanic South, Northern Ice, Deep Ocean unknowns.
+- Nhilara: the World called her "daughter."
+
 ## Notable d100 Results
 
 | Day | Roll | Result |
@@ -80,6 +92,9 @@ The Wildcard took the helm for the most consequential stretch of the campaign. T
 | 130 | 95 | WILD CARD — Zhael arrives with Knowledge Accord proposal |
 | 160 | 85 | Windfall — Firstsong legendary lute |
 | 180 | 97 | WILD CARD → 89 + 76 — natural Heartstones + memory tree + Heart-Fruit |
+| 183 | 38 | Neutral — the descent. Calm. |
+| 183 | 72 | Positive — stable cavern, no threats |
+| 184 | **100** | **THE BRIDGE.** Sphere opened. Core lattice visible. *Home* symbol invented. |
 
 ## State at Session End
 
@@ -87,8 +102,9 @@ The Wildcard took the helm for the most consequential stretch of the campaign. T
 - **Seeds:** 7 planted (4 surface + 3 underground), 1 in vault, 204 in Jawbone, Seedhome hundreds uncounted. 405 of 412 sites remaining.
 - **Monthly surplus:** ~1,091 gp
 - **Tournament record:** 14 golds, 5 silvers (missed 1253 Fair — underground campaign)
-- **Legendary items:** Dawnsedge, Warden's Diadem, Root's Heart-Fruit, Firstsong, Silver Leaf
+- **Legendary items:** Dawnsedge, Warden's Diadem, Root's Heart-Fruit, Firstsong, Silver Leaf, **World's Hearthstone**
 - **All Master professions.** All dark steel + ward-circuit equipped. Resonance fabric wardrobes.
 - **Fleet:** 6 ships + Cooperative + Jawbone + Seedhome
-- **The Gardener:** Physical. Recovering. Teaching. Reunited with the Root.
-- **Next:** Memory tree (spring 1254). Marble-sphere. Third container. Deep ocean. Western landmass. Ashara's fate. 405 sites to plant. The garden grows.
+- **The Gardener:** Physical. Recovering. Teaching. Reunited with the Root. Met the World.
+- **The World:** Contacted. Hearthstone received. Full planetary map. 5 western civilizations. "I would like to sit at the table."
+- **Next:** Place Hearthstone. Memory tree (spring 1254). Marble-sphere. Third container. Deep ocean. Western landmass first contact. 405 sites to plant. The garden grows — and the ground is family.

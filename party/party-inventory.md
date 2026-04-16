@@ -8,9 +8,9 @@
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| **Total** | **~25,275 gp** | |
+| **Total** | **~25,225 gp** | |
 | Carried | ~3,000 gp | Expedition/travel fund |
-| Homestead reserves | ~22,275 gp | Stored at Dawnwatch Homestead |
+| Homestead reserves | ~22,225 gp | Stored at Dawnwatch Homestead |
 
 ---
 
@@ -47,7 +47,7 @@
 | Lightning resistance | 4 | 0 |
 | Necrotic resistance | 6 | 0 |
 | Darkvision | 2 | 0 |
-| Ward-circuit ink (applications) | 9 | 0 |
+| Ward-circuit ink (applications) | 7 | 0 |
 | Catalyst compound (research) | 0 | 8 |
 | Inversion catalyst vials | 0 | 9 (contained at forge) |
 | Concentrated catalyst | 0 | 1 (contained at forge) |

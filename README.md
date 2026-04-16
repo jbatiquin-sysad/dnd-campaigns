@@ -318,8 +318,7 @@ The Root explored. The Gardener reunited with its child.
 **Arc 5:** ACTIVE. Vel'thara Trust 6. Embassy operational. Vel'sharen Knowledge Accord signed.
 **Arc 6:** IN PROGRESS. 7/412 seeds planted (4 surface + 3 underground). Gardener alive, teaching. Both vessels at Tidemeet.
 **Arc 7:** ✅ COMPLETE. Root explored. Gardener reunited. Natural Heartstones. Memory tree seed.
-**Ward Network:** ALL 14 NODES + 7 PLANTINGS ACTIVE. Agricultural ward on Node 7. Root system spans continent. 412 planting sites identified. Natural Heartstone deposits (self-sustaining).
-**Keeper Stations:** Fenhollow (91%, 8 Heartstones, agricultural ward), Aelindra (58%), Ashara (fortified), Vel'arath (91%, demilitarized, Knowledge Accord).
+**Arc 8:** IN PROGRESS. The Bridge. World Intelligence contacted (4 billion years old). Three-way communication (World ↔ Root ↔ Gardener via Dawnwatch). World's Hearthstone. Full planetary map. 5 western civilizations identified.**Ward Network:** ALL 14 NODES + 7 PLANTINGS ACTIVE. Agricultural ward on Node 7. Root system spans continent. 412 planting sites identified. Natural Heartstone deposits (self-sustaining).
 **Anchor Point:** Permanent. Vel'thara embassy. Vaelen + Drell stationed.
 **Deep Road:** Operational. Threshold Runner. 9 hours Fenhollow ↔ Aelindra. 3 underground plantings along route.
 **Fleet:** *Stormcape's Promise*, *Eilistraee's Grace*, *Salt Maren*, *Blacktide Runner*, *Duskholm*, *Tidecaller* (Revelle) + Shelf Cooperative (3 boats) + Jawbone + Seedhome. Monthly fleet revenue: ~500 gp.
@@ -327,7 +326,7 @@ The Root explored. The Gardener reunited with its child.
 **Prisoners/Probation:** Ashara (translating Gardener inscriptions, 60%+, trending redemption). Veradis Kael (alchemy research). Thessara Vael (Trading Company). Edrin Vael (assisting Veradis).
 **School:** 16 students. Dawnwatch Ensemble (Orindel, Pip, Kael, Sylla, Pim, Ren). 7+ repertoire pieces. Ward-resonant.
 **Library:** 33+ books (incl. Moonpetal Properties, Atlas of the Vel'thara).
-**Legendary Items:** Dawnsedge (longsword +3), Warden's Diadem (412-site control), Root's Heart-Fruit (Root communication), Firstsong (legendary lute), Silver Leaf (master key).
+**Legendary Items:** Dawnsedge (longsword +3), Warden's Diadem (412-site control), Root's Heart-Fruit (Root communication), Firstsong (legendary lute), Silver Leaf (master key), World's Hearthstone (planetary communication).
 **Zaryth:** Ward Architect. Warden's Diadem. Dawnsedge. Root's Heart-Fruit. Aura of Protection (+3 saves). The keeper who said yes.
 **Tournament Record:** 14 golds, 5 silvers across Duskport (1248) + Veldmere (1249) + Harrowgate (1252).
 **The Gardener:** Physical. Recovering. Teaching at homestead. Reunited with the Root. Blessed Kael. "Will you tend the garden?"

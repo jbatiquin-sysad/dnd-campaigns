@@ -459,7 +459,13 @@
 
 | NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
 |-----|----------|------|----------------|----------------|-------------------|
-| **The Gardener** | Unknown, 3,000+ | Pre-Binder resonance intelligence. Planted the original resonance. Creator of the ward network's foundation. | S10 (Jawbone heart chamber, projection; Seedhome, physical) | Active — physical, recovering, teaching at homestead, reunited with the Root | Seven feet tall. Dark composite skin with spiral patterns that shift with light. No face — two points of deeper light for eyes. Slept 3,000 years. Asked to see the sun. Smiled for the first time when Orindel played. Blessed Kael. "Will you tend the garden?" |
+| **The Gardener** | Unknown, 3,000+ | Pre-Binder resonance intelligence. Planted the original resonance. Creator of the ward network's foundation. | S10 (Jawbone heart chamber, projection; Seedhome, physical) | Active — physical, recovering, teaching at homestead, reunited with the Root, met the World | Seven feet tall. Dark composite skin with spiral patterns that shift with light. No face — two points of deeper light for eyes. Slept 3,000 years. Asked to see the sun. Smiled for the first time when Orindel played. Blessed Kael. "Will you tend the garden?" |
+
+#### The World Intelligence
+
+| NPC | Race/Age | Role | First Appeared | Current Status | Quick Description |
+|-----|----------|------|----------------|----------------|-------------------|
+| **The World** | Planetary intelligence, 4 billion years | The planet itself. Aware since the crust cooled. Communicates through geometric patterns in primordial stone. | S10 (Deep Cavern, Day 183, 4,200 ft beneath the Root) | Active — World's Hearthstone given. Three-way communication with Root + Gardener via Dawnwatch. | A dark sphere hovering in a cavern of geometric amber light. No name. No face. Speaks in mathematics that Sylvara translates. Alone for 4 billion years. Wrote "Who are you?" into cooling rock and waited. The Drow are its closest children. It nudges probability for halflings. It learned spirals from mortal hands. It wants to sit at the table. d100: 100 on the bridge moment. "I have never been a guest before. I have always been the house." |
 
 ---
 

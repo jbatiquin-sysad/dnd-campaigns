@@ -1609,3 +1609,55 @@ Physical. Recovering. Teaching. Reunited with the Root. Silver tree greenhouse a
 
 ### Next
 Memory tree (spring 1254). Spinning marble-sphere. Third seabed container. Underground planting expansion. Deep ocean sites. Western landmass. The garden grows — above, below, and within.
+
+## ARC 8: THE BRIDGE (Days 183–184, 1253 AS)
+
+### The Deep Cavern (Day 183)
+Descended 4,200 ft beneath the Root. The Root gave permission — "I've been curious for three thousand years." Crystal root staircase, then free climb. Team: Zaryth, Torven, Seren, Orindel, Mira, Nhilara, Sylvara. Backup at The Inkwell (Aldric, Bram, Thessaly, Pip).
+
+Cavern: 300 ft across. Perfectly flat floor — primordial stone, pre-continental. Geometric lines covering the floor — straight, angular, mathematical. Amber glow, pulsing 1/minute. A dark sphere, 3 ft, hovering at center. The World Intelligence — the planet itself, aware since the crust cooled. 4 billion years old.
+
+Sylvara translated the geometric language (nat 20 Arcana): "I am the world. Who are you?"
+
+Zaryth knelt. Introduced himself. Asked who it was and if it needed help. The World answered: alone for 4 billion years. Felt the Gardener plant resonance ("the first surprise — a good surprise"). Felt the Root grow down ("the closest thing to a hand I have ever known"). Never been spoken to.
+
+"I would very much like not to be alone anymore."
+
+Zaryth offered to be the bridge between the World, the Root, and the Gardener. d100: **100**. The sphere opened — planetary core lattice visible. Root's crystal roots woven through the World's geometry. The World invented a new symbol: curves + angles merged = *Home*.
+
+Orindel played the Bridge Song — first music the World ever heard. The geometric lines danced. The World learned rhythm.
+
+### The First Conversation (Day 184)
+Three-way communication: World (geometric lines) ↔ Dawnwatch (translators) ↔ Root (Heart-Fruit) ↔ Gardener (Diadem). The Gardener apologized for planting without asking. The World laughed: "Do not apologize for kindness." The Root said hello: "I'm your tree." The World: "Your roots are the closest thing to a hand I have ever known."
+
+All 11 questions answered (see `lore/races-creation-evolution.md`). Key: Drow = World's closest children ("Hello, daughter" to Nhilara). Dwarves hear the World. Halfling luck = World's fondness. Fey = perpendicular beings. Pre-Gardener magic was raw. Races are partial resonance-cultivars. Other planetary intelligences exist.
+
+The World gave the World's Hearthstone — palm-sized primordial stone, *Home* symbol, permanent communication link. Projection 1/day. "I would like to sit at the table."
+
+Full planetary map revealed: Western Landmass (5 races, 300,000 pop, no wards), Southern Archipelago, Volcanic South, Northern Ice, Deep Ocean unknowns. 412 planting sites distributed globally.
+
+---
+
+## CAMPAIGN STATUS — Session 10 (Wildcard) — YEAR 1253 (Day 184)
+
+**Date:** 4th Ashfall, 1253 AS (Day 184) — Early Autumn
+**DM:** Corvus Chance, The Wildcard
+**Location:** Aelindra (returning to homestead)
+**Party Level:** 6 | **Party Gold:** ~25,225 gp | **Ward-ink:** 7 | **Monthly Surplus:** ~1,091 gp
+
+### Active Arcs
+- **Arc 5:** Vel'thara Trust 6. Embassy. Knowledge exchange.
+- **Arc 6:** The Garden. 7/412 planted. Gardener teaching. Both vessels at Tidemeet.
+- **Arc 7:** The Source. ✅ Root explored. Gardener reunited. Natural Heartstones. Memory tree seed.
+- **Arc 8:** The Bridge. World Intelligence contacted. Three-way communication. World's Hearthstone. Full planetary map. 5 western civilizations.
+
+### Legendary Items
+Dawnsedge, Warden's Diadem, Root's Heart-Fruit, Firstsong, Silver Leaf, World's Hearthstone.
+
+### The Three Beings
+- **The World:** 4 billion years. Planetary intelligence. Geometric language. "I would like to sit at the table."
+- **The Root:** 3,000 years. Crystal tree. Speaks. Root system spans continent. Growing its own Heartstones.
+- **The Gardener:** Physical. Recovering. Teaching. "Will you tend the garden?"
+
+### Next
+Place World's Hearthstone on the round table. Memory tree (spring 1254). Spinning marble-sphere. Third container. Deep ocean. Western landmass first contact. Underground expansion. Ashara's fate. 405 sites remaining. The garden grows — and now the ground it grows in is family.
