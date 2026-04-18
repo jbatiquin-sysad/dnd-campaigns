@@ -1,260 +1,200 @@
 # Party Equipment — Individual Loadouts
 
 > **Hook:** Update this file whenever a party member acquires, loses, upgrades, or trades personal equipment.
+> **Last updated:** Day 755, 25th Highsun, 1256 AS. All legendary weapons + armor. All Mythic professions.
 
 ---
 
-## Zaryth Vel'quinar — Paladin
+## Zaryth Vel'quinar — Paladin (Devotion) 9 | AC 22
 
-**Armor:** Warden's Plate (dark steel + Binding alloy + behir scale + resonance gem + ward-circuit) + Warden's Shield — AC 22. Warden's Ward (1d8+2 reduction 3/short rest). Resonance Pulse (redirect 10 ally damage 1/long rest). CHA +1. CON save advantage. Lightning resistance. Cannot be removed against will.
-**Weapon:** Dawnwatch Longsword (enchanted — Warding Edge +2 AC reaction, +1d4 lightning all hits, resonance bond)
-**Backup Weapon:** Well-made longsword (old primary)
-**Clothing:** Dark tabard over chain mail
-**Special:** Behir-hide bracers, Champion's Belt (Reaping Fair)
+**Armor:** Worldkeeper's Plate (LEGENDARY) — Dark steel frame + meteoric-ren'kah plates. Hybrid crystal breastplate. Kah-sol resin ward-lines. River pearl pauldrons. Singing granite gorget. Sea-silk + resonance-elk lining. AC 19 + shield +2 + Defense +1 = **22.** Dual-network. Warden's Ward 1d10+3 (3/SR). Worldpulse (planetary, 1/LR). Resonance Anchor. Extraplanetary interference. Living circuit. Shimmershift. Cold resist.
+**Shield:** Warden's Shield (+2 AC)
+**Weapon:** Dawnsedge (LEGENDARY +3) — 1d8+8 + 1d6 lightning + 1d6 radiant + 1d4 force (vs extraplanetary). Gardener's Strike. Sunburst. Meteoric steel edge-inlay.
+**Circlet:** Warden's Circlet — Charm/frighten/mind-read advantage. Kah-sol interference. +1 WIS saves.
+**Crown:** Warden's Diadem — 412-site awareness. Network control. Planetary sensing.
 
-| Slot | Item | Notes |
-|------|------|-------|
-| Ring (L) | Dawnwatch signet ring (Z) — ENCHANTED | Ward-network attuned, resonance pulse |
-| Ring (R) | Iron purpose ring — ENCHANTED | Warden's Resolve: +1 to CON saves |
-| Neck | Quartz amulet — ENCHANTED | Light cantrip (1/day, 1 hr) |
-| Neck | Silver chain pendant | Gift from Revka Sarn, Veldmere |
-| Pocket | Ruined signet ring | Fallen house, carried always |
-| Arms | Studded leather vambraces | -1 slashing damage to arms |
-| Legs | Iron greaves | Leg protection |
-| Belt | Ward Compass | Vigil instrument |
-| Belt | Sending Stone | Paired with Vaelith |
-| Belt | Copper resonance probe | Handmade field tool |
-| Belt | Copper frequency fork | Field instrument — frequency band reading |
-| Pack | Salt-ward beeswax kit | Vaelith-prepared, coastal circuits |
-| Pack | Mining lantern | Light bearer |
-| Pack | Alchemy field kit | Mortar, pestle, 6 vials, reagents |
-| Pack | Antitoxin vial | |
-| Pack | Healing Potion (1x) | |
-| Pack | Eddan's harbor seal | Personal gift |
-| Chest | Resonance gem (C-sharp, Zaryth's frequency) | Ward network awareness through armor |
-| Carried | Keeper's Cloak | Suppresses magical detection |
-| Carried | Ashara's paired ring (Binding-era) | Paired to signet. Vaelen forged both. |
+| Slot | Item |
+|------|------|
+| Head | Warden's Diadem + Warden's Circlet |
+| Chest | Root's Heart-Fruit (cord) |
+| Ring (L) | Wedding ring (Vel'tarn silver, river pearl, tuned to Sylvara) |
+| Ring (R) | Dawnwatch signet ring (enchanted) |
+| Belt | Ward Compass, Sending Stone (Vaelith), Copper resonance probe, Alchemy field kit |
+| Pack | Silver Leaf (master key), salt-ward kit |
 
 ---
 
-## Mira Thistlewick — Rogue
+## Mira Thistlewick — Rogue (Thief) 9 | AC 20
 
-**Armor:** Behir scale-leather +2, dark steel wire reinforcement (AC 18, lightning resistance, ward-circuit absorb 1d4 damage 2/short rest, 3 resonance gems at collar/wrists/spine)
-**Weapons:** Shadow Fang (short sword, crit blinds), Whisper Bolt (light crossbow, silent +1d4 thunder), Shadow Bolt (hand crossbow, hidden attacks don't reveal), behir-fang dagger (+1 magical), master-forged dagger (+1 to hit, Reaping Fair Blade Dance prize), Veldmere dueling blade (+1 to hit, Blade Dance champion)
-**Clothing:** Fitted dark travelling outfit, grey cloak (infiltration)
+**Armor:** Shadowveil Leather (resonance-elk + ren-kah studs + spider-silk + sea-silk lining). AC 12 + DEX 5 + studs +1 + enchant +2 = **20.** Shimmershift. Cold resist. Dual-network. Living circuit. Sneak Attack +1d4 force from stealth.
+**Weapon:** Nightwhisper (LEGENDARY +3) — 1d6+7 piercing. Silent Kill. Shadow Meld (invisible 1 round after kill). Sneak Amplifier (+1d6 force).
+**Backup:** Whisper Bolt (hand crossbow +7), Behir-fang dagger.
 
-| Slot | Item | Notes |
-|------|------|-------|
-| Ring (L) | Dawnwatch signet ring (M) — ENCHANTED | Ward-network attuned, resonance pulse |
-| Ring (R) | Iron purpose ring — ENCHANTED | Shadow Step: advantage on Stealth in dim light, 1/day |
-| Neck (outer) | Quartz amulet — ENCHANTED | Message cantrip (at will, 120 ft) |
-| Neck (inner) | Abjuration amulet (attuned) | Suppresses detection magic |
-| Hair | Wooden comb | Bram-crafted, halfling on crescent moon |
-| Arms | Studded leather vambraces | -1 slashing damage to arms |
-| Belt | Thieves' tools | |
-| Belt | Crowbar | |
-| Belt | Herb storage pouch | Boar-hide, self-crafted |
-| Pack | Leatherworking kit | Awl, needles, waxed thread, edge beveler, cutting board |
-| Pack | Healer's Kit | |
-| Pack | Healing Potion (1x) | |
-| Pack | Crossbow bolts | Full (restocked Aelindra) |
-| Pack | 6x sleep-poison bolts | DC 13 CON, unconscious 1 hr |
-| Pack | 3x smoke pellets | |
-| Pack | Darkfire paste (1 use) | 2d6 necrotic, resists healing 1 hr |
-| Belt | Drow thieves' tools (backup) | Fine quality |
+| Slot | Item |
+|------|------|
+| Ring | Dawnwatch signet (enchanted) + Iron purpose ring |
+| Neck | Quartz amulet (Light cantrip) |
+| Belt | Shadow Fang (shortsword, backup), lockpicks, thieves' tools |
 
 ---
 
-## Brother Aldric Stonebrow — Cleric
+## Brother Aldric Stonebrow — Cleric (Life) 9 | AC 21 (23 w/shield)
 
-**Armor:** Dark steel chain mail +1 + dark steel shield (Warding Edge +2 AC reaction 1/round) + Sea Ward — AC 19 (21 with reaction). Ward-circuit, 3 resonance gems.
-**Weapon:** **Hearthforge** warhammer +1 (dark steel head + storm glass haft + resonance gem. +6 to hit, 1d8+3 bludgeoning + 1d6 radiant. Self-heal 1d4+4 1/day. Hearthpulse: healing spell → 1d4 temp HP to allies within 10 ft 1/LR. Consecrated Strike: undead hit have disadvantage on next attack. Ward-circuit linked.)
-**Clothing:** Acolyte underlayer robes
+**Armor:** Hearthkeeper's Mail (resonance-elk + meteoric-ren'kah chain overlay + sea-silk lining). AC 16 + shield +2 + enchant +1 + Warding Edge +2 reaction = **21/23.** Healing spells +2 HP (resonance amplification). Shimmershift. Cold resist. Dual-network. Living circuit.
+**Shield:** Dark steel + ren-kah boss (reflects 1d4 radiant on melee attackers, 1/round).
+**Weapon:** Hearthstone Maul (LEGENDARY +3) — 1d8+6 bludgeoning + 1d6 radiant. Healer's Echo (+2d6 radiant after healing spell). Consecrated Ground (15 ft, 1/LR).
 
-| Slot | Item | Notes |
-|------|------|-------|
-| Ring (L) | Dawnwatch signet ring (A) — ENCHANTED | Ward-network attuned, resonance pulse |
-| Ring (R) | Iron purpose ring — ENCHANTED | Healer's Pulse: +1 HP to all healing spells |
-| Neck | Quartz amulet — ENCHANTED | Spare the Dying cantrip (at will, touch) |
-| Neck | Holy symbol | Polished |
-| Legs | Iron greaves | Leg protection |
-| Inner pocket | Ward-solvent vial | Triple-wrapped — DANGEROUS |
-| Pack | Holy water vial | |
-| Pack | Prayer book | |
-| Pack | Healer's Kit | |
-| Pack | Mining lantern | |
-| Pack | Dunwick's tea blend | Makes tea every morning |
-| Arm | Hilde's knitted scarf | Worn as bracer wrap on shield arm |
+| Slot | Item |
+|------|------|
+| Ring | Dawnwatch signet (enchanted) + Iron purpose ring |
+| Neck | Holy symbol |
+| Belt | Healer's kit, prayer beads |
 
 ---
 
-## Sylvara Dawnwhisper — Wizard
+## Sylvara Dawnwhisper Vel'quinar — Wizard (Evocation) 9 | AC 18 (24 w/Shield spell)
 
-**Armor:** Dark steel scale mail +1, behir scale overlay (AC 17, lightning resistance, ward-circuit, resonance lens integrated at chest — +1 spell DC hands-free, 3 resonance gems)
-**Weapons:** **Voidedge** dagger (dark steel + storm glass spine + resonance gem pommel. +8 to hit, 1d4+5 piercing + 1d6 force. Spell Echo: store cantrip → bonus damage on next hit 1/SR. +1 spell DC while held. Ward-circuit linked.)
-**Clothing:** Scholar's travelling robes
+**Armor:** Voidweaver's Armor (LEGENDARY) — Resonance-elk hide coat + ren-kah studs + black tidal pearl + kah-sol resin + singing granite clasps + sea-silk lining. AC 12 + DEX 3 + studs +1 + enchant +2 = **18.** Spell Fortress (Shield = +6 AC → 24). Tidal Pearl Focus (cast without free hand). Voidweave (+1d8 force on evocation, 1/LR). Spell DC +1 (→18). Resonance Lens Housing (+2 Spell Echo). Shimmershift. Cold resist. Dual-network. Living circuit.
+**Weapon:** Voidedge Reforged (LEGENDARY +3) — 1d4+8 piercing + 1d6 force. Spell Echo (store up to 2nd-level spell). Void Rift (banish on hit, 1/LR).
 
-| Slot | Item | Notes |
-|------|------|-------|
-| Ring (L) | Dawnwatch signet ring (S) — ENCHANTED | Ward-network attuned, resonance pulse |
-| Ring (R) | Iron purpose ring — ENCHANTED | Arcane Focus: ring functions as backup arcane focus |
-| Neck | Quartz amulet — ENCHANTED | Mending cantrip (at will) |
-| Carried | Spellbook (in travel case) | |
-| Carried | Vigil Field Manual | Complete ward-engineering doc, all 14 nodes |
-| Carried | Ward repair activation sequence | Vaelith's book |
-| Carried | Sylvara's notebook | The record of everything |
-| Belt | Arcane focus | |
-| Belt | Spell component pouch | |
-| Pack | Ink + quill + parchment | Restocked Aelindra |
-| Pack | Resonance key | Unchained Compact ward-collapse device |
-| Pack | Grey cloak (infiltration) | |
-| Pack | Dunwick's notebook | |
-
-**Evidence archive (carried):** Venn's operational journal, Blackveil's ledger, Vane's acquisition ledger, Senn's handler correspondence, assembly notes
+| Slot | Item |
+|------|------|
+| Ring (L) | Wedding ring (matching Zaryth's) |
+| Ring (R) | Dawnwatch signet (enchanted) |
+| Neck | Spectacles (always), Quartz amulet |
+| Belt | Spellbook, component pouch, storm glass vials |
 
 ---
 
-## Bram Thistlewick — Wizard
+## Bram Thistlewick — Wizard (Evocation) 9 | AC 19
 
-**Armor:** Dark steel scale mail +1, behir scale overlay (AC 17, lightning resistance, ward-circuit, forge-attunement channels, 2 resonance gems) + dark steel vambraces (integrated)
-**Weapons:** Yew Quarterstaff (enchanted — magical, arcane focus, +1 spell attack rolls), hand axe, dagger
-**Special:** Sethrak's Forge-Master Tools (+1 enchanting/cutting at Forge)
-**Clothing:** Military-cut travelling coat, resoled boots
+**Armor:** Forgemaster's Scale (resonance-elk + meteoric-ren'kah spine plate + sea-silk lining). AC 14 + DEX 2 + enchant +1 + spine plate +2 = **19.** Advantage CON saves vs heat/fire. Crafting +1. Shimmershift. Cold resist. Dual-network. Living circuit.
+**Weapon:** Stormheart (LEGENDARY +3) — 1d6+6 bludgeoning + 1d4 lightning. Forge Focus (Spell DC +1 → 17). Eruption (free Fireball 4th level, 1/LR).
 
-| Slot | Item | Notes |
-|------|------|-------|
-| Ring (L) | Dawnwatch signet ring (B) — ENCHANTED | Ward-network attuned, resonance pulse |
-| Ring (R) | Iron purpose ring — ENCHANTED | Forgehand: resistance to non-magical fire damage |
-| Neck | Quartz amulet — ENCHANTED | Mold Earth cantrip (at will, 5-ft cube) |
-| Carried | Spellbook | |
-| Belt | Spell component pouch | Retained as backup (staff is primary focus) |
-| Pack | Woodcarving kit | Gouges, chisels, drawknife, sharpening stone |
-| Pack | Smith's tools (portable) | Hammer, tongs, file |
-| Pack | Military insignia | Old unit |
-| Pocket | 1 steel ingot | Party materials (expedition carry) |
+| Slot | Item |
+|------|------|
+| Ring | Dawnwatch signet (enchanted) |
+| Belt | Smithing tools (field set), ren-kah tool set (6 pieces) |
 
 ---
 
-## Thessaly Ironveil — Rogue
+## Thessaly Ironveil — Rogue (Thief) 9 | AC 20
 
-**Armor:** Behir scale-leather +1, dark steel wire reinforcement (AC 17, lightning resistance, ward-circuit, rapier feedback loop, 3 resonance gems)
-**Weapons:** Veil Pierce rapier (Silent Storm +1d6 lightning Sneak, Nerve Strike 1/day DC 14), Storm Bolt hand crossbow (+1d4 lightning), behir-fang dagger (+1), 20x dark steel bolt tips (+1 magical)
-**Clothing:** Quality travelling outfit, fine clothes (infiltration set)
-**Special:** Trade Guild endorsement (Reaping Fair — preferred rates at guild markets)
+**Armor:** Stormweave Leather (resonance-elk + ren-kah studs + sea-silk lining). AC 12 + DEX 5 + studs +1 + enchant +2 = **20.** Veil Pierce lightning +1d8 (amplified). Shimmershift. Cold resist. Dual-network. Living circuit.
+**Weapon:** Stormveil (LEGENDARY +3) — 1d8+7 piercing + 1d6 lightning + 1d4 cold. Nerve Cascade (paralyze on crit). Tempest Dash (teleport 30 ft after hit, 1/LR).
+**Backup:** Storm Bolt crossbow (+11, 1d8+7, 80/320), 20 dark steel bolts.
 
-| Slot | Item | Notes |
-|------|------|-------|
-| Ring (L) | Dawnwatch signet ring (T) — ENCHANTED | Ward-network attuned, resonance pulse |
-| Ring (R) | Iron purpose ring — ENCHANTED | Noble's Mask: advantage on Deception impersonating nobility, 1/day |
-| Ring (R) | House Ironveil signet ring | Polished (worn on same hand, different finger) |
-| Neck | Quartz amulet — ENCHANTED | Prestidigitation cantrip (at will) |
-| Arms | Studded leather vambraces | -1 slashing damage to arms |
-| Belt | Thieves' tools | |
-| Pack | Grey cloak (infiltration) | |
-| Pack | Crossbow bolts | Full (restocked Aelindra) |
-| Pack | 6x sleep-poison bolts | DC 13 CON, unconscious 1 hr |
-| Pack | 3x smoke pellets | |
-| Pack | Trade Guild endorsement | Preferred rates at guild markets |
-| Pack | Spice trade ledger | |
-| Breast pocket | The List (7/7 — COMPLETE) | All names crossed off |
+| Slot | Item |
+|------|------|
+| Ring | Dawnwatch signet (enchanted) |
+| Belt | Weaving kit (travel), trade ledger, piña fiber samples |
 
 ---
 
-## Orindel Ashwick — Cleric
+## Orindel Ashwick — Cleric (Life) 3 / Bard (Lore) 6 | AC 20 (22 w/shield)
 
-**Armor:** Dark steel scale mail +1, behir scale overlay + ship's oak shield (AC 19, lightning resistance, ward-circuit, 4 resonance gems at shoulders/chest/spine — Bardic/healing amplification)
-**Weapons:** Shepherd's Strike mace (1/day push 10 ft), True Flight shortbow (ignore half cover, +1 dmg), 12x behir-fang arrows (+1), 4x dark steel arrowheads (+1), Master Bowyer's quiver, obsidian skinning knife
-**Clothing:** Cleric's travelling robe, resoled boots
+**Armor:** Songkeeper's Scale (resonance-elk + meteoric-ren'kah pauldrons + sea-silk lining). AC 14 + DEX 2 + shield +2 + enchant +2 = **20/22.** BI upgraded to d10. Healing Word +3 extra. Shimmershift. Cold resist. Dual-network. Living circuit.
+**Shield:** Ship's oak + ren-kah rim.
+**Weapon:** Firstsong (LEGENDARY lute) — BI d10. Planting radius x2. First Song (10 temp HP + save adv, 1/LR).
+**Ranged:** Stormflight shortbow +2 (+8, 1d6+6, 80/320, ignore ¾ cover).
+**Backup:** Shepherd's Strike mace.
 
-| Slot | Item | Notes |
-|------|------|-------|
-| Ring (L) | Dawnwatch signet ring (O) — ENCHANTED | Ward-network attuned, resonance pulse |
-| Ring (R) | Iron purpose ring — ENCHANTED | Hunter's Eye: advantage on Survival for tracking, 1/day |
-| Neck | Quartz amulet — ENCHANTED | Guidance cantrip (1/day, 1 min, +1d4 to one ability check) |
-| Neck | Holy symbol | |
-| Belt | Crowbar | |
-| Quiver | 40 broadhead arrows | Iron heads, pheasant-fletched, ash shafts |
-| Pack | Healer's Kit | |
-| Pack | Mining lantern | |
-| Pack | Pigeon (Tomas) | Paired to Bram in Duskport |
-| Pack | Fishing tackle | |
-| Pack | Jar of honey | Barge gift |
-| Pack | Bottle of whiskey | Dak gift, Salthollow |
-| Pack | Marsh honey jar | Wynn Galley gift |
-| Homestead | Carved Marsh Light icon | On mantelpiece above hearth |
+| Slot | Item |
+|------|------|
+| Ring | Dawnwatch signet (enchanted) |
+| Neck | Holy symbol, sub-sonic horn (Kapuluan) |
+| Belt | Driftwood lute case, coral-song reference stones |
 
 ---
 
-## Pip Tanglethorn — Wizard
+## Pip Tanglethorn — Wizard (Evocation) 3 / Bard (Lore) 6 | AC 18 (24 w/Shield spell)
 
-**Armor:** Behir scale-leather +1, dark steel wire reinforcement (AC 16, lightning resistance, Resonance Shell — absorb **15** any damage 1/short rest, ward-circuit, 1 resonance gem) + behir-hide bracers
-**Weapons:** Spark Edge short sword (+1d4 fire every hit, permanent), driftwood flute
-**Clothing:** Full outfit (shirt, trousers, vest, cloak)
-**Special:** Shell crown (Stormcape folk hero) + Reaping Crown (laurel, Bardic Circle champion)
+**Armor:** Sparkweaver's Vest (resonance-elk + ren-kah studs + river pearl focus + sea-silk lining). AC 12 + DEX 2 + studs +1 + enchant +3 = **18.** Spell Fortress (Shield +6 → 24). Pearl Focus (cast without free hand). Resonance Shell 20 damage (1/SR). Shimmershift. Cold resist. Dual-network. Living circuit.
+**Weapon:** Starweave (LEGENDARY +3) — 1d6+5 bludgeoning + 1d4 fire. Dual Focus (Wizard + Bard). Inspiration Surge (+5 temp HP on BI). Sparkburst (free Shatter 3rd, 1/LR).
+**Backup:** Sub-sonic bone flute (Kapuluan, kah-sol communication).
 
-| Slot | Item | Notes |
-|------|------|-------|
-| Ring (L) | Dawnwatch signet ring (P) — ENCHANTED | Ward-network attuned, resonance pulse |
-| Ring (R) | Iron purpose ring — ENCHANTED | Spark Ward: +1 to saves against own spell effects |
-| Neck | Quartz amulet — ENCHANTED | Minor Illusion cantrip (at will, 30 ft) |
-| Hand | River pebble | Sylvara's focus stone, 40 years old |
-| Belt | Driftwood flute | Bram-crafted, pale wood, 6-hole, halfling-sized |
-| Arms | Studded leather vambraces | -1 slashing damage to arms |
-| Carried | Spellbook (in travel case) | |
-| Pack | Inscription kit + ink vials | Oak gall (x2), ghost-nettle (x1), walnut hull, elderberry |
-| Pack | Scroll of Sleep | Single use — 5d8 HP, no save |
-| Pack | Scroll of Web | Single use — 20-ft cube, STR save, flammable |
-| Pack | Fishing tackle | |
-| Pack | Dagger (backup) | |
-| Pack | Grey cloak (infiltration) | |
-| Pack | Charcoal self-portrait | Bought from Aelindra university student |
-| Pack | Lira's note | From Salthollow |
+| Slot | Item |
+|------|------|
+| Ring | Dawnwatch signet (enchanted) |
+| Belt | Driftwood flute, focus stone, 5-language lexicon, recipe book (40+ recipes) |
 
 ---
 
----
+## Seren Ashvale — Monk (Open Hand) 9 | AC 20
 
-## Seren Ashvale — Monk
+**Armor:** Stillwater Vestments (resonance-elk vest + bracers). Unarmored Defense: 10 + DEX 4 + WIS 4 + bracers +2 = **20.** Stunning Strike DC +1 (→20 vs aberrations). Shimmershift. Cold resist. Dual-network. Living circuit.
+**Weapon:** Worldfist Bracers (LEGENDARY +3) — Unarmed 1d8+7 + 1d6 force. Stunning Resonance (DC 19, 20 vs aberrations). Quake Strike (10 ft AoE, 1/LR). Deflect 1d10+14.
+**Backup:** Drell's knife (+10, 1d4+4).
 
-**Armor:** None (Unarmored Defense AC 17) + dark steel ward bracers +1 (AC 18, ward-circuit, network awareness, advantage on saves vs spells 1/day, 2 resonance gems)
-**Weapons:** Unarmed (1d8+4 force magical) with **Resonance Fists** (dark steel thread + storm glass beads + 2 resonance gems. +1d6 force. Stunning Strike DC 15. Deflect Attacks 1d10+11. Ward-circuit linked.), Drell's iron belt knife (1d4+3)
-**Clothing:** Weathered travelling clothes, salt-stained cloak
-
-| Slot | Item | Notes |
-|------|------|-------|
-| Ring (L) | Dawnwatch signet ring (S) — ENCHANTED | Ward-network attuned, resonance pulse |
-| Ring (R) | Iron purpose ring — ENCHANTED | Keeper's Sense: advantage on Perception to detect ward anomalies, 1/day |
-| Neck | Quartz amulet — ENCHANTED | Guidance cantrip (1/day, +1d4 ability check) |
-| Hands | Iron knuckle wraps — ENCHANTED | +1d4 force on unarmed, strikes count as magical |
-| Arms | Behir-hide arm wraps | Lightning resistance |
-| Carried | Drell's closed-eye medallion | Memorial — worn under clothing, always |
-| Belt | Drell's iron belt knife | Vigil alloy, rust-proof, monk weapon |
-| Belt | 10 darts | Ranged option |
-| Pack | Herbalism kit | Foraging + medicine |
-| Pack | Navigator's tools | Stormcape navigation |
-| Pack | Drell's turtle carving | 38 years of service |
-| Pocket | Bram's bog oak carving | Stormcape keeper figure |
+| Slot | Item |
+|------|------|
+| Ring | Dawnwatch signet (enchanted) |
+| Belt | Healer's herbs, meditation beads, navigator's tools |
 
 ---
 
-## Torven Ashwick — Druid
+## Torven Ashwick — Druid (Land — Coast) 9 | AC 19 (21 w/shield)
 
-**Armor:** Behir scale-leather, dark steel wire reinforcement + ironwood shield (AC 17, lightning resistance, ward-circuit — advantage on CON saves for concentration 1/day, enhanced concentration circuit, 2 resonance gems, druid-compatible)
-**Weapons:** **Rootsinger** quarterstaff (ironwood + dark steel spiral wire + storm glass core + resonance gem crown. Shillelagh WIS-based +6 to hit, 1d8+3 bludgeoning + 1d6 radiant permanent. +1 spell DC while held (DC 15). Advantage on concentration saves while held. Planting Pulse: directional light to nearest planting site. Ward-circuit linked. Druid-compatible.), Produce Flame (2d8), sling + 20 bullets, dagger
-**Clothing:** Archive scholar's travelling clothes, salt-stained from 4 months on the coast
+**Armor:** Rootwarden's Coat (resonance-elk scale + sea-silk lining). AC 14 + DEX 2 + shield +2 + enchant +1 = **19/21.** Concentration advantage (stacks with Rootsinger → auto-succeed DC 10). Planting Pulse range doubled. Shimmershift. Cold resist. Dual-network. Living circuit.
+**Shield:** Ironwood + elk-hide face + singing granite boss.
+**Weapon:** Rootsinger Reforged (LEGENDARY +3) — 1d8+6 bludgeoning + 1d6 radiant. Concentration Lock (auto-succeed CON saves). Planting Mastery (auto-succeed activation). Nature's Wrath (free Call Lightning 4th, 1/LR).
 
-| Slot | Item | Notes |
-|------|------|-------|
-| Ring (L) | Dawnwatch signet ring (T) — ENCHANTED | Ward-network attuned, resonance pulse |
-| Ring (R) | Iron purpose ring — ENCHANTED | Scholar's Focus: +1 to Arcana checks |
-| Neck | Quartz amulet — ENCHANTED | Druidcraft cantrip (at will) |
-| Carried | Druidic focus (wooden staff carved with ward symbols) — ENCHANTED | +1d4 radiant all hits, doubles as quarterstaff |
-| Belt | Sling + 20 bullets | Druid-compatible ranged backup |
-| Belt | Dagger | Backup |
-| Pack | Herbalism kit | Foraging + medicine |
-| Pack | Calligrapher's supplies | Journal, ink, parchment |
-| Pack | Field journal (ongoing) | Documenting everything for Veyra |
+| Slot | Item |
+|------|------|
+| Ring | Dawnwatch signet (enchanted) |
+| Belt | Druidic focus, seed pouch, coral cutting care kit |
 
 ---
 
-*Last updated: Day 180, 30th Reaptide, 1253 AS — Level 6. Dawnsedge, Voidedge, Hearthforge, Resonance Fists, Rootsinger, Sparkweave, Stormflight, Firstsong equipped. All dark steel refit + ward-circuit mesh. Resonance fabric wardrobes.*
+## Nhilara Vel'quinar — Barbarian 5 / Rogue (Scout) 6 | AC 18 (20 w/shield)
+
+**Armor:** Nightwarden's Coat (LEGENDARY) — Behir-hide base + iridescent deer hide + ren-kah plates + spider-silk/stone-fiber + sea-silk lining. AC 14 + DEX 2 + ren-kah +2 = **18/20.** Shimmershift (stealth adv.). Cold resist. Stone-Sung (cold resist from ren-kah). Aberration warning 300 ft. Dual-network. Living circuit.
+**Weapon:** Duskfang (LEGENDARY +2) — 1d6+8 slashing + 1d4 cold. Resonance Howl (deafen on crit). Aberration Bane (+1d6 vs aberrations).
+**Ranged:** Silent hand crossbow +1 (+8, 1d6+4). 10 ren-kah arrowheads (+1, cold-trace).
+**Backup:** Dark steel dagger.
+
+| Slot | Item |
+|------|------|
+| Ring | Singing Stone Signet (Peaks granite, proximity hum) |
+| Wrist | Resonance Pearl Bracelet (party tracking) |
+| Neck | Aberration Lens (detect aberrations 1 mi, 1/day) |
+| Belt | Crocodile tooth necklace (Bulan's gift) |
+
+---
+
+## Corwin Hale — Ranger (Horizon Walker) 8 | AC 18
+
+**Armor:** Pathfinder's Hide Mk.II (iridescent deer hide + resonance-elk overlay + ren-kah reinforcement + sea-silk lining). AC 12 + DEX 3 + elk +1 + enchant +2 = **18.** Shimmershift. Detect Portal 2 mi. Trailmark 8 hrs. Cold resist. Dual-network. Living circuit.
+**Ranged:** Starcaller (LEGENDARY +3 longbow) — 1d8+7 piercing (150/600). Resonance Arrow (4d8 force AoE, 1/LR). Pathfinder's Sight (Detect Portal 3 mi while wielding). 6 legendary arrows + standard.
+**Melee:** Wayfinder Reforged (LEGENDARY +3 hand-axe) — 1d6+7 slashing + 1d4 force. Returning. Resonant Strike (+2d6 force vs aberrations/extraplanetary).
+
+| Slot | Item |
+|------|------|
+| Ring | Singing Stone Signet (Peaks granite, proximity hum) |
+| Wrist | Wayfinder's Pearl Bracelet (Tidecaller direction/distance) |
+| Neck | Pathfinder's Lens (resonance sight, True Seeing resonance 1/day) |
+| Belt | Navigator's tools, spyglass, resonance compass (storm glass suite), Tala's star-song bone |
+
+---
+
+## Shared / Stored Equipment
+
+| Item | Location | Notes |
+|------|----------|-------|
+| World's Hearthstone | Hall of the Dawnwatch, round table | Permanent. The World at the table. |
+| Silver Leaf | Zaryth's belt | Master key — Jawbone + Seedhome |
+| Coral basin (living) | Family suite, Vel'tarn | Puso ng Dagat cutting. Ocean frequency. |
+| Singing granite cradle | Family suite, Vel'tarn | Bram-carved. Hums lullaby when rocked. |
+| Warden's Circlets (12) | Worn by all members | Anti-charm, kah-sol interference, +1 WIS saves |
+| Sub-sonic horn | Orindel | Firstsong → kah-sol frequency. 1 mi range. |
+| Sub-sonic bone flute | Pip | Backup kah-sol communication. 500 ft. |
+| Ren-kah tool set (6 pieces) | Bram (shared) | Chisel, awl, file, needle, stylus, hammer. |
+| Signal horn (Wind Runner) | Stored at Hall | Antelope spiral. 2 mi range. |
+| Route-bone (Dren's) | Stored at Hall | Wind Runner continental circuit map. |
+| Rememberer's token (Orath) | Zaryth | Continental archive access — any Tall Ones Rememberer. |
+| Thara's pass-token | Zaryth | Tall Ones commune access. |
+| Tala's star-song bone | Corwin | Navigation token — Dagat-Puso ↔ Tidemeet route. |
+
+---
+
+*Last updated: Day 755, 25th Highsun, 1256 AS. Vel'tarn. All legendary weapons + armor equipped.*
