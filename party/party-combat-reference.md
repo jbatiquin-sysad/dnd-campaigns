@@ -1,6 +1,7 @@
-# Dawnwatch Combat Reference — Level 5
+# Dawnwatch Combat Reference — Level 9
 
 > **DM HOOK: ALWAYS consult this file before and during combat.** Use it for initiative, attack rolls, spell DCs, HP tracking, and tactical decision-making for NPC party members. This is the single source of truth for combat stats.
+> **Last updated:** Day 755, 25th Highsun, 1256 AS. All legendary weapons + armor. All Mythic professions. Prof +4.
 
 ---
 
@@ -8,344 +9,264 @@
 
 | Member | AC | HP | Prof | Spell DC | Atk Bonus | Init | Key Action |
 |--------|----|----|------|----------|-----------|------|------------|
-| **Zaryth** | 22 | 44 | +3 | 14 | +6 STR | +2 DEX | Extra Attack (2×longsword), Divine Smite |
-| **Mira** | 18 | 37 | +3 | — | +7 DEX | +4 DEX | Sneak Attack 3d6, Cunning Strike, Uncanny Dodge |
-| **Aldric** | 19/21 | 43 | +3 | 14 | +6 STR | +0 DEX | Hearthforge (+1, +1d6 radiant, Hearthpulse, Consecrated), Spirit Guardians |
-| **Sylvara** | 17 | 24 | +3 | **17** | +8 INT | +2 DEX | Fireball, Counterspell, Sculpt Spells, Voidedge (Spell Echo 1/SR) |
-| **Bram** | 17 | 25 | +3 | 14 | +6 INT | +1 DEX | Fireball, Lightning Bolt, Sculpt Spells |
-| **Thessaly** | 17 | 38 | +3 | — | +7 DEX | +4 DEX | Sneak Attack 3d6, Cunning Strike, Uncanny Dodge |
-| **Orindel** | 19 | 36 | +3 | 12 (C/B) | +4 WIS/+4 CHA | +1 DEX | Healing Word (Bard), Bardic Inspiration, Preserve Life |
-| **Pip** | 16 | 24 | +3 | 13 (W) / 12 (B) | +5 INT/+4 CHA | +2 DEX | Fireball + Sculpt, Bardic Inspiration, Healing Word (Bard) |
-| **Seren** | 18 | 38 | +3 | **15** | +7 DEX | +3 DEX | Extra Attack, Stunning Strike DC 15, Resonance Fists (+1d6 force), Deflect 1d10+11 |
-| **Torven** | 17 | 34 | +3 | **15** | +6 WIS | +1 DEX | Rootsinger (+1d6 radiant, DC 15, conc. adv.), Call Lightning, Wild Shape |
-| **Nhilara** | 19/21 | 75 | +3 | — | +7 STR | +3 DEX | Rage (3/LR), Sneak Attack 2d6, Extra Attack |
+| **Zaryth** | 22 | 82 | +4 | 15 | +11 STR | +2 | Extra Attack, Divine Smite (3rd), Aura +4 saves, Charm immunity 10ft |
+| **Mira** | 20 | 65 | +4 | — | +11 DEX | +5 | Sneak Attack 5d6 + 1d6 force, Shadow Meld, Supreme Sneak |
+| **Aldric** | 21/23 | 74 | +4 | 16 | +9 STR | +0 | Hearthstone Maul (+3, radiant), Raise Dead, Mass Cure Wounds, Healer's Echo |
+| **Sylvara** | 18/24 | 43 | +4 | **18** | +11 INT | +2 | Wall of Force, Cone of Cold, Banishment (OA via War Caster), Voidweave +1d8 |
+| **Bram** | 19 | 44 | +4 | **17** | +9 INT | +1 | Fireball, Eruption (free 4th-level Fireball), Sculpt Spells |
+| **Thessaly** | 20 | 65 | +4 | — | +11 DEX | +5 | Sneak Attack 5d6, Nerve Cascade (paralyze on crit), Tempest Dash |
+| **Orindel** | 20/22 | 60 | +4 | 13 (C/B) | +8 bow | +1 | Haste, Counterspell, BI d10 (SR), Healing Word, Stormflight +2 |
+| **Pip** | 18/24 | 43 | +4 | 14 (W) / 13 (B) | +8 INT | +2 | Fireball + Sculpt, Revivify, Spirit Guardians, BI d8 (SR), Shield +6 |
+| **Seren** | 20 | 68 | +4 | — | +10 DEX | +4 | Extra Attack, **Stunning Strike DC 20**, Quake Strike, Deflect 1d10+14, Water-run |
+| **Torven** | 19/21 | 62 | +4 | **18** | +9 WIS | +1 | Concentration Lock (auto), Call Lightning 4th (free 1/LR), Wall of Force access |
+| **Nhilara** | 18/20 | 98 | +4 | — | +10 STR | +4 | Rage, Extra Attack, SA 3d6, Uncanny Dodge, Duskfang (+2, cold, aberration bane) |
+| **Corwin** | 18 | 66 | +4 | 16 | +10 DEX | +3 | Extra Attack, Starcaller (+3, 150/600), Ethereal Step, Detect Portal 3mi |
 
 ---
 
 ## Detailed Combat Profiles
 
-### Zaryth Vel'quinar — Paladin (Devotion) 5
-**AC 22** (Warden's Plate + Warden's Shield + Defense style) | **HP 44** | **Speed 30 ft**
-**STR** 15 (+2) | **DEX** 14 (+2) | **CON** 13 (+1) | **INT** 10 (+0) | **WIS** 12 (+1) | **CHA** 16 (+3)
-**Saves:** WIS +4, CHA +6 | **Spell Save DC:** 14 | **Spell Attack:** +6
+### Zaryth Vel'quinar — Paladin (Devotion) 9
+**AC 22** (Worldkeeper's Plate 19 + Shield +2 + Defense +1) | **HP 82** | **Speed 30 ft**
+**STR** 15 (+2) | **DEX** 14 (+2) | **CON** 13 (+1) | **INT** 10 (+0) | **WIS** 12 (+1) | **CHA** 18 (+4)
+**Saves:** WIS +5, CHA +8 | **Spell Save DC:** 15 | **Spell Attack:** +8
 
 **Attacks (Extra Attack — 2 per turn):**
-- Dawnwatch Longsword: +5 to hit, 1d8+2 slashing + 1d4 lightning
+- Dawnsedge (+3): +11 to hit, 1d8+8 slashing + 1d6 lightning + 1d6 radiant + 1d4 force (vs extraplanetary)
 
-**Smite:** Expend spell slot on hit → +2d8 radiant (1st), +3d8 (2nd). +1d8 vs undead/fiend.
-
-**Spell Slots:** 4×1st, 2×2nd
-**Prepared Spells (6 + Oath):**
-- *Always:* Protection from Evil and Good, Shield of Faith, Aid, Zone of Truth
-- *Prepare 6 from:* Bless, Command, Cure Wounds, Heroism, Searing Smite, Thunderous Smite, Divine Smite, Branding Smite, Magic Weapon, Find Steed
-
-**Channel Divinity (2/short rest):**
-- Sacred Weapon (bonus action): +3 to attack rolls with one weapon for 10 min, weapon emits bright light 20 ft
-- Divine Sense (bonus action): detect celestials/fiends/undead within 60 ft for 10 min
-
-**Special:**
-- Lay on Hands: 25 HP pool (or 5 HP to cure poison/disease)
-- Faithful Steed: *Find Steed* 1/long rest free
-- Warden's Ward: reduce damage by 1d8+2, 3/short rest
-- Resonance Pulse: redirect 10 damage from ally to self, 1/long rest
-- Drow: Dancing Lights cantrip, Faerie Fire 1/day, Darkvision 120 ft, Sunlight Sensitivity
-
----
-
-### Mira Thistlewick — Rogue (Thief) 5
-**AC 18** (Behir scale-leather +2) | **HP 37** | **Speed 25 ft (halfling)**
-**DEX** 18 (+4) | **Saves:** DEX +7, INT +4 | Lightning resist
-
-**Attacks:**
-- Shadow Fang (shortsword): +7 to hit, 1d6+4 piercing
-- Whisper Bolt (hand crossbow): +7 to hit, 1d6+4 piercing (60/240)
-- Behir-fang dagger: +7 to hit, 1d4+4 piercing
-
-**Sneak Attack: 3d6** (once/turn, need advantage or ally within 5 ft of target)
-
-**Cunning Strike (forgo SA dice for effects):**
-- Poison (1d6 cost): target CON save DC 14 or Poisoned
-- Trip (1d6 cost): target DEX save DC 14 or Prone (Large or smaller)
-- Withdraw (1d6 cost): move half speed, no opportunity attacks
-
-**Key Features:**
-- Uncanny Dodge (reaction): halve one attack's damage
-- Cunning Action (bonus action): Dash, Disengage, or Hide
-- Steady Aim (bonus action): advantage on next attack, speed = 0
-- Fast Hands (Thief): Use Object as bonus action
-- Second-Story Work (Thief): climbing costs no extra movement, jump distance +4 ft
-- Behir armor: absorb 1d4 damage from ward-circuit, 2/short rest
-- Halfling Lucky: reroll nat 1 on attacks/saves/checks
-- Brave: advantage vs Frightened
-
----
-
-### Thessaly Ironveil — Rogue (Thief) 5
-**AC 17** (Behir scale-leather +1) | **HP 38** | **Speed 25 ft (dwarf)**
-**DEX** 18 (+4) | **Saves:** DEX +7, INT +4 | Lightning resist
-
-**Attacks:**
-- Veil Pierce rapier: +7 to hit, 1d8+4 piercing (Silent Storm: +1d6 lightning 1/turn; Nerve Strike: CON DC 13 or speed halved)
-- Storm Bolt crossbow: +7 to hit, 1d8+4 piercing (80/320)
-- 20 dark steel bolts: +1 magical
-
-**Sneak Attack: 3d6** | **Cunning Strike:** Poison/Trip/Withdraw (same as Mira)
-**Uncanny Dodge / Cunning Action / Steady Aim / Fast Hands / Second-Story Work** (same as Mira)
-- Dwarf: Darkvision 60 ft, Poison resistance, advantage vs poison saves
-
----
-
-### Brother Aldric Stonebrow — Cleric (Life) 5
-**AC 19** (Chain mail +1 + dark steel shield) | **21 with Warding Edge reaction** | **HP 43** | **Speed 25 ft (dwarf)**
-**WIS** 16 (+3) | **Saves:** WIS +6, CHA +4 | **Spell Save DC:** 14 | **Spell Attack:** +6
-
-**Attacks:**
-- Hearthforge warhammer +1: +6 to hit, 1d8+3 bludgeoning + 1d6 radiant. Self-heal 1d4+4 1/day. Consecrated Strike: undead hit have disadvantage on next attack.
-- Hearthpulse: when casting healing spell, allies within 10 ft gain 1d4 temp HP (1/long rest).
-
+**Smite:** +2d8 radiant (1st), +3d8 (2nd), +4d8 (3rd). +1d8 vs undead/fiend.
 **Spell Slots:** 4×1st, 3×2nd, 2×3rd
-**Prepared Spells (9 + Domain):**
-- *Always (Life Domain):* Bless, Cure Wounds, Lesser Restoration, Spiritual Weapon, Beacon of Hope, Revivify
-- *Prepare 9 from:* Healing Word, Shield of Faith, Guiding Bolt, Spirit Guardians, Mass Healing Word, Dispel Magic, etc.
+**Key Spells:** Revivify, Crusader's Mantle, Dispel Magic, Bless, Shield of Faith, Aid
 
-**Life Domain Bonus:** Healing spells restore extra 2 + spell level HP (e.g., Cure Wounds 1st = 1d8+3+3)
-
-**Channel Divinity (2/short rest):**
-- Turn Undead + Sear Undead: WIS save or turned; failures take 1d8 radiant (WIS mod = +3, minimum 1d8)
-- Preserve Life: distribute up to 5×level = 25 HP among creatures within 30 ft (max half their HP each)
-
-**Special:**
-- Warding Edge: reaction, +2 AC until start of next turn
-- Sea Ward (armor enchantment)
-- Dwarf: Darkvision 60 ft, Poison resistance
+**Aura of Protection (10 ft):** All allies +4 to ALL saving throws.
+**Aura of Devotion (10 ft):** All allies immune to charm.
+**Worldpulse (1/LR):** Planetary resonance pulse. All allies in any ward-dome: +2 AC + advantage on saves for 1 round.
+**Warden's Ward:** Reduce damage by 1d10+3, 3/SR.
+**Lay on Hands:** 45 HP pool.
 
 ---
 
-### Sylvara Dawnwhisper — Wizard (Evocation) 5
-**AC 17** (Dark steel scale mail +1, behir overlay, resonance lens integrated) | **HP 24** | **Speed 30 ft (elf)**
-**INT** 20 (+5) | **Saves:** INT +8, WIS +4 | **Spell Save DC:** **17** (armor lens + Voidedge) | **Spell Attack:** +8 | Lightning resist
+### Mira Thistlewick — Rogue (Thief) 9
+**AC 20** (Shadowveil Leather) | **HP 65** | **Speed 25 ft**
+**DEX** 20 (+5) | **Saves:** DEX +9, INT +4
 
 **Attacks:**
-- Voidedge dagger: +8 to hit, 1d4+5 piercing + 1d6 force. **Spell Echo:** store cantrip → bonus damage on next melee hit, 1/short rest.
-
-**Spell Slots:** 4×1st, 3×2nd, 2×3rd
-**Prepared Spells (9):** Chosen from spellbook. Key combat spells:
-- **3rd:** Fireball (8d6 fire, DEX save), Counterspell, Lightning Bolt, Dispel Magic, Fly
-- **2nd:** Misty Step, Shatter, Scorching Ray, Hold Person
-- **1st:** Shield, Magic Missile, Mage Armor, Detect Magic
-
-**Sculpt Spells (Evocation):** When casting evocation spell, choose up to 6 creatures — they auto-succeed on save and take 0 damage. *This is what makes Fireball safe for the party.*
-
-**Memorize Spell:** Swap one prepared spell on a Short Rest.
-
-**Special:**
-- INT 20 — highest in the party. Best Arcana, Investigation.
-- Elf: Darkvision 60 ft, Fey Ancestry, Trance (4-hr long rest)
-
-**⚠ FRAGILE: 24 HP. Protect her. One good hit can drop her.**
+- Nightwhisper (+3): +11 to hit, 1d6+8 piercing
+**Sneak Attack: 5d6 + 1d6 force** (Sneak Amplifier)
+**Silent Kill:** Attacks from stealth make no sound.
+**Shadow Meld (1/LR):** Invisible for 1 round after a kill.
+**Supreme Sneak:** Advantage on Stealth if moving half speed or less.
+**Evasion / Uncanny Dodge / Cunning Action**
+- Halfling Lucky, Brave
 
 ---
 
-### Bram Thistlewick — Wizard (Evocation) 5
-**AC 17** (Behir scale mail +1 + dark steel vambraces) | **HP 25** | **Speed 25 ft (halfling)**
-**INT** 16 (+3) | **Saves:** INT +6, WIS +3 | **Spell Save DC:** 14 | **Spell Attack:** +6 | Lightning resist
+### Brother Aldric Stonebrow — Cleric (Life) 9
+**AC 21** (Hearthkeeper's Mail 16 + Shield +2 + enchant +1 + Warding Edge +2 reaction) | **HP 74** | **Speed 25 ft**
+**WIS** 18 (+4) | **Saves:** WIS +8, CHA +4 | **Spell Save DC:** 16 | **Spell Attack:** +8
 
 **Attacks:**
-- Yew Quarterstaff: +5 to hit, 1d6+2 bludgeoning (+1 spell attacks from staff)
+- Hearthstone Maul (+3): +9 to hit, 1d8+6 bludgeoning + 1d6 radiant
+- **Healer's Echo:** After casting healing spell, next melee hit within 1 round: +2d6 radiant.
+- **Consecrated Ground (1/LR):** Strike ground — 15 ft radius consecrated 1 min.
 
-**Spell Slots:** 4×1st, 3×2nd, 2×3rd
-**Prepared Spells (9):** Same structure as Sylvara. Key:
-- **3rd:** Fireball, Lightning Bolt
-- **2nd:** Shatter, Misty Step
-- **1st:** Shield, Magic Missile, Thunderwave
-
-**Sculpt Spells / Memorize Spell:** Same as Sylvara.
-- Halfling Lucky, Brave, Stout Resilience (poison resistance)
-
-**⚠ FRAGILE: 25 HP.**
+**Spell Slots:** 4×1st, 3×2nd, 3×3rd, 3×4th, 1×5th
+**Key Spells:** Raise Dead, Mass Cure Wounds (5 creatures, 3d8+4), Greater Restoration, Death Ward, Guardian of Faith, Spirit Guardians, Healing Word
+**Life Domain Bonus:** Healing spells +2 + spell level HP. Blessed Healer (self-heal 2 + spell level).
+**Preserve Life (45 HP):** Distribute among creatures within 30 ft.
+**Destroy Undead:** CR 2 auto-destroy on failed Turn.
 
 ---
 
-### Pip Tanglethorn — Wizard (Evocation) 3 / Bard 2
-**AC 16** (Behir scale-leather +1, Resonance Shell) | **HP 24** | **Speed 25 ft (halfling)**
-**INT** 15 (+2) | **CHA** 13 (+1) | **Saves:** INT +5, WIS +4
-**Wizard Spell DC:** 13 | **Wizard Attack:** +5 | **Bard Spell DC:** 12 | **Bard Attack:** +4 | Lightning resist
+### Sylvara Vel'quinar — Wizard (Evocation) 9
+**AC 18** (Voidweaver's Armor) / **24 with Shield (+6)** | **HP 43** | **Speed 30 ft**
+**INT** 20 (+5) | **Saves:** INT +9, WIS +5 | **Spell Save DC:** **18** | **Spell Attack:** +9
 
 **Attacks:**
-- Sparkweave quarterstaff: +5 to hit (INT via focus), 1d6+2 bludgeoning + 1d4 fire (1d8+2 versatile)
-- +1 CON saves while held. Shield Charge: absorb 1d6 as reaction, 1/long rest.
+- Voidedge Reforged (+3): +11 to hit, 1d4+8 piercing + 1d6 force
+- **Spell Echo (upgraded):** Store up to 2nd-level spell, release on melee hit. 1/SR.
+- **Void Rift (1/LR):** On hit, target WIS DC 18 or banished 1 round.
 
-**Multiclass Spell Slots:** 4×1st, 3×2nd, 2×3rd (any slot for either class's spells)
-**Can cast Fireball** (in Wizard spellbook) using 3rd-level multiclass slots.
-
-**Wizard Spells Prepared (5, from spellbook):**
-- *Cantrips:* Fire Bolt, Light, Prestidigitation
-- *Key spells:* Fireball, Shield, Magic Missile, Misty Step, Scorching Ray
-
-**Bard Spells Prepared (5):**
-- *Cantrips:* Vicious Mockery, Mending
-- *Level 1–2:* Healing Word, Charm Person, Thunderwave, Sleep, Shatter
-
-**Sculpt Spells (Evocation):** When casting evocation, choose up to 1+spell level creatures — auto-succeed save, take 0 damage. **Fireball is safe for the party.**
-
-**Arcane Recovery:** 1/day after short rest, recover up to 2 levels of spell slots.
-**Resonance Shell:** Absorb 10 damage (any type), 1/short rest.
-
-**Bardic Inspiration:** d6, 1 use/long rest. Bonus action, 60 ft. Ally adds die to failed d20 test.
-**Jack of All Trades:** +1 to all non-proficient checks.
-**Expertise:** Performance, Deception.
-
-**Spellcasting Focus:** Driftwood flute (Bard), Focus stone (Wizard)
-
-**Special:**
-- Halfling Lucky: reroll nat 1. Brave: advantage vs Frightened. Naturally Stealthy.
-- **Has Healing Word (Bard)** — Pip can pick up downed allies now.
-
-**Pip's combat role: Blaster/Support. Fireball (Sculpt Spells) for safe AoE. Healing Word for emergency pickups. Vicious Mockery for disadvantage. Shield for survival. At Bard 3: Cutting Words reaction.**
-
-**⚠ FRAGILE: 24 HP. Resonance Shell + Shield spell are his lifelines.**
+**Spell Slots:** 4×1st, 3×2nd, 3×3rd, 3×4th, 1×5th
+**Key Spells:** Wall of Force, Cone of Cold (8d8), Animate Objects, Banishment, Polymorph, Greater Invisibility, Wall of Fire, Fireball, Counterspell, Shield
+**Sculpt Spells:** Choose up to 6 creatures — auto-succeed save, take 0 damage from evocations.
+**Voidweave (1/LR):** Evocation spell +1d8 force damage.
+**War Caster:** Advantage on concentration. Cast spell as opportunity attack (Banishment as OA = DC 18).
+**Tidal Pearl Focus:** Cast without free hand.
+**⚠ FRAGILE: 43 HP. Shield to AC 24 is her lifeline. Death Ward pre-cast recommended.**
 
 ---
 
-### Orindel Ashwick — Cleric (Life) 3 / Bard 2
-**AC 19** (Behir scale mail +1 + ship's oak shield) | **HP 36** | **Speed 35 ft (elf)**
-**WIS** 12 (+1) | **CHA** 13 (+1) | **Saves:** WIS +4, CHA +4
-**Cleric Spell DC:** 12 | **Cleric Attack:** +4 | **Bard Spell DC:** 12 | **Bard Attack:** +4
+### Bram Thistlewick — Wizard (Evocation) 9
+**AC 19** (Forgemaster's Scale) | **HP 44** | **Speed 25 ft**
+**INT** 18 (+4) | **Saves:** INT +8, WIS +4 | **Spell Save DC:** **17** (16 + Forge Focus +1) | **Spell Attack:** +8
 
 **Attacks:**
-- Shepherd's Strike mace: +3 to hit, 1d6 bludgeoning (push 10 ft 1/day)
-- Stormflight shortbow +2: **+8 to hit**, 1d6+6 piercing (80/320, ignore ¾ cover, Arrow Guidance reroll 1/short rest, +2 DEX while drawn)
+- Stormheart (+3): +9 to hit, 1d6+6 bludgeoning + 1d4 lightning
+- **Eruption (1/LR):** Cast Fireball at 4th level (9d6) without expending a slot.
 
-**Multiclass Spell Slots:** 4×1st, 3×2nd, 2×3rd (any slot for either class's spells)
-
-**Cleric Spells Prepared (4 + Domain):**
-- *Always (Life Domain):* Bless, Cure Wounds, Lesser Restoration, Spiritual Weapon
-- *Prepare 4 from:* Healing Word (Cleric), Shield of Faith, Guiding Bolt, Spirit Guardians
-
-**Bard Spells Prepared (5):**
-- *Cantrips:* Vicious Mockery (d4 psychic + disadvantage on next attack, WIS save), Minor Illusion
-- *Level 1–2:* Healing Word (Bard), Dissonant Whispers, Faerie Fire, Heroism, Silence
-
-**Life Domain Bonus:** Healing spells restore extra 2 + spell level HP
-
-**Channel Divinity (2/short rest):**
-- Turn Undead: WIS save or turned 1 min
-- Preserve Life: distribute 15 HP among creatures within 30 ft
-
-**Bardic Inspiration:** d6, 1 use/long rest. Bonus action, 60 ft. Ally adds die to failed d20 test.
-**Jack of All Trades:** +1 to all non-proficient checks.
-**Expertise:** Performance, Insight.
-
-**Spellcasting Focus:** Driftwood lute (Bard), Holy symbol (Cleric)
-
-**Special:**
-- Ward-attuned gem setting (Expert Jeweler)
-- Elf: Darkvision 60 ft, Fey Ancestry, Trance, Fleet of Foot, Mask of the Wild
-- **Has TWO Healing Words** (Cleric + Bard) — can prepare both, cast with any slot
-
-**Orindel's combat role: Healer/Support/Debuffer. Healing Word to pick up downed allies (bonus action, 60 ft). Bless or Faerie Fire for party buffs. Vicious Mockery for disadvantage on enemy attacks. Spiritual Weapon for bonus action damage. At Bard 3: Cutting Words reaction to debuff enemies.**
-
-**⚠ Spell DCs dropped to 12 (from 14). Compensate with save-independent spells (Healing Word, Bless, Spiritual Weapon) and Bard utility.**
+**Spell Slots:** 4×1st, 3×2nd, 3×3rd, 3×4th, 1×5th
+**Key Spells:** Same access as Sylvara. Fireball, Lightning Bolt, Wall of Force, Cone of Cold.
+**Sculpt Spells / Memorize Spell**
+- Halfling Lucky, Brave, Stout Resilience
+**⚠ FRAGILE: 44 HP.**
 
 ---
 
-### Seren Ashvale — Monk (Open Hand) 5
-**AC 18** (Unarmored Defense + dark steel ward bracers +1, network awareness, 2 gems) | **HP 38** | **Speed 40 ft**
-**DEX** 18 (+4) | **WIS** 16 (+3) | **Saves:** STR +3, DEX +7 | **Focus Point DC:** **15** (Resonance Fists +1)
+### Thessaly Ironveil — Rogue (Thief) 9
+**AC 20** (Stormweave Leather) | **HP 65** | **Speed 25 ft**
+**DEX** 20 (+5) | **Saves:** DEX +9, INT +4
+
+**Attacks:**
+- Stormveil (+3): +11 to hit, 1d8+8 piercing + 1d6 lightning + 1d4 cold
+**Sneak Attack: 5d6**
+**Nerve Cascade:** On crit, target paralyzed 1 round (CON DC 16).
+**Tempest Dash (1/LR):** After hitting, teleport 30 ft.
+**Supreme Sneak / Evasion / Uncanny Dodge / Cunning Action**
+
+---
+
+### Orindel Ashwick — Cleric (Life) 3 / Bard (Lore) 6
+**AC 20** (Songkeeper's Scale + Shield) / **22 with shield** | **HP 60** | **Speed 35 ft**
+**WIS** 12 (+1) | **CHA** 15 (+2) | **Saves:** WIS +5, CHA +6
+**Cleric DC:** 13 | **Bard DC:** 14
+
+**Attacks:**
+- Stormflight shortbow +2: **+8 to hit**, 1d6+6 piercing (80/320, ignore ¾ cover)
+
+**Multiclass Spell Slots:** 4×1st, 3×2nd, 3×3rd
+**Key Spells:** Haste (Magical Secrets), Counterspell (Magical Secrets), Healing Word, Spirit Guardians, Bless, Faerie Fire, Silence
+**Bardic Inspiration: d10** (CHA mod = 2 uses, recharge on SR). Font of Inspiration.
+**Cutting Words (reaction):** Subtract d10 from enemy attack/check/damage.
+**Countercharm:** Allies advantage vs charm/frighten while Orindel performs.
+**Life Domain:** Healing spells +2 + spell level. Preserve Life 15 HP.
+
+---
+
+### Pip Tanglethorn — Wizard (Evocation) 3 / Bard (Lore) 6
+**AC 18** (Sparkweaver's Vest) / **24 with Shield (+6)** | **HP 43** | **Speed 25 ft**
+**INT** 15 (+2) | **CHA** 15 (+2) | **Saves:** INT +6, WIS +5
+**Wizard DC:** 14 | **Bard DC:** 14
+
+**Attacks:**
+- Starweave (+3): +8 to hit, 1d6+5 bludgeoning + 1d4 fire
+
+**Multiclass Spell Slots:** 4×1st, 3×2nd, 3×3rd
+**Key Spells:** Fireball (Sculpt), Revivify (Magical Secrets), Spirit Guardians (Magical Secrets), Healing Word, Shield, Counterspell
+**Dual Focus:** Starweave functions as both Wizard and Bard focus.
+**Inspiration Surge:** BI recipient gains +5 temp HP.
+**Sparkburst (1/LR):** Free Shatter at 3rd level.
+**Bardic Inspiration: d8** (2 uses, SR). Cutting Words. Countercharm.
+**Resonance Shell:** Absorb 20 damage, 1/SR.
+**Sculpt Spells:** Fireball safe for party.
+**⚠ FRAGILE: 43 HP. Resonance Shell + Shield (+6) are lifelines.**
+
+---
+
+### Seren Ashvale — Monk (Open Hand) 9
+**AC 20** (Unarmored 10 + DEX 4 + WIS 4 + Stillwater Vestments +2) | **HP 68** | **Speed 45 ft**
+**DEX** 18 (+4) | **WIS** 18 (+4) | **Saves:** STR +4, DEX +8
 
 **Attacks (Extra Attack — 2 per turn):**
-- Resonance Fists: +7 to hit, **1d8+4 + 1d6 force** (magical)
-- Drell's knife: +7 to hit, 1d4+4 piercing
+- Worldfist Bracers (+3): +10 to hit, **1d8+7 + 1d6 force** (magical)
 
-**Bonus Action options:**
-- Flurry of Blows (1 FP): 2 additional Unarmed Strikes
-- Patient Defense (1 FP): Dodge action as bonus action
-- Step of the Wind (1 FP): Dash or Disengage as bonus action, jump distance doubled
+**Stunning Strike:** On hit, spend 1 FP → target CON save **DC 19** (DC **20** vs aberrations) or **Stunned.**
+**Quake Strike (1/LR):** On hit, all within 10 ft STR DC 20 or prone + 2d8 force.
+**Focus Points: 9/SR.** Flurry of Blows, Patient Defense, Step of the Wind.
+**Open Hand Technique:** Each Flurry hit: DEX or prone / STR or pushed 15 ft / no reactions.
+**Deflect Attacks:** Reduce by **1d10+14.** Redirect for 1 FP.
+**Evasion / Stillness of Mind / Unarmored Movement (water + walls)**
 
-**Focus Points: 5/short rest**
-
-**Stunning Strike:** On hit, spend 1 FP → target CON save **DC 15** or **Stunned**. On success, speed halved and next attack has advantage.
-
-**Open Hand Technique (free on Flurry):** Each Flurry hit can force one:
-- DEX save or knocked Prone
-- STR save or pushed 15 ft
-- Can't take reactions until start of your next turn
-
-**Deflect Attacks (reaction):** Reduce damage by **1d10+11**. If reduced to 0, spend 1 FP to redirect attack.
-
-**Special:**
-- Dark steel ward bracers: spell save advantage 1/day, ward-network awareness
-- Martial Arts die: **1d8**
-- Slow Fall (reaction): reduce fall damage by 25
-
-**Seren's combat role: Striker/Controller. Stun DC 15 is the party's best lockdown. Flurry for control. Deflect 1d10+11 for survival.**
+**Seren is the party's best lockdown. Stun DC 20. Flurry = 3 attempts/round = ~91% chance of at least one stun.**
 
 ---
 
-### Torven Ashwick — Druid (Land — Coast) 5
-**AC 17** (Behir scale-leather, dark steel wire + ironwood shield, enhanced concentration, 2 gems) | **HP 34** | **Speed 30 ft (half-elf)**
-**WIS** 16 (+3) | **Saves:** INT +3, WIS +6 | **Spell Save DC:** **15** (Rootsinger +1) | **Spell Attack:** +6 | Lightning resist
+### Torven Ashwick — Druid (Land — Coast) 9
+**AC 19** (Rootwarden's Coat + Shield) / **21 with shield** | **HP 62** | **Speed 30 ft**
+**WIS** 18 (+4) | **Saves:** INT +4, WIS +8 | **Spell Save DC:** **18** (16 + Rootsinger +1 + Prof 4) | **Spell Attack:** +8
 
 **Attacks:**
-- Rootsinger staff (Shillelagh): +6 to hit (WIS), 1d8+3 bludgeoning + **1d6 radiant** (magical). Planting Pulse (directional light to nearest site).
-- Produce Flame: +6 to hit, 2d8 fire (ranged 60 ft)
+- Rootsinger Reforged (+3, Shillelagh): +9 to hit, 1d8+6 bludgeoning + 1d6 radiant
 
-**Spell Slots:** 4×1st, 3×2nd, 2×3rd
-**Prepared Spells (9 + Land):**
-- *Always (Coast):* Mirror Image, Misty Step, Water Breathing, Water Walk
-- *Prepare 9 from:* Healing Word, Entangle, Faerie Fire, Moonbeam, Call Lightning, Plant Growth, Dispel Magic, etc.
-
-**Wild Shape (2/short rest):** CR 1 max (Level 5). Swim speed available. 1 hour duration.
-**Wild Resurgence:** Expend spell slot → regain Wild Shape. OR expend Wild Shape → gain 1st-level slot (1/LR).
-
-**Special:**
-- Rootsinger: **advantage on concentration saves** (permanent while held). Frees ironwood shield for other use.
-- Natural Recovery (Land): regain spell slots on short rest (total ≤ 3 levels)
-- Half-elf: Darkvision 60 ft, Fey Ancestry
-
-**Torven's combat role: Battlefield control + off-healer. Call Lightning (sustained, DC 15 now). Entangle/Plant Growth for area denial. Concentration advantage = Call Lightning stays up.**
+**Spell Slots:** 4×1st, 3×2nd, 3×3rd, 3×4th, 1×5th
+**Key Spells:** Conjure Elemental, Greater Restoration, Scrying, Freedom of Movement, Control Water, Call Lightning, Plant Growth, Dispel Magic, Healing Word, Entangle
+**Concentration Lock:** Cannot lose concentration from damage while holding Rootsinger (auto-succeed).
+**Nature's Wrath (1/LR):** Free Call Lightning at 4th level.
+**Natural Recovery:** Regain spell slots on SR (total ≤ 5 levels).
+**Wild Shape:** CR 1 max. 2/SR.
 
 ---
 
-### Nhilara Vel'quinar — Barbarian 5 / Rogue (Scout) 3 (Level 8)
-**AC 19** (Behir-hide breastplate + dark steel shield) | **21 with shield reaction** | **HP 75** | **Speed 40 ft** (Fast Movement)
-**STR** 18 (+4) | **DEX** 16 (+3) | **Saves:** STR +7, CON +6
+### Nhilara Vel'quinar — Barbarian 5 / Rogue (Scout) 6 (Level 11)
+**AC 18** (Nightwarden's Coat) / **20 with shield** | **HP 98** | **Speed 40 ft**
+**STR** 18 (+4) | **DEX** 18 (+4) | **Saves:** STR +8, CON +6
 
 **Attacks (Extra Attack — 2 per turn):**
-- Dark steel scimitar +1: +8 to hit, 1d6+5 slashing + 1d4 force (magical)
-- Silent hand crossbow +1: +7 to hit, 1d6+4 piercing
+- Duskfang (+2): +10 to hit, 1d6+6 slashing + 1d4 cold. Aberration Bane +1d6. Resonance Howl (deafen on crit).
+- Silent crossbow +1: +9 to hit, 1d6+5 piercing (60/240)
 
-**Rage (3/long rest):** Bonus action. Advantage on STR checks/saves. +2 melee damage. Resistance to bludgeoning/piercing/slashing. 10 rounds.
+**Rage (3/LR):** Advantage STR, +2 melee damage, resistance bludgeoning/piercing/slashing.
 **Reckless Attack:** Advantage on STR attacks, enemies have advantage on you.
-**Sneak Attack: 2d6** (once/turn)
+**Sneak Attack: 3d6** (once/turn)
+**Uncanny Dodge (reaction):** Halve one attack's damage.
 **Cunning Action:** Dash, Disengage, Hide as bonus action.
-**Danger Sense:** Advantage on DEX saves vs effects you can see.
+**Expertise (4 skills):** Stealth, Perception, Athletics, Survival.
+**Danger Sense:** Advantage on DEX saves vs visible effects.
+**Nightwarden's Coat:** Shimmershift (stealth adv.), cold resist, aberration warning 300 ft.
+**Aberration Lens (1/day):** Detect aberrations within 1 mi, 10 min.
 
-**Nhilara's combat role: Frontline bruiser. Rage + Reckless + Sneak Attack = massive damage. 75 HP with resistance = effectively 150 HP while raging. Deploys on specialist missions only.**
+**Nhilara's damage (Rage + Duskfang + SA):** 1d6+8+1d4 cold+3d6 = avg 26/hit. Two attacks = avg 52/round. With Reckless: advantage on both.**
 
 ---
 
-## Party Tactics — 5-Member Expedition
+### Corwin Hale — Ranger (Horizon Walker) 8
+**AC 18** (Pathfinder's Hide Mk.II) | **HP 66** | **Speed 30 ft**
+**DEX** 16 (+3) | **WIS** 18 (+4) | **Saves:** STR +5, DEX +7 | **Spell DC:** 16
 
-**Standard formation:** Zaryth (front), Seren (front/flank), Mira (shadows/flank), [Cleric] (mid), [Wizard/Druid] (back)
+**Attacks (Extra Attack — 2 per turn):**
+- Starcaller (+3 longbow): +10 to hit, 1d8+7 piercing (150/600)
+- Wayfinder Reforged (+3 hand-axe): +10 to hit, 1d6+7 slashing + 1d4 force. Returning. +2d6 vs aberrations.
+
+**Resonance Arrow (1/LR):** 20 ft radius, 4d8 force, DEX DC 16 half.
+**Ethereal Step (1/SR):** Bonus action — step into Ethereal Plane until end of turn. Phase through walls/creatures.
+**Detect Portal:** 3 mi (with Starcaller). Sense planar portals, resonance anomalies, ward boundaries.
+**Planar Warrior:** Bonus action — next hit +1d8 force.
+**Trailmark:** On hit, mark target — detectable 24 hrs, unlimited range, through walls.
+**Land's Stride:** Difficult terrain doesn't slow. Advantage vs magical plants.
+**Spells (4×1st, 3×2nd):** Hunter's Mark, Cure Wounds, Misty Step, Pass Without Trace, Protection from Evil/Good, Zephyr Strike.
+
+---
+
+## Party Tactics — 5-Member Expedition (Level 9)
+
+**Standard formation:** Zaryth (front), Seren (front/flank), Mira (shadows/flank), [Cleric/Druid] (mid), [Wizard] (back)
 
 **Opening round priorities:**
-1. Wizard casts Fireball/Lightning Bolt (Sculpt Spells protects allies)
-2. Seren Stuns the biggest threat
-3. Zaryth engages primary target (Extra Attack + Smite if needed)
-4. Mira positions for Sneak Attack on stunned/engaged target
-5. Cleric casts Spirit Guardians or buffs (Bless)
+1. Sylvara: Banishment or Wall of Force (control) — DC 18
+2. Seren: Stun the biggest threat — DC 20 (91% per round with Flurry)
+3. Zaryth: Engage primary target (Extra Attack + Smite 3rd level = 4d8 radiant)
+4. Mira: Sneak Attack from stealth (5d6 + 1d6 force + 1d6+8 = avg 32)
+5. Aldric: Spirit Guardians or Mass Cure Wounds
 
 **Emergency protocols:**
-- Member drops to 0 HP → Healing Word (bonus action, 60 ft range) — **Aldric, Orindel, Pip, or Torven** can all cast it. 4 potential emergency pickups per round.
-- Spell threat → Sylvara Counterspell (reaction)
-- Overwhelming damage → Aldric Preserve Life (25 HP distributed) or Orindel Preserve Life (15 HP)
-- Enemy hitting hard → Orindel/Pip Vicious Mockery (disadvantage on next attack) or Cutting Words at Bard 3
+- Member drops to 0 HP → Healing Word (bonus action, 60 ft) — **Aldric, Orindel, Pip, Torven** (4 casters)
+- Pip has **Revivify** — raise dead within 1 min (300 gp diamond)
+- Aldric has **Raise Dead** — raise dead within 10 days (500 gp diamond)
+- Spell threat → Sylvara Counterspell OR Orindel Counterspell (2 counterspellers)
+- Overwhelming damage → Aldric Mass Cure Wounds (5 creatures, 3d8+4 each) or Preserve Life (45 HP)
+- Charm/mental attack → Zaryth Aura of Devotion (immunity 10 ft) + Warden's Circlets (advantage)
+- Enemy flees → Sylvara Banishment as opportunity attack (War Caster, DC 18)
 
-**Party weakness:** Wizards at 24-25 HP. Area damage or focus fire can drop them in one hit. Always position them behind melee line. Shield spell (+5 AC reaction) is their lifeline.
+**Party strengths:**
+- Action economy (5 turns/round, 12 in full party)
+- Healing depth (4 Healing Word casters + Revivify + Raise Dead)
+- Burst damage (3 Fireball casters with Sculpt + 2 Rogues with SA 5d6 + Paladin Smite)
+- Control (Stun DC 20 + Banishment DC 18 + Wall of Force + Haste)
+- Debuff (Cutting Words d10 × 2, Vicious Mockery, Countercharm)
+- Survivability (avg AC 20, Evasion ×3, Uncanny Dodge ×3, Shield +6 ×2)
 
-**Party strength:** Action economy (5 turns), healing depth (4 Healing Word casters — Aldric, Orindel, Pip, Torven), burst damage (Sylvara/Bram/Pip Fireballs with Sculpt Spells), control (Stunning Strike + Entangle + Trip), debuff (Vicious Mockery, Cutting Words at Bard 3), Bardic Inspiration (2 sources — Orindel + Pip).
+**Party weakness:** Wizards at 43–44 HP. One big hit drops them. Shield (+6 AC) and Resonance Shell (20 absorb) are critical. Always position behind melee line. Death Ward pre-cast on Sylvara for any serious fight.
 
 ---
 
-*Last updated: Day 180, 30th Reaptide, 1253 AS — Level 6. All Master professions. Orindel Cleric 3/Bard 3. Pip Wizard 3/Bard 3. Aura of Protection active. Cutting Words x2.*
+*Last updated: Day 755, 25th Highsun, 1256 AS — Level 9. All legendary weapons + armor. All Mythic professions. Prof +4. Aura of Protection +4. Stun DC 20. Two Counterspellers. Revivify + Raise Dead available.*
