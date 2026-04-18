@@ -251,3 +251,53 @@
 ---
 
 *Last updated: Day 30, 30th Greenthaw, 1252 AS — Dawnwatch Homestead. ALL 10 MEMBERS: EXPERT. Zaryth: Advanced Ward Engineer (Lesson 180). Ryn: certified keeper (Station Four). Ashara: teaching (supervised).*
+
+---
+
+## Ascended Profession Tracker — Western Continent Training
+
+> **Mechanic:** Beyond Master, each profession has an **Ascended** tier requiring techniques from all 5 Vel'mora races + eastern mastery. Each race's contribution = 1/5 of the path. Level 7 requires 5/5 on at least one profession per member.
+>
+> **River Folk (Ahm-vel) — 1/5 COMPLETE.** 62 days immersion, Days 85–148, 1254 AS.
+
+### Primary Professions — Ascended Progress
+
+| Member | Primary Profession | River Folk (1/5) | Technique Learned | Stone Singers (2/5) | Tall Ones (3/5) | Wind Runners (4/5) | Deep Ones (5/5) |
+|--------|-------------------|:-:|-------------------|:-:|:-:|:-:|:-:|
+| **Zaryth** | Ward Architecture | ✅ | Raw geometric resonance principles (pre-ward, stone-carving intuition) | — | — | — | — |
+| **Mira** | Scouting / Leatherwork | ✅ | River-mineral tanning (waterproof, silent), tonal tracking markers | — | — | — | — |
+| **Aldric** | Masonry | ✅ | Tonal stone selection (pitch-tuned foundations, buildings as instruments) | — | — | — | — |
+| **Sylvara** | Enchanting | ✅ | Raw geometric enchantment (14 functional patterns without ward-ink) | — | — | — | — |
+| **Bram** | Woodcarving / Smithing | ✅ | Singing joints (self-indicating tension), single-tree canoe carving | — | — | — | — |
+| **Thessaly** | Tailoring / Weaving | ✅ | Tonal fiber alignment (humming while weaving), reed-silk hybrid | — | — | — | — |
+| **Orindel** | Song-Keeping | ✅ | 200+ River Folk oral tradition songs, healing chants, resonance-assisted recovery | — | — | — | — |
+| **Pip** | Cooking / Inscription | ✅ | River Folk spice techniques, tonal food preservation (humming over grain) | — | — | — | — |
+| **Seren** | Navigation / Ward Keeping | ✅ | Acoustic river-reading (depth/current/obstacles by sound) | — | — | — | — |
+| **Torven** | Planting / Ward Engineering | ✅ | Flood-cycle agriculture, tonal environmental reading | — | — | — | — |
+| **Nhilara** | Combat / Scouting | ✅ | Forest-edge tactics, canopy awareness, sub-vocal communication | — | — | — | — |
+| **Corwin** | Navigation / Resonance Reading | ✅ | River Folk acoustic navigation, current-sense, tonal water-reading | — | — | — | — |
+
+### Secondary & Tertiary Professions — Ascended Progress
+
+| Member | Secondary | River Folk (1/5) | Technique | Tertiary | River Folk (1/5) | Technique |
+|--------|-----------|:-:|-----------|----------|:-:|-----------|
+| **Zaryth** | Alchemist | ✅ | 3 unknown medicinal plants (Toh-ka's remedies), river-mineral reagents | Tinkerer | ✅ | Geometric tool design (no-nail, no-glue construction principles) |
+| **Mira** | Resonance Cultivator | ✅ | Flood-plain seed selection, wild cultivar identification | — | — | — |
+| **Aldric** | Miner | ✅ | River-stone resonance grading (pitch = quality), alluvial mineral detection | — | — | — |
+| **Sylvara** | Glassblower | ✅ | River-sand glass properties (different silica composition, new optical qualities) | — | — | — |
+| **Bram** | Woodcarver (secondary focus) | ✅ | Geometric structural carving (functional resonance patterns in wood) | — | — | — |
+| **Thessaly** | Resonance Weaver | ✅ | Reed-fiber processing, tonal alignment weaving | — | — | — |
+| **Orindel** | Jeweler | ✅ | River-stone setting, resonance-gem identification in raw river minerals | Hunter | ✅ | River Folk fish-calling techniques, tonal lure-craft |
+| **Pip** | Ward Inscriber | ✅ | Geometric inscription without ward-ink (crude but functional, River Folk method) | Flutist | ✅ | River Folk wooden flute techniques, tonal language performance |
+| **Seren** | Ward Keeping | ✅ | Tonal warning-post maintenance (River Folk boundary system) | Herbalist | ✅ | River Folk medicinal plants (3 new species catalogued) |
+| **Torven** | Ward Engineer | ✅ | Raw resonance circuit reading (pre-ward geometric patterns) | Scribe | ✅ | River Folk oral-to-written transcription methodology |
+| **Nhilara** | — | — | — | — | — | — |
+| **Corwin** | Cartographer | ✅ | River Folk oral geography, acoustic terrain mapping | — | — | — |
+
+### Summary
+
+- **All 12 members (10 Dawnwatch + Nhilara + Corwin): 1/5 Ascended on ALL professions (primary, secondary, tertiary).**
+- **Next required: Stone Singers (2/5).** Mountain techniques, deep resonance, subterranean craft.
+- **Level 7 unlock: 5/5 on at least one profession per member.**
+
+*Last updated: Day 149, 29th Goldmere, 1254 AS. Vel'mora, Harbor 1.*

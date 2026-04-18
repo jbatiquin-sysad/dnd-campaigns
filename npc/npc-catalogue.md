@@ -476,3 +476,110 @@
 *Party gold: ~25,275 gp*
 *Fleet: 6 ships + Cooperative + Jawbone + Seedhome. Homestead: Hall complete. School: 16 + Ensemble. Library: 33+.*
 *Remaining threads: Marble-sphere. Third container. Western landmass. Deep ocean. Memory tree (spring 1254). Ashara's fate. The garden grows.*
+
+---
+
+## Session 11 — Vel'tarn / Vel'mora NPCs
+
+### Vel'tarn (Eastern Continent)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Thessara Vael** | Financial Steward | Active — Vel'tarn | Promoted from probation. Weekly audits by Thessaly. |
+| **Sable Dunmore** | Fleet Operations Clerk | Active — Vel'tarn | Harsk Dunmore's niece. Fleet logistics. |
+| **Hanna Breck** | Homestead Bookkeeper | Active — Vel'tarn | Fenhollow native. Meticulous. |
+| **Corren Marsh** | Tidemeet Agent | Active — Tidemeet | Warehouse manager. Livestock provisioning. Dalla Venn vouched. |
+| **Lira of Kell** | Shelf Keeper / Song Activator | Active — Southern Shelf | 4 songs mastered. Independent planting operations. Stormcape cliff-hold. |
+
+### Vel'mora — River Folk (Ahm-vel)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Saya** | Elder of Vel'ahm | Ally | First western contact. Named the village. "Where strangers become family." |
+| **Doru** | Builder | Ally | Built the stilt-home with Bram. Gifted Bram a wooden halfling figure. |
+| **Toh-ka** | Village healer | Ally | Shared 3 unknown medicinal plants. |
+| **Ren-li** | River guide | Ally | Experienced pilot. Knows Ahm-toh to headwaters. |
+| **Kash** | River guide / garden-tender | Ally | Enthusiastic. Knows Ahm-ren. Tending the Vel'ahm garden. |
+
+### Vel'mora — Stone Singers (Ren-vel)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Ren-tha** | Resonance Elder | Ally | Opened sealed pass (first time in 200 years). Named Aldric "ren-kin." |
+| **Keth** | Crafter / Senior Guide | Ally | Taught Bram the Deep Forge. Geometric tattoos. Patient. |
+| **Varn** | Resonance Apprentice | Ally | Young, curious. Wants goats. Worked with Sylvara. |
+| **Dol** | Mason | Ally | Bonded with Aldric. Communicates through stone-tapping. |
+
+### Vel'mora — Tall Ones (Toh-vel)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Rememberer Orath** | Elder, Ahm-ren commune | Ally | 80 years old. Perfect memory. Gave Rememberer's token (continental archive access). |
+| **Thara** | Rememberer, market elder | Ally | First Tall Ones contact. Gave pass-token. Rememberer's grain. |
+| **Garen** | Smith | Ally | Commune smith. Taught Bram pit-forge technique. Received ren-kah plow blade. |
+
+### Vel'mora — Wind Runners (Kah-vel)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Dren** | Herd-leader | Ally | ~60. Calm. Gifted signal horn, route-bone, promise of military aid. |
+| **Asha-kah** | Rider | Ally / Friend | ~25. "Wind-fire." Grinning. Sparred with Nhilara. "Come back in summer." |
+
+### Vel'mora — Deep Ones (Sol-vel)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Vel'sol** | Speaker | Ally | ~40. Coral collar. Sharp. Revealed kah-sol truth. "The deep road spoke your name." |
+| **Sol-ren** | Elder | Ally | Ancient. Oldest person on Vel'mora. Listened to Root for 1,000+ years. Shared sub-oceanic Root map. |
+| **Tahn** | Guide | Ally | Young. Led Dawnwatch into the caves. Personal name (rare for Deep Ones to share). |
+
+### Session 11 (Continued) — New NPCs
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Hella Ironjaw** | Guildmaster, Greymoor Mining Guild | Ally | Posted the dragon bounty. Arm-wrestled Marshal Brynn at the wedding. Won twice. |
+| **Thara** | Rememberer, Tall Ones (market elder) | Ally | First Tall Ones contact. Gave pass-token + Rememberer's grain. Attended wedding (via Orath's delegation). |
+| **Maren-toh** | Tall Ones keeper (certified) | Ally | Commune farmer, 35. "Ground-sense." Planted W9 beneath Orath's granary. |
+| **Garen** | Smith, Ahm-ren commune | Ally | Taught Bram pit-forge. Received ren-kah plow blade. |
+| **Ren-li** | River Folk guide | Ally | Experienced Ahm-toh pilot. Guided both upriver expeditions. |
+
+---
+
+## Session 11 (Continued) — Kapuluan NPCs
+
+### Kapuluan — Dagat-Puso (Coral-Singers / Central)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Datu Malaya** | Chief of Dagat-Puso, Convener of Datu Council | Ally | "You are Kapuluan." Coral staff. Star-map tattoo. Sank the Fire Lords' fleet. |
+| **Lakan-Diwa** | Senior Babaylan (healer/spirit-speaker) | Ally — **AT VEL'TARN** | 60. Primary midwife for Sylvara. Traveling with the Dawnwatch. |
+| **Guro Alon** | Senior coral-singer, Zaryth's teacher | Ally | Certified independent planter. Grew the Puso ng Dagat coral housing. |
+| **Guro Awit** | Senior coral-song keeper, Orindel's teacher | Ally | 70. Co-composed the Awit ng Tulay + Tibok ng Dagat. "He sang the ocean to sleep." |
+| **Guro Sinag** | Coral-light enchanter, Sylvara's teacher | Ally | 35. Bioluminescent enchantment specialist. |
+| **Guro Habi** | Master weaver, Thessaly's teacher | Ally | 45. Piña fiber + coral-thread. |
+| **Guro Palihan** | Boat-builder, Bram's teacher | Ally | 50. Acknowledged the Velmoran as Mythic work. |
+| **Guro Bato** | Coral-stone mason, Aldric's teacher | Ally | 60. Living masonry. |
+| **Guro Luto** | Master cook/herbalist, Pip's teacher | Ally | 55. Wept at Pip's crocodile adobo. |
+| **Guro Palayan** | Rice terrace master, Torven's teacher | Ally | 65. Mountain guide. Volcanic soil integration. |
+| **Guro Dagat** | Deep Fisher crafter, Mira's teacher | Ally | 40. Ocean leather specialist. |
+| **Guro Bantay** | Combat diver, Nhilara's teacher | Ally | 38. "She is not a warrior. She is a force." |
+| **Guro Sisid** | Master free-diver, Seren's teacher | Ally | 30. "Stillness is the deepest dive." |
+
+### Kapuluan — Voyagers (Northern Isles)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Kapitan Habagat** | Eldest Voyager, 82 | Ally | Anchor voice of the Awit ng Tulay. 7 circuits. 14 race wins. "The sea doesn't ask often." |
+| **Tala** | Master navigator, 28 | Ally | Star-song archive (200+ songs). Star-map arm tattoos. Kapuluan trade logistics coordinator. Partnered with Corwin. |
+
+### Kapuluan — Deep Fishers (Southern Edge)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Bulan** | Lead diver | Ally / Kapatid (Nhilara) | Killed the 18-ft crocodile with Nhilara. Deep Fisher trade representative. Certified planter. |
+
+### Kapuluan — Antagonists
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Dalisay** | Exiled coral-singer (Mangkukulam) | Exiled — barren island | ~30. Most gifted singer of her generation. Used coral-singing to blockade villages. Captured by Nhilara + Mira. |

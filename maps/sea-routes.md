@@ -235,5 +235,141 @@ Homestead → (20 min walk) → Fenhollow → (Wynn Dodd cart, 2 hrs) → Tideme
 
 ---
 
-*Last updated: Day 260, 30th Frostmere, 1249 AS*
-*Fleet: 2 ships (both operational). Tidemeet warehouse active. Dawnwatch Coach operational. Threshold Runner operational. Southern routes established (Ashport). Blacktide Inlet under Silver Chain surveillance.*
+*Last updated: Day 530, 20th Ashfall, 1255 AS*
+*Fleet: 8 ships + Seedhome. Jawbone + Velmoran autonomous intercontinental routes. Tidemeet + Vel'ahm warehouses. Full eastern + western trade network operational.*
+
+---
+
+## Intercontinental Routes — Autonomous Vessels
+
+### Overview
+
+Two autonomous vessels run the eastern-western ocean crossing continuously. No crew. No fuel. Resonance-guided via Root network (Jawbone) or dual Root + kah-sol network (Velmoran). Directed via Diadem or Heart-Fruit.
+
+```
+EASTERN CONTINENT                    OCEAN (2,800 mi)                    WESTERN CONTINENT
+                                Root network corridor
+  TIDEMEET ◄════════════════ JAWBONE (26-28 days) ════════════════► VEL'AHM
+  (Corren Marsh)          Tender-only navigation              (Kash, Trade Manager)
+                                                    
+  TIDEMEET ◄════════════════ VELMORAN (20 days) ══════════════════► VEL'AHM
+  (Corren Marsh)         Dual-network navigation               (Kash, Trade Manager)
+                          Root + kah-sol optimized
+```
+
+### Jawbone — Schedule (6 cycles/year)
+
+| Cycle | Depart Tidemeet | Arrive Vel'ahm | Loading | Depart Vel'ahm | Arrive Tidemeet | Loading | Total |
+|-------|----------------|---------------|---------|---------------|----------------|---------|-------|
+| **1** | Day 1 | Day 28 | 5 days | Day 33 | Day 61 | 5 days | **66 days** |
+| **2** | Day 66 | Day 94 | 5 days | Day 99 | Day 127 | 5 days | **66 days** |
+| **3** | Day 132 | Day 160 | 5 days | Day 165 | Day 193 | 5 days | **66 days** |
+| **4** | Day 198 | Day 226 | 5 days | Day 231 | Day 259 | 5 days | **66 days** |
+| **5** | Day 264 | Day 292 | 5 days | Day 297 | Day 325 | 5 days | **66 days** |
+| **6** | Day 330 | Day 358 | 5 days | — | — | — | *Winter layover at Vel'ahm or return* |
+
+**Jawbone specs:** ~60 ft. ~2 tons cargo. 26–28 day crossing. Tender-only (Root network). Gardener-built. 3,000 years old.
+
+**Annual capacity:** 5 full round trips + 1 one-way = **~22 tons eastbound + ~22 tons westbound.**
+
+### Velmoran — Schedule (6 cycles/year, offset from Jawbone by 33 days)
+
+| Cycle | Depart Tidemeet | Arrive Vel'ahm | Loading | Depart Vel'ahm | Arrive Tidemeet | Loading | Total |
+|-------|----------------|---------------|---------|---------------|----------------|---------|-------|
+| **1** | Day 33 | Day 53 | 5 days | Day 58 | Day 78 | 5 days | **50 days** |
+| **2** | Day 83 | Day 103 | 5 days | Day 108 | Day 128 | 5 days | **50 days** |
+| **3** | Day 133 | Day 153 | 5 days | Day 158 | Day 178 | 5 days | **50 days** |
+| **4** | Day 183 | Day 203 | 5 days | Day 208 | Day 228 | 5 days | **50 days** |
+| **5** | Day 233 | Day 253 | 5 days | Day 258 | Day 278 | 5 days | **50 days** |
+| **6** | Day 283 | Day 303 | 5 days | Day 308 | Day 328 | 5 days | **50 days** |
+| **7** | Day 333 | Day 353 | 5 days | — | — | — | *Winter layover or 7th run* |
+
+**Velmoran specs:** 45 ft. ~3 tons cargo. 20-day crossing. Dual-network (Root + kah-sol). Dragon turtle shell hull. Self-repairing. Fire-immune.
+
+**Annual capacity:** 6 full round trips + 1 possible = **~36 tons eastbound + ~36 tons westbound.**
+
+### Combined Schedule — Port Presence
+
+**At Tidemeet (eastern):**
+
+| Month | Vessel in Port | Days in Port | Notes |
+|-------|---------------|-------------|-------|
+| Greenthaw | Jawbone (loading) | 5 | Cycle 1 depart |
+| Greenthaw | Velmoran (loading) | 5 | Cycle 1 depart (offset) |
+| Brightmere | Jawbone (arrives + loading) | 5 | Cycle 1 return |
+| Brightmere | Velmoran (arrives + loading) | 5 | Cycle 1 return |
+| *Pattern repeats* | *Alternating arrivals ~every 25-33 days* | | |
+
+**Effective:** A vessel arrives at Tidemeet approximately **every 2–3 weeks.** Corren always has cargo to process.
+
+**At Vel'ahm (western):**
+
+| Month | Vessel in Port | Days in Port | Notes |
+|-------|---------------|-------------|-------|
+| Greenthaw | Jawbone (arrives) | 5 | Unload eastern goods, load western goods |
+| Greenthaw | Velmoran (arrives, offset) | 5 | Same |
+| *Pattern repeats* | *Alternating arrivals ~every 2–3 weeks* | | |
+
+**Effective:** A vessel arrives at Vel'ahm approximately **every 2–3 weeks.** Kash always has cargo to process.
+
+### Cargo Manifests — Standard Loads
+
+**Eastbound (Vel'ahm → Tidemeet):**
+
+| Good | Qty/Trip | Value (eastern market) | Source Race |
+|------|----------|----------------------|-------------|
+| Sea-silk (raw byssus) | 5 sq ft | ~250 gp | Deep Ones |
+| Singing granite (tuned blocks) | 4 blocks | ~200 gp | Stone Singers |
+| Ren-kah ore (raw) | 10 lbs | ~150 gp | River valley |
+| Resonance crystals (western) | 3 clusters | ~300 gp | Stone Singers / Merge Zone |
+| Rememberer's grain | 25 lbs | ~100 gp | Tall Ones |
+| Medicinal plants (assorted) | Bundle | ~100 gp | All races |
+| Kah-sol resin | 3 vials | ~150 gp | Deep Forest |
+| Hybrid resonance crystal | 1 cluster | ~200 gp | Merge Zone |
+| Elk-horse hide/antler | Assorted | ~100 gp | Wind Runners |
+| **Total per eastbound trip** | | **~1,550 gp** | |
+
+**Westbound (Tidemeet → Vel'ahm):**
+
+| Good | Qty/Trip | Value (western market) | Source |
+|------|----------|----------------------|--------|
+| Storm glass instruments | 6 vials | ~150 gp | Sylvara / Dawnwatch |
+| Spider-silk fabric | 2 bolts | ~200 gp | Vel'quinar weavers |
+| Dark steel tools | Assorted | ~150 gp | Harrowgate guild |
+| Alchemy (potions, poultices) | 10 vials | ~100 gp | Dawnwatch / Haldren |
+| Cheese (Vel'tarn) | 2 wheels | ~50 gp | Homestead dairy |
+| Honey (silver sage) | 4 jars | ~80 gp | Homestead |
+| Ward-ink | 2 applications | ~100 gp | Dawnwatch |
+| Seed crystals (eastern) | 2 | ~100 gp | Jawbone/Seedhome stores |
+| Books / knowledge materials | Assorted | ~70 gp | Library / Archive |
+| **Total per westbound trip** | | **~1,000 gp** | |
+
+### Revenue Summary — Autonomous Intercontinental Trade
+
+| Vessel | Trips/Year | Eastbound Value | Westbound Value | Total Goods Moved | Dawnwatch Share (30%) |
+|--------|-----------|----------------|----------------|-------------------|----------------------|
+| Jawbone | 5–6 | ~7,750 gp | ~5,000 gp | ~12,750 gp | ~3,825 gp |
+| Velmoran | 6–7 | ~10,850 gp | ~7,000 gp | ~17,850 gp | ~5,355 gp |
+| **Combined** | **11–13** | **~18,600 gp** | **~12,000 gp** | **~30,600 gp** | **~9,180 gp/year** |
+
+**Note:** 70/30 split (local races 70% / Dawnwatch 30%). The Dawnwatch takes the smaller share. Revenue grows as trade volume increases and new goods are introduced.
+
+---
+
+## Fleet Summary (Updated)
+
+| Ship | Type | Route | Crew | Cargo | Revenue/Month |
+|------|------|-------|------|-------|--------------|
+| *Stormcape's Promise* | Trimaran | Western triangle | Maren Voss + 1 | 5 tons | ~150 gp |
+| *Eilistraee's Grace* | Trimaran | Northern express | Lyriel + 1 | 7 tons | ~150 gp |
+| *Salt Maren* | Sloop | Veldmere-Duskport | Dalla Venn + crew | 4 tons | ~110 gp |
+| *Blacktide Runner* | Sloop | Ashport-Veldmere | Harsk Dunmore + crew | 4 tons | ~100 gp |
+| *Duskholm* | Caravel | Expedition-ready | Dren Sable + crew | 6 tons | Variable |
+| *Tidecaller* | Caravel (upgraded) | Expedition / diplomacy | Revelle + 10 | 8 tons | Variable |
+| **Jawbone** | Gardener vessel | **Tidemeet ↔ Vel'ahm (autonomous)** | **None** | 2 tons | **~320 gp** |
+| **Velmoran** | Hybrid vessel | **Tidemeet ↔ Vel'ahm (autonomous)** | **None** | 3 tons | **~445 gp** |
+| Shelf Cooperative | 3 boats | Inter-village + Ashport | Village crew | Variable | ~20 gp (Dawnwatch share) |
+| **Seedhome** | Gardener flagship | Tidemeet (stationary — forge/archive) | None | — | — |
+
+**Total fleet monthly revenue: ~1,295+ gp**
+**Total fleet annual revenue: ~15,540+ gp** (up from ~6,400 pre-intercontinental)

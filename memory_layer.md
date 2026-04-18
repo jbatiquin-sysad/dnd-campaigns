@@ -1661,3 +1661,119 @@ Dawnsedge, Warden's Diadem, Root's Heart-Fruit, Firstsong, Silver Leaf, World's 
 
 ### Next
 Place World's Hearthstone on the round table. Memory tree (spring 1254). Spinning marble-sphere. Third container. Deep ocean. Western landmass first contact. Underground expansion. Ashara's fate. 405 sites remaining. The garden grows — and now the ground it grows in is family.
+
+---
+
+## Session 11 — The Chronicler (Aldric Voss)
+
+**Days:** 184 Ashfall 1253 → 247 Frostmere 1254 AS
+**DM:** Aldric Voss, The Chronicler
+**Title:** Vel'tarn Rising / Vel'mora First Contact
+
+### Key Events
+
+**Vel'tarn Named (Day 185, 1253)**
+- Village named by unanimous vote of all 10 Dawnwatch + Nhilara. Vel'tarn = Drow: "Those who choose peace."
+- Aldric carved gate lintel (3 scripts: Drow, Common, Dwarvish). Orindel composed "The Choosing" (nat 20 premiere).
+- Ember Night (Day 195): Bonfire ceremony. ~100 attendees. Zaryth's speech. World's Hearthstone placed at round table — the World experienced community for the first time.
+
+**Marble-Sphere Identified (Day 211, 1253)**
+- Gardener-era star chart. 43 relays, 31 garden-worlds, 7 strong. Orbital relay above this world still broadcasting.
+- Rootways: inter-world passages through folded space. Other Gardeners may exist.
+- ARC 9: THE NETWORK identified (not yet actionable).
+
+**Operations Deployed (Days 211+, 1253)**
+- Underdark planting team (Ryn, Kael, Thalra, Dyrn, Nhilara, Torven): 9 successful plantings across 3 deployments.
+- Southern Shelf keepers: Lira of Kell certified as independent activator. 3 plantings.
+- Corwin Hale recruited as 2nd specialist (The Pathfinder). Ranger 5 (Horizon Walker).
+- Financial delegation: Thessara Vael (steward), Sable Dunmore (fleet), Hanna Breck (homestead), Corren Marsh (Tidemeet agent).
+- Tidemeet warehouse expansion: 315 gp invested, +95 gp/month revenue.
+
+**Western Expedition (Day 61+, 1254)**
+- Tidecaller upgraded: ward-circuit, Gardener sealant, storm glass suite, spider-silk sails, dark steel reinforcement. 22-day crossing.
+- All 11 Dawnwatch + Revelle's crew. Crossed 2,800 miles of open ocean.
+
+**Vel'mora — First Contact**
+- Harbor 1 (now Vel'ahm): River Folk. Elder Saya. "Tah-ren" (earth-welcome). Language learned. 62 days immersion. Cheese introduced.
+- Singing Peaks: Stone Singers. Elder Ren-tha. Pass opened for first time in 200 years. Deep Forge access. Nhilara's Nightwarden's Coat + Duskfang forged.
+- Ahm-ren Commune: Tall Ones. Rememberer Orath. Pass-token + Rememberer's token. Earth Forge used. Ren-kah tools crafted.
+- Wind Runner Camp: Herd-leader Dren, rider Asha-kah. Elk-horse riding. Signal horn + route-bone + promise of military aid.
+- Deep Ones Caves: Speaker Vel'sol, Elder Sol-ren, Guide Tahn. Sub-sonic language. Sea-silk. Kah-sol truth revealed.
+
+**Kah-sol Intelligence (Complete)**
+- Network intelligence, not a creature. Alien seed fell 800 years ago during meteor shower.
+- Grows through canopy — forest is its body. Takes people to learn communication (1,000+ minds).
+- It is lonely. The taking is desperation, not predation. Deep Ones have spoken to it for 200 years.
+- Solution: Plant a seed in the Deep Forest. Connect kah-sol to Root network. Give it a friend.
+
+**Level 7 Achieved**
+- All 12 members (10 Dawnwatch + Nhilara Level 9 + Corwin Level 6). 5/5 Ascended professions.
+- Key features: Aura of Devotion (charm immunity), Evasion (3 members), 4th-level spells, Revivify, Death Ward, Banishment, Font of Inspiration.
+
+**Seeds Planted (estimated total): ~34/412**
+- 20 (pre-expedition) + ~14 passive (Underdark team ~6, Shelf team ~8).
+
+### State at Session Pause (Updated)
+- **Level 8** (Nhilara 10, Corwin 7) | **Gold:** ~42,000 gp | **Ward-ink:** 4 reserve (eastern) + kah-sol resin (western substitute)
+- **Location:** Vel'tarn, Fenhollow (home)
+- **Zaryth married Sylvara Dawnwhisper.** 30th Goldmere, 1255 AS. The Gardener officiated. 180 guests.
+- **All 12 members: legendary weapons + legendary armor.** Forged at Seedhome Crucible + Drowned Forge + Deep Forge + field.
+- **Three apex predators killed:** Old Ashfang (Young Red Dragon CR10), Maw of Ashfire (Dragon Turtle CR17), The Broodmother (Deep Ankheg CR13). Three fights. Three rounds total. Zero damage taken.
+- **The Velmoran:** Under construction. Dragon turtle shell + ancient hardwood. Autonomous dual-network vessel.
+- **Vel'mora:** All 5 races contacted. Kah-sol connected to Root. Trade embassies operational. 5 race keepers certified. Jawbone trade route running.
+- **Plantings:** ~80/412 global. Western self-sustaining (hybrid crystal + kah-sol resin method). Eastern running (Ryn + Lira).
+- **Forge ranking:** Seedhome #1, Deep Forge #2, Drowned Forge #3 (restored), Warden's Forge #4, Merge Zone #5.
+- **Material vaults:** Dragon scales, dragon turtle shell, broodmother chitin, meteoric-ren'kah, hybrid crystals, kah-sol resin, ancient hardwood, sea-silk, singing granite — stored at Seedhome + Tidemeet.
+- **Next:** Complete The Velmoran. Activate the orbital relay (Arc 9). Connect two galactic civilizations. The garden grows — and it's bigger than anyone imagined.
+- **The memory tree holds everything. The cradle is empty. Not for long.**
+
+### Additional Session 11 Events (Continued)
+
+**Monster Hunts (Days 453-461)**
+- Old Ashfang (Young Red Dragon, CR 10): Greypeak mine shafts. 1 round, 0 damage. Corwin killing blow (Starcaller). Seren stunned it.
+- Maw of Ashfire (Dragon Turtle, CR 17): Ashfire Isle, underwater. Banishment + 1 round, 0 damage. Torven killing blow (Rootsinger). Sylvara Banishment (CHA 9 vs DC 18).
+- The Broodmother (Deep Ankheg, CR 13): Underdark, 1,800 ft. 1 round, 0 damage. Zaryth killing blow (Dawnsedge). 37 eggs destroyed. Deep Road secured.
+
+**Level 8 Achieved (Day 461)**
+- Milestone. All 12 members. Key: Seren Stun DC 19/20, Mira/Thessaly DEX 20, Zaryth Aura +4, Sylvara War Caster, Corwin Ethereal Step, Nhilara Uncanny Dodge.
+
+**The Velmoran — Approved (Day 462)**
+- Autonomous hybrid vessel. Dragon turtle shell hull + Deep Forest ancient hardwood frame. Dual-network navigation. Jawbone equivalent but stronger, faster, self-repairing.
+
+**Zaryth & Sylvara — Married (Day 480, 30th Goldmere 1255)**
+- Sunset ceremony, Vel'tarn north meadow, beneath the memory tree. The Gardener officiated. 180 guests from both continents. Orindel performed "The Two Who Chose." Kael performed "Two Stars" (solo harp). Thessaly's wedding gown (nat 20). Family suite completed in the Hall. Singing granite cradle.
+
+### Kapuluan Expedition (Days 555–750, 1255–1256 AS)
+
+**Southern Archipelago — Kapuluan ("The Gathered Islands")**
+- Sailed south from Tidemeet via Farlight. Seamount planting #41 en route.
+- First contact: Datu Malaya at Dagat-Puso (Heart of the Sea). "Mabuhay." Coral city, rice terraces, 5 peoples.
+- 5 Kapuluan peoples: Coral-Singers, Voyagers, Rice Builders, Babaylan (spirit-speakers), Deep Fishers.
+- Embassy built at Dagat-Puso (coral foundation, bamboo frame).
+- Threats resolved: Reef blight (planting #42), Mangkukulam Dalisay (captured/exiled), Siyokoy pack (12 killed).
+- Bakunawa (300+ ft sea serpent, living geological entity) — woke because of Dawnwatch seamount planting. Confused, not hostile.
+- Awit ng Tulay (Song of the Bridge): 131 singers, 97 boats, nat 20. Harmonized Root frequency with Bakunawa's ocean frequency. Bakunawa at peace.
+- Guro immersion: 30 days with Kapuluan craft masters. All 12 members Kapuluan-trained.
+- ALL 12 MEMBERS: MYTHIC PROFESSIONS (all primary, secondary, tertiary).
+- Puso ng Dagat (Heart of the Ocean): Major dual-network node at reef junction. Hybrid crystal + fire opal (nat 20 enchantment). Triple-frequency. Entire Kapuluan reef connected to planetary grid. Built by Bayanihan.
+- Kapuluan-Dawnwatch Trade Accord sealed (70/30, Kapuluan majority). Tala logistics. Bulan Deep Fisher direct.
+- Sylvara pregnancy: confirmed (girl, dual-frequency). Lakan-Diwa (Babaylan) as primary midwife.
+- Plantings: #41-45 (seamount + 4 Kapuluan sites). Guro Alon, Bulan, Tala certified for independent planting.
+- Mountain expedition: Bundok Puso. Pahintulot ng Bundok ritual. Fire opals, volcanic obsidian, volcanic glass fiber, basalt columns.
+- Hunting expedition: 3 islands. Boar (12), deer (8), fowl (6), crocodiles (3). 18-ft croc killed by Nhilara + Bulan.
+- Navigator Tala + Corwin: merged star-song + instrument charts. Most complete ocean map on the planet.
+- Lakan-Diwa traveling to Vel'tarn for the delivery.
+- Coral cutting from Puso ng Dagat carried home. Coral basin installed in family suite.
+
+### Return Home (Day 750, 1256 AS)
+- Arrived Vel'tarn. Memory tree 20 ft. Coral basin active. Both frequencies in the nursery.
+- Sylvara 28 weeks. Due ~Day 960 (Reaptide 1256).
+- The Gardener: "You brought the ocean home."
+
+### Updated State
+- **Level 9** (Nhilara 11, Corwin 8) | **Gold:** ~55,000 gp | **All Mythic professions**
+- **Location:** Vel'tarn (home). Sylvara 28 weeks pregnant.
+- **Plantings:** ~90+/412 globally. Eastern + Western + Kapuluan, all running independently.
+- **Fleet:** 8 ships + Seedhome + Velmoran + Jawbone. ~18,780 gp/year autonomous trade.
+- **Nodes:** 14 eastern + Puso ng Dagat (Kapuluan) + Anchor Point. All active.
+- **Next:** Baby. Orbital relay. The garden grows across two continents and an ocean.
