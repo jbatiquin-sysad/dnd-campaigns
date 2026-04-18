@@ -254,50 +254,68 @@
 
 ---
 
-## Ascended Profession Tracker — Western Continent Training
+## Profession Progression Tracker — Ascended → Mythic
 
-> **Mechanic:** Beyond Master, each profession has an **Ascended** tier requiring techniques from all 5 Vel'mora races + eastern mastery. Each race's contribution = 1/5 of the path. Level 7 requires 5/5 on at least one profession per member.
+> **Progression:** Master (eastern) → Ascended 5/5 (Vel'mora five races) → Mythic (Kapuluan + synthesis of ALL traditions)
 >
-> **River Folk (Ahm-vel) — 1/5 COMPLETE.** 62 days immersion, Days 85–148, 1254 AS.
+> **ALL 12 MEMBERS: MYTHIC ON ALL PROFESSIONS.** Achieved Day ~710, 1256 AS.
 
-### Primary Professions — Ascended Progress
+### Progression History
 
-| Member | Primary Profession | River Folk (1/5) | Technique Learned | Stone Singers (2/5) | Tall Ones (3/5) | Wind Runners (4/5) | Deep Ones (5/5) |
-|--------|-------------------|:-:|-------------------|:-:|:-:|:-:|:-:|
-| **Zaryth** | Ward Architecture | ✅ | Raw geometric resonance principles (pre-ward, stone-carving intuition) | — | — | — | — |
-| **Mira** | Scouting / Leatherwork | ✅ | River-mineral tanning (waterproof, silent), tonal tracking markers | — | — | — | — |
-| **Aldric** | Masonry | ✅ | Tonal stone selection (pitch-tuned foundations, buildings as instruments) | — | — | — | — |
-| **Sylvara** | Enchanting | ✅ | Raw geometric enchantment (14 functional patterns without ward-ink) | — | — | — | — |
-| **Bram** | Woodcarving / Smithing | ✅ | Singing joints (self-indicating tension), single-tree canoe carving | — | — | — | — |
-| **Thessaly** | Tailoring / Weaving | ✅ | Tonal fiber alignment (humming while weaving), reed-silk hybrid | — | — | — | — |
-| **Orindel** | Song-Keeping | ✅ | 200+ River Folk oral tradition songs, healing chants, resonance-assisted recovery | — | — | — | — |
-| **Pip** | Cooking / Inscription | ✅ | River Folk spice techniques, tonal food preservation (humming over grain) | — | — | — | — |
-| **Seren** | Navigation / Ward Keeping | ✅ | Acoustic river-reading (depth/current/obstacles by sound) | — | — | — | — |
-| **Torven** | Planting / Ward Engineering | ✅ | Flood-cycle agriculture, tonal environmental reading | — | — | — | — |
-| **Nhilara** | Combat / Scouting | ✅ | Forest-edge tactics, canopy awareness, sub-vocal communication | — | — | — | — |
-| **Corwin** | Navigation / Resonance Reading | ✅ | River Folk acoustic navigation, current-sense, tonal water-reading | — | — | — | — |
+| Tier | Requirement | Achieved |
+|------|------------|----------|
+| **Master** | Eastern continent mastery | ✅ All members, all professions. Day 180, 1253 AS. |
+| **Ascended 1/5** | River Folk (Ahm-vel) techniques | ✅ 62 days immersion, Days 85–148, 1254 AS. |
+| **Ascended 2/5** | Stone Singer (Ren-vel) techniques | ✅ 3 days inside the Singing Peaks, Days 170–172, 1254 AS. |
+| **Ascended 3/5** | Tall Ones (Toh-vel) techniques | ✅ 14 days at Ahm-ren commune, Days 202–216, 1254 AS. |
+| **Ascended 4/5** | Wind Runner (Kah-vel) techniques | ✅ 7 days on the steppe, Days 220–227, 1254 AS. |
+| **Ascended 5/5** | Deep Ones (Sol-vel) techniques | ✅ 10 days in the caves, Days 237–247, 1254 AS. **Level 7 unlocked.** |
+| **Mythic** | Kapuluan immersion (30 days with Guro) + Mythic Work (synthesis of all traditions) + Guro recognition | ✅ All 12 members, Days 595–710, 1255–1256 AS. |
 
-### Secondary & Tertiary Professions — Ascended Progress
+### Mythic Works — What Each Member Created
 
-| Member | Secondary | River Folk (1/5) | Technique | Tertiary | River Folk (1/5) | Technique |
-|--------|-----------|:-:|-----------|----------|:-:|-----------|
-| **Zaryth** | Alchemist | ✅ | 3 unknown medicinal plants (Toh-ka's remedies), river-mineral reagents | Tinkerer | ✅ | Geometric tool design (no-nail, no-glue construction principles) |
-| **Mira** | Resonance Cultivator | ✅ | Flood-plain seed selection, wild cultivar identification | — | — | — |
-| **Aldric** | Miner | ✅ | River-stone resonance grading (pitch = quality), alluvial mineral detection | — | — | — |
-| **Sylvara** | Glassblower | ✅ | River-sand glass properties (different silica composition, new optical qualities) | — | — | — |
-| **Bram** | Woodcarver (secondary focus) | ✅ | Geometric structural carving (functional resonance patterns in wood) | — | — | — |
-| **Thessaly** | Resonance Weaver | ✅ | Reed-fiber processing, tonal alignment weaving | — | — | — |
-| **Orindel** | Jeweler | ✅ | River-stone setting, resonance-gem identification in raw river minerals | Hunter | ✅ | River Folk fish-calling techniques, tonal lure-craft |
-| **Pip** | Ward Inscriber | ✅ | Geometric inscription without ward-ink (crude but functional, River Folk method) | Flutist | ✅ | River Folk wooden flute techniques, tonal language performance |
-| **Seren** | Ward Keeping | ✅ | Tonal warning-post maintenance (River Folk boundary system) | Herbalist | ✅ | River Folk medicinal plants (3 new species catalogued) |
-| **Torven** | Ward Engineer | ✅ | Raw resonance circuit reading (pre-ward geometric patterns) | Scribe | ✅ | River Folk oral-to-written transcription methodology |
-| **Nhilara** | — | — | — | — | — | — |
-| **Corwin** | Cartographer | ✅ | River Folk oral geography, acoustic terrain mapping | — | — | — |
+| Member | Mythic Work | Guro Recognition |
+|--------|------------|-----------------|
+| **Zaryth** | **Puso ng Dagat** — Heart of the Ocean. Living coral major node. Ward architecture from all traditions unified. | Guro Alon: "He did not build a node. He grew a heart." |
+| **Mira** | **Zero-sound hunting methodology** — Combined 7 traditions into silent kills across land, water, and swamp. | Guro Dagat: "She is silence given form." |
+| **Aldric** | **Puso ng Dagat structural work** — Singing granite set underwater. The mountain's voice in the ocean. | Guro Bato: "His stone sang in water. Stone does not sing in water. His does." |
+| **Sylvara** | **Puso ng Dagat crystal enchantment** (nat 20) — Triple-frequency hybrid crystal with fire opal. Four languages in one stone. | Guro Sinag: "I cannot do what she did." |
+| **Bram** | **The Velmoran** — Autonomous vessel from dragon shell + ancient hardwood + living coral. 9 traditions in one ship. | Guro Palihan: "This is Mythic work. You did it before you knew the word." |
+| **Thessaly** | **Puso ng Dagat textile mesh** — Six textile traditions woven underwater. The coral ate it and became stronger. | Guro Habi: "The coral does not eat cloth. It ate hers." |
+| **Orindel** | **Awit ng Tulay** (nat 20) — 131 singers. Harmonized two planetary frequencies. Sang the ocean to sleep. | Guro Awit: "He sang the ocean to sleep. That is Mythic." |
+| **Pip** | **Crocodile adobo** — Ingredients from every tradition. Fed 350 people. Made Guro Luto cry. | Guro Luto (through tears): "He made ME cry." |
+| **Seren** | **Awit ng Tulay harmonic center** — Held the bridge frequency through Worldfist for 3 hours in perfect stillness. Five stillness traditions unified. | Guro Sisid: "Stillness is the deepest dive." |
+| **Torven** | **Puso ng Dagat mountain integration** — Married the mountain to the ocean. Volcanic soil + Druidic blessing in coral. | Guro Palayan: "He completed the circle." |
+| **Nhilara** | **18-ft crocodile kill with Bulan** — Underwater combat combining 7 traditions. Intercepted apex predator mid-lunge. | Guro Bantay: "She is not a warrior. She is a force." |
+| **Corwin** | **Merged navigation chart** — Star-songs + instruments + resonance + feeling of the sea. Found roads no chart shows. | Tala: "Together we mapped the unmappable." |
 
-### Summary
+### Mythic Professions — Full Roster
 
-- **All 12 members (10 Dawnwatch + Nhilara + Corwin): 1/5 Ascended on ALL professions (primary, secondary, tertiary).**
-- **Next required: Stone Singers (2/5).** Mountain techniques, deep resonance, subterranean craft.
-- **Level 7 unlock: 5/5 on at least one profession per member.**
+| Member | Primary | Secondary | Tertiary | All Mythic? |
+|--------|---------|-----------|----------|:-----------:|
+| **Zaryth** | Ward Architecture | Alchemy | Tinkering | ✅ MYTHIC |
+| **Mira** | Scouting / Leatherwork | Resonance Cultivator | — | ✅ MYTHIC |
+| **Aldric** | Masonry | Mining | — | ✅ MYTHIC |
+| **Sylvara** | Enchanting | Glassblowing | — | ✅ MYTHIC |
+| **Bram** | Woodcarving / Smithing | — | — | ✅ MYTHIC |
+| **Thessaly** | Tailoring / Weaving | Resonance Weaving | — | ✅ MYTHIC |
+| **Orindel** | Song-Keeping | Jeweling | Hunting | ✅ MYTHIC |
+| **Pip** | Cooking / Inscription | Ward Inscriber | Flutist | ✅ MYTHIC |
+| **Seren** | Navigation / Ward Keeping | Herbalism | — | ✅ MYTHIC |
+| **Torven** | Planting / Ward Engineering | Scribe | — | ✅ MYTHIC |
+| **Nhilara** | Combat / Scouting | — | — | ✅ MYTHIC |
+| **Corwin** | Navigation / Resonance Reading | Cartography | — | ✅ MYTHIC |
 
-*Last updated: Day 149, 29th Goldmere, 1254 AS. Vel'mora, Harbor 1.*
+### Technique Archive — All Traditions Learned
+
+| Tradition | Source | Key Techniques |
+|-----------|--------|---------------|
+| **Eastern (Master)** | Hearthcoast continent | Ward architecture, dark steel smithing, alchemy, enchantment, all standard crafts |
+| **River Folk (1/5)** | Vel'mora — Ahm-vel | Tonal crafting, geometric resonance, river-mineral tanning, acoustic navigation, flood-cycle agriculture |
+| **Stone Singers (2/5)** | Vel'mora — Ren-vel | Singing-heat forging, tonal stone selection, liquid resonance, stone-fiber weaving, underground navigation |
+| **Tall Ones (3/5)** | Vel'mora — Toh-vel | Pit-forge sustained tempering, concentric-ring agriculture, memory songs, ground-looms, patience |
+| **Wind Runners (4/5)** | Vel'mora — Kah-vel | Mounted crafting, portable forge, bone carving, windgrass weaving, steppe navigation, meteoric iron |
+| **Deep Ones (5/5)** | Vel'mora — Sol-vel | Tidal-forge pressure work, bioluminescent enchantment, sub-sonic communication, underwater combat, sea-silk |
+| **Kapuluan (Mythic)** | Southern Archipelago | Coral-singing (growing structures with music), piña fiber, coral-thread, deep free-diving, star-song navigation, living enchantment, therapeutic cooking, pressure mastery, coral weaponry |
+
+*Last updated: Day 755, 25th Highsun, 1256 AS. Vel'tarn. All 12 members MYTHIC.*
