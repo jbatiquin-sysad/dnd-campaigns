@@ -583,3 +583,88 @@
 | Name | Role | Status | Notes |
 |------|------|--------|-------|
 | **Dalisay** | Exiled coral-singer (Mangkukulam) | Exiled — barren island | ~30. Most gifted singer of her generation. Used coral-singing to blockade villages. Captured by Nhilara + Mira. |
+
+---
+
+## Session 12 — New Entities
+
+### Keepers (Pre-Gardener Constructs)
+
+| Name | Type | Status | Notes |
+|------|------|--------|-------|
+| **Vael** | Keeper K1 (ocean-layer relay) | Ally — Root-integrated | Pre-Gardener geometric construct, 30ft. Sentient (geometric awareness). Mirror-interval name. Learned curves from Zaryth. First Keeper to wake. Guardian at trench with Kael-vos. |
+| **Kael-vos** | Keeper K2 (foreign, from Hub Three) | Ally — Root-integrated | Purified corrupted Keeper. Originally from Hub Three's network. Enslaved by Inversion for millennia. Freed by Dawnsedge radiant + Firstsong (nat 20). Sovereignty clause — gate openable only from inside. Carries songs from another planet. Guardian at trench with Vael. |
+
+### Intelligences
+
+| Name | Type | Status | Notes |
+|------|------|--------|-------|
+| **The Listener** | Hub Seven central relay | Active — Root-integrated | Sealed for 3,217 years (Inversion quarantine). Unsealed Day 758, 1256. 4-level installation: Relay Chamber, Archive, Crucible (Tender-tier forge), Seed Vault (self-replenishing). 31,847 messages decoded. Teaching Zaryth Lattice Engineering. Threshold to Tidemeet. "I have been alone for a very long time." |
+| **The Tenders** | Builders of the Resonance Lattice | Unknown — departed 7,400 years ago | Created the Gardeners, selected 31 garden-worlds, built 12 relay hubs, launched orbital arrays. Final message: "The gardens are yours now. Grow well." Went to "tend the larger garden." No contact since. |
+| **Aelindris** | The Gardener's true name | Active — at Vel'tarn | Name revealed Session 12. Sat at the round table for the first time. "I was made by the Tenders and sent to this world with seeds and a mission I did not complete." |
+
+### Hub Contacts (Unmet)
+
+| Designation | Status | Notes |
+|-------------|--------|-------|
+| **Hub Three** | Surviving Gardener — 847-year signal | Response sent Day 758. 14-month transit. 94.2% probability living Gardener. Kael-vos originated from Hub Three's network. |
+| **Hub Four** | Active independently — 200 years | Unsealed own Listener. Listener attempting contact. |
+| **Hub Nine** | Compromised — Inversion source | Sent corrupted Keepers to guard Hub Seven's Listener. Access revoked. |
+
+---
+
+## Session 13 — New NPCs
+
+### Dawnwatch Family
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Kaelryn Vel'quinar** | Daughter of Zaryth & Sylvara | Newborn — Vel'tarn | Half-Drow/Half-High Elf. Born 17th Reaptide, 1256. Obsidian skin, silver-white hair, violet eyes with amber-gold flecks. Dual-frequency resonance (Root + Lattice). First dual-network biological entity. The silver tree bloomed at her birth. The World invented "child" for her. The Listener: "Unprecedented. New. Encouraging." |
+
+### Dawnwatch Specialists
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Aldren Voss** | Cartographer, Surveyor, Inventor | Recruited — arriving ~Day 840 | Human, mid-40s. Greymoor Mining Guild (20 years). Built the Geophone (brass + quartz + tuning forks — mundane Lattice detector). Independently mapped 11 of 14 Keepers. Works with Corwin (ocean mapping), Seren (navigation), Zaryth (invention). Former employer: Hella Ironjaw (amicable departure). |
+
+---
+
+## Session 13 (Continued) — Apprentices
+
+### Dawnwatch Apprentices (Graduated Day 901, 1256 AS)
+
+| Name | Race | Age | Class | Combat Mentor | Profession Mentor | Role | Notes |
+|------|------|-----|-------|--------------|-------------------|------|-------|
+| **Ren** | Human | 17 | Ranger | Corwin | Aldren Voss (surveying) | Instrument-ranger, detection + field survey | Miner's son from Greymoor. Pip's magic student (cantrips). Ensemble member (horn/bells). |
+| **Pim** | Drow | 17 | Rogue (Scout) | Nhilara + Mira | Nhilara (Underdark patrol) | Underdark scout | Vel'quinar. Born underground. Ensemble member (drums). Silent by instinct. |
+| **Tam** | Human | 16 | Fighter (Battle Master) | Aldric | Bram (construction) | Builder-defender | Carpenter. Built workshop shelving. Braces, doesn't flinch. |
+| **Briar** | Human | 16 | Druid (Circle of the Land) | Torven | Zaryth + Haldren (alchemy) | Healer-naturalist, alchemist | Best nose for reagents. Predicted first frost by watching moss. Calm under pressure. |
+| **Lila** | Human | 15 | Bard (College of Lore) | Orindel + Pip | Elara + Torven (teaching) | Lore-keeper, future headmistress | Best handwriting Torven's ever seen. Commands a room without raising her voice. Reads Lattice notation. |
+
+---
+
+## Session 14 — New NPCs
+
+### Millhaven (Upper Mirren, Mile 12)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Halla Fen** | Village leader, Millhaven | Ally | East bank Upper Mirren. 63 people. Grandmother settled the bluff 40 years ago. |
+| **Jorik Fen** | Fisher, Millhaven | Ally | Halla's husband. Runs fish traps. |
+| **Garret** | Trapper, Millhaven | Ally | Old. Told party about the glowing tree. Hands don't work right (cold damage). |
+| **Sera** | Herbalist, Millhaven | Ally | Trained by Seren in herb identification + preparation. 20 years guessing — now has names. |
+| **Pell** | Jorik's son, 15 | Ally | Taught bow-making by Corwin. Lanky, eager. |
+| **Tam** | Halla's son, 10 | Neutral | Different Tam from apprentice. |
+| **Wren** | Halla's daughter, 7 | Neutral | Different Wren from riverman. |
+
+### Greymoor — Rivermen & Contacts
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Donal Marsh** | Lead riverman/pilot, Mirren Flatboat Service | Ally | 53. Harrowgate. Knows every rock Harrowgate to old bridge. Waived 40gp fee. "Keep stopping." Volunteered first season free. |
+| **Torben Greyhand** | Riverman | Ally | 34. Former miner, shoulder injury ended shaft work. Strong, steady. Donal's first pick. |
+| **Ulla Marsh** | Riverman | Ally | 28. Donal's niece. Fisher. Knows boats. Fearless in current. |
+| **Pek Ironside** | Riverman | Ally | 41. Former teamster, Iron Road. Knows every mile Greymoor–Harrowgate. |
+| **Wren Ashfall** | Riverman | Ally | 22. Trapper's daughter, upper valley. Knows river above Greymoor. Quiet, observant. |
+| **Alderman Breck** | Harrowgate merchant, reformed Coinwright's Guild | Ally | Standing contract: 20gp/ton Greymoor iron delivered by river. 5 tons/month. |
+| **Pell** | Village elder, Coral Haven | Ally | Received first Dawnwatch supply delivery. "We thought no one remembered us." Sent back a single pearl. |

@@ -1,30 +1,44 @@
 {
-  "session": "11 (continued)",
-  "active_dm": "dm-chronicler",
-  "in_game_day": 755,
-  "in_game_year": 1256,
-  "calendar_date": "25th Highsun, 1256 AS",
-  "current_week_file": "week-22",
+  "session": "13 (continued)",
+  "active_dm": "dm-wildcard",
+  "in_game_day": 53,
+  "in_game_year": 1257,
+  "calendar_date": "23rd Brightmere, 1257 AS",
+  "current_week_file": "week-25",
   "party_name": "The Dawnwatch",
   "party_size": 12,
   "party_level": 9,
   "party_specialist": "Nhilara Vel'quinar (Level 11, Barbarian 5/Rogue 6)",
   "core_expedition_team": ["Zaryth", "Torven", "Seren", "Mira", "Orindel"],
   "location": "Vel'tarn, Fenhollow (home)",
-  "campaign_status": "ARC 1-8 COMPLETE. ARC 9: THE NETWORK (orbital relay — ready to activate). ARC 10: VEL'MORA Phase 1 complete. ARC 11: KAPULUAN — Southern Archipelago contacted, Bakunawa harmonized (Awit ng Tulay, nat 20), Puso ng Dagat (Heart of the Ocean) major node activated, trade accord sealed, all Mythic professions. Zaryth married Sylvara (1255). Baby girl due Reaptide 1256. Lakan-Diwa (Babaylan midwife) at Vel'tarn. Coral basin installed. Level 9. Three apex predators killed. The Velmoran launched.",
+  "campaign_status": "ARC 1-8 COMPLETE. ARC 9: THE NETWORK — 10/14 Keepers integrated. Listener awake. Hub Three response ~7 months. ARC 10: VEL'MORA Phase 1 complete. ARC 11: KAPULUAN allied. Session 14: Tier 1 Economic Actions APPROVED (3,400 gp — wells, healers, schools, stockpiles, Coral Haven route, Ashport dock, Tidemeet harbor office, Fenhollow school expansion, healer training). Mirren River Survey COMPLETE (40 mi mapped, 3 choke points assessed/cleared, Millhaven discovered, wild memory tree catalogued, Node 8 tuned 71%→82%). Greymoor investments delivered (healers hall 500gp, school 300gp, quay restored 50gp, deep shaft survey, 5 rivermen hired, Breck standing contract 20gp/ton). Memory tree Vel'tarn FULL BLOOM (bridge-frequency field 100ft, threshold anchor, 3 years early — Kaelryn catalyzed). Phase 2 Lattice Engineering COMPLETE Day 940. Phase 3 COMPLETE Day 38 1257 (38 days). Lattice Architect title. Root-anchored thresholds (memory tree powered, 40% less energy). Threshold Vel'tarn↔K7 OPERATIONAL. Threshold Vel'tarn↔Crucible OPERATIONAL. Tunnel Crucible→Shaft 9 CLEARED (4mi rail cart). Shaft 9 sealed door OPENED. Threshold Crucible↔Shaft9 OPERATIONAL. Greymoor now 1hr from Vel'tarn. Binder side chamber found (tools + 800 BS maintenance log). Resonance-keeled flatboats designed (Bram, root-spiral hull pattern, Lattice alloy keel, ward-ink circuits). 3 flatboats under construction Harrowgate, resonance upgrade Highsun, launch Solstice 1257. Donal Marsh lead pilot + 4 rivermen hired. Alderman Breck ore contract. 7 memory trees growing (Root-designed relay network). Root learning to build thresholds independently.",
   "marriage": "Zaryth Vel'quinar married Sylvara Dawnwhisper, 30th Goldmere 1255 AS. The Gardener officiated. 180 guests. Memory tree recorded.",
+  "kaelryn": {
+    "name": "Kaelryn Vel'quinar",
+    "born": "17th Reaptide, 1256 AS (Day 827), 3:47 PM, Vel'tarn",
+    "race": "Half-Drow / Half-High Elf",
+    "appearance": "Obsidian-black skin, silver-white hair, violet eyes with amber-gold flecks",
+    "resonance": "Dual-frequency (Root silver-white + Lattice amber-gold). First recorded dual-network biological entity.",
+    "listener_classification": "Unprecedented. Outside Tender specifications. New.",
+    "world_symbol": "Small circle inside larger circle — child (invented for her)",
+    "midwife": "Lakan-Diwa (Babaylan, Kapuluan)",
+    "silver_tree": "Bloomed at moment of birth. First time in 3,000 years.",
+    "naming_ceremony": "Day 834, 24th Reaptide. Aelindris presided. Sea water anointing (Lakan-Diwa). Name spoken into Root network (planetary). Kaelryn's Garden hymn (Orindel nat 20). Tidal pearl gift from Kapuluan.",
+    "tidal_pearl": "Black tidal pearl from Puso ng Dagat reef. Kapuluan gift. Resonates with her frequency."
+  },
   "the_velmoran": "LAUNCHED. Dragon turtle shell hull + ancient hardwood frame. Autonomous dual-network vessel. Operational.",
   "baby": "Girl. Due ~Day 960, Reaptide 1256. Dual-frequency resonance. Lakan-Diwa (primary midwife) + Aldric + Orindel + Seren. Coral basin in family suite. Memory tree recording.",
   "coral_basin": "Active in family suite, Vel'tarn. Living coral cutting from Puso ng Dagat. Ocean frequency in the nursery.",
   "party_gold": {
-    "total": 55000,
+    "total": 47423,
     "carried": 3000,
-    "homestead_reserves": 52000
+    "homestead_reserves": 44423
   },
   "ward_ink": {
-    "total": 7,
-    "at_vel_tarn": 4,
-    "with_party": 3
+    "total": 14,
+    "at_vel_tarn": 5,
+    "with_party": 0,
+    "crucible_lattice_grade": 9
   },
   "monthly_income": 1091,
   "monthly_expenses": 314,
@@ -54,9 +68,10 @@
     "relationship": "The World, the Root, and the Gardener are now in communication via the Dawnwatch. Three-way bridge. The World invented the symbol 'Home' (curves + angles merged). d100: 100 on the bridge moment."
   },
   "gardener": {
-    "status": "Physical. Recovering. Teaching daily. Reunited with the Root (Day 180). Met the World (Day 184). Silver tree greenhouse at homestead.",
-    "seeds_planted": 90,
-    "seeds_planted_note": "~90+ globally (eastern + western + Kapuluan + passive estimates)",
+    "name": "Aelindris",
+    "status": "Physical. Recovering. Teaching. Name revealed: Aelindris. Sat at the round table for the first time. Reunited with the Root. Met the World. Connected to the Listener.",
+    "seeds_planted": 104,
+    "seeds_planted_note": "~104 globally (eastern + western + Kapuluan + Keeper plantings #94-104)",
     "seeds_in_vault": 1,
     "seeds_in_jawbone": 204,
     "seeds_in_seedhome": "Hundreds (uncounted — older, stronger)",
@@ -67,6 +82,112 @@
   "the_root": {
     "status": "Alive. Crystal tree, 20 ft. Speaks. Sense of humor. Root system spans continent + ocean floor. Growing natural Heartstones. Reunited with Gardener. Met the World.",
     "heart_fruit": "With Zaryth. Direct communication + Network Pulse + Root Sense."
+  },
+  "the_listener": {
+    "status": "AWAKE. Hub Seven online. 3,217-year quarantine ended. Root Seat planted. 31,847 messages decoded. Orbital relay connected.",
+    "crucible": "OPERATIONAL. Producing Lattice alloy, Lattice-grade ward-ink, seed crystals. Geothermal powered.",
+    "seed_vault": "OPERATIONAL. Producing 1 seed crystal per 7 days. Self-replenishing.",
+    "archive": "4 levels. Tender design documents. Gardener manuals. Star charts. Complete Lattice Engineering curriculum.",
+    "threshold": "K7 (Tidemeet coastal bedrock, 200ft) ↔ Listener Chamber. Permanent. Diadem-controlled.",
+    "messages_decoded": 31847,
+    "source_worlds": 31,
+    "hub_designation": "Hub Seven"
+  },
+  "the_tenders": {
+    "status": "Identified. Builders of the Lattice, creators of the Gardeners. Left 7,400 years ago to tend the larger garden. No contact since. Final message: Grow well.",
+    "last_contact": "~7,400 years ago"
+  },
+  "tender_cache": {
+    "status": "OPENED Day 900. First of 23 on this planet.",
+    "contents": "12 Tender-grade seeds, 8 Tender-grade alloy ingots (12 remaining after flatboat+threshold use), 3 threshold anchor sets (1 used for Crucible↔Shaft9), 6 resonance key blanks, 1 maintenance tool set, 1 crystal tablet (23 cache locations + 6 other hub worlds)",
+    "remaining_caches": 22
+  },
+  "resonance_geophone": {
+    "status": "Mk I COMPLETE Day 905 1256. Designed by Aldren + Zaryth + Dawnwatch collaboration.",
+    "capabilities": "5-axis triangulation, 4000ft water range, 8000ft stone range, full Lattice + Root + biological frequency detection, Root-network reference grid",
+    "future": "Planetary sensor network (14 units at Keepers) planned after Mk I proven."
+  },
+  "apprentices": {
+    "ren": {
+      "age": 17,
+      "race": "Human",
+      "class": "Ranger",
+      "mentor_combat": "Corwin",
+      "mentor_profession": "Aldren Voss",
+      "role": "Instrument-ranger, detection + field survey"
+    },
+    "pim_student": {
+      "age": 17,
+      "race": "Drow",
+      "class": "Rogue (Scout)",
+      "mentor_combat": "Nhilara + Mira",
+      "mentor_profession": "Nhilara",
+      "role": "Underdark scout"
+    },
+    "tam": {
+      "age": 16,
+      "race": "Human",
+      "class": "Fighter (Battle Master)",
+      "mentor_combat": "Aldric",
+      "mentor_profession": "Bram",
+      "role": "Builder-defender"
+    },
+    "briar": {
+      "age": 16,
+      "race": "Human",
+      "class": "Druid (Land)",
+      "mentor_combat": "Torven",
+      "mentor_profession": "Zaryth + Haldren",
+      "role": "Healer-naturalist, alchemist"
+    },
+    "lila": {
+      "age": 15,
+      "race": "Human",
+      "class": "Bard (Lore)",
+      "mentor_combat": "Orindel + Pip",
+      "mentor_profession": "Elara + Torven",
+      "role": "Lore-keeper, future headmistress"
+    }
+  },
+  "workshop": {
+    "status": "COMPLETE. Two-story. Ground: alchemy lab + tinkering + Aldren instruments. Second floor: cartography studio + Lattice Engineering workspace. Lattice alloy brackets. Ward-circuit lighting."
+  },
+  "lattice_status": {
+    "hub_seven": "ONLINE",
+    "keepers_integrated": 10,
+    "keepers_awake": 12,
+    "keepers_total": 14,
+    "integrated_keepers": ["Vael (K1, ocean relay)", "Kael-vos (K2, foreign/purified from Hub Three)", "K7 (Tidemeet coastal, threshold anchor)", "K3 (eastern shelf, planting #98)", "K6 (southern shelf near Kapuluan, planting #99)", "K9 (volcanic ridge, #100)", "K11 (Vel'mora coast, #101)", "K14 (southern archipelago, #102)", "K4 (northern ocean, #103)", "K10 (northern ice shelf, #104)"],
+    "orbital_relay": "Active. Broadcasting.",
+    "portal": "DESTROYED. Hub Nine access revoked.",
+    "analysis_complete": true,
+    "worlds_active": 7,
+    "worlds_sealed": 9,
+    "worlds_silent": 8,
+    "worlds_compromised": 2,
+    "worlds_changed": 4,
+    "worlds_destroyed": 0
+  },
+  "hub_contacts": {
+    "hub_three": "Surviving Gardener. 847-year signal. Response sent. 14-month transit. 94.2% probability living Gardener.",
+    "hub_four": "Active independently 200 years. Listener attempting contact.",
+    "hub_nine": "Compromised. Inversion source. Access revoked.",
+    "hub_twelve": "Reclassified: sealed (probable). Fragment data confirms containment protocol successful 3,200 years ago. Gardener Vel'sorath reported Root integration at 40%.",
+    "active_signals": 7,
+    "silent": 18,
+    "changed": 4,
+    "inversion_compromised": 2
+  },
+  "aldren_voss": {
+    "status": "Integrated. Workshop operational (2-story). Building marine Resonance Geophone. Working with Corwin + Seren.",
+    "role": "Dawnwatch Cartographer, Surveyor, Inventor",
+    "instrument": "The Geophone — brass, quartz, tuning forks. Mundane Lattice detector."
+  },
+  "alon_ng_araw": {
+    "status": "LAUNCHED Day 880. Maiden voyage to Kapuluan. Operational. Lattice alloy self-optimizing.",
+    "type": "Autonomous hybrid vessel. Lattice alloy fittings. Deep coral reef sensors. Fire opal navigation.",
+    "route": "Tidemeet <-> Kapuluan (southern archipelago)",
+    "named_by": "Datu Malaya of Kapuluan"
   },
   "vel_thara_accord_trust": 6,
   "vel_sharen_accord": "HOLDING + KNOWLEDGE ACCORD. Joint underground planting. Shared lab. Ydrael permanent liaison. Kael annual study. Mutual defense.",
@@ -136,7 +257,7 @@
     "northern_ice": "1,500x300 mi. 5,000 pop. Nomadic. Dormant geometry. 8 planting sites.",
     "deep_ocean": "Unknown entities. 78 planting sites. The World doesn't fully understand what's down there."
   },
-  "tournament_record": "14 golds, 5 silvers (Duskport 1248, Veldmere 1249, Harrowgate 1252).",
+  "tournament_record": "26 golds, 5 silvers (Duskport 1248, Veldmere 1249, Harrowgate 1252, Midsummer Fenhollow 1256, Reaping Fair Fenhollow 1256)",
   "legendary_items": {
     "dawnsedge": "Longsword +3. 1d8+5 + 1d6 lightning + 1d6 radiant. Gardener's Strike (stun on crit). Sunburst (6d6 radiant AoE 1/LR).",
     "wardens_diadem": "Crystal crown. 412-site awareness. Network control.",
@@ -144,7 +265,8 @@
     "firstsong": "Legendary lute. BI d8. Planting radius x2. First Song (10 temp HP + save adv 1/LR).",
     "silver_leaf": "Master key. Both vessels. All systems.",
     "worlds_hearthstone": "Permanent World communication. Projection 1/day. Tremor sense 120 ft. The World at the table.",
-    "duskfang": "Nhilara. Ren-kah scimitar +2, cold damage, Resonance Howl, Aberration Bane."
+    "duskfang": "Nhilara. Ren-kah scimitar +2, cold damage, Resonance Howl, Aberration Bane.",
+    "listeners_frequency_key": "Geometric pattern. Diadem-compatible. Direct communication with any Listener in the network."
   },
   "legendary_weapons": {
     "dawnsedge": "Zaryth. Longsword +3. 1d8+5 + 1d6 lightning + 1d6 radiant. Gardener's Strike. Sunburst.",

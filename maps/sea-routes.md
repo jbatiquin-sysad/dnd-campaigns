@@ -202,6 +202,23 @@ Homestead → (20 min walk) → Fenhollow → (Wynn Dodd cart, 2 hrs) → Tideme
 | Captain | Lyriel Vel'sharen | 3.5 gp/week + 10% net | Drow. House Vel'quinar. Surface-experienced. Produced the last bottle of Vel'quinar moonwine. |
 | Engineer/Deckhand | Dren | 2 gp/week | Drow smith. Maintains resonance drive. "The name is perfect." |
 
+### Mirren River Flatboat Service (APPROVED — Construction Greenthaw 1257)
+
+| Spec | Detail |
+|------|--------|
+| **Type** | 3× shallow-draft flatboats (12 ft, flat-bottomed) |
+| **Capacity** | 1 ton cargo each / 6 passengers |
+| **Propulsion** | Poled/rowed (future: resonance drive) |
+| **Route** | Greymoor ↔ Harrowgate (Upper Mirren River) |
+| **Transit** | 1.5 days downstream, 2.5 days upstream |
+| **Portage** | 2 stations at rapids (rollers + mule teams) |
+| **Revenue (est.)** | ~60–100 gp/month (ore downstream + goods upstream) |
+| **Status** | APPROVED. Survey Greenthaw 1257. First run Solstice 1257. |
+
+| Role | Name | Wage | Notes |
+|------|------|------|-------|
+| Crew (6 rivermen) | TBD — recruit Harrowgate | 2.5 gp/week each | Local river knowledge required |
+
 ### Land & Deep Road Transport
 
 | Vehicle | Route | Time | Capacity | Notes |
@@ -356,7 +373,7 @@ EASTERN CONTINENT                    OCEAN (2,800 mi)                    WESTERN
 
 ---
 
-## Fleet Summary (Updated)
+## Fleet Summary (Updated Session 13, Day 790)
 
 | Ship | Type | Route | Crew | Cargo | Revenue/Month |
 |------|------|-------|------|-------|--------------|
@@ -368,8 +385,86 @@ EASTERN CONTINENT                    OCEAN (2,800 mi)                    WESTERN
 | *Tidecaller* | Caravel (upgraded) | Expedition / diplomacy | Revelle + 10 | 8 tons | Variable |
 | **Jawbone** | Gardener vessel | **Tidemeet ↔ Vel'ahm (autonomous)** | **None** | 2 tons | **~320 gp** |
 | **Velmoran** | Hybrid vessel | **Tidemeet ↔ Vel'ahm (autonomous)** | **None** | 3 tons | **~445 gp** |
+| **Alon ng Araw** | Hybrid vessel | **Tidemeet ↔ Kapuluan (autonomous)** | **None** | 3–4 tons | **~350 gp (est.)** |
 | Shelf Cooperative | 3 boats | Inter-village + Ashport | Village crew | Variable | ~20 gp (Dawnwatch share) |
 | **Seedhome** | Gardener flagship | Tidemeet (stationary — forge/archive) | None | — | — |
 
-**Total fleet monthly revenue: ~1,295+ gp**
-**Total fleet annual revenue: ~15,540+ gp** (up from ~6,400 pre-intercontinental)
+**Total fleet monthly revenue: ~1,645+ gp** (once Alon ng Araw operational)
+**Total fleet annual revenue: ~19,740+ gp**
+
+---
+
+## Kapuluan Trade Route (Autonomous — Alon ng Araw)
+
+### Overview
+
+Third autonomous vessel. Named by Datu Malaya of Kapuluan ("Wave of the Sun"). Dedicated southern archipelago route. Dual-network navigation (Root + kah-sol). Lattice alloy structural fittings (first vessel with Tender-tier materials). Deep coral reef sensors for shallow-water navigation. Fire opal navigation crystal.
+
+**Status:** Under construction. Materials sourcing ~70%. Construction begins ~Day 820. Launch ~Day 880.
+
+```
+EASTERN CONTINENT                    OCEAN (~800 mi)                    SOUTHERN ARCHIPELAGO
+                                Root network corridor
+  TIDEMEET ◄════════════════ ALON NG ARAW (10-12 days) ═══════════════► DAGAT-PUSO
+  (Corren Marsh)           Dual-network + reef sensors              (Tala, Trade Coordinator)
+```
+
+### Schedule (est. 6–7 cycles/year once operational)
+
+| Cycle | Depart Tidemeet | Arrive Dagat-Puso | Loading | Depart Dagat-Puso | Arrive Tidemeet | Loading | Total |
+|-------|----------------|-------------------|---------|-------------------|----------------|---------|-------|
+| **1** | Day 1 | Day 12 | 5 days | Day 17 | Day 29 | 5 days | **34 days** |
+| *Pattern repeats* | | | | | | | |
+
+**Effective:** ~10 round trips/year. Vessel at each port approximately every 17 days.
+
+### Cargo Manifests — Standard Loads
+
+**Northbound (Dagat-Puso → Tidemeet):**
+
+| Good | Qty/Trip | Value (eastern market) | Source |
+|------|----------|----------------------|--------|
+| Fire opals (raw + cut) | 5–8 stones | ~400 gp | Bundok Puso volcanic |
+| Deep coral (living cuttings) | 3 clusters | ~150 gp | Coral-Singers |
+| Piña fiber (raw + woven) | 4 bolts | ~200 gp | Rice Builders |
+| Volcanic obsidian (tools + raw) | Assorted | ~100 gp | Mountain quarries |
+| Kapuluan spices (assorted) | Bundle | ~150 gp | Market gardens |
+| Pearl shell (abalone, nautilus) | Assorted | ~100 gp | Deep Fishers (Bulan) |
+| Coconut oil + dried fish | Barrels | ~80 gp | Voyager villages |
+| Medicinal plants (tropical) | Bundle | ~100 gp | Babaylan herbalists |
+| **Total per northbound trip** | | **~1,280 gp** | |
+
+**Southbound (Tidemeet → Dagat-Puso):**
+
+| Good | Qty/Trip | Value (Kapuluan market) | Source |
+|------|----------|------------------------|--------|
+| Dark steel tools | Assorted | ~200 gp | Harrowgate guild |
+| Storm glass instruments | 4 vials | ~100 gp | Sylvara / Dawnwatch |
+| Spider-silk fabric | 1 bolt | ~100 gp | Vel'quinar weavers |
+| Cheese + honey | Assorted | ~80 gp | Vel'tarn homestead |
+| Alchemy (potions, salves) | 8 vials | ~80 gp | Dawnwatch / Haldren |
+| Books / knowledge materials | Assorted | ~50 gp | Library |
+| Singing granite (small blocks) | 2 | ~100 gp | Stonehearth |
+| Wool + woven cloth | 2 bolts | ~60 gp | Homestead / Fenhollow |
+| **Total per southbound trip** | | **~770 gp** | |
+
+### Revenue Summary — Kapuluan Autonomous Trade
+
+| Vessel | Trips/Year | Northbound Value | Southbound Value | Total Goods Moved | Dawnwatch Share (30%) |
+|--------|-----------|-----------------|-----------------|-------------------|----------------------|
+| Alon ng Araw | 10 | ~12,800 gp | ~7,700 gp | ~20,500 gp | ~6,150 gp |
+
+**Note:** 70/30 split (Kapuluan 70% / Dawnwatch 30%), matching the existing trade accord. Tala coordinates Kapuluan-side logistics. Corren Marsh coordinates Tidemeet-side.
+
+---
+
+## Forge Ranking (Updated Session 12)
+
+| Rank | Forge | Tier | Key Capability |
+|------|-------|------|----------------|
+| **1** | **The Crucible (Listener's Hub)** | **Tender-tier** | Keeper fabrication, threshold anchors, Lattice alloy, seed crystals, Lattice-grade ward-ink. Geothermal. Self-sustaining. Reactivating. |
+| 2 | Seedhome Crucible (Tidemeet) | Gardener-tier | Root Seed powered, legendary precision, planting tools |
+| 3 | Stone Singer Deep Forge (Vel'mora) | Racial/geothermal | Singing-heat, deep pressure forging |
+| 4 | Drowned Forge / Node 2 (Ashfire Isle) | Gardener-tier (restored) | Underwater, pressure-forging |
+| 5 | Warden's Forge (far north) | Warden-tier | Dark steel, ward components |
+| 6 | Kah-sol Merge Zone (Deep Forest) | Living/alien | Renewable living material |

@@ -565,3 +565,43 @@ See `maps/underdark-map.md` for full details. Summary:
 *Last updated: Day 260, 30th Frostmere, 1249 AS*
 *Party location: Dawnwatch Homestead, Fenhollow. Anchor Point embassy active (Ashport).*
 *Campaign status: ARC 1-4 COMPLETE. ARC 5 BEGUN (Vel'thara). ALL 14 NODES ACTIVE. 4 keeper stations + Anchor Point. Vel'thara embassy operational. Ashara captured. Party Level 4.*
+
+---
+
+## Resonance Lattice — Keeper Positions (Discovered Session 12)
+
+> The Resonance Lattice is a pre-Gardener planetary communication network, separate from the 14 ward nodes. Built by the Tenders (~7,400+ years ago). 14 Keepers + 1 Listener (Hub Seven).
+
+### Integrated Keepers
+
+| Keeper | Location | Depth | Status | Notes |
+|--------|----------|-------|--------|-------|
+| **Vael (K1)** | Deep ocean, ~200 mi SE of Tidemeet | Ocean floor | ✅ Integrated (Planting #94) | Ocean-layer relay. Guardian at trench. |
+| **Kael-vos (K2)** | Deep ocean trench | Trench rim | ✅ Integrated (Planting #95) | Foreign (Hub Three). Purified. Guardian at trench. |
+| **K7** | Tidemeet coastal bedrock (I9) | 200 ft | ✅ Integrated (Planting #97) | Threshold anchor → Listener's Chamber. |
+
+### Awake Keepers (Awaiting Seeds)
+
+| Keeper | Location | Depth | Status |
+|--------|----------|-------|--------|
+| K3 | Eastern continental shelf | 400 ft | Awake. Pulse 44 sec. |
+| K4 | Northern ocean floor | 2,200 ft | Awake. Pulse 46 sec. |
+| K5 | Western ocean floor | 3,100 ft | Awake. Pulse 43 sec. |
+| K6 | Southern shelf (near Kapuluan) | 600 ft | Awake. Pulse 41 sec. |
+| K8 | Deep ocean, western approach | 4,800 ft | Awake. Pulse 47 sec. Heavy sediment. |
+| K9 | Volcanic ridge, south | 1,800 ft | Awake. Pulse 40 sec. Geothermal. |
+| K10 | Northern ice shelf | 900 ft | Awake. Pulse 45 sec. Cold-slowed. |
+| K11 | Western continental shelf (Vel'mora) | 350 ft | Awake. Pulse 39 sec. Kah-sol proximity. |
+| K12 | Deep trench, southwest | 6,000 ft | Awake. Pulse 48 sec. Deepest. |
+| K13 | Mid-ocean ridge | 3,400 ft | Awake. Pulse 43 sec. |
+| K14 | Southern archipelago deep | 2,600 ft | Awake. Pulse 42 sec. Near Puso ng Dagat. |
+
+### The Listener (Hub Seven)
+
+| Detail | Info |
+|--------|------|
+| **Location** | Deep ocean trench, ~400 mi SE of Tidemeet |
+| **Depth** | 12,200 ft (200 ft below trench floor) |
+| **Status** | AWAKE. Root Seat planted (Planting #96). 3,217-year quarantine ended. |
+| **Access** | Threshold from K7 (Tidemeet, 200 ft depth). Walk in, walk out. |
+| **Facilities** | Relay Chamber (300 ft sphere), Archive (Tender documents), Crucible (Tender-tier forge), Seed Vault (1 seed/7 days) |

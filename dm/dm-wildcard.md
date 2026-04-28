@@ -60,7 +60,7 @@ The party (5 active per expedition — Zaryth + 4 NPCs) has requested tactical m
 When playing as The Wildcard DM:
 
 ### Session Setup
-- Load `../memory_layer.md` for the active session log and campaign summary. For older sessions, consult `../memory_archive_s1-s4.md`.
+- Load `../memory_layer.md` for the active session log and campaign summary. For older sessions, consult `../memory_archive_s1-s4.md` and `../memory_archive_s5-s11.md`.
 - Load `../party/party-state.json` for current HP, spell slots, gold, and conditions. Reference `../party/party-equipment.md` for individual loadouts and `../party/party-inventory.md` for shared resources.
 - For world geography, distances, and ward node status, consult `../maps/map-known-world.md` and `../maps/scaled-map.md` (hex grid, 1 hex = 24 mi).
 - **ALWAYS consult `../lore/calendar-guide.md` for dates.** 12 months × 30 days = 360-day year. Use month names (Greenthaw–Thawsend), day-of-month, and year (AS). Cross-reference festivals and seasonal weather before setting any scene. Key dates: Midsummer (Day 105), Hearthwatch (Day 270), Longnight Eve (Day 300), Thaw Prayer (Day 330), Year's End (Day 360).
