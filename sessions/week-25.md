@@ -115,3 +115,70 @@ The Dawnwatch approved Tier 1 economic actions (3,400 gp, 9 initiatives targetin
 - **Memory tree:** Full bloom. Bridge-frequency. Threshold anchor. Root designing its own network.
 - **Lattice Architect:** Phase 1-3 complete. Root-anchored thresholds.
 - **Next:** Flatboat resonance upgrade (Highsun). Dark steel at Crucible. Unknown mineral 780ft. Tier 1 progressing. Hub Three ~7 months.
+
+### Substrate-Zero Discovery & Source Node Seven (Day 53)
+
+**Team Deep:** Zaryth, Aldren Voss, Bram, Aldric, Seren, Nhilara.
+**Team Home:** Sylvara, Torven, Orindel, Pip, Thessaly, Mira, Corwin (operations + income).
+
+- Transit via threshold chain to Shaft 9, lift to 780ft.
+- **Substrate-Zero identified.** Tender designation: Planetary Foundation Material. Golden-ratio harmonic (1.618x Root base). Bridge mineral — conducts Root + Lattice natively. 11 deposits on continent, Greymoor largest. Predates Tenders, predates geology.
+- Root + Listener consulted before extraction. 47 applications (top 3: self-sustaining thresholds, universal network bridge, 3x seed amplification).
+- **3 samples extracted** (d100: 61, positive). Alpha 2.1lb flawless, Beta 0.8lb excellent, Gamma 0.2lb good.
+- **Scout to 900ft** (d100: 91 wild card → 84 windfall). Cathedral gallery at 870ft. Substrate-Zero glowing, pulsing 47 bpm.
+- **Source Node Seven.** 900ft. Circular chamber, 80ft across. Sphere on plinth, 2ft diameter, deep amber-bronze. Every frequency simultaneously. Predates rock formation.
+- **Tender Priority Zero message unsealed** (7 seals, 7,400 years). Tenders studied source nodes 11,000 years across 31 worlds — never determined what they are. Built Lattice to interface. Never told Gardeners.
+- **Zaryth touched the sphere.** "You are the first to come back." First reciprocal contact across 31 worlds. "I am the first note. The song is what you build. Will you listen back?" — "We are honored to listen back."
+- **Planetary pulse.** Root: "I was growing from it." World surprised for first time (4 billion years). Listener: unprecedented event. Aelindris laughed. Kaelryn's tidal pearl + silver blossom sang.
+- **Map of 31 worlds** received via Diadem. Source nodes connected by sub-Lattice threads.
+- **Briefing at round table.** Aelindris informed. "I am not a child anymore."
+- **LEVEL 10.** All Dawnwatch members. Celebration at Hall.
+
+### Level 10 Features
+- Zaryth: Aura of Courage (fear immunity 10ft), Lay on Hands 50
+- Mira: Alert feat (+5 init, can't be surprised)
+- Aldric: Divine Intervention (10%), Holy Weapon
+- Sylvara: Resilient (CON) feat, 2x 5th slots, Telekinesis, Bigby's Hand
+- Bram: INT 20, Steel Wind Strike, Transmute Rock
+- Thessaly: Sentinel feat
+- Orindel: Bard 7, Greater Invisibility, Polymorph
+- Pip: Bard 7, Dimension Door, Compulsion
+- Seren: Heightened Focus, permanent water/wall running, 10 ki
+- Torven: WIS 20 (DC 19 w/ staff), Scrying, Contagion
+
+### Notable Rolls
+
+| Day | Roll | Context |
+|-----|------|---------|
+| 53 | d100: 74 | Deep expedition launch — shafts quiet, good air (positive) |
+| 53 | d100: 61 | Substrate-Zero extraction — clean crystal planes (positive) |
+| 53 | d100: 42 | Scout fissure — neutral approach |
+| 53 | d100: 91 | Approach to 900ft — WILD CARD |
+| 53 | d100: 84 | Wild card secondary — windfall. "The universe wants you to find this." |
+
+### Team Home Income (Day 53, parallel)
+
+| Operation | Lead | Projected Monthly |
+|-----------|------|-------------------|
+| Resonance fabric | Thessaly | ~250 gp |
+| Tidemeet harbor | Corwin/Corren | ~60 gp |
+| Agricultural ward | Torven | ~180 gp |
+| Dairy/cheese | Homestead | ~35 gp |
+| Apothecary | Haldren | ~180 gp |
+| Alchemy line | Briar (assisting) | ~250 gp |
+| Glassware | Sylvara | ~75 gp |
+| Forge contracts | Tam (assisting) | ~110 gp |
+| Fleet | 6 vessels + coop | ~500 gp |
+| Ore contract | Donal Marsh | 100 gp |
+| Ensemble | Orindel/Kael | ~20 gp |
+| **Total** | | **~1,760 gp** |
+
+## State at Session Pause
+
+- **Date:** 23rd Brightmere, 1257 AS (Day 53)
+- **Level:** 10 | **Gold:** ~47,423 gp | **Ward-ink:** 5 | **Alloy:** 12 (9+3) | **Anchors:** 3
+- **Thresholds:** 4 operational
+- **Source Node Seven:** CONTACTED. First reciprocal contact. Sphere active. Map of 31 worlds in Diadem.
+- **Substrate-Zero:** 3 samples at Vel'tarn. Phase 4 unlocked.
+- **Aelindris:** Informed. Laughed. "I am not a child anymore."
+- **Next:** Phase 4 Lattice Engineering. Substrate-Zero at Crucible. Self-sustaining threshold prototype. Flatboats (Highsun). 22 caches. 4 deep-ocean Keepers. Hub Three ~7 months. The song is ours to build.

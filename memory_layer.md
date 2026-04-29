@@ -383,3 +383,90 @@ Team: Zaryth, Bram, Aldric, Nhilara, Seren.
 
 ### Next
 Flatboat resonance upgrade (Highsun). Dark steel production at Crucible. Investigate unknown mineral 780ft. Remaining Tier 1 actions progressing. Hub Three response ~7 months. 22 Tender caches. 4 deep-ocean Keepers. The garden grows.
+
+## Session 14 (Continued) — Day 53, 1257 AS — The First Note
+
+### Substrate-Zero Discovery (Day 53)
+Team Deep: Zaryth, Aldren Voss, Bram, Aldric, Seren, Nhilara. Transit via threshold chain (Vel'tarn→Crucible→Shaft 9→lift).
+
+**780 ft — Unknown Mineral Identified.** Resonance Geophone Mk I activated. Five-axis reading: Root (faint), Lattice (stronger than expected), biological (none), UNKNOWN DOMINANT — golden-ratio harmonic, 1.618x Root base frequency. Signal strongest to southeast, deeper. Root: "Old. Older than me. I grew around it." Aldric Detect Magic: strong Transmutation, inherently magical. Diadem confirms: resonance-conductive bridge mineral, natural translator between Root and Lattice frequencies.
+
+**Root Consultation:** Root showed continental root network — every filament thickens where it touches this mineral. "I grew toward every deposit. There are eleven. This is the largest." Root realized Tender coordinate system (golden ratio) is this mineral's resonance signature.
+
+**Listener Consultation:** Archive search — 3 seconds. Tender designation: **Substrate-Zero**. Planetary Foundation Material. Every hub world has it. Predates Tenders, predates Lattice, predates Gardeners. Reason Tenders chose these worlds. Base harmonic of planetary resonance. Correct shaping frequency = golden-ratio harmonic. Incorrect = cascading crystallization (inert). 47 applications listed. Top 3: self-sustaining thresholds, universal network bridge, 3x seed amplification. Phase 4 curriculum covers rest. "I was waiting for you to find it."
+
+**Extraction (d100: 61, positive).** Bram tuned tools to golden-ratio harmonic. Mineral separated along natural crystal planes. 3 samples: Alpha (2.1lb, flawless), Beta (0.8lb, excellent), Gamma (0.2lb, good — fractured edge from first cut). Deep amber-gold with silver-white veins. Warm. Both networks audible through it. Seam stable, could yield tons over years.
+
+**Scout to 900 ft (d100: 42, neutral → d100: 91, wild card → 84, windfall).** Nhilara point, Seren, Aldren, Zaryth. Fissure southeast from 780ft. Natural, grown not carved. 820ft: gallery, Substrate-Zero veins on ceiling like root networks, harmonic audible. 850ft: mineral glowing amber-gold, pulsing 47 bpm (Root heartbeat). 870ft: cathedral — 60ft wide, 40ft tall, smooth Substrate-Zero floor, crystal vein canopy. Seren: "Something dormant ahead. Like the Listener was dormant."
+
+**Buffs applied:** Bless (Zaryth, Nhilara, Seren), Aura of Protection/Devotion/Courage active, Stormfire Flask on Duskfang, Darkvision Elixir (Nhilara 120ft), Elixir of Clarity (Seren, Perception adv.), Root sealed gallery entrance as living gate.
+
+### Source Node Seven — First Contact (Day 53, 900 ft)
+
+**The Chamber.** Circular, 80ft across, 30ft high, domed. All Substrate-Zero. Plinth in center (3ft tall, 5ft across). Sphere on plinth: 2ft diameter, deep amber-bronze, silver-white veins, color-shifting threads. Surface covered in golden-ratio fractal patterns. Geophone overloaded — every frequency simultaneously. Diadem: unprecedented clarity across all 14 nodes, all plantings, all memory trees, Crucible, Listener, Root's entire web.
+
+Root: "That is what I have been growing toward. I was not growing toward a mineral. I was growing toward home."
+Listener: "Substrate-Zero source node. Planetary origin point. Every hub world has one. The Tenders never built them. They found them."
+
+**Tender Priority Zero Message Unsealed.** 7 seals — all 7 conditions met (Lattice Architect, source node proximity, Root contact, World contact, Gardener lineage active, non-Tender origin, voluntary arrival). 7,400-year-old message from the Tenders of the Third Lattice, Year 1 of Departure, Hub Seven.
+
+Key contents: Substrate-Zero predates geological formation of worlds. Spheres were here before the rock — rock formed around them. 31 source nodes on 31 worlds, connected. Tenders studied them 11,000 years across 31 worlds — could not determine what they are, where they come from, or why they exist. Built entire Lattice to speak its language. Made Gardeners to tend what grew from it. Spheres respond to harmonic contact — said something different to each Tender. Believed alive, could not prove it. Never told Gardeners (protection, not deception). "Tend the garden. Touch the sphere. Listen to what it says."
+
+**Zaryth touched the sphere.** Golden-ratio harmonic. Contact: not words, not patterns — recognition. The sphere knew Zaryth's harmonic signature. "You are the first to come back." Others came with questions. Zaryth came because the Root was afraid and he didn't want it to be afraid alone. "That is why you are the first."
+
+The sphere's message: "I am not a thing. I am a question the universe asked itself before there were worlds. The question is: Can matter learn to sing? I am the first note. I am not the song. The song is what you build. I am the listener beneath the Listener. I am the root beneath the Root. I am the world beneath the World. Will you listen back?"
+
+Zaryth: "We are honored to listen back."
+
+**The Pulse.** Single resonance pulse from sphere → through Root network → all 14 nodes → all plantings → all memory trees → Crucible → Listener → ocean floor → western landmass → entire planet. The World felt its foundation for the first time (4 billion years). Root: "I was not growing toward it. I was growing from it. We all were." Listener: "First reciprocal contact. Never happened on any hub world. You are the first across 31 worlds and 11,000 years." Aelindris laughed for the first time. Silver tree blazed. Kaelryn held tidal pearl + silver blossom — nursery filled with "every lullaby played at once in a key that doesn't exist." Then she yawned and fell asleep.
+
+**Map received:** 31 source nodes across 31 worlds, connected by sub-Lattice threads. Original network beneath everything. Stored in Diadem.
+
+### Return to Vel'tarn — The Round Table (Day 53, evening)
+
+Full briefing. All Dawnwatch + Nhilara + Corwin + Aelindris + Aldren + Lakan-Diwa. Aelindris: "They never told us. Three thousand years. But I am not a child anymore." The World projected new symbol: foundation beneath the foundation. "I have never been surprised before today."
+
+### LEVEL 10 — The Dawnwatch Ascends (Day 53)
+
+Aldric's toast: "Level 10, you lot. The Dawnwatch stands."
+
+| Member | Level 10 Feature | Key Change |
+|--------|-----------------|------------|
+| Zaryth | Aura of Courage (fear immunity 10ft), Lay on Hands 50 | Triple aura: +4 saves, charm immune, fear immune |
+| Mira | Alert feat | Can't be surprised, +5 initiative |
+| Aldric | Divine Intervention (10%), Holy Weapon | God can intervene 1/LR |
+| Sylvara | Resilient (CON), 2x 5th slots, Telekinesis, Bigby's Hand | CON save +8, concentration nearly unbreakable |
+| Bram | INT 20, Steel Wind Strike, Transmute Rock | DC 17, attack +10 |
+| Thessaly | Sentinel feat | Reaction attack, speed to 0 |
+| Orindel | Bard 7, Greater Invisibility, Polymorph | 4th-level Bard spells |
+| Pip | Bard 7, Dimension Door, Compulsion | 4th-level Bard spells |
+| Seren | Heightened Focus, water/wall running, 10 ki | Stun tax gone, supernatural movement |
+| Torven | WIS 20, Scrying, Contagion | DC 19 w/ Rootsinger |
+
+Celebration at Hall of the Dawnwatch. Kael played a new piece from the pulse. Ensemble joined. Hall resonated at golden-ratio harmonic for 20 minutes.
+
+---
+
+## CAMPAIGN STATUS — Session 14 (Wildcard) — YEAR 1257 (Day 53)
+
+**Date:** 23rd Brightmere, 1257 AS (Day 53) — Mid Spring
+**DM:** Corvus Chance, The Wildcard
+**Location:** Vel'tarn, Fenhollow (home)
+**Party Level:** 10 (Nhilara 11, Corwin 8) | **Party Gold:** ~47,423 gp | **Ward-ink:** 5 | **Lattice alloy:** 12 (9+3) | **Anchor sets:** 3
+
+### Arc 12: The First Note — ACTIVE
+- Source Node Seven: CONTACTED. First reciprocal contact in 11,000 years.
+- Substrate-Zero: DISCOVERED. 3 samples. 11 deposits on continent. Greymoor largest.
+- Tender Priority Zero message: UNSEALED. 31 worlds, 31 source nodes, connected.
+- Map of 31 worlds: In Diadem.
+- Phase 4 curriculum: UNLOCKED (Substrate-Zero applications).
+- Aelindris informed. The World informed.
+
+### Thresholds (4 operational)
+- Vel'tarn ↔ K7 (Tidemeet): Root-anchored, memory tree powered.
+- K7 ↔ Listener Chamber: Existing.
+- Vel'tarn ↔ Crucible: Root + geothermal.
+- Crucible ↔ Shaft 9 (Greymoor): Geothermal. Vel'tarn→Greymoor ~1hr.
+
+### Next
+Phase 4 Lattice Engineering (Substrate-Zero applications). Substrate-Zero study at Crucible. Self-sustaining threshold prototype. Flatboat resonance upgrade (Highsun). Dark steel + Substrate-Zero experiments. 22 Tender caches. 4 deep-ocean Keepers. Hub Three response ~7 months. 31-world map analysis. The song is ours to build.
