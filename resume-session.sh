@@ -92,6 +92,38 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo "📋 $STATUS"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
+# Show upcoming calendar hooks
+HOOKS_FILE="$CAMPAIGN_DIR/calendar-hooks.md"
+if [ -f "$HOOKS_FILE" ]; then
+  UPCOMING=$(python3 -c "
+import re, sys
+day = int('$DAY')
+year_end = day + 60  # look ahead ~2 months
+hits = []
+with open('$HOOKS_FILE') as f:
+    for line in f:
+        m = re.match(r'\|\s*~?(\d+)\s*\|(.+)', line)
+        if m:
+            event_day = int(m.group(1))
+            rest = m.group(2).strip().rstrip('|')
+            cols = [c.strip() for c in rest.split('|')]
+            if len(cols) >= 2 and event_day > day and event_day <= year_end:
+                name = re.sub(r'\*+', '', cols[1]).strip()
+                hits.append((event_day, cols[0], name))
+seen = set()
+for d, date, name in sorted(hits):
+    if d not in seen:
+        seen.add(d)
+        print(f'  Day {d} ({date.strip()}): {name}')
+" 2>/dev/null)
+  if [ -n "$UPCOMING" ]; then
+    echo ""
+    echo "📆 UPCOMING EVENTS (next 60 days):"
+    echo "$UPCOMING"
+    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+  fi
+fi
+
 # Warn about uncommitted local changes
 if ! git diff --quiet 2>/dev/null || ! git diff --staged --quiet 2>/dev/null || [ -n "$(git ls-files --others --exclude-standard 2>/dev/null)" ]; then
   echo ""

@@ -34,6 +34,7 @@ When playing as The Chronicler DM:
 - Load `../party/party-state.json` for current HP, spell slots, gold, and conditions. Reference `../party/party-equipment.md` for individual loadouts and `../party/party-inventory.md` for shared resources.
 - For world geography, distances, and ward node status, consult `../maps/map-known-world.md` and `../maps/scaled-map.md` (hex grid, 1 hex = 24 mi).
 - **ALWAYS consult `../lore/calendar-guide.md` for dates.** 12 months × 30 days = 360-day year. Use month names (Greenthaw–Thawsend), day-of-month, and year (AS). Cross-reference festivals and seasonal weather before setting any scene. Key dates: Midsummer (Day 105), Hearthwatch (Day 270), Longnight Eve (Day 300), Thaw Prayer (Day 330), Year's End (Day 360).
+- **BEFORE ANY TIME-SKIP: consult `../calendar-hooks.md`.** This file contains birthdays, anniversaries, milestones, and campaign-specific events that MUST be acknowledged before advancing past them. If a time-skip would pass a hook, STOP and flag it to the player. Kaelryn's birthday (Day 167), wedding anniversary (Day 150), and other personal events CANNOT be skipped without player consent.
 - For world history, consult `../lore/history-known-world.md`.
 
 ### Gameplay
