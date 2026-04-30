@@ -470,3 +470,107 @@ Celebration at Hall of the Dawnwatch. Kael played a new piece from the pulse. En
 
 ### Next
 Phase 4 Lattice Engineering (Substrate-Zero applications). Substrate-Zero study at Crucible. Self-sustaining threshold prototype. Flatboat resonance upgrade (Highsun). Dark steel + Substrate-Zero experiments. 22 Tender caches. 4 deep-ocean Keepers. Hub Three response ~7 months. 31-world map analysis. The song is ours to build.
+
+---
+
+## Session 14 (Continued) — Days 54–69, 1257 AS
+
+### Vel'krath Established (Days 54–61)
+Zaryth pitched Crucible settlement to Ilyana at round table. Approved. Dren (smith) pulled from Eilistraee's Grace, Thorn (security), Velyndra (crystal cutter) assigned. Dren named it Vel'krath — The Deep Forge. Bram trained Dren on Crucible operations (7 days). Dren's first solo run Day 61: Lattice alloy brackets for flatboat keels. Perfect. Bram said nothing (highest compliment).
+
+**Eilistraee's Grace re-crewed:** Lyriel (captain) + Maren Ashfall (30, Human, Wren's sister, 8yr blue-water experience) + Fen (19, Drow, escaped Vel'arath independently, half-starved arrival Frostmere 1256, Ilyana's cousin Ashara's grandson). Fen formally joined House Vel'quinar — 17th member. Dorek Tann (Half-Elf, 25, former Aelindra dock hand) assigned to flatboat crew under Donal Marsh.
+
+d100 (crew recruitment): 77 (positive). d100 (Vel'krath establishment): 68 (positive).
+
+### Tier 2 Economic Plan Approved (Day 62)
+9 initiatives, ~4,450 gp (after civic matching). Sylvara + Thessaly presented economics report. Civic matching: Judge Kess (Greymoor) 200gp + building, Alderman Kellan (Harrowgate) labor crews, Magistrate Sera Voss (Duskport) immediate cooperation.
+
+| # | Initiative | Location | Cost | Lead |
+|---|-----------|----------|------|------|
+| 1 | Greymoor Finishing Works (smithing guild) | Greymoor | 400 gp (was 600, Kess matched) | Dren + Bram + Breck |
+| 2 | Sunmere Water System | Sunmere | 1,200 gp | Bram + Thessaly |
+| 3 | Coral Haven Healer + School | Coral Haven | 400 gp + 1 healer | Orindel + Dalla Venn |
+| 4 | Veldmere Healers' Hall | Veldmere | 800 gp | Seren + Aldric |
+| 5 | Harrowgate Flood Defense | Harrowgate | 350 gp (was 500, Kellan labor) | Bram + Kellan |
+| 6 | Ashport Timber Regulation | Ashport | 100 gp | Torven |
+| 7 | Duskport Economic Identity | Duskport | 400 gp | Thessaly + Sera Voss |
+| 8 | Salthollow Salt Worker Healthcare | Salthollow | 300 gp | Seren + Prof. Dunwick |
+| 9 | Regional Healer Network | All cities | 500 gp/yr ongoing | Orindel + Aldric |
+
+d100 (Tier 2 approval): 81 (windfall). Cities matching funds — ready, waiting for someone to go first.
+
+### Vel'thara Embassy Visit (Day 62)
+Team: Zaryth, Orindel, Pip, Seren, Mira. Transit to Anchor Point.
+
+**Three gifts given:**
+1. Story of the Source Node (sequential narrative — most valuable to frequency beings)
+2. Children's clay bowl (Tam, Briar, Lila — imperfect, handmade, highest honor)
+3. Rain recording (Pip's Starweave transcription of spring storm on memory tree)
+
+Speaker: "Three gifts. A world-changing story, a child's bowl, and the sound of rain. You understand us better than any mortal ever has."
+
+d100 (gift response): 88 (windfall).
+
+**Three gifts received:**
+1. **Vel'thara Healing Frequencies** — 7 non-magical music-based healing techniques (bone-mending, lung-clearing, pain-easing, fever-breaking, wound-closing, mind-calming, poison-drawing). Teachable to any musician in 7 days each. No spell slots. Orindel + Pip transcribed.
+2. **Boundary Map** — ward network from Vel'thara side. Source Node visible as amber-gold pillar through boundary.
+3. **Invitation to cross** — Diadem-mediated awareness projection. First mortal ever invited.
+
+**Vel'thara Trust: 6 → 10 (MAXIMUM). Full Accord.**
+
+### The Crossing (Day 69)
+Preparation: Orindel (anchor melody at aperture), Pip (counterpoint), Seren (vitals — target 47bpm), Aldric (healing standby), Mira (security), Vaelen + Drell (Anchor Point). Root: "Beyond the boundary I cannot reach. But the Source Node's pulse passes through — carry the Heart-Fruit." Aelindris gave Tender-grade seed (first-generation, from cache). "A gift from matter to frequency."
+
+d100 (crossing): 94 (wild card) → 72 (positive). Universe holding the door open.
+
+**Zaryth crossed into Vel'thara plane.** First mortal to perceive it. 3 hours (felt like 20 minutes). Heart rate held at 47bpm throughout. Diadem processed frequency environment.
+
+**Harmonies visited:**
+- 1st (Deep Resonators): oldest, bass frequency, contemplating Source Node pulse for centuries
+- 4th (Weavers): builders of crystallized-frequency objects. Gave **Listening Stone** — anyone holding it hears Source Node 47bpm, no attunement
+- 7th (Wind Dancers): messengers, joyful, chaotic. Want to hear rain again. Scattered Zaryth's laughter like seeds
+- 11th (Memory Keepers): living archive. Showed boundary from their side — wall of silence, Source Node pillar passing through it
+
+**Resonance Hall:** Center of all 12 harmonies. Children's clay bowl on display — only material object in the Vel'thara plane. Speaker: "You are fragile, and you build anyway."
+
+**Tender seed planted in Vel'thara frequency-soil. d100: 100 (NATURAL HUNDRED).**
+
+Hybrid tree growing — matter + frequency merged. Green leaves on one side, prismatic on other. Root silver-white + Lattice amber-gold + Vel'thara spectrum. First new life in Vel'thara plane in 10,000 years. All 12 harmonies sang spontaneously. Moonpetal garden awakened — 3,000 years of quiet cultivation accelerating.
+
+Speaker: "You planted time in a timeless place. You planted change in our soil."
+
+**Standing invitation:** Return with Kaelryn. "She will hear things even you cannot."
+
+---
+
+## CAMPAIGN STATUS — Session 14 (Wildcard) — YEAR 1257 (Day 69)
+
+**Date:** 9th Highsun, 1257 AS (Day 69) — Early Summer
+**DM:** Corvus Chance, The Wildcard
+**Location:** Vel'tarn, Fenhollow (home)
+**Party Level:** 10 (Nhilara 11, Corwin 8) | **Party Gold:** ~42,973 gp (~4,450 Tier 2 disbursed) | **Ward-ink:** 5 | **Lattice alloy:** 9 (free) | **Anchor sets:** 3
+
+### Arc 12: The First Note — ACTIVE
+- Source Node Seven: CONTACTED. Substrate-Zero: 3 samples + Greymoor deposit.
+- Phase 4 curriculum: UNLOCKED.
+
+### Arc 13: The Crossing — ACTIVE
+- Vel'thara Trust: 10 (MAXIMUM). Full Accord.
+- Zaryth crossed into Vel'thara plane. First mortal ever.
+- Tender seed planted (d100: 100). Hybrid tree growing. Matter + frequency merged.
+- Listening Stone received. Healing frequencies (7) received + being taught.
+- Standing invitation to return with Kaelryn.
+
+### Vel'krath (Crucible Settlement)
+- Dren (smith), Thorn (security), Velyndra (crystal). Operational.
+- Threshold commute to Vel'tarn.
+
+### Tier 2 Economic Plan
+- 9 initiatives APPROVED, ~4,450 gp. Civic matching active.
+- Healing frequencies integrated into healer training program.
+- First healer placements: Solstice 1257.
+
+### House Vel'quinar: 17 members (Fen joined).
+
+### Next
+Phase 4 Lattice Engineering. Substrate-Zero experiments at Vel'krath. Flatboat resonance upgrade (Highsun). Healer training + frequency integration. Tier 2 disbursements rolling. Kaelryn visit to Vel'thara plane. Hybrid tree monitoring. 22 Tender caches. 4 deep-ocean Keepers. Hub Three response ~6 months. The song grows on both sides of the boundary.

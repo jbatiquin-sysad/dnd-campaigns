@@ -1,9 +1,9 @@
 {
   "session": "14 (continued)",
   "active_dm": "dm-wildcard",
-  "in_game_day": 53,
+  "in_game_day": 69,
   "in_game_year": 1257,
-  "calendar_date": "23rd Brightmere, 1257 AS",
+  "calendar_date": "9th Highsun, 1257 AS",
   "current_week_file": "week-25",
   "party_name": "The Dawnwatch",
   "party_size": 12,
@@ -11,7 +11,7 @@
   "party_specialist": "Nhilara Vel'quinar (Level 11, Barbarian 5/Rogue 6)",
   "core_expedition_team": ["Zaryth", "Torven", "Seren", "Mira", "Orindel"],
   "location": "Vel'tarn, Fenhollow (home)",
-  "campaign_status": "ARC 1-8 COMPLETE. ARC 9: THE NETWORK — 10/14 Keepers integrated. Listener awake. Hub Three response ~7 months. ARC 10: VEL'MORA Phase 1 complete. ARC 11: KAPULUAN allied. ARC 12: THE FIRST NOTE — SOURCE NODE SEVEN CONTACTED. Session 14: Tier 1 Economic Actions progressing. Mirren River Survey COMPLETE. Greymoor investments delivered. Memory tree Vel'tarn FULL BLOOM. Phase 1-3 Lattice Engineering COMPLETE. Lattice Architect title. 4 thresholds operational (Vel'tarn↔K7, K7↔Listener, Vel'tarn↔Crucible, Crucible↔Shaft9). Greymoor 1hr from Vel'tarn. SUBSTRATE-ZERO DISCOVERED 780ft under Greymoor. Source Node Seven (900ft) — FIRST RECIPROCAL CONTACT in 11,000 years across 31 worlds. Tender Priority Zero message unsealed (7 seals, 7,400 years). Substrate-Zero = planetary foundation material, predates Tenders, predates geology. Source sphere predates rock formation. 31 source nodes across 31 worlds, connected by sub-Lattice threads. 3 Substrate-Zero samples extracted (Alpha 2.1lb flawless, Beta 0.8lb excellent, Gamma 0.2lb good). Bridge mineral — conducts Root + Lattice natively, golden-ratio harmonic (1.618x Root base). Applications: self-sustaining thresholds, universal network bridge, 3x seed amplification, 44 more (Phase 4). 11 deposits on continent. Root grew toward all of them. Aelindris informed (Tenders never told Gardeners). The World surprised for first time in 4 billion years. LEVEL 10 achieved. 3 flatboats under construction Harrowgate. Donal Marsh + 4 rivermen. Breck ore contract. 7 memory trees. Root learning thresholds independently.",
+  "campaign_status": "ARC 1-8 COMPLETE. ARC 9: THE NETWORK — 10/14 Keepers integrated. Listener awake. Hub Three response ~6 months. ARC 10: VEL'MORA Phase 1 complete. ARC 11: KAPULUAN allied. ARC 12: THE FIRST NOTE — Source Node Seven contacted, Substrate-Zero discovered, 3 samples. ARC 13: THE CROSSING — Vel'thara Trust 10 (MAXIMUM). Zaryth crossed into Vel'thara plane (first mortal ever). Toured 4 of 12 harmonies (Deep Resonators, Weavers, Wind Dancers, Memory Keepers). Resonance Hall visited. Tender seed planted in Vel'thara frequency-soil (d100: 100) — HYBRID TREE GROWING, first new life in Vel'thara plane in 10,000 years. Matter + frequency merged. All 12 harmonies sang spontaneously. Listening Stone received (anyone can hear Source Node, no attunement). Vel'thara Healing Frequencies received (7 non-magical music-based healing techniques, teachable to any musician). Boundary map received (ward network from Vel'thara side). Standing invitation to return with Kaelryn. Tier 2 Economic Plan APPROVED (9 initiatives, ~4,450 gp — Greymoor finishing works, Sunmere water, Coral Haven healer+school, Veldmere healers' hall, Harrowgate flood defense, Ashport timber regulation, Duskport economic identity, Salthollow salt worker healthcare, regional healer network). Civic matching from Greymoor + Harrowgate + Duskport. Vel'krath (Crucible settlement) OPERATIONAL — Dren (smith), Thorn (security), Velyndra (crystal). Fen joined House Vel'quinar (17 members). Eilistraee's Grace re-crewed (Maren Ashfall + Fen). Flatboats on schedule, launch Solstice 1257.",
   "marriage": "Zaryth Vel'quinar married Sylvara Dawnwhisper, 30th Goldmere 1255 AS. The Gardener officiated. 180 guests. Memory tree recorded.",
   "kaelryn": {
     "name": "Kaelryn Vel'quinar",
@@ -30,9 +30,10 @@
   "baby": "Girl. Due ~Day 960, Reaptide 1256. Dual-frequency resonance. Lakan-Diwa (primary midwife) + Aldric + Orindel + Seren. Coral basin in family suite. Memory tree recording.",
   "coral_basin": "Active in family suite, Vel'tarn. Living coral cutting from Puso ng Dagat. Ocean frequency in the nursery.",
   "party_gold": {
-    "total": 47423,
+    "total": 42973,
     "carried": 3000,
-    "homestead_reserves": 44423
+    "homestead_reserves": 39973,
+    "tier2_disbursed": 4450
   },
   "ward_ink": {
     "total": 14,
@@ -202,7 +203,23 @@
     "route": "Tidemeet <-> Kapuluan (southern archipelago)",
     "named_by": "Datu Malaya of Kapuluan"
   },
-  "vel_thara_accord_trust": 6,
+  "vel_thara_accord_trust": 10,
+  "vel_thara_crossing": {
+    "status": "COMPLETE Day 69, 1257. First mortal to perceive Vel'thara plane.",
+    "method": "Diadem-mediated awareness projection through aperture. Orindel anchor melody. Seren vitals monitoring.",
+    "duration": "3 hours (felt like 20 minutes)",
+    "harmonies_visited": ["First Harmony (Deep Resonators)", "Fourth Harmony (Weavers)", "Seventh Harmony (Wind Dancers)", "Eleventh Harmony (Memory Keepers)"],
+    "resonance_hall": "Visited. Children's clay bowl on display — only material object in the Vel'thara plane.",
+    "tender_seed_planted": "d100: 100. Hybrid tree growing in frequency-soil. Matter + frequency merged. First new life in Vel'thara plane in 10,000 years. All 12 harmonies sang spontaneously.",
+    "gifts_received": ["Listening Stone (anyone can hear Source Node 47bpm, no attunement)", "Boundary map (ward network from Vel'thara side, Source Node pillar visible)"],
+    "invitation": "Standing — return with Kaelryn. 'She will hear things even you cannot.'"
+  },
+  "vel_thara_healing_frequencies": {
+    "status": "RECEIVED Day 62. 7 frequencies. Non-magical, music-based. Teachable to any musician (7 days each).",
+    "frequencies": ["Bone-mending (fracture 1wk→2days)", "Lung-clearing (respiratory illness/inhaled poison, 1hr)", "Pain-easing (CON adv 8hrs)", "Fever-breaking (mundane fever/infection, 1hr)", "Wound-closing (stabilize+1HP, non-caster)", "Mind-calming (remove frightened/anxiety, 1hr)", "Poison-drawing (draw poison 10min, Lesser Restoration equivalent)"],
+    "transcribed_by": "Orindel + Pip",
+    "integration": "Being added to healer training program. Every graduate learns at least 3."
+  },
   "vel_sharen_accord": "HOLDING + KNOWLEDGE ACCORD. Joint underground planting. Shared lab. Ydrael permanent liaison. Kael annual study. Mutual defense.",
   "vel_mora": {
     "status": "PHASE 1 COMPLETE. ALL 5 RACES CONTACTED. Kah-sol connected. Trade embassies. Keeper training.",
@@ -222,7 +239,7 @@
   "professions_all_ascended": true,
   "fleet": {
     "stormcapes_promise": "Maren Voss. Western triangle. Operational.",
-    "eilistraees_grace": "Lyriel. Northern express + expedition. Operational.",
+    "eilistraees_grace": "Lyriel. Northern express + expedition. Crew: Maren Ashfall (experienced), Fen (Drow trainee). Operational.",
     "salt_maren": "Dalla Venn. Veldmere-Duskport-Tidemeet. Operational.",
     "blacktide_runner": "Harsk Dunmore. Ashport-Veldmere southern. Operational.",
     "duskholm": "Dren Sable. Expedition-ready.",
@@ -247,10 +264,11 @@
     "gardener_greenhouse": "Silver tree. Gardener rests here."
   },
   "vel_quinar": {
-    "population": 16,
-    "status": "DEBT-FREE. Resonance moss lighting. Spider-silk industry (resonance fabric). Southern crops. Kael (song-inheritor).",
+    "population": 17,
+    "status": "DEBT-FREE. Resonance moss lighting. Spider-silk industry (resonance fabric). Southern crops. Kael (song-inheritor). Fen joined (17th member, escaped Vel'arath independently).",
     "keeper_trainee": "Ryn — certified, Station Four rotation",
-    "prodigy": "Kael Vel'quinar — harp, age 14, Gardener's chosen"
+    "prodigy": "Kael Vel'quinar — harp, age 14, Gardener's chosen",
+    "vel_krath": "Crucible settlement OPERATIONAL. Dren (smith), Thorn (security), Velyndra (crystal cutter). Threshold commute to Vel'tarn."
   },
   "prisoners_probation": {
     "ashara": "Probation. Translating Gardener inscriptions (60%+). Moonpetal research. Trending redemption. Accompanied Seedhome expedition.",
@@ -279,7 +297,8 @@
     "silver_leaf": "Master key. Both vessels. All systems.",
     "worlds_hearthstone": "Permanent World communication. Projection 1/day. Tremor sense 120 ft. The World at the table.",
     "duskfang": "Nhilara. Ren-kah scimitar +2, cold damage, Resonance Howl, Aberration Bane.",
-    "listeners_frequency_key": "Geometric pattern. Diadem-compatible. Direct communication with any Listener in the network."
+    "listeners_frequency_key": "Geometric pattern. Diadem-compatible. Direct communication with any Listener in the network.",
+    "listening_stone": "Vel'thara gift. Crystallized frequency, golden-ratio spiral inside. Anyone holding it hears Source Node 47bpm pulse. No attunement. Passive."
   },
   "legendary_weapons": {
     "dawnsedge": "Zaryth. Longsword +3. 1d8+5 + 1d6 lightning + 1d6 radiant. Gardener's Strike. Sunburst.",

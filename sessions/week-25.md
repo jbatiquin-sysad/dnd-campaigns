@@ -182,3 +182,60 @@ The Dawnwatch approved Tier 1 economic actions (3,400 gp, 9 initiatives targetin
 - **Substrate-Zero:** 3 samples at Vel'tarn. Phase 4 unlocked.
 - **Aelindris:** Informed. Laughed. "I am not a child anymore."
 - **Next:** Phase 4 Lattice Engineering. Substrate-Zero at Crucible. Self-sustaining threshold prototype. Flatboats (Highsun). 22 caches. 4 deep-ocean Keepers. Hub Three ~7 months. The song is ours to build.
+
+### Vel'krath Established (Days 54–61)
+- Crucible settlement: Dren (smith), Thorn (security), Velyndra (crystal cutter).
+- Bram trained Dren 7 days. First solo run Day 61: perfect Lattice alloy brackets.
+- Eilistraee's Grace re-crewed: Maren Ashfall + Fen (Drow, 17th Vel'quinar member).
+- Dorek Tann assigned to flatboat crew.
+- d100 recruitment: 77 (positive). d100 establishment: 68 (positive).
+
+### Tier 2 Economic Plan (Day 62)
+- 9 initiatives, ~4,450 gp (after civic matching from Greymoor, Harrowgate, Duskport).
+- Greymoor finishing works, Sunmere water, Coral Haven healer+school, Veldmere healers' hall, Harrowgate flood defense, Ashport timber, Duskport identity, Salthollow healthcare, regional healer network.
+- d100: 81 (windfall). Cities matching funds.
+
+### Vel'thara Embassy — Trust 10 (Day 62)
+- Gifts: Source Node story, children's clay bowl, rain recording.
+- Received: 7 healing frequencies (non-magical, music-based), boundary map, invitation to cross.
+- d100: 88 (windfall). Trust 6→10 (maximum).
+
+### The Crossing (Day 69)
+- Zaryth crossed into Vel'thara plane via Diadem. First mortal ever. 3 hours.
+- Visited: Deep Resonators, Weavers, Wind Dancers, Memory Keepers, Resonance Hall.
+- Listening Stone received (anyone hears Source Node, no attunement).
+- Children's clay bowl on display — only material object in Vel'thara plane.
+- **Tender seed planted in frequency-soil. d100: 100 (NATURAL HUNDRED).**
+- Hybrid tree growing — matter + frequency. First new life in 10,000 years. All 12 harmonies sang.
+- Standing invitation: return with Kaelryn.
+- d100 crossing: 94 (wild card) → 72 (positive).
+
+### Notable Rolls
+
+| Day | Roll | Context |
+|-----|------|---------|
+| 56 | d100: 77 | Crew recruitment — 3 candidates (positive) |
+| 58 | d100: 68 | Vel'krath establishment (positive) |
+| 62 | d100: 81 | Tier 2 approval — cities matching funds (windfall) |
+| 62 | d100: 88 | Vel'thara gift response (windfall) |
+| 69 | d100: 94 | The Crossing — wild card |
+| 69 | d100: 72 | Wild card secondary — positive |
+| 69 | d100: 100 | **Tender seed in Vel'thara soil — NATURAL HUNDRED** |
+
+### New NPCs
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Maren Ashfall** | Sailor, Eilistraee's Grace | Ally | 30, Human. Wren's sister. 8yr blue-water. |
+| **Dorek Tann** | Riverman/flatboat crew | Ally | 25, Half-Elf. Former Aelindra dock hand. |
+| **Fen** | Sailor (trainee), Eilistraee's Grace | Ally/Family | 19, Drow. Vel'quinar 17th member. Escaped Vel'arath alone. |
+
+## State at Session Pause
+
+- **Date:** 9th Highsun, 1257 AS (Day 69)
+- **Level:** 10 | **Gold:** ~42,973 gp | **Ward-ink:** 5 | **Alloy:** 9 | **Anchors:** 3
+- **Vel'thara Trust:** 10 (MAXIMUM). Hybrid tree growing. Listening Stone. Healing frequencies.
+- **Vel'krath:** Operational. Dren forging.
+- **Tier 2:** 9 initiatives approved, disbursing. Civic matching active.
+- **House Vel'quinar:** 17 members.
+- **Next:** Phase 4. Substrate-Zero experiments. Flatboat upgrade (Highsun). Healer placements (Solstice). Kaelryn visit. Hub Three ~6 months. The song grows on both sides.

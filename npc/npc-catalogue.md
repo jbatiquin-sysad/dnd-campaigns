@@ -668,3 +668,12 @@
 | **Wren Ashfall** | Riverman | Ally | 22. Trapper's daughter, upper valley. Knows river above Greymoor. Quiet, observant. |
 | **Alderman Breck** | Harrowgate merchant, reformed Coinwright's Guild | Ally | Standing contract: 20gp/ton Greymoor iron delivered by river. 5 tons/month. |
 | **Pell** | Village elder, Coral Haven | Ally | Received first Dawnwatch supply delivery. "We thought no one remembered us." Sent back a single pearl. |
+
+
+## Session 14 (Days 54–69) — New NPCs
+
+| Name | Race/Age | Role | Session | Status | Notes |
+|------|----------|------|---------|--------|-------|
+| **Maren Ashfall** | Human, 30 | Sailor, *Eilistraee's Grace* | S14 Day 56 | Ally | Wren Ashfall's sister. 8 years blue-water with Veldmere coastal traders. Knows northern coast. Strong in foul weather. |
+| **Dorek Tann** | Half-Elf, 25 | Riverman, flatboat crew | S14 Day 56 | Ally | Former Aelindra harbor hand, 6 years docks. Assigned to Donal Marsh's flatboat crew. Came to Fenhollow following migration trend. |
+| **Fen** | Drow, 19 | Sailor (trainee), *Eilistraee's Grace* | S14 Day 56 | Family | Vel'quinar 17th member. Ilyana's cousin Ashara's grandson (different Ashara from the Binder). Escaped Vel'arath alone ~2 years ago. Arrived Vel'tarn Frostmere 1256, half-starved, signet tattoo burned off. Ilyana recognized the mark, said nothing, gave him soup. Lyriel training him. |
