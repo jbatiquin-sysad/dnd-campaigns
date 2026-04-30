@@ -677,3 +677,5 @@
 | **Maren Ashfall** | Human, 30 | Sailor, *Eilistraee's Grace* | S14 Day 56 | Ally | Wren Ashfall's sister. 8 years blue-water with Veldmere coastal traders. Knows northern coast. Strong in foul weather. |
 | **Dorek Tann** | Half-Elf, 25 | Riverman, flatboat crew | S14 Day 56 | Ally | Former Aelindra harbor hand, 6 years docks. Assigned to Donal Marsh's flatboat crew. Came to Fenhollow following migration trend. |
 | **Fen** | Drow, 19 | Sailor (trainee), *Eilistraee's Grace* | S14 Day 56 | Family | Vel'quinar 17th member. Ilyana's cousin Ashara's grandson (different Ashara from the Binder). Escaped Vel'arath alone ~2 years ago. Arrived Vel'tarn Frostmere 1256, half-starved, signet tattoo burned off. Ilyana recognized the mark, said nothing, gave him soup. Lyriel training him. |
+
+| **Ellyn** | Human, 19 | Healer-musician, Salthollow | S14 Day 80 | Ally | Salt worker's daughter. Flute player. Learned lung-clearing frequency from Seren in 6 days. First patient: her own father (30 years calcium deposits, cleared in 1 hour). Now treating salt workers full-time. Prof. Dunwick coordinating. |

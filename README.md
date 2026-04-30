@@ -100,6 +100,7 @@ duskport-campaign/
 ├── memory_archive_s1-s4.md      ← archived sessions 1–4
 ├── save-session.sh              ← stage + commit + push to GitHub
 ├── resume-session.sh            ← pull + dashboard + launch kiro-cli
+├── calendar-hooks.md              ← upcoming events, birthdays, anniversaries — CHECK BEFORE TIME-SKIPS
 ├── party/
 │   ├── party-state.json         ← HP, spell slots, inventory, conditions
 │   ├── party-inventory.md       ← shared gold, provisions, materials, credentials

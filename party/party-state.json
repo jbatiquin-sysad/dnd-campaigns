@@ -1,9 +1,9 @@
 {
   "session": "14 (continued)",
   "active_dm": "dm-wildcard",
-  "in_game_day": 69,
+  "in_game_day": 112,
   "in_game_year": 1257,
-  "calendar_date": "9th Highsun, 1257 AS",
+  "calendar_date": "22nd Solstice, 1257 AS",
   "current_week_file": "week-25",
   "party_name": "The Dawnwatch",
   "party_size": 12,
@@ -11,7 +11,7 @@
   "party_specialist": "Nhilara Vel'quinar (Level 11, Barbarian 5/Rogue 6)",
   "core_expedition_team": ["Zaryth", "Torven", "Seren", "Mira", "Orindel"],
   "location": "Vel'tarn, Fenhollow (home)",
-  "campaign_status": "ARC 1-8 COMPLETE. ARC 9: THE NETWORK — 10/14 Keepers integrated. Listener awake. Hub Three response ~6 months. ARC 10: VEL'MORA Phase 1 complete. ARC 11: KAPULUAN allied. ARC 12: THE FIRST NOTE — Source Node Seven contacted, Substrate-Zero discovered, 3 samples. ARC 13: THE CROSSING — Vel'thara Trust 10 (MAXIMUM). Zaryth crossed into Vel'thara plane (first mortal ever). Toured 4 of 12 harmonies (Deep Resonators, Weavers, Wind Dancers, Memory Keepers). Resonance Hall visited. Tender seed planted in Vel'thara frequency-soil (d100: 100) — HYBRID TREE GROWING, first new life in Vel'thara plane in 10,000 years. Matter + frequency merged. All 12 harmonies sang spontaneously. Listening Stone received (anyone can hear Source Node, no attunement). Vel'thara Healing Frequencies received (7 non-magical music-based healing techniques, teachable to any musician). Boundary map received (ward network from Vel'thara side). Standing invitation to return with Kaelryn. Tier 2 Economic Plan APPROVED (9 initiatives, ~4,450 gp — Greymoor finishing works, Sunmere water, Coral Haven healer+school, Veldmere healers' hall, Harrowgate flood defense, Ashport timber regulation, Duskport economic identity, Salthollow salt worker healthcare, regional healer network). Civic matching from Greymoor + Harrowgate + Duskport. Vel'krath (Crucible settlement) OPERATIONAL — Dren (smith), Thorn (security), Velyndra (crystal). Fen joined House Vel'quinar (17 members). Eilistraee's Grace re-crewed (Maren Ashfall + Fen). Flatboats on schedule, launch Solstice 1257.",
+  "campaign_status": "ARC 1-8 COMPLETE. ARC 9: THE NETWORK — 10/14 Keepers integrated. Hub Three response ~5 months. ARC 12: THE FIRST NOTE — Source Node Seven contacted, Substrate-Zero discovered. ARC 13: THE CROSSING — Vel'thara Trust 10 (MAXIMUM), hybrid tree growing. Phase 4 critical study COMPLETE (Blocks 3,5,6-critical; Block 4 derived by Sylvara+Aelindris+Root). Bridgesong Lens OPERATIONAL (universal frequency detection, no Diadem needed). First Substrate-Zero threshold Vel'tarn↔Greymoor OPERATIONAL (self-sustaining, permanent, zero power). 6 thresholds total. 3 resonance-keeled flatboats COMPLETE (launch Solstice Day 120). Midsummer Festival Day 100 (28 golds). Flatboat christening Day 103. Consultations complete (Listener, Aelindris, Sylvara, Vaelen) — hybrid curriculum path. Healer-musician training active (Ellyn/Salthollow). Tier 2 rolling. Vel'krath operational. Greymoor Finishing Works producing. Ashport timber regulation complete. Seed amplification 2.8x derived. Geological reader 60%. Aelindris drafting Architect school curriculum. Millhaven monthly teacher run (Lila). CHECK calendar-hooks.md FOR UPCOMING EVENTS.",
   "marriage": "Zaryth Vel'quinar married Sylvara Dawnwhisper, 30th Goldmere 1255 AS. The Gardener officiated. 180 guests. Memory tree recorded.",
   "kaelryn": {
     "name": "Kaelryn Vel'quinar",
@@ -298,7 +298,8 @@
     "worlds_hearthstone": "Permanent World communication. Projection 1/day. Tremor sense 120 ft. The World at the table.",
     "duskfang": "Nhilara. Ren-kah scimitar +2, cold damage, Resonance Howl, Aberration Bane.",
     "listeners_frequency_key": "Geometric pattern. Diadem-compatible. Direct communication with any Listener in the network.",
-    "listening_stone": "Vel'thara gift. Crystallized frequency, golden-ratio spiral inside. Anyone holding it hears Source Node 47bpm pulse. No attunement. Passive."
+    "listening_stone": "Vel'thara gift. Crystallized frequency, golden-ratio spiral inside. Anyone holding it hears Source Node 47bpm pulse. No attunement. Passive.",
+    "bridgesong_lens": "Sylvara + Aldren. Substrate-Zero focal lens + Geophone housing. Universal frequency detection (Root, Lattice, Vel'thara, Source Node, biological, geological). No Diadem. No attunement. Anyone can use. Manufacturable (10/month at Vel'krath)."
   },
   "legendary_weapons": {
     "dawnsedge": "Zaryth. Longsword +3. 1d8+5 + 1d6 lightning + 1d6 radiant. Gardener's Strike. Sunburst.",

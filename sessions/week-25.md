@@ -239,3 +239,50 @@ The Dawnwatch approved Tier 1 economic actions (3,400 gp, 9 initiatives targetin
 - **Tier 2:** 9 initiatives approved, disbursing. Civic matching active.
 - **House Vel'quinar:** 17 members.
 - **Next:** Phase 4. Substrate-Zero experiments. Flatboat upgrade (Highsun). Healer placements (Solstice). Kaelryn visit. Hub Three ~6 months. The song grows on both sides.
+
+### Days 70–112 — Phase 4, Flatboats, Midsummer
+
+**Consultations (Day 91):** Listener, Aelindris, Sylvara, Vaelen. Consensus: take Blocks 3+5+3 critical Block 6 apps (~21 days). Skip Block 4 (derived). Defer rest of Block 6.
+
+**Phase 4 critical study COMPLETE Day 112.** Block 1 (9 days), Block 2 (12 days), Block 3 (8 days, focal integration breakthrough d100:79), Block 5 (8 days, Hub 12/23 failure data), Block 6 critical (6 days). Bridgesong Lens concept from Block 3. First Substrate-Zero threshold from Block 2.
+
+**Substrate-Zero threshold Vel'tarn↔Greymoor: OPERATIONAL Day 90.** d100: 82 (windfall). Self-sustaining. Zero power. 99.8% stability. Geological operational life.
+
+**Bridgesong Lens: OPERATIONAL Day 108.** Universal frequency detection. No Diadem. Anyone can use. Manufacturable.
+
+**Flatboat upgrade: COMPLETE Day 85.** d100: 73 (positive). 60% drag reduction. 1.3 days upstream. Christening Day 103 (d100: 58 positive). Maiden run Solstice.
+
+**Midsummer Festival Day 100.** d100: 86 (windfall). Tournament: 28 golds. Dren first surface competition (standing ovation). Kael "The First Note" (memory tree responded). Aelindris first festival. World projected fireworks.
+
+**Seed amplification DERIVED:** Sylvara + Aelindris + Root. 2.8x growth.
+
+**Tier 2 progress:** Ashport timber ✅. Greymoor works producing. Sunmere water digging. Ellyn (Salthollow) healing salt workers with lung-clearing frequency. 2 healer-musicians graduated.
+
+**Millhaven teacher run approved:** Lila (15), monthly, first solo assignment.
+
+### Notable Rolls (Days 70–112)
+
+| Day | Roll | Context |
+|-----|------|---------|
+| 85 | d100: 73 | Flatboat upgrade — 60% drag reduction (positive) |
+| 90 | d100: 82 | First Substrate-Zero threshold (windfall) |
+| 95 | d100: 79 | Block 3 breakthrough — focal integration (positive) |
+| 100 | d100: 86 | Midsummer Festival (windfall) |
+| 103 | d100: 58 | Flatboat christening (positive) |
+
+### New NPCs
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Ellyn** | Healer-musician, Salthollow | Ally | 19, flute. Lung-clearing. Healed her father. |
+
+## State at Session Pause (Day 112)
+
+- **Date:** 22nd Solstice, 1257 AS (Day 112)
+- **Level:** 10 | **Gold:** ~42,973 gp | **Ward-ink:** 5 | **Alloy:** 9 | **Anchors:** 3
+- **Thresholds:** 6 operational (incl. first Substrate-Zero self-sustaining)
+- **Phase 4:** Critical study complete. Bridgesong Lens built. Seed amplification derived.
+- **Flatboats:** 3 complete, launch Day 120.
+- **Vel'thara:** Trust 10. Hybrid tree growing. Healing frequencies teaching.
+- **Upcoming:** Day 120 flatboat launch, Day 150 anniversary, **Day 167 Kaelryn's 1st birthday**, Day 250 Hub Three.
+- **CHECK calendar-hooks.md before any time advancement.**

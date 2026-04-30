@@ -574,3 +574,89 @@ Speaker: "You planted time in a timeless place. You planted change in our soil."
 
 ### Next
 Phase 4 Lattice Engineering. Substrate-Zero experiments at Vel'krath. Flatboat resonance upgrade (Highsun). Healer training + frequency integration. Tier 2 disbursements rolling. Kaelryn visit to Vel'thara plane. Hybrid tree monitoring. 22 Tender caches. 4 deep-ocean Keepers. Hub Three response ~6 months. The song grows on both sides of the boundary.
+
+---
+
+## Session 14 (Continued) — Days 70–112, 1257 AS
+
+### Consultations (Day 91)
+Zaryth consulted 4 experts on whether to finish Phase 4 curriculum or go off-curriculum:
+- **Listener:** Blocks 3 (bridge instruments) and 5 (network integration) essential — sensory overload risk + Hub 12/23 failure data. Block 4 skippable (Aelindris+Root better). Block 6: 3 of 20 critical, rest defer.
+- **Aelindris:** "Stop being a student. Build a school. The Tenders' greatest invention was the curriculum — the ability to pass knowledge forward. You need a hundred Architects, not one."
+- **Sylvara:** Block 4 derivable. Geological reader derivable. Inter-world threshold: take the lesson (not derivable). Source Node protocol: take the lesson (risk management).
+- **Vaelen:** "Take the safety lessons. All of them. Hub Twelve is sealed because someone skipped a step. I built the ward network alone and too fast. Every crisis you've fixed was my mistake."
+
+**Consensus:** Blocks 3 + 5 + 3 critical Block 6 apps = ~21 days. Block 4 derived by Sylvara+Aelindris+Root. Rest deferred.
+
+### Phase 4 Blocks 3, 5, 6-critical (Days 70–112)
+
+**Block 1 (Days 70–78, 9 days vs 15):** Substrate-Zero has memory — records every frequency in crystal structure. Alpha sample contains billions of years of Source Node pulse. Sylvara cracked indexing (Day 76) — golden-ratio spiral filing system. Most recent entry: "You are the first to come back."
+
+**Block 3 Breakthrough (Day 95, d100: 79 positive):** Zaryth discovered harmonic focal integration — not filtering frequencies (Tender method) but focusing all through golden-ratio focal point. Preserves relationships between frequencies. Listener: "This is better. I am updating the archive." → Bridgesong Lens concept born.
+
+**Block 2 (Days 79–90):** Self-sustaining thresholds. Substrate-Zero conducts both networks natively. Day 85: first threshold component fabricated (Beta slab → 6-inch disc). Day 88: second component from new Greymoor extraction. Day 90: **First Substrate-Zero threshold Vel'tarn↔Greymoor (direct) OPERATIONAL.** d100: 82 (windfall). 99.8% stability. Zero power. Geological operational life. Dren stepped through with first Finishing Works tools: "Delivery. Forty seconds, door to door."
+
+**Block 5 (Day 105):** Hub Twelve failure data. Root equivalent grew beyond control — 2.0 ratio (doubling) instead of 1.618 (golden ratio). World sealed. Hub Twenty-Three: networks canceled, resonance collapse, singing stopped permanently. Root: "That could have been me." Abort procedures memorized. Golden-ratio confirmed as only safe integration frequency.
+
+**Block 6 critical (Days 106–112):** Inter-world threshold theory (Source Node relay, Substrate-Zero anchors). Source Node sustained dialogue protocol (47bpm sync, golden-ratio, "question worth asking"). Geological reader: Sylvara+Aldren building independently (60% complete).
+
+**Block 4 derived (parallel):** Sylvara + Aelindris + Root. Seed amplification 2.8x (vs Tender 3.0x). Aelindris: "The seeds are happier."
+
+### Bridgesong Lens (Day 108)
+Sylvara + Aldren fabricated. Substrate-Zero focal lens, Geophone housing, golden-ratio geometry. Universal frequency detection — all networks simultaneously, focused, clear. No Diadem. No attunement. Anyone can use. Manufacturable (10/month at Vel'krath). "Sylvara democratized resonance detection."
+
+### Midsummer Festival (Day 100, d100: 86 windfall)
+Fenhollow's 3rd annual. ~3,500 people + visitors. Tournament: Corwin (archery, Ren close 2nd), Seren (wrestling), Dren (smithing sprint — first surface tournament, standing ovation, Ilyana cried), Pip (cooking — frequency-infused cream), Kael (bardic — "The First Note," memory tree responded). River Race: Donal Marsh in River's Ear, first public resonance-keeled demo. 28 golds, 5 silvers total record.
+
+Evening: bonfire, Ensemble, Lakan-Diwa fire dance, World projected frequency-synchronized fireworks. Aelindris attended first festival ever. Pip brought him cider. "Is this what it's for?" "Yeah. This is what it's for." Aelindris: "It's terrible." (Drank two cups of berry.)
+
+### Flatboat Christening (Day 103, d100: 58 positive)
+Harrowgate. 3 boats: River's Ear (Donal), Millhaven (Torben), Bridgebreak (Ulla — "I wanted Stubborn"). Maiden run Harrowgate→Millhaven→Greymoor. Millhaven stop: Halla Fen, Sera (comfrey growing), Pell (taller, bow on back). Monthly teacher run approved — Lila (15) volunteers, first solo assignment.
+
+### Flatboat Upgrade (Days 70–85, d100: 73 positive)
+Bram + Tam at Harrowgate. Root-spiral keels + Lattice alloy + ward-ink. Drag reduction 60% (better than 50% projected). Upstream 1.3 days (was 2.5). Single pilot. River does half the work. Donal: "She's talking to the water."
+
+### Tier 2 Progress (Days 70–112)
+- Greymoor Finishing Works: active, Dren training 6 smiths, first tools produced
+- Sunmere Water System: Bram's plans delivered, crews digging
+- Coral Haven: healer trainee selected (Wren), iron tools shipped
+- Veldmere Healers' Hall: site selected, construction starting
+- Harrowgate Flood Defense: levee underway, Kellan's crews
+- Ashport Timber: ✅ Torven complete Day 78, 3 groves protected, 10-year rotation
+- Duskport: Thessaly + Sera Voss planning, Kapuluan direct route proposed
+- Salthollow: Seren visited Day 80, Ellyn (19, flute) learned lung-clearing, treating salt workers. First patient: her own father, 30 years calcium deposits, cleared in 1 hour. He wept.
+- Regional Healer Network: 2 graduated Day 76, learning frequencies, placements Solstice
+
+### New NPCs (Days 70–112)
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Ellyn** | Healer-musician, Salthollow | Ally | 19, salt worker's daughter, flute. Learned lung-clearing in 6 days. Healed her father. |
+| **Lila** (expanded) | Monthly teacher, Millhaven run | Ally | 15, apprentice bard. First solo assignment. |
+
+### Thresholds: 6 operational
+1. Vel'tarn ↔ K7 (Tidemeet) — Root-anchored, memory tree
+2. K7 ↔ Listener Chamber — Lattice
+3. Vel'tarn ↔ Crucible — Root + geothermal
+4. Crucible ↔ Shaft 9 (Greymoor underground) — Geothermal
+5. **Vel'tarn ↔ Greymoor (surface, direct) — Substrate-Zero, SELF-SUSTAINING**
+6. K7 ↔ Listener — Lattice (existing)
+
+---
+
+## CAMPAIGN STATUS — Session 14 (Wildcard) — YEAR 1257 (Day 112)
+
+**Date:** 22nd Solstice, 1257 AS (Day 112) — Midsummer
+**DM:** Corvus Chance, The Wildcard
+**Location:** Vel'tarn, Fenhollow (home)
+**Party Level:** 10 (Nhilara 11, Corwin 8) | **Party Gold:** ~42,973 gp | **Ward-ink:** 5 | **Lattice alloy:** 9 | **Anchor sets:** 3
+
+### Upcoming — CHECK calendar-hooks.md
+- Day 120: Flatboat maiden voyage (Solstice)
+- ~Day 130: First healer-musician placements (Coral Haven, Ashport)
+- **Day 150: Zaryth & Sylvara 2nd wedding anniversary (30th Goldmere)**
+- **Day 167: 🎂 Kaelryn's 1st birthday (17th Reaptide)**
+- ~Day 250: Hub Three response ETA
+
+### Next
+Build Substrate-Zero threshold network (cities). Architect school (Aelindris drafting). Healer deployments. Tier 2 completion. Anniversary + birthday planning. Geological reader completion. The song grows.
