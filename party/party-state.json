@@ -5,6 +5,12 @@
   "in_game_year": 1257,
   "calendar_date": "22nd Solstice, 1257 AS",
   "current_week_file": "week-25",
+  "upcoming_hooks": [
+    {"day": 120, "event": "Flatboat Launch"},
+    {"day": 135, "event": "Reaping Fair"},
+    {"day": 150, "event": "Zaryth & Sylvara 2nd Anniversary"},
+    {"day": 167, "event": "Kaelryn 1st Birthday — CANNOT SKIP"}
+  ],
   "party_name": "The Dawnwatch",
   "party_size": 12,
   "party_level": 10,
@@ -16,6 +22,7 @@
   "kaelryn": {
     "name": "Kaelryn Vel'quinar",
     "born": "17th Reaptide, 1256 AS (Day 827), 3:47 PM, Vel'tarn",
+    "birthday_day_of_year": 167,
     "race": "Half-Drow / Half-High Elf",
     "appearance": "Obsidian-black skin, silver-white hair, violet eyes with amber-gold flecks",
     "resonance": "Dual-frequency (Root silver-white + Lattice amber-gold). First recorded dual-network biological entity.",
