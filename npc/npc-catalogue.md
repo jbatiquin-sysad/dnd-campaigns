@@ -679,3 +679,9 @@
 | **Fen** | Drow, 19 | Sailor (trainee), *Eilistraee's Grace* | S14 Day 56 | Family | Vel'quinar 17th member. Ilyana's cousin Ashara's grandson (different Ashara from the Binder). Escaped Vel'arath alone ~2 years ago. Arrived Vel'tarn Frostmere 1256, half-starved, signet tattoo burned off. Ilyana recognized the mark, said nothing, gave him soup. Lyriel training him. |
 
 | **Ellyn** | Human, 19 | Healer-musician, Salthollow | S14 Day 80 | Ally | Salt worker's daughter. Flute player. Learned lung-clearing frequency from Seren in 6 days. First patient: her own father (30 years calcium deposits, cleared in 1 hour). Now treating salt workers full-time. Prof. Dunwick coordinating. |
+
+### Session 15 (Storyteller) — Southern Deep Road + Birthday
+
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| **Keeper Aldwyn** | Binding-era warden (deceased) | Historical | Maintained the southern Deep Road. Journal recovered at Duskport junction. Confirms 63-mile Fenhollow→Veldmere route. |

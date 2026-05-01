@@ -286,3 +286,71 @@ The Dawnwatch approved Tier 1 economic actions (3,400 gp, 9 initiatives targetin
 - **Vel'thara:** Trust 10. Hybrid tree growing. Healing frequencies teaching.
 - **Upcoming:** Day 120 flatboat launch, Day 150 anniversary, **Day 167 Kaelryn's 1st birthday**, Day 250 Hub Three.
 - **CHECK calendar-hooks.md before any time advancement.**
+
+---
+
+## Session 15 (Storyteller) — Days 112–167, 1257 AS
+
+**DM:** Mara Solenne, The Storyteller
+**Title:** The Southern Road
+
+### Southern Deep Road Expedition (Days 112–120)
+Team: Nhilara, Aldren Voss, Ren, Pim, Tam, Briar. 8-day survey south from Old Foundation.
+- 23 miles mapped to Duskport junction. U1 Undercroft connected.
+- 3 encounters eliminated: Grick (CR 2), 4× Giant Spider (CR 4), Chuul (CR 4). Zero casualties.
+- Binder-era waymarkers found — this is a lost southern branch of the Deep Road.
+- Keeper Aldwyn's journal recovered: 63-mile route to Veldmere, basalt tube under sea floor.
+- T-junction at mile 17 (Harrowgate branch, unmapped).
+- Resources: chuul chitin, spider silk, iron ore, zurkhwood, fungi, quartz, amethyst, pre-Sundering coins.
+
+### Apprentice Level 3 + Custom Gear (Days 120–130)
+All 5 apprentices leveled to 3. Custom armor forged from expedition materials (Bram + Thessaly + Dren). Zero gold cost.
+
+### Flatboat Launch (Day 120)
+3 vessels operational. 1.3 days upstream Harrowgate→Greymoor.
+
+### Plantings #105–106
+Node 8/Mirren + Thornveil edge. Seeds: 106/412.
+
+### Reaping Fair 1257 (Day 135)
+~4,500 attendees. 8 golds, 1 silver, 1 bronze. All-time: 34G/6S. Apprentice tournament debut. ~650 gp revenue. Svirfneblin gem exchange established.
+
+### 2nd Wedding Anniversary (Day 150)
+Intimate candlelight dinner. Trying for second child.
+
+### Kaelryn's 1st Birthday (Day 167)
+~200 guests. Pip nat 20 feast. Orindel premiered *Kaelryn's Garden*. Nhilara sang Drow lullaby. Kaelryn hummed 47bpm, said "Pip." Gifts from Aelindris (memory seed), Lakan-Diwa (coral bracelet), svirfneblin (47bpm sapphire), Sylvara (crystal mobile), Root (crystal fruit), Ashara (carved tree).
+
+### New Songs
+- *The Southern Road* (Lila) — Reaping Fair debut
+- *Kaelryn's Garden* (Orindel) — birthday premiere
+- *Nhilara's Lullaby* (Drow, Elvish) — birthday
+- *Dance Music of the Dawnwatch* (instrumental) — birthday
+
+### Notable Rolls
+| Day | Roll | Context |
+|-----|------|---------|
+| 112 | d100: 63 | Southern survey Day 1 (positive) |
+| 114 | d100: 29 | Spider nest (negative tendency, managed) |
+| 115 | d100: 71 | Binder waymarkers found (positive) |
+| 116 | d100: 38 | Chuul encounter (negative tendency) |
+| 117 | d100: 82 | Duskport junction + Aldwyn's journal (windfall) |
+| 117 | d20: 20 | Ren Geophone — nat 20, ward signature detected |
+| 118 | d100: 55 | Return journey (positive) |
+| 120 | d100: 74 | Flatboat launch (positive) |
+| 130 | d100: 68 | Crafting week (positive) |
+| 135 | d100: 88 | Reaping Fair (windfall) |
+| 167 | d100: 79 | Kaelryn's birthday (positive) |
+| 167 | d20: 20 | Pip feast — nat 20 cooking |
+
+## State at Session Pause (Day 167)
+
+- **Date:** 17th Reaptide, 1257 AS (Day 167)
+- **DM:** Storyteller
+- **Level:** 10 | **Gold:** ~43,699 gp | **Ward-ink:** 5 | **Alloy:** 9 | **Anchors:** 3
+- **Southern Deep Road:** Fenhollow→Duskport MAPPED (23 mi). Veldmere route confirmed (63 mi total, sealed).
+- **Apprentices:** Level 3, custom gear, tournament veterans.
+- **Seeds:** 106/412.
+- **Tournament record:** 34 golds, 6 silvers.
+- **Upcoming:** Day 180 Greymoor review, Day 200 Sunmere water, Day 250 Hub Three, ~Day 327 second child.
+- **CHECK calendar-hooks.md before any time advancement.**

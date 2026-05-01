@@ -660,3 +660,99 @@ Bram + Tam at Harrowgate. Root-spiral keels + Lattice alloy + ward-ink. Drag red
 
 ### Next
 Build Substrate-Zero threshold network (cities). Architect school (Aelindris drafting). Healer deployments. Tier 2 completion. Anniversary + birthday planning. Geological reader completion. The song grows.
+
+---
+
+## Session 15 (Storyteller) — Days 112–167, 1257 AS
+
+### Southern Deep Road Expedition (Days 112–120)
+Team: Nhilara (combat lead), Aldren Voss (cartographer), Ren, Pim, Tam, Briar.
+Entry: Fenhollow Keeper Station → south from Old Foundation into unmapped territory.
+
+- **Day 112:** Descended. 3 miles south. Cathedral cavern discovered (200ft across, underground lake, bioluminescent fungi). Geophone detected thinning stone ahead. d100: 63 (positive).
+- **Day 113:** 7 miles total. 1× Grick eliminated (Nhilara, 2 strokes, 1 round). Nhilara taught apprentices after-action. Quartz mined (~8 gp).
+- **Day 114:** Zone 2 (550ft depth). 4× Giant Spider nest. Briar smoked them out, prepared kill zone. 2 rounds, Tam took 7 damage (healed). Spider silk (8 egg sacs, ~20 gp), leather satchel with map fragment labeled "OLD PORT BELOW." d100: 29 (negative tendency, but managed).
+- **Day 115:** Following old map. Binding-era waymarkers found — obsidian pillars, geometric patterns. This is a Binder road, not a natural route. Zurkhwood grove, iron ore vein, Deepglow Lichen. d100: 71 (positive).
+- **Day 116:** T-junction at mile 17 (east=Harrowgate branch, right=Duskport). Underground river, 30ft wide. 1× Chuul (CR 4) — drawn to Geophone. Briar Entangled it, Nhilara finished in 2 rounds. Nhilara took 6 damage (halved). Chuul chitin + antennae harvested. d100: 38 (negative tendency).
+- **Day 117:** **DUSKPORT JUNCTION REACHED (mile 23).** Connected to U1 Undercroft. Vaulted chamber, 4 passages. Ren Geophone nat 20 — ward signature + Root frequency stronger than Foundation. Sealed passage descends under harbor toward sea floor. Storage rooms: 23 pre-Sundering silver coins, bronze compass, **Keeper Aldwyn's journal** (confirms 63-mile route to Veldmere, basalt tube under sea floor, root-sealed). d100: 82 (windfall).
+- **Days 118–119:** Return journey. Cathedral cavern rest. Additional mining (iron ore, amethyst, lichen). d100: 55/47 (positive/neutral).
+- **Day 120:** Surface. Debrief at round table. Aelindris: "I built the southern road. I remember."
+
+### Apprentice Level-Up: ALL LEVEL 3
+- Ren: Ranger (Horizon Walker) 3 — Detect Portal, Planar Warrior, Dread Ambusher.
+- Pim: Rogue (Scout) 3 — Skirmisher, Survivalist. Sneak Attack 2d6.
+- Tam: Fighter (Battle Master) 3 — 4d8 Superiority Dice, Riposte/Precision/Goading.
+- Briar: Druid (Circle of the Land — Underdark) 3 — Spider Climb, Web, Natural Recovery.
+- Lila: Bard (College of Lore) 3 — Cutting Words, Expertise, Suggestion.
+
+### Flatboat Launch (Day 120)
+3 resonance-keeled flatboats launched at Harrowgate. River's Ear (Donal), Millhaven (Torben), Bridgebreak (Ulla). Maiden run complete. 1.3 days upstream. d100: 74 (positive).
+
+### Planting #105–106 (Days 114, 118)
+- #105: Node 8/Upper Mirren. 1.5-mi dome, river-amplified. Wild memory tree joined. d100: 67 (positive).
+- #106: Thornveil edge (near U5). 2-mi dome. Overlaps Fenhollow Station. d100: 53 (positive).
+- Seeds planted: 106/412.
+
+### Zaryth Study (Days 112–120)
+Architect school curriculum review (Aelindris, 47 pages, 3-tier: Foundation/Practitioner/Architect, 36 months). Zaryth added field components + safety data (Hub 12/23 failures). Threshold network priority list drafted.
+
+### Apprentice Armor & Weapons (Days 121–130)
+Bram (Master Smith) + Thessaly (Master Tailor) + Dren (Vel'krath) forged 5 custom sets from expedition materials. Zero gold cost. Chuul chitin, spider silk, iron ore, zurkhwood. d100: 68 (positive).
+- Ren: Tunnelwalker's Coat (AC 15), longbow, shortsword.
+- Pim: Darkweave Leather (AC 16, stealth adv dim/dark), hand crossbow, 2× daggers.
+- Tam: Deepguard Scale + zurkhwood shield (AC 18), longsword, javelins.
+- Briar: Rootwalker's Hide + shield (AC 16, bioluminescent moss), zurkhwood staff.
+- Lila: Songkeeper's Vest (AC 13), dagger, Orindel's old lute.
+
+### Reaping Fair 1257 (Day 135)
+~4,500 attendees. d100: 88 (windfall). 8 golds, 1 silver, 1 bronze. All-time: 34G/6S.
+- Grand Melee (Team): GOLD — Apprentices + Nhilara (Nhilara didn't draw her sword).
+- Archery: GOLD Corwin, SILVER Ren.
+- Blade Dance: GOLD Seren, BRONZE Pim.
+- Bardic Circle: GOLD Ensemble (Lila debuted "The Southern Road").
+- Cooking: GOLD Pip (mushroom + cave-fish pie, nat 20 energy).
+- Smithing: GOLD Dren, GOLD Tam (apprentice division).
+- Merchant: GOLD Thessaly (created svirfneblin gem exchange + Stormcape fish contract during competition).
+- Fair revenue: ~650 gp. Svirfneblin quarterly gem exchange established (~150 gp/quarter).
+
+### 2nd Wedding Anniversary (Day 150)
+Candlelight dinner, just Zaryth and Sylvara. Pip left cold summer salad. Stormcape cider from Old Marsh. Private evening. Trying for second child.
+
+### Kaelryn's 1st Birthday (Day 167)
+~200 guests. Thessaly outfitted all 30+ Dawnwatch in formal attire (~120 gp). Pip feast (nat 20, three-tier honey cake). Ensemble premiered *Kaelryn's Garden* (Orindel). Nhilara sang Drow lullaby in public (first time ever, Ilyana wept). Seren + Lakan-Diwa fusion dance (d20: 29). "Find the Halfling" — Kaelryn found Pip in cheese cave, said "Pip" (3rd word). Kaelryn hummed at 47bpm during Orindel's song. d100: 79 (positive).
+
+**Gifts:** Memory seed (Aelindris — plant when she chooses), coral bracelet (Lakan-Diwa — reef-grown 1 year), 47bpm sapphire (svirfneblin Tik+Noss), crystal mobile with 7 healing frequencies (Sylvara — 1 month work), Root's crystal fruit (new, child-specific, 47bpm), carved tree figure (Ashara), memory book (Mira), stone guardian figure (Aldric), framed Southern Road map (apprentices).
+
+**New songs:** *Kaelryn's Garden* (Orindel), *Nhilara's Lullaby* (Drow, Elvish), *Dance Music of the Dawnwatch* (instrumental). Ensemble repertoire: 10+ pieces.
+
+---
+
+## CAMPAIGN STATUS — Session 15 (Storyteller) — YEAR 1257 (Day 167)
+
+**Date:** 17th Reaptide, 1257 AS (Day 167) — Early Autumn
+**DM:** Mara Solenne, The Storyteller
+**Location:** Vel'tarn, Fenhollow (home)
+**Party Level:** 10 (Nhilara 11, Corwin 8, Apprentices 3) | **Party Gold:** ~43,699 gp | **Ward-ink:** 5 | **Lattice alloy:** 9 | **Anchor sets:** 3
+
+### Southern Deep Road
+- Fenhollow → Duskport: 23 mi, MAPPED + CLEARED. U1 connected.
+- Duskport → Veldmere: 40 mi, SEALED. Binder-era sea-floor tunnel. Root-sealed.
+- Harrowgate branch: T-junction at mile 17. Unmapped.
+- Keeper Aldwyn's journal: confirms full 63-mile route.
+
+### Apprentices: ALL LEVEL 3
+Custom Underdark-forged gear. Tournament debut (8 golds at Reaping Fair). Southern Road expedition veterans.
+
+### Seeds: 106/412
+2 new plantings (#105 Mirren, #106 Thornveil).
+
+### Upcoming
+- Day 180: Greymoor Finishing Works quarterly review.
+- Day 200: Sunmere Water System completion.
+- ~Day 250: Hub Three response ETA.
+- ~Day 327: Second child due (if conceived ~Day 150).
+- Southern Deep Road: Duskport→Veldmere expedition (sealed sea-floor tunnel).
+- Harrowgate branch survey.
+- Architect school launch.
+- 22 Tender caches. 4 deep-ocean Keepers.
+- The garden grows.

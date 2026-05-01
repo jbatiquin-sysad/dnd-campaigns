@@ -1,15 +1,15 @@
 {
-  "session": "14 (continued)",
-  "active_dm": "dm-wildcard",
-  "in_game_day": 112,
+  "session": "15 (Storyteller)",
+  "active_dm": "dm-storyteller",
+  "in_game_day": 167,
   "in_game_year": 1257,
-  "calendar_date": "22nd Solstice, 1257 AS",
+  "calendar_date": "17th Reaptide, 1257 AS",
   "current_week_file": "week-25",
   "upcoming_hooks": [
-    {"day": 120, "event": "Flatboat Launch"},
-    {"day": 135, "event": "Reaping Fair"},
-    {"day": 150, "event": "Zaryth & Sylvara 2nd Anniversary"},
-    {"day": 167, "event": "Kaelryn 1st Birthday — CANNOT SKIP"}
+    {"day": 180, "event": "Greymoor Finishing Works quarterly review"},
+    {"day": 200, "event": "Sunmere Water System completion target"},
+    {"day": 250, "event": "Hub Three response ETA"},
+    {"day": 327, "event": "Second child due (if conceived ~Day 150)"}
   ],
   "party_name": "The Dawnwatch",
   "party_size": 12,
@@ -17,7 +17,7 @@
   "party_specialist": "Nhilara Vel'quinar (Level 11, Barbarian 5/Rogue 6)",
   "core_expedition_team": ["Zaryth", "Torven", "Seren", "Mira", "Orindel"],
   "location": "Vel'tarn, Fenhollow (home)",
-  "campaign_status": "ARC 1-8 COMPLETE. ARC 9: THE NETWORK — 10/14 Keepers integrated. Hub Three response ~5 months. ARC 12: THE FIRST NOTE — Source Node Seven contacted, Substrate-Zero discovered. ARC 13: THE CROSSING — Vel'thara Trust 10 (MAXIMUM), hybrid tree growing. Phase 4 critical study COMPLETE (Blocks 3,5,6-critical; Block 4 derived by Sylvara+Aelindris+Root). Bridgesong Lens OPERATIONAL (universal frequency detection, no Diadem needed). First Substrate-Zero threshold Vel'tarn↔Greymoor OPERATIONAL (self-sustaining, permanent, zero power). 6 thresholds total. 3 resonance-keeled flatboats COMPLETE (launch Solstice Day 120). Midsummer Festival Day 100 (28 golds). Flatboat christening Day 103. Consultations complete (Listener, Aelindris, Sylvara, Vaelen) — hybrid curriculum path. Healer-musician training active (Ellyn/Salthollow). Tier 2 rolling. Vel'krath operational. Greymoor Finishing Works producing. Ashport timber regulation complete. Seed amplification 2.8x derived. Geological reader 60%. Aelindris drafting Architect school curriculum. Millhaven monthly teacher run (Lila). CHECK calendar-hooks.md FOR UPCOMING EVENTS.",
+  "campaign_status": "ARC 1-8 COMPLETE. ARC 9: THE NETWORK — 10/14 Keepers integrated. Hub Three response ~3 months. ARC 12: THE FIRST NOTE — Source Node Seven contacted, Substrate-Zero discovered. ARC 13: THE CROSSING — Vel'thara Trust 10 (MAXIMUM), hybrid tree growing. Phase 4 critical study COMPLETE. Bridgesong Lens OPERATIONAL. 6 Substrate-Zero thresholds (incl. 1 self-sustaining Vel'tarn↔Greymoor). 3 resonance-keeled flatboats LAUNCHED Day 120. SOUTHERN DEEP ROAD DISCOVERED — 23 mi Fenhollow→Duskport (mapped, cleared), 63 mi total to Veldmere (Binder-era sea-floor tunnel, sealed). U1 Duskport Undercroft CONNECTED. Keeper Aldwyn's journal recovered. T-junction branch toward Harrowgate (unmapped). Apprentices ALL LEVEL 3 (Ren/Pim/Tam/Briar/Lila). Reaping Fair 1257: 8 golds, 1 silver. All-time: 34G/6S. 2nd wedding anniversary Day 150. Kaelryn's 1st birthday Day 167 (~200 guests, Pip nat 20 feast, Orindel premiered Kaelryn's Garden, Nhilara sang Drow lullaby, Kaelryn hummed 47bpm, said 'Pip'). Architect school curriculum reviewed (Aelindris, 47 pages, 3-tier). Tier 2 rolling. Seeds: 106/412. CHECK calendar-hooks.md FOR UPCOMING EVENTS.",
   "marriage": "Zaryth Vel'quinar married Sylvara Dawnwhisper, 30th Goldmere 1255 AS. The Gardener officiated. 180 guests. Memory tree recorded.",
   "kaelryn": {
     "name": "Kaelryn Vel'quinar",
@@ -31,15 +31,17 @@
     "midwife": "Lakan-Diwa (Babaylan, Kapuluan)",
     "silver_tree": "Bloomed at moment of birth. First time in 3,000 years.",
     "naming_ceremony": "Day 834, 24th Reaptide. Aelindris presided. Sea water anointing (Lakan-Diwa). Name spoken into Root network (planetary). Kaelryn's Garden hymn (Orindel nat 20). Tidal pearl gift from Kapuluan.",
-    "tidal_pearl": "Black tidal pearl from Puso ng Dagat reef. Kapuluan gift. Resonates with her frequency."
+    "tidal_pearl": "Black tidal pearl from Puso ng Dagat reef. Kapuluan gift. Resonates with her frequency.",
+    "first_birthday": "Day 167, 1257 AS. ~200 guests. Pip nat 20 feast. Orindel premiered Kaelryn's Garden. Nhilara sang Drow lullaby (first time public). Kaelryn hummed at 47bpm. Said 'Pip' (3rd word). Found Pip in cheese cave. Gifts: memory seed (Aelindris), coral bracelet (Lakan-Diwa), 47bpm sapphire (svirfneblin), crystal mobile with 7 healing frequencies (Sylvara), Root's crystal fruit (new, child-specific), carved tree (Ashara).",
+    "words": ["mama", "papa", "Pip"]
   },
   "the_velmoran": "LAUNCHED. Dragon turtle shell hull + ancient hardwood frame. Autonomous dual-network vessel. Operational.",
   "baby": "Girl. Due ~Day 960, Reaptide 1256. Dual-frequency resonance. Lakan-Diwa (primary midwife) + Aldric + Orindel + Seren. Coral basin in family suite. Memory tree recording.",
   "coral_basin": "Active in family suite, Vel'tarn. Living coral cutting from Puso ng Dagat. Ocean frequency in the nursery.",
   "party_gold": {
-    "total": 42973,
+    "total": 43699,
     "carried": 3000,
-    "homestead_reserves": 39973,
+    "homestead_reserves": 40699,
     "tier2_disbursed": 4450
   },
   "ward_ink": {
@@ -78,8 +80,8 @@
   "gardener": {
     "name": "Aelindris",
     "status": "Physical. Recovering. Teaching. Name revealed: Aelindris. Sat at the round table for the first time. Reunited with the Root. Met the World. Connected to the Listener.",
-    "seeds_planted": 104,
-    "seeds_planted_note": "~104 globally (eastern + western + Kapuluan + Keeper plantings #94-104)",
+    "seeds_planted": 106,
+    "seeds_planted_note": "~106 globally (eastern + western + Kapuluan + Keeper plantings #94-104 + #105 Mirren + #106 Thornveil)",
     "seeds_in_vault": 1,
     "seeds_in_jawbone": 204,
     "seeds_in_seedhome": "Hundreds (uncounted — older, stronger)",
@@ -132,46 +134,72 @@
     "ren": {
       "age": 17,
       "race": "Human",
-      "class": "Ranger",
+      "class": "Ranger (Horizon Walker) 3",
+      "level": 3,
+      "ac": 15,
       "mentor_combat": "Corwin",
       "mentor_profession": "Aldren Voss",
-      "role": "Instrument-ranger, detection + field survey"
+      "role": "Instrument-ranger, detection + field survey",
+      "gear": "Tunnelwalker's Coat (chuul chitin studded leather), longbow, shortsword, Geophone"
     },
     "pim_student": {
       "age": 17,
       "race": "Drow",
-      "class": "Rogue (Scout)",
+      "class": "Rogue (Scout) 3",
+      "level": 3,
+      "ac": 16,
       "mentor_combat": "Nhilara + Mira",
       "mentor_profession": "Nhilara",
-      "role": "Underdark scout"
+      "role": "Underdark scout",
+      "gear": "Darkweave Leather (stealth adv dim/dark), hand crossbow, 2x daggers (1 chitin-blade)"
     },
     "tam": {
       "age": 16,
       "race": "Human",
-      "class": "Fighter (Battle Master)",
+      "class": "Fighter (Battle Master) 3",
+      "level": 3,
+      "ac": 18,
       "mentor_combat": "Aldric",
       "mentor_profession": "Bram",
-      "role": "Builder-defender"
+      "role": "Builder-defender",
+      "gear": "Deepguard Scale (chitin+iron), zurkhwood shield, longsword, 3x javelins"
     },
     "briar": {
       "age": 16,
       "race": "Human",
-      "class": "Druid (Land)",
+      "class": "Druid (Circle of the Land — Underdark) 3",
+      "level": 3,
+      "ac": 16,
       "mentor_combat": "Torven",
       "mentor_profession": "Zaryth + Haldren",
-      "role": "Healer-naturalist, alchemist"
+      "role": "Healer-naturalist, alchemist",
+      "gear": "Rootwalker's Hide (bioluminescent moss), zurkhwood staff (Shillelagh), zurkhwood shield, herbalism kit"
     },
     "lila": {
       "age": 15,
       "race": "Human",
-      "class": "Bard (Lore)",
+      "class": "Bard (College of Lore) 3",
+      "level": 3,
+      "ac": 13,
       "mentor_combat": "Orindel + Pip",
       "mentor_profession": "Elara + Torven",
-      "role": "Lore-keeper, future headmistress"
+      "role": "Lore-keeper, future headmistress",
+      "gear": "Songkeeper's Vest (spider silk leather), dagger, Orindel's old lute, journal"
     }
   },
   "workshop": {
     "status": "COMPLETE. Two-story. Ground: alchemy lab + tinkering + Aldren instruments. Second floor: cartography studio + Lattice Engineering workspace. Lattice alloy brackets. Ward-circuit lighting."
+  },
+  "southern_deep_road": {
+    "status": "DISCOVERED Day 112-119, 1257 AS. Binder-era southern branch.",
+    "fenhollow_to_duskport": "23 miles. MAPPED + CLEARED. 3 encounters eliminated (grick, 4 spiders, chuul). Binder waymarkers every quarter mile.",
+    "duskport_junction": "CONNECTED to U1 Undercroft. 4 passages: north (Fenhollow), east (U1 upper), south (sealed, under harbor), west (dead-end storage).",
+    "duskport_to_veldmere": "40 miles. SEALED. Binder-era basalt tube under sea floor. Root-sealed against flooding (Aelindris built it 3,000 years ago).",
+    "total_route": "63 miles Fenhollow to Veldmere.",
+    "harrowgate_branch": "T-junction at mile 17. Unmapped. Future survey.",
+    "keeper_aldwyns_journal": "RECOVERED. Confirms full route, quarterly inspections, Veldmere anchor at 900ft below sea floor.",
+    "resources_found": "Cathedral cavern (mile 3), underground river (mile 17+), iron ore vein, zurkhwood grove, edible fungi, medicinal fungi, quartz, amethyst, pre-Sundering coins",
+    "threshold_potential": "2 Substrate-Zero thresholds planned: Duskport junction + Veldmere anchor"
   },
   "lattice_status": {
     "hub_seven": "ONLINE",
@@ -295,7 +323,7 @@
     "northern_ice": "1,500x300 mi. 5,000 pop. Nomadic. Dormant geometry. 8 planting sites.",
     "deep_ocean": "Unknown entities. 78 planting sites. The World doesn't fully understand what's down there."
   },
-  "tournament_record": "26 golds, 5 silvers (Duskport 1248, Veldmere 1249, Harrowgate 1252, Midsummer Fenhollow 1256, Reaping Fair Fenhollow 1256)",
+  "tournament_record": "34 golds, 6 silvers (Duskport 1248, Veldmere 1249, Harrowgate 1252, Midsummer Fenhollow 1256, Reaping Fair Fenhollow 1256, Midsummer 1257, Reaping Fair 1257)",
   "legendary_items": {
     "dawnsedge": "Longsword +3. 1d8+5 + 1d6 lightning + 1d6 radiant. Gardener's Strike (stun on crit). Sunburst (6d6 radiant AoE 1/LR).",
     "wardens_diadem": "Crystal crown. 412-site awareness. Network control.",
