@@ -494,9 +494,9 @@ EASTERN CONTINENT                    OCEAN (~800 mi)                    SOUTHERN
 |------|-------|------|----------------|
 | **1** | **The Crucible (Listener's Hub)** | **Tender-tier** | Keeper fabrication, threshold anchors, Lattice alloy, seed crystals, Lattice-grade ward-ink. Geothermal. Self-sustaining. |
 | 2 | Seedhome Crucible (Tidemeet) | Gardener-tier | Root Seed powered, legendary precision, planting tools |
-| 3 | Stone Singer Deep Forge (Vel'mora) | Racial/geothermal | Singing-heat, deep pressure forging |
-| 4 | Drowned Forge / Node 2 (Ashfire Isle) | Gardener-tier (restored) | Underwater, pressure-forging |
-| 5 | Warden's Forge (far north) | Warden-tier | Dark steel, ward components |
-| 6 | Kah-sol Merge Zone (Deep Forest) | Living/alien | Renewable living material |
-| **7** | **Vel'krath (Crucible settlement)** | **Lattice-production** | Dren (master smith) + Thorn + Velyndra. Lattice alloy, Bridgesong Lens (10/month), ward-ink. Threshold commute to Vel'tarn. |
-| **8** | **Greymoor Finishing Works (surface)** | **Commercial** | Dren training 6 smiths. Tools, mining equipment. ~150 gp/month. Second forge bay (self-funded). |
+| **3** | **Vel'krath (Crucible settlement)** | **Lattice-production** | Crucible offshoot. Dren (master smith) + Thorn + Velyndra. Lattice alloy, Bridgesong Lens (10/month), ward-ink. Threshold commute to Vel'tarn. |
+| 4 | Stone Singer Deep Forge (Vel'mora) | Racial/geothermal | Singing-heat, deep pressure forging |
+| 5 | Drowned Forge / Node 2 (Ashfire Isle) | Gardener-tier (restored) | Underwater, pressure-forging |
+| 6 | Warden's Forge (far north) | Warden-tier | Dark steel, ward components |
+| 7 | Kah-sol Merge Zone (Deep Forest) | Living/alien | Renewable living material |
+| **8** | **Greymoor Finishing Works (surface)** | **Commercial** | Dren training 6 smiths. Tools, mining equipment. ~150 gp/month. Second forge bay. |
