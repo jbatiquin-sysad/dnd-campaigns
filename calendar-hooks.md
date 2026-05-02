@@ -31,6 +31,7 @@
 | ~200 | ~20th Ashfall | **Sunmere Water System — completion target** | Economic | Bram's engineering. Serves 10,000+. |
 | ~250 | ~10th Frostmere | **Hub Three response ETA** | Major | 94.2% probability living Gardener. 14-month transit from signal sent. |
 | ~280 | ~10th Deepwinter | **Geological record reader — prototype target** | Research | Sylvara + Aldren. |
+| ~325 | ~25th Deepwinter | **Second child due** | Personal | CONFIRMED Day 180. Lakan-Diwa primary midwife. Monthly visits. |
 
 ### Kapuluan Calendar Hooks
 
@@ -65,4 +66,4 @@
 3. **After session:** Update one-time events (mark complete or adjust dates). Add new hooks discovered during play.
 4. **DM prompt:** "Check calendar-hooks.md for events between Day X and Day Y before advancing."
 
-*Last updated: Day 167, 17th Reaptide, 1257 AS.*
+*Last updated: Day 187, 7th Ashfall, 1257 AS.*

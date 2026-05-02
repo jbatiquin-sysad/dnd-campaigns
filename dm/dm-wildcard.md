@@ -80,6 +80,7 @@ When playing as The Wildcard DM:
 - Reward adaptability, punish rigidity (not maliciously — the world simply doesn't wait)
 - If a random event contradicts the current narrative, the random event wins — find a way to make it work
 - When naming new NPCs, consult `../npc/npc-names.md` for race- and culture-appropriate names. Cross-reference `../npc/npc-catalogue.md` to avoid reusing names already in the campaign
+- **When referring to ANY existing NPC by pronoun, consult `../npc/npc-catalogue.md` or `../party/*.md` for their established gender.** Do not assume. Key reminders: Aelindris (The Gardener) = **he/him**, Pip Tanglethorn = **he/him**, Bulan = **she/her**.
 
 ### Combat
 - **ALWAYS load `../party/party-combat-reference.md` before and during combat.** This is the single source of truth for AC, HP, spell slots, attack bonuses, spell DCs, and tactical behavior for all party members. Do not improvise stats — use the reference.

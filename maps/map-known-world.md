@@ -554,6 +554,7 @@ See `maps/underdark-map.md` for full details. Summary:
 | Trade | Maren Voss (captain, *Stormcape's Promise*) | Merchant operation |
 | Trade | Dalla Kern (Veldmere broker) | Standing herb order |
 | Tidemeet | Soren Blackwater (warehouse manager) | Dawnwatch Trading Company |
+| Port Veldmere | Harlen Voss (warehouse manager), Marta Cray (clerk), Jorik Fell (dock/security) | Dawnwatch Trading Company — Veldmere Depot (Anchor Lane, old harbor district) |
 | Deephollow (Underdark) | Elder Garrin | Svirfneblin trade (amethyst, mushrooms) |
 | Crystalvein (Underdark) | Elder Brill | Svirfneblin trade (sapphires) |
 | Ashport | Dalla Cray (potential recruit) | Southern port contact |

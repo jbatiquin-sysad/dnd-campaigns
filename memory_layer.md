@@ -756,3 +756,81 @@ Custom Underdark-forged gear. Tournament debut (8 golds at Reaping Fair). Southe
 - Architect school launch.
 - 22 Tender caches. 4 deep-ocean Keepers.
 - The garden grows.
+
+---
+
+## Session 16 (Chronicler) — Days 167–187, 1257 AS
+
+### Bram's Leveling Pass (Days 168–169)
+Southern Deep Road miles 1–17 leveled for Threshold Runner. Ward-ink guide lines. 1 ward-ink used. d20: 18 (exceptional). Binder basalt excellent grade.
+
+### Aelindris Unseals the Tunnel (Day 169)
+Remote unsealing through Root network. 4 hours, controlled sequence. d20: 14 (success). No pressure differential, no flooding. Air stale but breathable. Root presence extends ~1 mile past seal, then thins.
+
+### Architect School Curriculum Review (Days 169–187)
+Zaryth + Aelindris + Ashara (supervised by Orindel). 47-page document, 3 tiers, 36 months. Zaryth's field safety addendum (14 case studies, Hub 12/23 failures). **Ashara contributed Section 7.3b: Cascade Propagation Recognition** (d20: 17, credited by name). Aelindris added harmonic dampener theory + failure modes.
+
+### Southern Deep Road Survey Expedition (Days 170–178)
+**Team:** Nhilara (L11), Torven (L10), Aldren Voss, Ren (L3), Pim (L3).
+
+**Day 170:** Threshold Runner to mile 17 (2.5 hrs). On foot to Duskport Junction. Camp.
+**Day 171:** Entered sealed section. d100: 54 (neutral). Tunnel intact, Binder-grade. Mile 27: descent begins (400 ft). Mile 30.5: selenite deposit (navigable via 4-ft gap, ~200 gp). Camp mile 33 (550 ft, Binder rest station).
+**Day 172:** d100: 37 (negative tendency). Mile 36: SUMP — 200 ft flooded, 7 ft deep, seawater intrusion. Guide rope crossing, all safe. Mile 40: 8× blind cave lizards (CR 1/4, harmless, bypassed). Camp mile 42 (750 ft, fresh water spring).
+**Day 173:** d100: 72 (positive). 850 ft depth (sea floor). Binder pressure-compensation engineering. Mile 48: THE GALLERY — 200 ft cavern, freshwater pool, fungi, waystation candidate. **Ren Geophone NAT 20 — faint Substrate-Zero signature detected.** Camp mile 52 (890 ft, glow ahead).
+**Day 174:** d100: 83 (windfall). **VELDMERE ANCHOR REACHED (mile 53, 900 ft).** 5th Keeper Station — 130 ft chamber, intact, Substrate-Zero trickle-powered (standby). Empty Heartstone socket. Major Substrate-Zero deposit (larger than Greymoor). **Source Node pulse: 47 bpm, below sealed south passage.** 4 exits (N: return, E: sealed unknown, S: sealed Source Node, Up: 900 ft shaft). Nhilara: "We don't open that. Above our pay grade."
+**Day 175:** Vertical shaft ascent. Torven bridged Substrate-Zero into Binder lift (d20: 23 vs DC 18). 900 ft ascent. Aldren decoded seal release (d20: 16 vs DC 15). **Surface exit confirmed: Anchor Lane, old harbor district, Veldmere.** Abandoned customs house. d100: 61 (positive). Site secured, cellar locked.
+**Days 176–178:** Return. d100: 48/66/55. Known route, fast pace. Home midday Day 178.
+
+### Aelindris Remembers
+"I built five stations. Not four. I sealed the southern anchor because of what was underneath. There is a Source Node beneath Veldmere. I will not open that passage without you present."
+
+### Greymoor Finishing Works Q1 Review (Day 180)
+d100: 67 (positive). 6 smiths training, 63 tools produced (target 50), 110 gp/month. Mining equipment commission secured (+40 gp/month). Dren negotiation: d20: 10 (struggled). Zaryth: d20: 23 (contract secured). **Updated: ~150 gp/month.**
+
+### Second Child Confirmed (Day 180)
+Lakan-Diwa examination: d20: 25 (expert). 8 weeks along. Strong heartbeat. Healthy. Due ~Day 325 (25th Deepwinter, 1257). Monthly visits until 8th month.
+
+### Thessaly — Veldmere Depot (Days 180–187)
+d100: 78 (windfall). Salt Maren to Veldmere. **Property purchased: 100 gp outright** (Anchor Lane, old harbor district, heritage-listed). Thessaly negotiation: d20: 28. Staff hired: Harlen Voss (manager, 4 gp/month), Marta Cray (clerk, 3 gp/month), Jorik Fell (dock/security, 2 gp/month). Renovation: 35 gp. Cellar locked (shaft access, Thessaly holds key). Standing textile order: 60 gp/quarter. **Total cost: 135 gp. Staff: 9 gp/month.**
+
+---
+
+## CAMPAIGN STATUS — Session 16 (Chronicler) — YEAR 1257 (Day 187)
+
+**Date:** 7th Ashfall, 1257 AS (Day 187) — Early Autumn
+**DM:** Aldric Voss, The Chronicler
+**Location:** Vel'tarn, Fenhollow (home)
+**Party Level:** 10 (Nhilara 11, Corwin 8, Apprentices 3) | **Party Gold:** ~43,564 gp | **Ward-ink:** 4 | **Lattice alloy:** 9 | **Anchor sets:** 3
+
+### Southern Deep Road: FULLY TRAVERSED
+- 53 miles Fenhollow → Veldmere. 4 days survey, 3 days return.
+- Miles 1–17: Threshold Runner compatible (Bram leveled).
+- Obstacles: selenite (mi 30.5), sump (mi 36, needs drain), cave lizards (mi 40, harmless).
+- Assets: rest station (mi 33), spring (mi 42), gallery waystation (mi 48).
+
+### Veldmere Anchor: 5th Keeper Station
+- 900 ft depth. Substrate-Zero powered (standby). Empty Heartstone socket.
+- Major Substrate-Zero deposit (larger than Greymoor).
+- Source Node pulse (47 bpm) below sealed south passage — possible 2nd Source Node.
+- Vertical shaft + lift to surface. Anchor Lane, Veldmere old harbor district.
+
+### Veldmere Depot: PURCHASED
+- Dawnwatch Trading Company. Anchor Lane. Harlen Voss manager. 3 staff. 9 gp/month.
+- Cellar locked (shaft access to Veldmere Anchor).
+
+### Second Child: CONFIRMED
+- Due ~Day 325 (25th Deepwinter, 1257). Healthy. Lakan-Diwa primary midwife.
+
+### Architect Curriculum: REVIEW COMPLETE
+- 3 tiers, 36 months. Ashara's Section 7.3b (cascade propagation) included.
+
+### Monthly Income: ~2,000 gp | Expenses: ~323 gp | Surplus: ~1,677 gp
+
+### Upcoming
+- Day 200: Sunmere Water System completion.
+- ~Day 250: Hub Three response ETA.
+- Day 325: Second child due.
+- Veldmere Source Node (sealed — Zaryth must be present).
+- Harrowgate branch survey (T-junction mile 17).
+- 22 Tender caches. 4 deep-ocean Keepers.
+- The garden grows.

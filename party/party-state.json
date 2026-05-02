@@ -1,15 +1,15 @@
 {
-  "session": "15 (Storyteller)",
-  "active_dm": "dm-storyteller",
-  "in_game_day": 167,
+  "session": "16 (Chronicler)",
+  "active_dm": "dm-chronicler",
+  "in_game_day": 187,
   "in_game_year": 1257,
-  "calendar_date": "17th Reaptide, 1257 AS",
-  "current_week_file": "week-25",
+  "calendar_date": "7th Ashfall, 1257 AS",
+  "current_week_file": "week-26",
   "upcoming_hooks": [
     {"day": 180, "event": "Greymoor Finishing Works quarterly review"},
     {"day": 200, "event": "Sunmere Water System completion target"},
     {"day": 250, "event": "Hub Three response ETA"},
-    {"day": 327, "event": "Second child due (if conceived ~Day 150)"}
+    {"day": 325, "event": "Second child due (Lakan-Diwa midwife)"}
   ],
   "party_name": "The Dawnwatch",
   "party_size": 12,
@@ -17,7 +17,7 @@
   "party_specialist": "Nhilara Vel'quinar (Level 11, Barbarian 5/Rogue 6)",
   "core_expedition_team": ["Zaryth", "Torven", "Seren", "Mira", "Orindel"],
   "location": "Vel'tarn, Fenhollow (home)",
-  "campaign_status": "ARC 1-8 COMPLETE. ARC 9: THE NETWORK — 10/14 Keepers integrated. Hub Three response ~3 months. ARC 12: THE FIRST NOTE — Source Node Seven contacted, Substrate-Zero discovered. ARC 13: THE CROSSING — Vel'thara Trust 10 (MAXIMUM), hybrid tree growing. Phase 4 critical study COMPLETE. Bridgesong Lens OPERATIONAL. 6 Substrate-Zero thresholds (incl. 1 self-sustaining Vel'tarn↔Greymoor). 3 resonance-keeled flatboats LAUNCHED Day 120. SOUTHERN DEEP ROAD DISCOVERED — 23 mi Fenhollow→Duskport (mapped, cleared), 63 mi total to Veldmere (Binder-era sea-floor tunnel, sealed). U1 Duskport Undercroft CONNECTED. Keeper Aldwyn's journal recovered. T-junction branch toward Harrowgate (unmapped). Apprentices ALL LEVEL 3 (Ren/Pim/Tam/Briar/Lila). Reaping Fair 1257: 8 golds, 1 silver. All-time: 34G/6S. 2nd wedding anniversary Day 150. Kaelryn's 1st birthday Day 167 (~200 guests, Pip nat 20 feast, Orindel premiered Kaelryn's Garden, Nhilara sang Drow lullaby, Kaelryn hummed 47bpm, said 'Pip'). Architect school curriculum reviewed (Aelindris, 47 pages, 3-tier). Tier 2 rolling. Seeds: 106/412. CHECK calendar-hooks.md FOR UPCOMING EVENTS.",
+  "campaign_status": "ARC 1-8 COMPLETE. ARC 9: THE NETWORK — 10/14 Keepers integrated. Hub Three response ~3 months. ARC 12: THE FIRST NOTE — Source Node Seven contacted, Substrate-Zero discovered. ARC 13: THE CROSSING — Vel'thara Trust 10 (MAXIMUM), hybrid tree growing. SOUTHERN DEEP ROAD FULLY TRAVERSED — 53 mi Fenhollow→Veldmere (mapped, cleared, lift operational). VELDMERE ANCHOR: 5th Keeper Station discovered (Substrate-Zero powered, standby). Source Node pulse (47bpm) detected below south passage — possible 2nd Source Node. Surface exit confirmed: Anchor Lane, old harbor district. VELDMERE DEPOT PURCHASED — Dawnwatch Trading Company, Harlen Voss manager. Architect school curriculum review COMPLETE (Ashara contributed Section 7.3b cascade propagation). Greymoor Finishing Works Q1: 150 gp/month. SECOND CHILD CONFIRMED — due Day 325 (25th Deepwinter 1257). Lakan-Diwa primary midwife. Seeds: 106/412. CHECK calendar-hooks.md FOR UPCOMING EVENTS.",
   "marriage": "Zaryth Vel'quinar married Sylvara Dawnwhisper, 30th Goldmere 1255 AS. The Gardener officiated. 180 guests. Memory tree recorded.",
   "kaelryn": {
     "name": "Kaelryn Vel'quinar",
@@ -39,9 +39,9 @@
   "baby": "Girl. Due ~Day 960, Reaptide 1256. Dual-frequency resonance. Lakan-Diwa (primary midwife) + Aldric + Orindel + Seren. Coral basin in family suite. Memory tree recording.",
   "coral_basin": "Active in family suite, Vel'tarn. Living coral cutting from Puso ng Dagat. Ocean frequency in the nursery.",
   "party_gold": {
-    "total": 43699,
+    "total": 43564,
     "carried": 3000,
-    "homestead_reserves": 40699,
+    "homestead_reserves": 40564,
     "tier2_disbursed": 4450
   },
   "ward_ink": {
@@ -50,9 +50,9 @@
     "with_party": 0,
     "crucible_lattice_grade": 9
   },
-  "monthly_income": 1091,
-  "monthly_expenses": 314,
-  "monthly_surplus": 777,
+  "monthly_income": 2000,
+  "monthly_expenses": 323,
+  "monthly_surplus": 1677,
   "monster_kills": {
     "old_ashfang": "Young Red Dragon CR10. 1 round, 0 damage taken.",
     "maw_of_ashfire": "Dragon Turtle CR17. 1 round, 0 damage taken.",
@@ -192,9 +192,9 @@
   },
   "southern_deep_road": {
     "status": "DISCOVERED Day 112-119, 1257 AS. Binder-era southern branch.",
-    "fenhollow_to_duskport": "23 miles. MAPPED + CLEARED. 3 encounters eliminated (grick, 4 spiders, chuul). Binder waymarkers every quarter mile.",
+    "fenhollow_to_duskport": "23 miles. MAPPED + CLEARED. 3 encounters eliminated (grick, 4 spiders, chuul). Binder waymarkers every quarter mile. Threshold Runner compatible miles 1-17 (Bram leveled).",
     "duskport_junction": "CONNECTED to U1 Undercroft. 4 passages: north (Fenhollow), east (U1 upper), south (sealed, under harbor), west (dead-end storage).",
-    "duskport_to_veldmere": "40 miles. SEALED. Binder-era basalt tube under sea floor. Root-sealed against flooding (Aelindris built it 3,000 years ago).",
+    "duskport_to_veldmere": "40 miles. TRAVERSED Day 171-174, 1257. Binder-era basalt tube under sea floor. Obstacles: selenite deposit mile 30.5 (navigable), sump mile 36 (7ft deep, 200ft, needs drain). Gallery waystation candidate mile 48 (water, food, defensible). Blind cave lizard colony mile 40 (harmless). Veldmere Anchor reached Day 174.",
     "total_route": "63 miles Fenhollow to Veldmere.",
     "harrowgate_branch": "T-junction at mile 17. Unmapped. Future survey.",
     "keeper_aldwyns_journal": "RECOVERED. Confirms full route, quarterly inspections, Veldmere anchor at 900ft below sea floor.",
@@ -324,6 +324,32 @@
     "deep_ocean": "Unknown entities. 78 planting sites. The World doesn't fully understand what's down there."
   },
   "tournament_record": "34 golds, 6 silvers (Duskport 1248, Veldmere 1249, Harrowgate 1252, Midsummer Fenhollow 1256, Reaping Fair Fenhollow 1256, Midsummer 1257, Reaping Fair 1257)",
+  "veldmere_depot": {
+    "status": "PURCHASED Day 181, 1257. Anchor Lane, old harbor district.",
+    "deed": "Dawnwatch Trading Company. Outright purchase, 100 gp.",
+    "manager": "Harlen Voss (Human, 45)",
+    "staff": ["Marta Cray (clerk/bookkeeper)", "Jorik Fell (dock/security)"],
+    "staff_cost": "9 gp/month",
+    "cellar": "LOCKED. Shaft access to Veldmere Anchor (900 ft). Thessaly holds key.",
+    "revenue_est": "30-50 gp/month (projected)"
+  },
+  "veldmere_anchor": {
+    "status": "DISCOVERED Day 174, 1257. 5th Keeper Station.",
+    "depth": "900 ft below surface",
+    "distance": "53 miles from Fenhollow (mile 53 of Southern Deep Road)",
+    "keeper_station": "Functional (standby). Empty Heartstone socket. Substrate-Zero trickle-powered.",
+    "substrate_zero": "Major deposit. Larger than Greymoor. Veins throughout bedrock.",
+    "source_node_pulse": "47 bpm detected below south passage. Possible 2nd Source Node. SEALED — awaiting Zaryth.",
+    "vertical_shaft": "900 ft to surface. Lift operational (Torven-bridged). Binder mechanism intact.",
+    "surface_exit": "Anchor Lane, old harbor district, Veldmere. Abandoned customs house (now Dawnwatch depot).",
+    "sealed_passages": {"east": "Unknown destination", "south": "Source Node pulse origin. Descends steeply."}
+  },
+  "second_child": {
+    "status": "CONFIRMED Day 180, 1257. 8 weeks along.",
+    "due": "~Day 325, 25th Deepwinter, 1257 AS",
+    "midwife": "Lakan-Diwa (primary) + Aldric + Orindel + Seren",
+    "health": "Healthy. No complications."
+  },
   "legendary_items": {
     "dawnsedge": "Longsword +3. 1d8+5 + 1d6 lightning + 1d6 radiant. Gardener's Strike (stun on crit). Sunburst (6d6 radiant AoE 1/LR).",
     "wardens_diadem": "Crystal crown. 412-site awareness. Network control.",

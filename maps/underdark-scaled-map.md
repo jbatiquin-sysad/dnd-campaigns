@@ -77,11 +77,11 @@ Row 16   .    .    .    .    .    .    .    .    .    .   U11   .    .    .    .
 | `[A]` | Aelindra Keeper Station (N5). 58% repaired. Map room. Vault. |
 | `[V]` | **Vel'arath Keeper Station / Station Four (G7). 91% demilitarized. Crucible Accord. Ryn as keeper.** |
 | `[DJ]` | **Duskport Junction (K12). Southern Deep Road midpoint. Connected to U1 Undercroft. 4 passages.** |
-| `[VA]` | **Veldmere Anchor (J15 est.). -900 ft below sea floor. Binder-era. SEALED — not yet reached.** |
+| `[VA]` | **Veldmere Anchor (J15 est.). -900 ft. 5th Keeper Station. REACHED Day 174, 1257. Substrate-Zero powered.** |
 | `BR` | **Branch tunnel (Crucible → Station Four). 2 mi. Intact Binder infrastructure. Binder lock (Zaryth signet).** |
 | `SRC` | Old Foundation / Source (H8, -540 ft). Binding frequency origin. |
 | `SDRD` | **Southern Deep Road (H8→K12). 23 mi. MAPPED + CLEARED Day 112–119, 1257 AS.** |
-| `SFRD` | **Sea Floor Road (K12→J15 est.). 40 mi. SEALED. Binder-era basalt tube. Root-sealed.** |
+| `SFRD` | **Sea Floor Road (K12→J15 est.). 40 mi. TRAVERSED Day 171-174, 1257. Binder-era basalt tube.** |
 | `TJNC` | **T-Junction (I10 est.). Southern Deep Road splits: south→Duskport, east→Harrowgate. Unmapped east branch.** |
 | `**` | Deephollow svirfneblin village (L7, -600 ft). 43 gnomes. Waystation. |
 | `🌱` | **Seed planting site (underground). Ward dome active.** |
@@ -119,8 +119,8 @@ Row 16   .    .    .    .    .    .    .    .    .    .   U11   .    .    .    .
 | DJNC | **Duskport Junction** | K12 | -400 ft est. | 23 (from Fenhollow) | **Southern Deep Road midpoint. Vaulted chamber, 4 passages: N (Fenhollow), E (U1 upper), S (sealed, under harbor), W (dead-end storage). Keeper Aldwyn's journal recovered. Pre-Sundering coins, bronze compass. Binder waymarkers.** |
 | TJNC | **T-Junction** | I10 est. | -500 ft est. | 17 (from Fenhollow) | **Southern Deep Road splits: south→Duskport (6 mi), east→Harrowgate (unmapped). Underground river begins here.** |
 | CATH | **Cathedral Cavern** | H9 | -400 ft est. | 3 (from Fenhollow) | **200 ft across. Underground lake (east half). Bioluminescent fungi. 3 edible species. Rest point.** |
-| SFRD | **Sea Floor Road** | K12–J15 est. | -600 to -900 ft | 40 mi (Duskport→Veldmere) | **SEALED. Binder-era basalt tube under Hearthcoast Sea. Root-sealed against flooding (Aelindris built it). Keeper Aldwyn inspected quarterly.** |
-| VANC | **Veldmere Anchor** | J15 est. | -900 ft | 63 (from Fenhollow) | **Deepest station. Natural cave system surfaces 2 mi east of fishing village. NOT YET REACHED.** |
+| SFRD | **Sea Floor Road** | K12–J15 est. | -600 to -900 ft | 40 mi (Duskport→Veldmere) | **TRAVERSED Day 171-174, 1257. Binder-era basalt tube. Obstacles: selenite (mi 30.5, navigable), sump (mi 36, 7ft/200ft, needs drain). Gallery waystation (mi 48, water+food). Blind cave lizards (mi 40, harmless). Fresh water spring (mi 42).** |
+| VANC | **Veldmere Anchor** | J15 est. | -900 ft | 63 (from Fenhollow) | **REACHED Day 174, 1257. 5th Keeper Station (standby, Substrate-Zero trickle-powered). 130 ft chamber. Empty Heartstone socket. Major Substrate-Zero deposit (larger than Greymoor). Source Node pulse (47 bpm) below sealed south passage. Vertical shaft (900 ft) to Anchor Lane, Veldmere old harbor district. Lift operational (Binder mechanism, Torven-bridged). Surface building: Dawnwatch Trading Company depot (purchased Day 181).** |
 | VOLC | Southern volcanic island | K16 | deep | — | Node 1 area. U11. |
 | LAKE | Underground lake | H9 | -550 ft est. | — | 500 ft across. Blind fish. Green-gold algae. Fishing + water supply potential. |
 | CRVN | Crystalvein (svirfneblin) | N10 | -620 ft est. | — | 60 gnomes. Elder Brill. Sapphire miners. Trade deal: sapphires for medicine + cloth. |
@@ -297,9 +297,9 @@ Crèche (mid tier, east wing) → east corridor → old quarter stairwell → lo
 | **Underground river** | I10–K12 | -500 ft | 17–22 | ● Waypoint | 30 ft wide, flowing south. Binder road follows bank. Chuul eliminated (Day 116). |
 | Pre-Sundering foundations | K12 | -300 ft | 22 | ● Waypoint | Worked blocks, old mortar, drainage channels. Under Duskport. |
 | **Duskport Junction** | **K12** | -400 ft est. | 23 | ★★ Junction | Vaulted chamber, 60 ft across. 4 passages: N (Fenhollow), E (U1 upper), S (sealed, under harbor), W (storage). Keeper Aldwyn's journal. Pre-Sundering coins. |
-| ═══ SEALED ═══ | | | | | **Below this point: not yet explored. Sealed passage under harbor.** |
-| Sea Floor Road | K12–J15 est. | -600 to -900 ft | 23–63 | ⚠ Sealed | Binder-era basalt tube. Root-sealed against flooding. Aelindris confirmed he built it. |
-| **Veldmere Anchor** | J15 est. | -900 ft | 63 | 🎯 Target | Deepest station. Natural cave surfaces 2 mi east of fishing village. NOT YET REACHED. |
+| ═══ TRAVERSED ═══ | | | | | **Sea Floor Road traversed Day 171-174, 1257. Binder-era basalt tube under sea floor.** |
+| Sea Floor Road | K12–J15 est. | -600 to -900 ft | 23–63 | ✅ Traversed | Binder-era basalt tube. Obstacles: selenite (mi 30.5), sump (mi 36), gallery waystation (mi 48). Blind cave lizards, fresh water spring. |
+| **Veldmere Anchor** | J15 est. | -900 ft | 63 | ★ Station | **5th Keeper Station. REACHED Day 174, 1257.** Standby, Substrate-Zero trickle-powered. 130 ft chamber. Empty Heartstone socket. Major Substrate-Zero deposit. Source Node pulse (47 bpm). Vertical shaft (900 ft) to Anchor Lane, Veldmere. Lift operational. Surface: Dawnwatch Trading Company depot (purchased Day 181). |
 
 ### Southern Deep Road Resources
 
@@ -319,4 +319,4 @@ Crèche (mid tier, east wing) → east corridor → old quarter stairwell → lo
 ---
 
 *Last updated: Day 167, 17th Reaptide, 1257 AS*
-*Status: FULLY SURVEYED (eastern + western + southern to Duskport). 4 keeper stations + Anchor Point + Duskport Junction. Station Four 91% demilitarized (Crucible Accord + Knowledge Accord). 3 underground seed plantings active (River's Ear, Crystal Choir, Unbroken Dark). Southern Deep Road: 23 mi mapped + cleared (Fenhollow→Duskport), 40 mi sealed (Duskport→Veldmere under sea floor). T-junction to Harrowgate unmapped. Vel'sharen joint operations. Deep Road operational (Threshold Runner, 9 hrs). 31 underground planting sites on 412-site chart. The garden grows below.*
+*Status: FULLY SURVEYED (eastern + western + southern Fenhollow→Veldmere). 5 keeper stations + Anchor Point + Duskport Junction + Veldmere Anchor. Station Four 91% demilitarized (Crucible Accord + Knowledge Accord). 3 underground seed plantings active (River's Ear, Crystal Choir, Unbroken Dark). Southern Deep Road: 53 mi FULLY TRAVERSED (Fenhollow→Duskport 23 mi mapped+cleared, Duskport→Veldmere 40 mi traversed Day 174). Veldmere Anchor: 5th Keeper Station, Substrate-Zero deposit, Source Node pulse. T-junction to Harrowgate unmapped. Vel'sharen joint operations. Deep Road operational (Threshold Runner, 9 hrs). 31 underground planting sites on 412-site chart. The garden grows below.*

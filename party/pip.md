@@ -2,6 +2,7 @@
 
 ## Character Sheet
 - **Race:** Lightfoot Halfling
+- **Gender:** Male (he/him)
 - **Class:** Wizard (School of Evocation) 3 / Bard 2
 - **Background:** Criminal
 - **Alignment:** Chaotic Neutral

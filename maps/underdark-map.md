@@ -48,7 +48,7 @@ The Underdark beneath the Hearthcoast is poorly documented on the surface. Pre-S
 
 **ANCHOR POINT — activated Day 234, 1249 AS.** Pre-Binder prototype beneath Thornback Gulch, Ashport. 6-slot Heartstone basin = control interface for entire ward network. 7 Heartstones seated. Remote node repair capability. Vaelen (creator of the ward network, freed Day 234) + Warden Drell (woken from 38-year dormancy) stationed as permanent keepers. **Vel'thara embassy established** — permanent 6-ft aperture to the Vel'thara resonance plane. Accord signed Day 244. See `maps/velthara-map.md`.
 
-**Known stations:** Fenhollow (91%, relay hub, 8 Heartstones), Aelindra (58%, repaired), Ashara (relay-reset, fortified), Vel'arath (91%, COMPROMISED). **Anchor Point active (7 Heartstones, control interface, embassy).** 5 stations unknown — likely beneath or near outer ward nodes.
+**Known stations:** Fenhollow (91%, relay hub, 8 Heartstones), Aelindra (58%, repaired), Ashara (relay-reset, fortified), Vel'arath (91%, COMPROMISED), **Veldmere Anchor (standby, Substrate-Zero powered, discovered Day 174 1257)**. **Anchor Point active (7 Heartstones, control interface, embassy).** 4 stations unknown — likely beneath or near outer ward nodes.
 
 ---
 
@@ -124,7 +124,7 @@ Zaryth Vel'quinar was raised in the Underdark before serving on the surface. His
 | **6** | U2 — Greymoor Shaft 9 / Node 14 | ✅ CONFIRMED from below | Y Fork right branch → Crucible → Shaft 9. Node 14 repaired via Ashara route. |
 | **7** | Vel'sharen surface agents | ✅ **DISMANTLED** (S8) | All 6 agents + 1 courier captured. Drael + Syvra at homestead. 2 Greymoor agents in Cole's custody (tribunal). Cipher keys obtained. |
 | **8** | Vel'sharen Heartstones | ✅ **NEUTRALIZED** (S8) | All 6 inverted Heartstones recovered (3 Ashport workshop + 3 Vel'arath war room). Contained at homestead forge under Vaelith. Ashara captured. Veradis surrendered. |
-| **9** | U1 — Duskport Undercroft | ✅ **CONNECTED Day 117, 1257** | Southern Deep Road linked. Duskport Junction. Keeper Aldwyn's journal. 63-mile route to Veldmere confirmed. |
+| **9** | U1 — Duskport Undercroft | ✅ **CONNECTED Day 117, 1257** | Southern Deep Road linked. Duskport Junction. Keeper Aldwyn's journal. 63-mile route to Veldmere FULLY TRAVERSED Day 174. |
 | **10** | U5 — Thornveil / Node 6 | Pending | Sinkholes scouted. Node 6 (Thornveil Heart) identified nearby. |
 | **11** | Crystalvein (svirfneblin) | ✅ CONTACTED | 60 gnomes. Sapphire trade. Elder Brill. 16 mi S of Deephollow. |
 | **12** | Underground Lake | Scouted (Nhilara) | 500 ft cavern. Blind fish. Green-gold algae. 6 mi W of Deephollow. |
@@ -250,4 +250,4 @@ Zaryth Vel'quinar was raised in the Underdark before serving on the surface. His
 
 *Last updated: Day 167, 17th Reaptide, 1257 AS*
 *Compiled by: Nhilara Vel'quinar (Deep Road exploration + counter-intel), Bram Thistlewick (engineering), Zaryth Vel'quinar (ward readings), Velyndra Vel'nessra (Vel'arath patrol routes), Taelar Vel'nessra (Vel'sharen military intel), Ilyana Vel'quinar (Station Four location), Aldren Voss (Southern Deep Road cartography, Day 112–119 1257)*
-*Status: Deep Road operational. 4 keeper stations + Anchor Point + Duskport Junction active. Southern Deep Road: 23 mi mapped Fenhollow→Duskport, 40 mi sealed Duskport→Veldmere (under sea floor). T-junction to Harrowgate unmapped. Vel'arath Station Four surged to 91% (Crucible Accord + Knowledge Accord). Anchor Point permanently active with Vel'thara embassy. Vel'sharen surface network dismantled. All 14 nodes active.*
+*Status: Deep Road operational. 5 keeper stations + Anchor Point + Duskport Junction active. Southern Deep Road: 53 mi FULLY TRAVERSED Fenhollow→Duskport→Veldmere. Veldmere Anchor: 5th Keeper Station (Substrate-Zero powered). T-junction to Harrowgate unmapped. Vel'arath Station Four surged to 91% (Crucible Accord + Knowledge Accord). Anchor Point permanently active with Vel'thara embassy. Vel'sharen surface network dismantled. All 14 nodes active.*

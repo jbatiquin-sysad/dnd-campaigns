@@ -8,9 +8,9 @@
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| **Total** | **~25,225 gp** | |
+| **Total** | **~43,564 gp** | |
 | Carried | ~3,000 gp | Expedition/travel fund |
-| Homestead reserves | ~22,225 gp | Stored at Dawnwatch Homestead |
+| Homestead reserves | ~40,564 gp | Stored at Dawnwatch Homestead |
 
 ---
 
@@ -246,4 +246,4 @@
 
 ---
 
-*Last updated: Day 30, 30th Greenthaw, 1252 AS — Dawnwatch Homestead. 5-ship fleet. Trade corridor operational. ~16,778 gp. 23 ward-ink. Vel'sharen + Vel'thara accords active.*
+*Last updated: Day 187, 7th Ashfall, 1257 AS — Vel'tarn, Fenhollow. 6-ship fleet + Jawbone + Seedhome + Velmoran + Alon ng Araw. Dawnwatch Trading Company depots: Tidemeet (Soren Blackwater), Veldmere (Harlen Voss, Anchor Lane). ~43,564 gp. 4 ward-ink. Southern Deep Road fully traversed. Veldmere Anchor (5th Keeper Station) discovered.*

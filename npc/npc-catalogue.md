@@ -119,6 +119,9 @@
 | **Brother Caius** | — | Chapel of the Harbor Light priest | Allied — rang chapel bell | 15 years in Veldmere. Sheltered Jorin and Eddan. |
 | **Jorin** | Human, 16 | Night observer, fish market | Contact | Watched the private harbor. Spotted cylinder transfers and grey-cloaked figures boarding ships. |
 | **Asha** | — | Silver Chain operative, "blind" fortune-teller | Allied — early warning | Not blind. "The iron chest screams at night. The marchion doesn't sleep anymore either." |
+| **Harlen Voss** | Human, 45 | Warehouse manager, Veldmere Depot (Dawnwatch Trading Company) | S16 | Active — Dawnwatch Trading Company | **Male (he/him).** 20 years harbor experience. Former dockworker. Dalla Sorn vouches. "Honest as stone." No relation to Aldric or Magistrate Voss. |
+| **Marta Cray** | Human, 28 | Clerk/bookkeeper, Veldmere Depot | S16 | Active — Dawnwatch Trading Company | **Female (she/her).** Harbormaster Cray's niece. Sharp with numbers. Knows every merchant in the harbor district. |
+| **Jorik Fell** | Human, 32 | Dock hand/security, Veldmere Depot | S16 | Active — Dawnwatch Trading Company | **Male (he/him).** Councilwoman Fell's cousin's son. Former city watch. Built like a capstan. |
 
 ## Aelindra NPCs — Sealed Quorum Arc (S4 Turns 41–49)
 
@@ -576,7 +579,7 @@
 
 | Name | Role | Status | Notes |
 |------|------|--------|-------|
-| **Bulan** | Lead diver | Ally / Kapatid (Nhilara) | Killed the 18-ft crocodile with Nhilara. Deep Fisher trade representative. Certified planter. |
+| **Bulan** | Lead diver | Ally / Kapatid (Nhilara) | **Female (she/her).** Killed the 18-ft crocodile with Nhilara. Deep Fisher trade representative. Certified planter. |
 
 ### Kapuluan — Antagonists
 
@@ -601,7 +604,7 @@
 |------|------|--------|-------|
 | **The Listener** | Hub Seven central relay | Active — Root-integrated | Sealed for 3,217 years (Inversion quarantine). Unsealed Day 758, 1256. 4-level installation: Relay Chamber, Archive, Crucible (Tender-tier forge), Seed Vault (self-replenishing). 31,847 messages decoded. Teaching Zaryth Lattice Engineering. Threshold to Tidemeet. "I have been alone for a very long time." |
 | **The Tenders** | Builders of the Resonance Lattice | Unknown — departed 7,400 years ago | Created the Gardeners, selected 31 garden-worlds, built 12 relay hubs, launched orbital arrays. Final message: "The gardens are yours now. Grow well." Went to "tend the larger garden." No contact since. |
-| **Aelindris** | The Gardener's true name | Active — at Vel'tarn | Name revealed Session 12. Sat at the round table for the first time. "I was made by the Tenders and sent to this world with seeds and a mission I did not complete." |
+| **Aelindris** | The Gardener's true name | Active — at Vel'tarn | **Male (he/him).** Name revealed Session 12. Sat at the round table for the first time. "I was made by the Tenders and sent to this world with seeds and a mission I did not complete." |
 
 ### Hub Contacts (Unmet)
 
