@@ -236,6 +236,19 @@ Homestead → (20 min walk) → Fenhollow → (Wynn Dodd cart, 2 hrs) → Tideme
 | **Function** | Cargo staging, fleet coordination, trade broker |
 | **Revenue** | ~2 gp/day commission on through-traffic |
 
+### Veldmere Depot — Dawnwatch Trading Company
+
+| Detail | Info |
+|--------|------|
+| **Manager** | Harlen Voss |
+| **Staff** | Marta Cray (clerk/bookkeeper), Jorik Fell (dock/security) |
+| **Location** | Anchor Lane, old harbor district, Veldmere |
+| **Purchased** | Day 181, 1257 AS. 100 gp outright. Heritage-listed (pre-Sundering masonry). |
+| **Function** | Trade depot, cargo staging, resonance fabric/glass/coral distribution |
+| **Staff cost** | 9 gp/month |
+| **Revenue** | ~30–50 gp/month (projected). Standing textile order: 60 gp/quarter. |
+| **Special** | Cellar contains sealed access to Veldmere Anchor (900 ft shaft, 5th Keeper Station). Thessaly holds key. |
+
 ### Fleet Summary
 
 | Ship | Route | Crew Cost/Month | Est. Revenue/Month | Net/Month |
@@ -245,15 +258,20 @@ Homestead → (20 min walk) → Fenhollow → (Wynn Dodd cart, 2 hrs) → Tideme
 | *Salt Maren* | Veldmere-Duskport-Tidemeet (Dalla Venn) | 20 gp | 90–140 gp | 70–120 gp |
 | *Blacktide Runner* | Ashport-Veldmere southern (Harsk Dunmore) | 18 gp | 80–120 gp | 62–102 gp |
 | *Duskholm* | Expedition-ready (Dren Sable) | 25 gp | Variable | Variable |
+| *Tidecaller* | Deep-water exploration + salvage (Revelle Ashcroft) | 25 gp | Variable | 60/40 split |
 | *Shelf Cooperative (3 boats)* | Inter-village + Ashport (Tormund's crew) | 0 gp (village-funded) | 60–100 gp total | **12–20 gp** (20% share) |
-| **Total fleet** | | **105 gp** | **450–690 gp** | **322–530 gp** |
+| *Alon ng Araw* | Tidemeet ↔ Kapuluan (autonomous hybrid) | 0 gp | Trade accord revenue | Included in Kapuluan trade |
+| *Jawbone* | Anchored Tidemeet (autonomous) | 0 gp | — | 204 seed crystals |
+| *Seedhome* | Anchored Tidemeet (flagship) | 0 gp | — | Forge (100%), archive, Root Seed |
+| *The Velmoran* | Autonomous dual-network vessel | 0 gp | — | Intercontinental |
+| **Total fleet** | | **~130 gp** | **~500+ gp** | **~370+ gp** |
 
 **Combined monthly income (fleet + warehouses + coach + cooperative):** ~535–755 gp
 
 ---
 
-*Last updated: Day 530, 20th Ashfall, 1255 AS*
-*Fleet: 8 ships + Seedhome. Jawbone + Velmoran autonomous intercontinental routes. Tidemeet + Vel'ahm warehouses. Full eastern + western trade network operational.*
+*Last updated: Day 187, 7th Ashfall, 1257 AS*
+*Fleet: 11 vessels (6 crewed + 3 autonomous + Shelf Cooperative). Tidemeet warehouse (Soren Blackwater) + Veldmere depot (Harlen Voss, Anchor Lane). Kapuluan trade route (Alon ng Araw). Full eastern + western + southern trade network operational. Southern Deep Road: 53 mi underground Fenhollow↔Veldmere (traversed, surface exit at depot).*
 
 ---
 
