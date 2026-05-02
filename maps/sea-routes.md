@@ -249,6 +249,18 @@ Homestead → (20 min walk) → Fenhollow → (Wynn Dodd cart, 2 hrs) → Tideme
 | **Revenue** | ~30–50 gp/month (projected). Standing textile order: 60 gp/quarter. |
 | **Special** | Cellar contains sealed access to Veldmere Anchor (900 ft shaft, 5th Keeper Station). Thessaly holds key. |
 
+### Vel'krath — Crucible Settlement & Forge
+
+| Detail | Info |
+|--------|------|
+| **Established** | Day 54–61, 1257 AS |
+| **Location** | Crucible (underground). Threshold commute to Vel'tarn. |
+| **Personnel** | Dren (master smith), Thorn (security), Velyndra (crystal cutter) |
+| **Function** | Lattice alloy production, Lattice-grade ward-ink, seed crystals. Geothermal powered. |
+| **Output** | Lattice alloy brackets, tools, structural fittings. Bridgesong Lens production (10/month capacity). |
+| **Revenue** | Integrated into homestead operations (forge contracts ~110 gp/month via Greymoor Finishing Works) |
+| **Greymoor Finishing Works** | Surface workshop (Greymoor). Dren training 6 smiths. 63 tools/quarter. Mining commissions. **~150 gp/month.** |
+
 ### Fleet Summary
 
 | Ship | Route | Crew Cost/Month | Est. Revenue/Month | Net/Month |
